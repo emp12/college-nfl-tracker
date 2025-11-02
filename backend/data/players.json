@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Tua Tagovailoa",
+    "college": "Alabama",
+    "team": "Miami Dolphins",
+    "position": "QB",
+    "stats": {
+      "passingYards": 3200,
+      "rushingYards": 90,
+      "receivingYards": 0,
+      "touchdowns": 22
+    }
+  },
+  {
+    "name": "Derrick Henry",
+    "college": "Alabama",
+    "team": "Baltimore Ravens",
+    "position": "RB",
+    "stats": {
+      "passingYards": 0,
+      "rushingYards": 1050,
+      "receivingYards": 200,
+      "touchdowns": 9
+    }
+  },
+  {
+    "name": "Fred Warner",
+    "college": "BYU",
+    "team": "San Francisco 49ers",
+    "position": "LB",
+    "stats": {
+      "tackles": 125,
+      "sacks": 2,
+      "interceptions": 1
+    }
+  },
+  {
+    "name": "Zach Wilson",
+    "college": "BYU",
+    "team": "Denver Broncos",
+    "position": "QB",
+    "stats": {
+      "passingYards": 1850,
+      "rushingYards": 120,
+      "receivingYards": 0,
+      "touchdowns": 12
+    }
+  },
+  {
+    "name": "CJ Stroud",
+    "college": "Ohio State",
+    "team": "Houston Texans",
+    "position": "QB",
+    "stats": {
+      "passingYards": 3100,
+      "rushingYards": 210,
+      "receivingYards": 0,
+      "touchdowns": 20
+    }
+  },
+  {
+    "name": "Marvin Harrison Jr.",
+    "college": "Ohio State",
+    "team": "Arizona Cardinals",
+    "position": "WR",
+    "stats": {
+      "passingYards": 0,
+      "rushingYards": 45,
+      "receivingYards": 600,
+      "touchdowns": 6
+    }
+  },
+  {
+    "name": "Aidan Hutchinson",
+    "college": "Michigan",
+    "team": "Detroit Lions",
+    "position": "DE",
+    "stats": {
+      "tackles": 48,
+      "sacks": 5,
+      "interceptions": 0
+    }
+  },
+  {
+    "name": "JJ McCarthy",
+    "college": "Michigan",
+    "team": "Minnesota Vikings",
+    "position": "QB",
+    "stats": {
+      "passingYards": 2200,
+      "rushingYards": 130,
+      "receivingYards": 0,
+      "touchdowns": 14
+    }
+  }
+]
