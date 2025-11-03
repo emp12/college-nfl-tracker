@@ -35,7 +35,7 @@ try {
 }
 
 // ✅ Serve JSON files from the /data folder
-app.use("/data", express.static(dataDir));
+app.use("/data", express.static(path.join(__dirname, "backend", "data")));
 
 // ✅ Root health check route
 app.get("/", (req, res) => {
