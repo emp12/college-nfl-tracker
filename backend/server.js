@@ -44,52 +44,54 @@ app.get("/data/mergedStats", (req, res) => {
   try {
     const seasonPath = path.join(dataDir, "seasonStats.json");
     const currentPath = path.join(dataDir, "currentGame.json");
+    const playersPath = path.join(dataDir, "players.json");
 
-    // Read and parse season + current safely
+    // Parse files
     const season = JSON.parse(fs.readFileSync(seasonPath, "utf-8"));
-    let current;
-    try {
-      current = JSON.parse(fs.readFileSync(currentPath, "utf-8"));
-      if (!Array.isArray(current)) current = [];
-    } catch (err) {
-      console.warn("⚠️ Could not parse currentGame.json:", err.message);
-      current = [];
-    }
+    const current = JSON.parse(fs.readFileSync(currentPath, "utf-8"));
+    const players = JSON.parse(fs.readFileSync(playersPath, "utf-8"));
 
     const merged = {};
 
-    for (const college in season) {
-      const players = season[college];
+    // Flatten the players.json data (college -> array of players)
+    const allPlayers = Object.values(players).flat();
 
-      if (!Array.isArray(players)) {
-        console.warn(
-          `⚠️ Skipping ${college}: not an array (type ${typeof players})`
-        );
-        continue;
+    for (const player of allPlayers) {
+      const playerId = player.id;
+
+      // Start with season stats (if any)
+      const seasonStats = season[playerId] || {};
+
+      // Check if their NFL team is currently playing
+      const liveTeam = Array.isArray(current)
+        ? current.find((g) => g.team === player.nfl_team)
+        : null;
+
+      let statSummary = null;
+      let live = false;
+
+      if (liveTeam) {
+        statSummary = liveTeam.stats
+          ?.map((s) => `${s.name}: ${s.value}`)
+          .join(", ");
+        live = true;
       }
 
-      merged[college] = players.map((player) => {
-        const liveTeam = current.find((g) => g.team === player.nfl_team);
-        if (liveTeam) {
-          const statSummary = liveTeam.stats
-            ?.map((s) => `${s.name}: ${s.value}`)
-            .join(", ");
-          return {
-            ...player,
-            stats: statSummary || player.stats,
-            live: true,
-          };
-        }
-        return { ...player, live: false };
-      });
+      const mergedPlayer = {
+        ...player,
+        stats: statSummary || seasonStats || {},
+        live,
+      };
+
+      // Group by college
+      if (!merged[player.college]) merged[player.college] = [];
+      merged[player.college].push(mergedPlayer);
     }
 
     res.json(merged);
   } catch (err) {
     console.error("❌ Detailed merge error:", err);
-    res
-      .status(500)
-      .json({ error: "Failed to merge stats", message: err.message });
+    res.status(500).json({ error: "Failed to merge stats", message: err.message });
   }
 });
 
