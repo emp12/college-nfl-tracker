@@ -3,6 +3,8 @@ import cors from "cors";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { updateStats } from "./liveUpdater.js";
+
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -36,6 +38,11 @@ app.get("/", (req, res) => {
 app.use((req, res) => {
   res.status(404).send(`Route not found: ${req.originalUrl}`);
 });
+
+// 🔁 Automatically refresh every 10 minutes
+const TEN_MIN = 10 * 60 * 1000;
+updateStats(); // run once on startup
+setInterval(updateStats, TEN_MIN);
 
 const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => console.log(`✅ Backend running on port ${PORT}`));
