@@ -17,10 +17,10 @@ app.use(
   })
 );
 
-// ✅ Determine where data folder lives
+// ✅ Determine data folder path
 const dataDir = path.join(__dirname, "data");
 
-// ✅ Diagnostic: log what files Render sees
+// ✅ Diagnostic: log what Render sees
 console.log("📂 Attempting to serve data folder from:", dataDir);
 try {
   const files = fs.readdirSync(dataDir);
@@ -29,7 +29,7 @@ try {
   console.error("❌ Could not read data directory:", err.message);
 }
 
-// ✅ Serve all static JSON files (like /data/players.json)
+// ✅ Serve static JSON files (e.g., /data/players.json)
 app.use("/data", express.static(dataDir));
 
 // ✅ Allow access to /data/filename (no .json extension)
@@ -45,14 +45,30 @@ app.get("/data/mergedStats", (req, res) => {
     const seasonPath = path.join(dataDir, "seasonStats.json");
     const currentPath = path.join(dataDir, "currentGame.json");
 
+    // Read and parse season + current safely
     const season = JSON.parse(fs.readFileSync(seasonPath, "utf-8"));
-    const current = JSON.parse(fs.readFileSync(currentPath, "utf-8"));
+    let current;
+    try {
+      current = JSON.parse(fs.readFileSync(currentPath, "utf-8"));
+      if (!Array.isArray(current)) current = [];
+    } catch (err) {
+      console.warn("⚠️ Could not parse currentGame.json:", err.message);
+      current = [];
+    }
 
     const merged = {};
 
-    // Merge by NFL team: live stats take priority
     for (const college in season) {
-      merged[college] = season[college].map((player) => {
+      const players = season[college];
+
+      if (!Array.isArray(players)) {
+        console.warn(
+          `⚠️ Skipping ${college}: not an array (type ${typeof players})`
+        );
+        continue;
+      }
+
+      merged[college] = players.map((player) => {
         const liveTeam = current.find((g) => g.team === player.nfl_team);
         if (liveTeam) {
           const statSummary = liveTeam.stats
@@ -70,24 +86,26 @@ app.get("/data/mergedStats", (req, res) => {
 
     res.json(merged);
   } catch (err) {
-    console.error("❌ Error merging stats:", err);
-    res.status(500).json({ error: "Failed to merge stats" });
+    console.error("❌ Detailed merge error:", err);
+    res
+      .status(500)
+      .json({ error: "Failed to merge stats", message: err.message });
   }
 });
 
-// ✅ Health check
+// ✅ Health check route
 app.get("/", (req, res) => {
   res.send("College NFL Tracker backend is running ✅");
 });
 
-// ✅ Catch-all for debugging
+// ✅ Catch-all 404 route
 app.use((req, res) => {
   res.status(404).send(`Route not found: ${req.originalUrl}`);
 });
 
 // ✅ Auto-update live stats every 10 minutes
 const TEN_MIN = 10 * 60 * 1000;
-updateStats(); // run once on startup
+updateStats(); // Run once on startup
 setInterval(updateStats, TEN_MIN);
 
 // ✅ Start server
