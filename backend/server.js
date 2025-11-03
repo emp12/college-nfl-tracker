@@ -1,45 +1,38 @@
 import express from "express";
-import cors from "cors";
 import fs from "fs";
 import path from "path";
+import cors from "cors";
 import { fileURLToPath } from "url";
-import { updateStats } from "./liveUpdater.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// ✅ Define data directory
+const DATA_DIR = path.join(__dirname, "data");
+
 const app = express();
+app.use(cors());
+app.use(express.json());
 
-// ✅ Allow only your production frontend
-app.use(
-  cors({
-    origin: ["https://mishelper.com", "https://www.mishelper.com"],
-  })
-);
-
-// ✅ Determine data folder path
-const dataDir = path.join(__dirname, "data");
-
-// ✅ Diagnostic: log what Render sees
-console.log("📂 Attempting to serve data folder from:", dataDir);
-try {
-  const files = fs.readdirSync(dataDir);
-  console.log("✅ Found data directory with files:", files);
-} catch (err) {
-  console.error("❌ Could not read data directory:", err.message);
+// ✅ Verify data directory
+if (fs.existsSync(DATA_DIR)) {
+  console.log("📂 Attempting to serve data folder from:", DATA_DIR);
+  console.log("✅ Found data directory with files:", fs.readdirSync(DATA_DIR));
+} else {
+  console.error("❌ Data directory not found:", DATA_DIR);
 }
 
-// ✅ Serve static JSON files (e.g., /data/players.json)
-app.use("/data", express.static(dataDir));
+// ---------- ROUTES ----------
 
-// ✅ Allow access to /data/filename (no .json extension)
-app.get("/data/:file", (req, res, next) => {
-  const filePath = path.join(dataDir, `${req.params.file}.json`);
-  if (fs.existsSync(filePath)) res.sendFile(filePath);
-  else next();
+// Simple health check
+app.get("/", (req, res) => {
+  res.send("✅ Backend is running and ready!");
 });
 
-// ✅ Merge live stats (currentGame.json) + seasonStats.json
+// Serve raw JSON files (like /data/players.json)
+app.use("/data", express.static(DATA_DIR));
+
+// ---------- MERGED STATS ----------
 app.get("/data/mergedStats", (req, res) => {
   try {
     const playersPath = path.join(DATA_DIR, "players.json");
@@ -55,13 +48,13 @@ app.get("/data/mergedStats", (req, res) => {
     for (const college in players) {
       merged[college] = players[college].map((player) => {
         const id = player.id;
+
+        // ESPN data sometimes nests stats twice (stats.stats)
         const seasonStats = season[id]?.stats || season[id] || {};
         const liveStats = current[id]?.stats || current[id] || {};
-
-        // Flatten any nested `stats.stats`
         const flatStats = { ...seasonStats, ...liveStats };
 
-        // Build a readable summary
+        // Build readable summary
         let summary = "";
         if (flatStats.passingYards > 0) {
           summary = `QB — ${flatStats.passingYards} yds, ${flatStats.passingTouchdowns || 0} TD, ${flatStats.interceptions || 0} INT`;
@@ -90,21 +83,8 @@ app.get("/data/mergedStats", (req, res) => {
   }
 });
 
-// ✅ Health check route
-app.get("/", (req, res) => {
-  res.send("College NFL Tracker backend is running ✅");
-});
-
-// ✅ Catch-all 404 route
-app.use((req, res) => {
-  res.status(404).send(`Route not found: ${req.originalUrl}`);
-});
-
-// ✅ Auto-update live stats every 10 minutes
-const TEN_MIN = 10 * 60 * 1000;
-updateStats(); // Run once on startup
-setInterval(updateStats, TEN_MIN);
-
-// ✅ Start server
+// ---------- START SERVER ----------
 const PORT = process.env.PORT || 10000;
-app.listen(PORT, () => console.log(`✅ Backend running on port ${PORT}`));
+app.listen(PORT, () => {
+  console.log(`✅ Backend running on port ${PORT}`);
+});
