@@ -42,56 +42,51 @@ app.get("/data/:file", (req, res, next) => {
 // ✅ Merge live stats (currentGame.json) + seasonStats.json
 app.get("/data/mergedStats", (req, res) => {
   try {
-    const seasonPath = path.join(dataDir, "seasonStats.json");
-    const currentPath = path.join(dataDir, "currentGame.json");
-    const playersPath = path.join(dataDir, "players.json");
+    const playersPath = path.join(DATA_DIR, "players.json");
+    const seasonPath = path.join(DATA_DIR, "seasonStats.json");
+    const currentPath = path.join(DATA_DIR, "currentGame.json");
 
-    // Parse files
-    const season = JSON.parse(fs.readFileSync(seasonPath, "utf-8"));
-    const current = JSON.parse(fs.readFileSync(currentPath, "utf-8"));
-    const players = JSON.parse(fs.readFileSync(playersPath, "utf-8"));
+    const players = JSON.parse(fs.readFileSync(playersPath, "utf8"));
+    const season = JSON.parse(fs.readFileSync(seasonPath, "utf8"));
+    const current = JSON.parse(fs.readFileSync(currentPath, "utf8"));
 
     const merged = {};
 
-    // Flatten the players.json data (college -> array of players)
-    const allPlayers = Object.values(players).flat();
+    for (const college in players) {
+      merged[college] = players[college].map((player) => {
+        const id = player.id;
+        const seasonStats = season[id]?.stats || season[id] || {};
+        const liveStats = current[id]?.stats || current[id] || {};
 
-    for (const player of allPlayers) {
-      const playerId = player.id;
+        // Flatten any nested `stats.stats`
+        const flatStats = { ...seasonStats, ...liveStats };
 
-      // Start with season stats (if any)
-      const seasonStats = season[playerId] || {};
+        // Build a readable summary
+        let summary = "";
+        if (flatStats.passingYards > 0) {
+          summary = `QB — ${flatStats.passingYards} yds, ${flatStats.passingTouchdowns || 0} TD, ${flatStats.interceptions || 0} INT`;
+        } else if (flatStats.rushingYards > 0) {
+          summary = `RB — ${flatStats.rushingYards} yds, ${flatStats.rushingTouchdowns || 0} TD`;
+        } else if (flatStats.receivingYards > 0) {
+          summary = `WR — ${flatStats.receptions || 0} rec, ${flatStats.receivingYards} yds, ${flatStats.receivingTouchdowns || 0} TD`;
+        } else {
+          summary = "No season stats";
+        }
 
-      // Check if their NFL team is currently playing
-      const liveTeam = Array.isArray(current)
-        ? current.find((g) => g.team === player.nfl_team)
-        : null;
-
-      let statSummary = null;
-      let live = false;
-
-      if (liveTeam) {
-        statSummary = liveTeam.stats
-          ?.map((s) => `${s.name}: ${s.value}`)
-          .join(", ");
-        live = true;
-      }
-
-      const mergedPlayer = {
-        ...player,
-        stats: statSummary || seasonStats || {},
-        live,
-      };
-
-      // Group by college
-      if (!merged[player.college]) merged[player.college] = [];
-      merged[player.college].push(mergedPlayer);
+        return {
+          ...player,
+          summary,
+          live: Object.keys(liveStats).length > 0,
+          last_updated:
+            flatStats.last_updated || player.last_updated || null,
+        };
+      });
     }
 
     res.json(merged);
   } catch (err) {
-    console.error("❌ Detailed merge error:", err);
-    res.status(500).json({ error: "Failed to merge stats", message: err.message });
+    console.error("❌ Error merging stats:", err);
+    res.status(500).json({ error: "Failed to merge stats" });
   }
 });
 
