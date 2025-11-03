@@ -1,1 +1,214 @@
-{}
+[
+  {
+    "game": "SEA @ WSH",
+    "team": "Seattle Seahawks",
+    "stats": [
+      {
+        "name": "firstDowns",
+        "value": "21"
+      },
+      {
+        "name": "firstDownsPassing",
+        "value": "13"
+      },
+      {
+        "name": "firstDownsRushing",
+        "value": "5"
+      },
+      {
+        "name": "firstDownsPenalty",
+        "value": "3"
+      },
+      {
+        "name": "thirdDownEff",
+        "value": "7-11"
+      },
+      {
+        "name": "fourthDownEff",
+        "value": "0-0"
+      },
+      {
+        "name": "totalOffensivePlays",
+        "value": "48"
+      },
+      {
+        "name": "totalYards",
+        "value": "418"
+      },
+      {
+        "name": "yardsPerPlay",
+        "value": "8.7"
+      },
+      {
+        "name": "totalDrives",
+        "value": "10"
+      },
+      {
+        "name": "netPassingYards",
+        "value": "330"
+      },
+      {
+        "name": "completionAttempts",
+        "value": "21/24"
+      },
+      {
+        "name": "yardsPerPass",
+        "value": "13.8"
+      },
+      {
+        "name": "interceptions",
+        "value": "1"
+      },
+      {
+        "name": "sacksYardsLost",
+        "value": "0-0"
+      },
+      {
+        "name": "rushingYards",
+        "value": "88"
+      },
+      {
+        "name": "rushingAttempts",
+        "value": "24"
+      },
+      {
+        "name": "yardsPerRushAttempt",
+        "value": "3.7"
+      },
+      {
+        "name": "redZoneAttempts",
+        "value": "2-2"
+      },
+      {
+        "name": "totalPenaltiesYards",
+        "value": "5-44"
+      },
+      {
+        "name": "turnovers",
+        "value": "1"
+      },
+      {
+        "name": "fumblesLost",
+        "value": "0"
+      },
+      {
+        "name": "interceptions",
+        "value": "1"
+      },
+      {
+        "name": "defensiveTouchdowns",
+        "value": "0"
+      },
+      {
+        "name": "possessionTime",
+        "value": "27:18"
+      }
+    ]
+  },
+  {
+    "game": "SEA @ WSH",
+    "team": "Washington Commanders",
+    "stats": [
+      {
+        "name": "firstDowns",
+        "value": "17"
+      },
+      {
+        "name": "firstDownsPassing",
+        "value": "8"
+      },
+      {
+        "name": "firstDownsRushing",
+        "value": "7"
+      },
+      {
+        "name": "firstDownsPenalty",
+        "value": "2"
+      },
+      {
+        "name": "thirdDownEff",
+        "value": "5-12"
+      },
+      {
+        "name": "fourthDownEff",
+        "value": "1-2"
+      },
+      {
+        "name": "totalOffensivePlays",
+        "value": "56"
+      },
+      {
+        "name": "totalYards",
+        "value": "256"
+      },
+      {
+        "name": "yardsPerPlay",
+        "value": "4.6"
+      },
+      {
+        "name": "totalDrives",
+        "value": "10"
+      },
+      {
+        "name": "netPassingYards",
+        "value": "133"
+      },
+      {
+        "name": "completionAttempts",
+        "value": "16/22"
+      },
+      {
+        "name": "yardsPerPass",
+        "value": "5.1"
+      },
+      {
+        "name": "interceptions",
+        "value": "1"
+      },
+      {
+        "name": "sacksYardsLost",
+        "value": "4-20"
+      },
+      {
+        "name": "rushingYards",
+        "value": "123"
+      },
+      {
+        "name": "rushingAttempts",
+        "value": "30"
+      },
+      {
+        "name": "yardsPerRushAttempt",
+        "value": "4.1"
+      },
+      {
+        "name": "redZoneAttempts",
+        "value": "2-2"
+      },
+      {
+        "name": "totalPenaltiesYards",
+        "value": "8-87"
+      },
+      {
+        "name": "turnovers",
+        "value": "2"
+      },
+      {
+        "name": "fumblesLost",
+        "value": "1"
+      },
+      {
+        "name": "interceptions",
+        "value": "1"
+      },
+      {
+        "name": "defensiveTouchdowns",
+        "value": "0"
+      },
+      {
+        "name": "possessionTime",
+        "value": "28:02"
+      }
+    ]
+  }
+]

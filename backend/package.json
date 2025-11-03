@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node server.js",
     "update": "node updateStats.js",
-    "buildRoster": "node buildRoster.js"
+    "buildRoster": "node buildRoster.js",
+    "updateSeasonStats": "node updateSeasonStats.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
