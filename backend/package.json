@@ -1,24 +1,17 @@
 {
   "name": "college-nfl-tracker-backend",
   "version": "1.0.0",
-  "description": "Backend for the College NFL Tracker project",
   "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "update": "node updateStats.js",
-    "buildRoster": "node buildRoster.js",
+    "updateScoreboard": "node updateScoreboard.js",
+    "updateLastGameStats": "node updateLastGameStats.js",
     "updateSeasonStats": "node updateSeasonStats.js"
   },
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.18.2",
+    "cors": "^2.8.5",
     "node-fetch": "^3.3.2"
-  },
-  "engines": {
-    "node": ">=18.x"
-  },
-  "keywords": [],
-  "author": "Nick Sullivan",
-  "license": "MIT"
+  }
 }
