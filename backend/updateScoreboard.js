@@ -1,49 +1,46 @@
-// backend/updateScoreboard.js
 import fs from "fs";
 import path from "path";
-import fetch from "node-fetch";
 import { fileURLToPath } from "url";
+import fetch from "node-fetch";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const DATA_DIR = path.join(__dirname, "data");
-const OUT_PATH = path.join(DATA_DIR, "scoreboard.json");
+const DATA_DIR = path.join(__dirname, "..", "data");
+const OUT_FILE = path.join(DATA_DIR, "scoreboard.json");
 
-async function fetchScoreboard() {
-  const url = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard";
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const json = await res.json();
+async function updateScoreboard() {
+  console.log("🏈 Updating NFL scoreboard...");
+  try {
+    const res = await fetch("https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard");
+    const data = await res.json();
 
-  const games = {};
-  for (const ev of json.events || []) {
-    const comp = ev.competitions?.[0];
-    if (!comp) continue;
-    const teams = comp.competitors;
-    const home = teams.find((t) => t.homeAway === "home");
-    const away = teams.find((t) => t.homeAway === "away");
-    const status = comp.status?.type?.detail || "";
-    const clock = comp.status?.displayClock || "";
-    const period = comp.status?.period || 0;
+    const games = {};
+    for (const e of data.events || []) {
+      const comp = e.competitions?.[0];
+      if (!comp) continue;
 
-    games[home.team.abbreviation] = {
-      opponent: away.team.abbreviation,
-      score: `${home.score}-${away.score}`,
-      quarter: period ? `Q${period}` : "",
-      time: clock || status,
-      inProgress: comp.status?.type?.state === "in"
-    };
-    games[away.team.abbreviation] = {
-      opponent: home.team.abbreviation,
-      score: `${away.score}-${home.score}`,
-      quarter: period ? `Q${period}` : "",
-      time: clock || status,
-      inProgress: comp.status?.type?.state === "in"
-    };
+      const home = comp.competitors.find((c) => c.homeAway === "home");
+      const away = comp.competitors.find((c) => c.homeAway === "away");
+      const status = comp.status?.type?.shortDetail || "";
+      const score = `${away.score}-${home.score}`;
+
+      games[home.team.displayName] = {
+        opponent: away.team.displayName,
+        score,
+        status,
+      };
+      games[away.team.displayName] = {
+        opponent: home.team.displayName,
+        score,
+        status,
+      };
+    }
+
+    fs.writeFileSync(OUT_FILE, JSON.stringify(games, null, 2));
+    console.log(`✅ Scoreboard updated: ${Object.keys(games).length} teams`);
+  } catch (err) {
+    console.error("❌ Error updating scoreboard:", err);
   }
-
-  fs.writeFileSync(OUT_PATH, JSON.stringify(games, null, 2));
-  console.log(`✅ Updated scoreboard with ${Object.keys(games).length} team entries`);
 }
 
-fetchScoreboard().catch((e) => console.error("❌ Scoreboard update failed:", e.message));
+updateScoreboard();
