@@ -7,134 +7,118 @@ import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+const app = express();
+
+const PORT = process.env.PORT || 10000;
 const DATA_DIR = path.join(__dirname, "data");
 
-const app = express();
-const PORT = process.env.PORT || 10000;
-
+// Middleware
 app.use(cors());
 app.use(express.json());
 
-// Safe loader so missing/empty files don't crash the app
-function loadJSON(filename) {
-  const full = path.join(DATA_DIR, filename);
+// ✅ Confirm data directory exists
+console.log(`📂 Serving data directory from: ${DATA_DIR}`);
+if (!fs.existsSync(DATA_DIR)) {
+  console.error("❌ DATA_DIR does not exist!");
+} else {
+  console.log("✅ Found files:", fs.readdirSync(DATA_DIR));
+}
+
+// ✅ Utility function to safely read JSON
+function readJSON(fileName) {
   try {
-    if (!fs.existsSync(full)) {
-      console.warn(`⚠️  Missing ${filename} in ${DATA_DIR}`);
+    const filePath = path.join(DATA_DIR, fileName);
+    if (!fs.existsSync(filePath)) {
+      console.warn(`⚠️ File not found: ${fileName}`);
       return {};
     }
-    const txt = fs.readFileSync(full, "utf8");
-    return txt ? JSON.parse(txt) : {};
-  } catch (e) {
-    console.error(`❌ Error reading ${filename}:`, e.message);
+    return JSON.parse(fs.readFileSync(filePath, "utf8"));
+  } catch (err) {
+    console.error(`❌ Failed to read ${fileName}:`, err);
     return {};
   }
 }
 
-// Log what Render actually sees
-try {
-  if (!fs.existsSync(DATA_DIR)) {
-    console.warn(`⚠️  DATA_DIR does not exist: ${DATA_DIR}`);
-  } else {
-    const files = fs.readdirSync(DATA_DIR);
-    console.log(`📂 DATA_DIR: ${DATA_DIR}`);
-    console.log(`✅ Files: ${JSON.stringify(files)}`);
-  }
-} catch (e) {
-  console.error("❌ Could not read DATA_DIR:", e.message);
-}
+// ✅ Serve all data files directly (e.g., /data/players.json)
+app.use("/data", express.static(DATA_DIR));
 
-// Health & debug
-app.get("/health", (req, res) =>
-  res.json({ ok: true, dataDir: DATA_DIR, time: new Date().toISOString() })
-);
-app.get("/debug/files", (req, res) => {
-  try {
-    const files = fs.existsSync(DATA_DIR) ? fs.readdirSync(DATA_DIR) : [];
-    res.json({ dataDir: DATA_DIR, files });
-  } catch (e) {
-    res.status(500).json({ error: e.message });
+// ✅ Explicit route for /data/lastGameStats
+app.get("/data/lastGameStats", (req, res) => {
+  const filePath = path.join(DATA_DIR, "lastGameStats.json");
+  if (fs.existsSync(filePath)) {
+    res.sendFile(filePath);
+  } else {
+    res.status(404).json({ error: "lastGameStats.json not found" });
   }
 });
 
-// Serve static JSONs (players.json, lastGameStats.json, etc.)
-app.use("/data", express.static(DATA_DIR, { index: false }));
+// ✅ Endpoint: /api/colleges — returns list of all colleges
+app.get("/api/colleges", (req, res) => {
+  const players = readJSON("players.json");
+  const colleges = Object.keys(players);
+  res.json({ colleges });
+});
 
-// Main API: /api/college/:college
+// ✅ Endpoint: /api/college/:college — returns players and merged stats
 app.get("/api/college/:college", (req, res) => {
+  const college = decodeURIComponent(req.params.college);
   try {
-    const college = decodeURIComponent(req.params.college);
-    const playersByCollege = loadJSON("players.json")[college];
-    if (!playersByCollege) {
-      return res.status(404).json({ error: `No players found for ${college}` });
+    const playersData = readJSON("players.json");
+    const lastGameStats = readJSON("lastGameStats.json");
+
+    if (!playersData[college]) {
+      return res.status(404).json({ error: `No data for ${college}` });
     }
 
-    // Optional files; may be empty on first run
-    const lastGame = loadJSON("lastGameStats.json");
-    const lastPlayers = lastGame.players || lastGame || {}; // support both formats
-    const scoreboard = loadJSON("scoreboard.json");
+    const players = playersData[college].map((player) => {
+      const pid = String(player.id);
+      const stats = lastGameStats.players?.[pid] || null;
 
-    const merged = playersByCollege.map((p) => {
-      const lg = lastPlayers[p.id] || {};
-      const sb = scoreboard[p.nfl_team] || {};
-
-      // Build status line
-      let status = "Idle";
-      if (sb.status?.includes("Q") || sb.status === "1st Half" || sb.status === "2nd Half") {
-        status = `🟢 Live — ${sb.opponent ?? ""} ${sb.score ?? ""} (${sb.status})`;
-      } else if (sb.status?.includes("Final")) {
-        status = `Final — ${sb.opponent ?? ""} ${sb.score ?? ""}`;
-      } else if (sb.opponent || sb.score || sb.status) {
-        status = `${sb.opponent ?? ""} ${sb.score ?? ""} ${sb.status ?? ""}`.trim();
-      }
-
-      // Summary from lastGame stats (offense/defense fallback)
       let summary = "No stats recorded";
-      if (Object.keys(lg).length) {
-        if (p.position.startsWith("QB")) {
-          const c = lg.completions ?? lg.CMP ?? 0;
-          const a = lg.attempts ?? lg.ATT ?? 0;
-          const y = lg.yards ?? lg.PYDS ?? lg["YDS"] ?? 0;
-          const td = lg.touchdowns ?? lg.PTD ?? lg["TD"] ?? 0;
-          const intc = lg.interceptions ?? lg.INT ?? 0;
-          summary = `${c}/${a}, ${y} yds, ${td} TD, ${intc} INT`;
-        } else if (["RB", "FB"].includes(p.position)) {
-          const y = lg.rushYds ?? lg.RYDS ?? lg["RUSH YDS"] ?? 0;
-          const td = lg.rushTD ?? lg["RUSH TD"] ?? 0;
-          summary = `${y} yds, ${td} TD`;
-        } else if (["WR", "TE"].includes(p.position)) {
-          const y = lg.recYds ?? lg.RECYDS ?? lg["REC YDS"] ?? 0;
-          const td = lg.recTD ?? lg["REC TD"] ?? 0;
-          summary = `${y} yds, ${td} TD`;
-        } else {
-          const t = lg.tackles ?? lg.TOT ?? 0;
-          const s = lg.sacks ?? lg.SACKS ?? 0;
-          const i = lg.interceptions ?? lg.INT ?? 0;
-          summary = `${t} TKL, ${s} SCK, ${i} INT`;
-        }
+      if (stats) {
+        const parts = [];
+        if (stats.yards > 0) parts.push(`${stats.yards} yds`);
+        if (stats.touchdowns > 0) parts.push(`${stats.touchdowns} TD`);
+        if (stats.tackles > 0) parts.push(`${stats.tackles} tackles`);
+        if (stats.sacks > 0) parts.push(`${stats.sacks} sacks`);
+        if (stats.interceptions > 0) parts.push(`${stats.interceptions} INT`);
+        if (parts.length > 0) summary = parts.join(", ");
       }
 
       return {
-        id: p.id,
-        name: p.name,
-        nfl_team: p.nfl_team,
-        position: p.position,
-        status,
+        ...player,
         summary,
+        stats,
       };
     });
 
-    res.json({ college, players: merged });
-  } catch (e) {
-    console.error("❌ /api/college error:", e);
-    res.status(500).json({ error: "Failed to build college data" });
+    res.json({ college, players });
+  } catch (err) {
+    console.error("❌ Error merging stats:", err);
+    res.status(500).json({ error: "Failed to merge stats" });
   }
 });
 
-// 404 fallback for unknown routes (helps in logs)
-app.use((req, res) => res.status(404).json({ error: "Route not found", path: req.path }));
+// ✅ Root route (for sanity check)
+app.get("/", (req, res) => {
+  res.json({
+    message: "🏈 NFL College Tracker Backend Running",
+    endpoints: [
+      "/api/colleges",
+      "/api/college/{college}",
+      "/data/players.json",
+      "/data/lastGameStats",
+    ],
+  });
+});
 
+// ✅ Catch-all for unknown routes
+app.use((req, res) => {
+  res.status(404).json({ error: "Route not found", path: req.path });
+});
+
+// ✅ Start server
 app.listen(PORT, () => {
   console.log(`✅ Backend running on port ${PORT}`);
-  console.log("📡 Routes: /data/*  /api/college/:college  /health  /debug/files");
+  console.log(`👉 Live at https://college-nfl-tracker.onrender.com`);
 });
