@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "update:scoreboard": "node scripts/updateScoreboard.js",
-    "update:lastgames": "node scripts/updateLastGameStats.js"
+    "update:lastgames": "node scripts/updateFromBoxscores.js"
   },
   "dependencies": {
     "cors": "^2.8.5",

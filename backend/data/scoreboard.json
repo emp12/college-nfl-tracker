@@ -1,1 +1,142 @@
-{}
+{
+  "Seattle Seahawks": {
+    "opponent": "Arizona Cardinals",
+    "score": "0-28",
+    "status": "12:17 - 2nd"
+  },
+  "Arizona Cardinals": {
+    "opponent": "Seattle Seahawks",
+    "score": "0-28",
+    "status": "12:17 - 2nd"
+  },
+  "San Francisco 49ers": {
+    "opponent": "Los Angeles Rams",
+    "score": "14-0",
+    "status": "2:35 - 1st"
+  },
+  "Los Angeles Rams": {
+    "opponent": "San Francisco 49ers",
+    "score": "14-0",
+    "status": "2:35 - 1st"
+  },
+  "Washington Commanders": {
+    "opponent": "Detroit Lions",
+    "score": "14-3",
+    "status": "1:16 - 1st"
+  },
+  "Detroit Lions": {
+    "opponent": "Washington Commanders",
+    "score": "14-3",
+    "status": "1:16 - 1st"
+  },
+  "Indianapolis Colts": {
+    "opponent": "Atlanta Falcons",
+    "score": "25-31",
+    "status": "Final/OT"
+  },
+  "Atlanta Falcons": {
+    "opponent": "Indianapolis Colts",
+    "score": "25-31",
+    "status": "Final/OT"
+  },
+  "Chicago Bears": {
+    "opponent": "New York Giants",
+    "score": "20-24",
+    "status": "Final"
+  },
+  "New York Giants": {
+    "opponent": "Chicago Bears",
+    "score": "20-24",
+    "status": "Final"
+  },
+  "Miami Dolphins": {
+    "opponent": "Buffalo Bills",
+    "score": "13-30",
+    "status": "Final"
+  },
+  "Buffalo Bills": {
+    "opponent": "Miami Dolphins",
+    "score": "13-30",
+    "status": "Final"
+  },
+  "Minnesota Vikings": {
+    "opponent": "Baltimore Ravens",
+    "score": "27-19",
+    "status": "Final"
+  },
+  "Baltimore Ravens": {
+    "opponent": "Minnesota Vikings",
+    "score": "27-19",
+    "status": "Final"
+  },
+  "New York Jets": {
+    "opponent": "Cleveland Browns",
+    "score": "20-27",
+    "status": "Final"
+  },
+  "Cleveland Browns": {
+    "opponent": "New York Jets",
+    "score": "20-27",
+    "status": "Final"
+  },
+  "Tampa Bay Buccaneers": {
+    "opponent": "New England Patriots",
+    "score": "28-23",
+    "status": "Final"
+  },
+  "New England Patriots": {
+    "opponent": "Tampa Bay Buccaneers",
+    "score": "28-23",
+    "status": "Final"
+  },
+  "Carolina Panthers": {
+    "opponent": "New Orleans Saints",
+    "score": "17-7",
+    "status": "Final"
+  },
+  "New Orleans Saints": {
+    "opponent": "Carolina Panthers",
+    "score": "17-7",
+    "status": "Final"
+  },
+  "Houston Texans": {
+    "opponent": "Jacksonville Jaguars",
+    "score": "29-36",
+    "status": "Final"
+  },
+  "Jacksonville Jaguars": {
+    "opponent": "Houston Texans",
+    "score": "29-36",
+    "status": "Final"
+  },
+  "Los Angeles Chargers": {
+    "opponent": "Pittsburgh Steelers",
+    "score": "0-0",
+    "status": "11/9 - 8:20 PM EST"
+  },
+  "Pittsburgh Steelers": {
+    "opponent": "Los Angeles Chargers",
+    "score": "0-0",
+    "status": "11/9 - 8:20 PM EST"
+  },
+  "Denver Broncos": {
+    "opponent": "Las Vegas Raiders",
+    "score": "7-10",
+    "status": "Final"
+  },
+  "Las Vegas Raiders": {
+    "opponent": "Denver Broncos",
+    "score": "7-10",
+    "status": "Final"
+  },
+  "Green Bay Packers": {
+    "opponent": "Philadelphia Eagles",
+    "score": "0-0",
+    "status": "11/10 - 8:15 PM EST"
+  },
+  "Philadelphia Eagles": {
+    "opponent": "Green Bay Packers",
+    "score": "0-0",
+    "status": "11/10 - 8:15 PM EST"
+  }
+}
