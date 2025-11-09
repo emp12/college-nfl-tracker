@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-09T22:12:59.488Z",
+  "last_updated": "2025-11-09T23:11:54.797Z",
   "players": {
     "10621": {
       "yards": 0,
@@ -17,9 +17,17 @@
       "interceptions": 0,
       "sourceGame": "401772771"
     },
-    "12483": {
+    "11284": {
       "yards": 0,
       "touchdowns": 0,
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
+    "12483": {
+      "yards": 173,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -36,21 +44,29 @@
     "13971": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772877"
+    },
+    "13976": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772878"
     },
     "14471": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
     "14881": {
-      "yards": 0,
+      "yards": 57,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -60,7 +76,7 @@
     "14945": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -68,7 +84,7 @@
     "14958": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -76,7 +92,7 @@
     "14979": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 8,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -84,13 +100,13 @@
     "14985": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
     "15795": {
-      "yards": 0,
+      "yards": 16,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -98,7 +114,7 @@
       "sourceGame": "401772876"
     },
     "15835": {
-      "yards": 0,
+      "yards": 8,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -108,13 +124,13 @@
     "15846": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "15864": {
-      "yards": 0,
+      "yards": 150,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -132,7 +148,7 @@
     "15979": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 8,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -146,7 +162,7 @@
       "sourceGame": "401772878"
     },
     "16460": {
-      "yards": 0,
+      "yards": 16,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -156,13 +172,13 @@
     "16772": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "16800": {
-      "yards": 0,
+      "yards": 75,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -172,15 +188,15 @@
     "16802": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 0.5,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
     "16837": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -196,7 +212,7 @@
     "16910": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -226,7 +242,7 @@
       "sourceGame": "401772769"
     },
     "2468609": {
-      "yards": 0,
+      "yards": 20,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -242,7 +258,7 @@
       "sourceGame": "401772773"
     },
     "2573401": {
-      "yards": 0,
+      "yards": 15,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -252,13 +268,13 @@
     "2574056": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
     "2574808": {
-      "yards": 0,
+      "yards": 17,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -268,7 +284,7 @@
     "2574891": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -276,13 +292,13 @@
     "2575453": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
     "2576336": {
-      "yards": 0,
+      "yards": 8,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -290,7 +306,7 @@
       "sourceGame": "401772636"
     },
     "2576414": {
-      "yards": 0,
+      "yards": 15,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -300,13 +316,21 @@
     "2576492": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
-    "2576980": {
+    "2576581": {
       "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772878"
+    },
+    "2576980": {
+      "yards": 108,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -314,7 +338,7 @@
       "sourceGame": "401772878"
     },
     "2577327": {
-      "yards": 0,
+      "yards": 44,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -324,10 +348,18 @@
     "2577446": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
+    },
+    "2577466": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772771"
     },
     "2577619": {
       "yards": 0,
@@ -338,7 +370,7 @@
       "sourceGame": "401772772"
     },
     "2578570": {
-      "yards": 0,
+      "yards": 223,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -348,7 +380,7 @@
     "2612151": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -356,7 +388,7 @@
     "2969921": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -364,7 +396,7 @@
     "2969961": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -372,7 +404,7 @@
     "2970204": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -380,7 +412,7 @@
     "2971027": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -388,15 +420,15 @@
     "2971275": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "2971586": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -404,21 +436,21 @@
     "2971622": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
     "2972342": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "2973405": {
-      "yards": 0,
+      "yards": 49,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -426,16 +458,24 @@
       "sourceGame": "401772878"
     },
     "2975417": {
-      "yards": 0,
+      "yards": 3,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
-    "2976212": {
+    "2976194": {
       "yards": 0,
       "touchdowns": 0,
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772878"
+    },
+    "2976212": {
+      "yards": 46,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -444,7 +484,7 @@
     "2976545": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -452,13 +492,13 @@
     "2976560": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 7,
+      "sacks": 3.5,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "2976592": {
-      "yards": 0,
+      "yards": 31,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -466,7 +506,7 @@
       "sourceGame": "401772772"
     },
     "2977187": {
-      "yards": 0,
+      "yards": 74,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -484,7 +524,7 @@
     "2979860": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -492,7 +532,7 @@
     "2980097": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -500,7 +540,7 @@
     "2983055": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -508,7 +548,7 @@
     "2983155": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -524,13 +564,13 @@
     "2987743": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "2991662": {
-      "yards": 0,
+      "yards": 106,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -546,7 +586,7 @@
       "sourceGame": "401772636"
     },
     "3039707": {
-      "yards": 0,
+      "yards": 4,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -554,7 +594,7 @@
       "sourceGame": "401772771"
     },
     "3040151": {
-      "yards": 0,
+      "yards": 59,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -564,15 +604,15 @@
     "3040471": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 3,
+      "sacks": 0.5,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "3042519": {
-      "yards": 0,
-      "touchdowns": 0,
-      "tackles": 0,
+      "yards": 69,
+      "touchdowns": 1,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -580,13 +620,13 @@
     "3042717": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
     "3043078": {
-      "yards": 0,
+      "yards": 84,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -596,10 +636,18 @@
     "3043107": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
+    },
+    "3043116": {
+      "yards": 12,
+      "touchdowns": 0,
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
     },
     "3043275": {
       "yards": 0,
@@ -612,13 +660,13 @@
     "3046287": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
     "3046439": {
-      "yards": 0,
+      "yards": 9,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -626,8 +674,8 @@
       "sourceGame": "401772772"
     },
     "3046779": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 181,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -636,7 +684,7 @@
     "3047876": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -644,7 +692,7 @@
     "3049899": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -652,7 +700,7 @@
     "3050073": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -660,7 +708,7 @@
     "3050122": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -668,7 +716,7 @@
     "3050916": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -676,7 +724,7 @@
     "3051389": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -684,13 +732,13 @@
     "3051775": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
     "3051876": {
-      "yards": 0,
+      "yards": 12,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -700,7 +748,7 @@
     "3051889": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -714,7 +762,7 @@
       "sourceGame": "401772944"
     },
     "3052096": {
-      "yards": 0,
+      "yards": 21,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -730,8 +778,8 @@
       "sourceGame": "401772876"
     },
     "3052587": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 273,
+      "touchdowns": 3,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -740,7 +788,7 @@
     "3053795": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -748,13 +796,13 @@
     "3054840": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 4,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "3054850": {
-      "yards": 0,
+      "yards": 115,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -764,7 +812,7 @@
     "3054857": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -772,7 +820,7 @@
     "3056916": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -780,7 +828,7 @@
     "3057524": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -788,15 +836,23 @@
     "3057956": {
       "yards": 0,
       "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 1,
+      "interceptions": 0,
+      "sourceGame": "401772771"
+    },
+    "3059722": {
+      "yards": 0,
+      "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
-      "sourceGame": "401772771"
+      "sourceGame": "401772773"
     },
     "3059839": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -812,7 +868,7 @@
     "3071353": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -820,8 +876,8 @@
     "3110565": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 8,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
@@ -836,7 +892,7 @@
     "3115336": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -844,7 +900,7 @@
     "3115373": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -852,7 +908,7 @@
     "3115383": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -868,14 +924,14 @@
     "3116179": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "3116365": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 14,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -884,7 +940,7 @@
     "3116724": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -892,13 +948,13 @@
     "3116733": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 3,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
     "3117251": {
-      "yards": 0,
+      "yards": 62,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -908,7 +964,7 @@
     "3117253": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -916,14 +972,14 @@
     "3117255": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "3117256": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 53,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -932,7 +988,7 @@
     "3120358": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -940,13 +996,13 @@
     "3120464": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 3,
+      "sacks": 0.5,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "3121427": {
-      "yards": 0,
+      "yards": 21,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -956,7 +1012,7 @@
     "3121634": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -964,15 +1020,15 @@
     "3122132": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 3,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "3122793": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -980,7 +1036,7 @@
     "3122797": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -1002,25 +1058,33 @@
       "sourceGame": "401772770"
     },
     "3123076": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 21,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
+    "3123938": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772878"
+    },
     "3124005": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 10,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "3124587": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -1028,15 +1092,15 @@
     "3124890": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 6,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "3125107": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -1044,7 +1108,7 @@
     "3125114": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -1052,7 +1116,7 @@
     "3125248": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -1060,15 +1124,23 @@
     "3126356": {
       "yards": 0,
       "touchdowns": 0,
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 1,
+      "sourceGame": "401772876"
+    },
+    "3126486": {
+      "yards": 5,
+      "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
-      "sourceGame": "401772876"
+      "sourceGame": "401772878"
     },
     "3127273": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -1076,7 +1148,7 @@
     "3127287": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -1084,7 +1156,7 @@
     "3127294": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -1098,7 +1170,7 @@
       "sourceGame": "401772877"
     },
     "3127586": {
-      "yards": 0,
+      "yards": 5,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1108,13 +1180,13 @@
     "3128303": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "3128429": {
-      "yards": 0,
+      "yards": 24,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1122,7 +1194,7 @@
       "sourceGame": "401772944"
     },
     "3128720": {
-      "yards": 0,
+      "yards": 52,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1132,7 +1204,7 @@
     "3129446": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -1140,7 +1212,7 @@
     "3133487": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -1148,7 +1220,7 @@
     "3134362": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -1156,7 +1228,7 @@
     "3134448": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -1164,21 +1236,21 @@
     "3134690": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 3,
+      "sacks": 1.5,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
     "3138764": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
     "3139602": {
-      "yards": 0,
+      "yards": 1,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1204,13 +1276,13 @@
     "3728281": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 11,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "3843945": {
-      "yards": 0,
+      "yards": 16,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1220,7 +1292,7 @@
     "3858276": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -1228,8 +1300,8 @@
     "3859006": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 7,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
@@ -1244,14 +1316,14 @@
     "3873935": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
     "3886598": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 71,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -1260,7 +1332,7 @@
     "3892883": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -1268,7 +1340,7 @@
     "3894856": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -1276,15 +1348,15 @@
     "3894915": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "3895856": {
-      "yards": 0,
+      "yards": 3,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -1292,22 +1364,22 @@
     "3909013": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "3911853": {
-      "yards": 0,
+      "yards": 2,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "3912547": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 167,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -1324,7 +1396,7 @@
     "3915189": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -1332,7 +1404,7 @@
     "3915239": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -1340,8 +1412,8 @@
     "3915282": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 4,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
@@ -1354,7 +1426,7 @@
       "sourceGame": "401772770"
     },
     "3915411": {
-      "yards": 0,
+      "yards": 26,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1372,7 +1444,7 @@
     "3915437": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -1380,7 +1452,7 @@
     "3915506": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -1388,7 +1460,7 @@
     "3915507": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -1396,7 +1468,7 @@
     "3915520": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -1412,14 +1484,14 @@
     "3915535": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "3916387": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 212,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -1428,13 +1500,13 @@
     "3916409": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "3916433": {
-      "yards": 0,
+      "yards": 41,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1444,7 +1516,7 @@
     "3916577": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -1452,7 +1524,7 @@
     "3916655": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -1460,7 +1532,7 @@
     "3916903": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -1468,13 +1540,13 @@
     "3916923": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
     "3916945": {
-      "yards": 0,
+      "yards": 89,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1484,7 +1556,7 @@
     "3917016": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -1492,13 +1564,13 @@
     "3917142": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
     "3917668": {
-      "yards": 0,
+      "yards": 6,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1506,8 +1578,8 @@
       "sourceGame": "401772771"
     },
     "3917792": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 308,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -1516,13 +1588,13 @@
     "3917853": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "3917914": {
-      "yards": 0,
+      "yards": 5,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1530,8 +1602,8 @@
       "sourceGame": "401772875"
     },
     "3918298": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 337,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -1540,7 +1612,7 @@
     "3918310": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -1548,7 +1620,7 @@
     "3918331": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -1556,7 +1628,7 @@
     "3919117": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 8,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -1572,15 +1644,15 @@
     "3919512": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 1,
       "sourceGame": "401772636"
     },
     "3919548": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -1588,7 +1660,7 @@
     "3925345": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -1596,7 +1668,7 @@
     "3925350": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -1604,7 +1676,7 @@
     "3925443": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -1612,21 +1684,21 @@
     "3929641": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
     },
     "3929645": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 92,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "3929785": {
-      "yards": 0,
+      "yards": 7,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1634,9 +1706,9 @@
       "sourceGame": "401772771"
     },
     "3929914": {
-      "yards": 0,
+      "yards": 13,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -1644,7 +1716,7 @@
     "3929950": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -1652,13 +1724,13 @@
     "3929956": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "3930086": {
-      "yards": 0,
+      "yards": 37,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1676,7 +1748,7 @@
     "3931399": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -1684,7 +1756,7 @@
     "3931424": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -1692,7 +1764,7 @@
     "3932901": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -1700,7 +1772,7 @@
     "3933407": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -1716,7 +1788,7 @@
     "3961466": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -1724,7 +1796,7 @@
     "4002046": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -1732,13 +1804,13 @@
     "4012556": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4032473": {
-      "yards": 0,
+      "yards": 23,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1756,7 +1828,7 @@
     "4033812": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -1764,7 +1836,7 @@
     "4034530": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -1780,7 +1852,7 @@
     "4034790": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -1788,21 +1860,29 @@
     "4034948": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
-    "4034953": {
+    "4034949": {
       "yards": 0,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
+      "sourceGame": "401772879"
+    },
+    "4034953": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 9,
+      "sacks": 2,
+      "interceptions": 0,
       "sourceGame": "401772875"
     },
     "4035020": {
-      "yards": 0,
+      "yards": 14,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1812,7 +1892,7 @@
     "4035232": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -1820,7 +1900,7 @@
     "4035299": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -1828,7 +1908,7 @@
     "4035434": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -1836,7 +1916,7 @@
     "4035495": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -1850,7 +1930,7 @@
       "sourceGame": "401772769"
     },
     "4035538": {
-      "yards": 0,
+      "yards": 33,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1860,7 +1940,7 @@
     "4035631": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -1868,7 +1948,7 @@
     "4035663": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -1884,13 +1964,13 @@
     "4035686": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
     "4035687": {
-      "yards": 0,
+      "yards": 19,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1900,7 +1980,7 @@
     "4035824": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -1908,13 +1988,13 @@
     "4035861": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 5,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4036133": {
-      "yards": 0,
+      "yards": 8,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -1924,14 +2004,14 @@
     "4036261": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "4037235": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 2,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -1940,7 +2020,7 @@
     "4037521": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -1948,22 +2028,22 @@
     "4037559": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "4038441": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 13,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4038815": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 63,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -1972,7 +2052,7 @@
     "4038849": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -1980,7 +2060,7 @@
     "4038999": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -1988,7 +2068,7 @@
     "4039010": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -2004,7 +2084,7 @@
     "4039052": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -2012,7 +2092,7 @@
     "4039059": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -2020,8 +2100,8 @@
     "4039064": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 3,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
@@ -2044,7 +2124,7 @@
     "4039413": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -2052,13 +2132,21 @@
     "4040608": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 0.5,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
-    "4040655": {
+    "4040612": {
       "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
+    "4040655": {
+      "yards": 17,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2066,17 +2154,25 @@
       "sourceGame": "401772636"
     },
     "4040761": {
-      "yards": 0,
+      "yards": 73,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
+    "4040805": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772878"
+    },
     "4043089": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -2084,7 +2180,7 @@
     "4043130": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 12,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -2092,7 +2188,7 @@
     "4043169": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -2100,7 +2196,7 @@
     "4044133": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -2108,7 +2204,7 @@
     "4044448": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -2116,7 +2212,7 @@
     "4044540": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -2124,13 +2220,13 @@
     "4046537": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4048228": {
-      "yards": 0,
+      "yards": 6,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2140,7 +2236,7 @@
     "4058825": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -2148,15 +2244,15 @@
     "4058925": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "4061956": {
-      "yards": 0,
+      "yards": 22,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -2164,23 +2260,23 @@
     "4066109": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 3,
+      "sacks": 0.5,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "4076951": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "4077786": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -2188,7 +2284,7 @@
     "4218312": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -2196,7 +2292,7 @@
     "4239094": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -2204,22 +2300,30 @@
     "4239699": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
+    "4239833": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
     "4239995": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4239996": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 77,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -2228,7 +2332,7 @@
     "4239997": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -2236,7 +2340,7 @@
     "4240042": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -2244,7 +2348,7 @@
     "4240059": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -2252,7 +2356,7 @@
     "4240123": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -2260,7 +2364,7 @@
     "4240255": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -2270,13 +2374,13 @@
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 1,
       "sourceGame": "401772771"
     },
     "4240434": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -2284,7 +2388,7 @@
     "4240475": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -2292,7 +2396,7 @@
     "4240532": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -2308,7 +2412,7 @@
     "4240610": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -2321,10 +2425,18 @@
       "interceptions": 0,
       "sourceGame": "401772944"
     },
+    "4240754": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 2,
+      "sacks": 1,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
     "4240780": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -2332,29 +2444,29 @@
     "4240849": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 6,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "4241250": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4241263": {
-      "yards": 0,
+      "yards": 23,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4241416": {
-      "yards": 0,
+      "yards": 15,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2364,21 +2476,29 @@
     "4241424": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4241463": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 78,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "4241464": {
-      "yards": 0,
+      "yards": 186,
+      "touchdowns": 1,
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
+    "4241474": {
+      "yards": 40,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2386,7 +2506,7 @@
       "sourceGame": "401772879"
     },
     "4241476": {
-      "yards": 0,
+      "yards": 24,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2394,8 +2514,8 @@
       "sourceGame": "401772771"
     },
     "4241479": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 173,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -2404,13 +2524,21 @@
     "4241720": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
-    "4241985": {
+    "4241983": {
       "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
+    "4241985": {
+      "yards": 84,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2420,7 +2548,7 @@
     "4241986": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -2428,7 +2556,7 @@
     "4241993": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -2436,7 +2564,7 @@
     "4242149": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -2444,7 +2572,7 @@
     "4242154": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 8,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -2452,23 +2580,23 @@
     "4242205": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 1,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
     "4242208": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "4242335": {
-      "yards": 0,
-      "touchdowns": 0,
-      "tackles": 0,
+      "yards": 286,
+      "touchdowns": 3,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -2484,7 +2612,7 @@
     "4242402": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -2492,7 +2620,7 @@
     "4242488": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -2500,21 +2628,21 @@
     "4242516": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
     "4242546": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 312,
+      "touchdowns": 3,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4242557": {
-      "yards": 0,
+      "yards": 7,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2524,7 +2652,7 @@
     "4243176": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -2532,7 +2660,7 @@
     "4243181": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -2540,13 +2668,13 @@
     "4243256": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 8,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4243331": {
-      "yards": 0,
+      "yards": 82,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2556,7 +2684,7 @@
     "4243332": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -2564,7 +2692,7 @@
     "4243333": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -2572,23 +2700,39 @@
     "4243371": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
+    "4243493": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0.5,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
     "4243541": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 2,
+      "sacks": 0.5,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
+    "4244606": {
       "yards": 0,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
-      "sourceGame": "401772879"
+      "sourceGame": "401772773"
     },
     "4244856": {
-      "yards": 0,
+      "yards": 33,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -2596,7 +2740,7 @@
     "4245131": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -2604,7 +2748,7 @@
     "4245185": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -2612,7 +2756,7 @@
     "4247808": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -2620,7 +2764,7 @@
     "4248533": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -2628,7 +2772,7 @@
     "4248899": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -2644,7 +2788,7 @@
     "4249128": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 8,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -2652,7 +2796,7 @@
     "4249739": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 10,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -2660,7 +2804,7 @@
     "4250392": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -2668,7 +2812,7 @@
     "4250764": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -2676,7 +2820,7 @@
     "4256224": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -2684,13 +2828,13 @@
     "4257591": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 4,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4258173": {
-      "yards": 0,
+      "yards": 136,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2700,13 +2844,13 @@
     "4258194": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4258595": {
-      "yards": 0,
+      "yards": 5,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2724,7 +2868,7 @@
     "4259166": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -2732,13 +2876,13 @@
     "4259491": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
     "4259545": {
-      "yards": 0,
+      "yards": 98,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2748,7 +2892,7 @@
     "4259558": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -2756,7 +2900,7 @@
     "4259561": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -2772,7 +2916,7 @@
     "4259632": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -2780,7 +2924,7 @@
     "4259647": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -2788,7 +2932,7 @@
     "4259762": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -2796,8 +2940,8 @@
     "4259804": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 1,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
@@ -2812,7 +2956,7 @@
     "4260703": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -2820,15 +2964,15 @@
     "4261606": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
     "4262921": {
-      "yards": 0,
+      "yards": 37,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -2836,7 +2980,7 @@
     "4331768": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -2844,7 +2988,7 @@
     "4334300": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -2852,15 +2996,15 @@
     "4334405": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4360078": {
-      "yards": 0,
-      "touchdowns": 0,
-      "tackles": 0,
+      "yards": 84,
+      "touchdowns": 1,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -2868,7 +3012,7 @@
     "4360189": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -2882,7 +3026,7 @@
       "sourceGame": "401772770"
     },
     "4360248": {
-      "yards": 0,
+      "yards": 38,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2892,22 +3036,22 @@
     "4360259": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 5,
+      "sacks": 1.5,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "4360277": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 8,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4360310": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 193,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -2916,14 +3060,14 @@
     "4360378": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
     "4360423": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 177,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -2932,7 +3076,7 @@
     "4360488": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -2940,13 +3084,13 @@
     "4360502": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
     "4360516": {
-      "yards": 0,
+      "yards": 71,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2954,7 +3098,7 @@
       "sourceGame": "401772875"
     },
     "4360569": {
-      "yards": 0,
+      "yards": 31,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -2964,14 +3108,14 @@
     "4360677": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4360689": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 282,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -2980,7 +3124,7 @@
     "4360746": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -2988,15 +3132,23 @@
     "4360749": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
+    "4360761": {
+      "yards": 19,
+      "touchdowns": 0,
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
     "4360807": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -3004,13 +3156,13 @@
     "4360853": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 9,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "4360939": {
-      "yards": 0,
+      "yards": 10,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3018,7 +3170,7 @@
       "sourceGame": "401772876"
     },
     "4361050": {
-      "yards": 0,
+      "yards": 17,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3028,7 +3180,7 @@
     "4361090": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -3044,7 +3196,7 @@
     "4361194": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -3052,13 +3204,13 @@
     "4361266": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4361307": {
-      "yards": 0,
+      "yards": 106,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3068,7 +3220,7 @@
     "4361331": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -3076,14 +3228,14 @@
     "4361366": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4361370": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 104,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3100,15 +3252,15 @@
     "4361510": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "4361516": {
-      "yards": 0,
+      "yards": 8,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -3121,11 +3273,19 @@
       "interceptions": 0,
       "sourceGame": "401772770"
     },
+    "4361662": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772878"
+    },
     "4361767": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 5,
+      "sacks": 4,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
@@ -3140,7 +3300,7 @@
     "4361834": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -3148,7 +3308,7 @@
     "4361861": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -3156,7 +3316,7 @@
     "4362018": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -3164,15 +3324,15 @@
     "4362139": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 3,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4362225": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -3180,7 +3340,7 @@
     "4362234": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -3188,13 +3348,13 @@
     "4362245": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
     },
     "4362478": {
-      "yards": 0,
+      "yards": 41,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3204,7 +3364,7 @@
     "4362487": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -3212,14 +3372,14 @@
     "4362506": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
     "4362619": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 16,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3244,14 +3404,14 @@
     "4362847": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "4362887": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 82,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3260,15 +3420,23 @@
     "4362999": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
     },
-    "4364623": {
+    "4363538": {
       "yards": 0,
       "touchdowns": 0,
       "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
+    "4364623": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -3282,7 +3450,7 @@
       "sourceGame": "401772944"
     },
     "4367209": {
-      "yards": 0,
+      "yards": 22,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3292,7 +3460,7 @@
     "4367504": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -3300,7 +3468,7 @@
     "4368113": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -3308,7 +3476,7 @@
     "4368350": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -3316,7 +3484,7 @@
     "4369466": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -3324,13 +3492,13 @@
     "4369835": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 1,
       "sourceGame": "401772877"
     },
     "4369863": {
-      "yards": 0,
+      "yards": 11,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3338,15 +3506,15 @@
       "sourceGame": "401772769"
     },
     "4372016": {
-      "yards": 0,
-      "touchdowns": 0,
-      "tackles": 0,
+      "yards": 84,
+      "touchdowns": 1,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
     "4372019": {
-      "yards": 0,
+      "yards": 1,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3356,7 +3524,7 @@
     "4372030": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -3370,7 +3538,7 @@
       "sourceGame": "401772878"
     },
     "4372414": {
-      "yards": 0,
+      "yards": 9,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3388,21 +3556,21 @@
     "4372533": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "4373626": {
-      "yards": 0,
-      "touchdowns": 0,
-      "tackles": 0,
+      "yards": 57,
+      "touchdowns": 2,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4373678": {
-      "yards": 0,
+      "yards": 58,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3412,7 +3580,7 @@
     "4373809": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -3420,7 +3588,7 @@
     "4373956": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -3428,14 +3596,14 @@
     "4374066": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4374302": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 43,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3444,13 +3612,13 @@
     "4379397": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "4379399": {
-      "yards": 0,
+      "yards": 77,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3460,14 +3628,14 @@
     "4382401": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "4382466": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 124,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3476,13 +3644,13 @@
     "4384549": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
     },
     "4385690": {
-      "yards": 0,
+      "yards": 37,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3490,7 +3658,7 @@
       "sourceGame": "401772771"
     },
     "4386544": {
-      "yards": 0,
+      "yards": 14,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3500,7 +3668,7 @@
     "4401823": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -3516,14 +3684,14 @@
     "4426326": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
     "4426338": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 150,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3532,7 +3700,7 @@
     "4426349": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -3540,29 +3708,29 @@
     "4426350": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 4,
+      "sacks": 0.5,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4426374": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
     "4426385": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 11,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
     "4426388": {
-      "yards": 0,
+      "yards": 14,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3572,46 +3740,46 @@
     "4426403": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 7,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4426412": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 5,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4426434": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 1,
       "sourceGame": "401772770"
     },
     "4426448": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 1,
       "sourceGame": "401772770"
     },
     "4426473": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4426502": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 104,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3620,14 +3788,14 @@
     "4426507": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4426515": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 47,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3636,14 +3804,14 @@
     "4426542": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
     "4426553": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 8,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3652,7 +3820,7 @@
     "4426676": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -3660,7 +3828,7 @@
     "4426686": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -3668,7 +3836,7 @@
     "4426698": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -3676,15 +3844,15 @@
     "4426817": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "4426844": {
-      "yards": 0,
+      "yards": 7,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -3692,30 +3860,46 @@
     "4426921": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
+    "4426923": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
     "4427090": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4427095": {
-      "yards": 0,
+      "yards": 34,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
-    "4427238": {
+    "4427120": {
       "yards": 0,
       "touchdowns": 0,
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
+    "4427238": {
+      "yards": 221,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3724,7 +3908,7 @@
     "4427250": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -3732,21 +3916,21 @@
     "4427325": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
     },
     "4427366": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 125,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "4427600": {
-      "yards": 0,
+      "yards": 5,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3756,7 +3940,7 @@
     "4427635": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -3764,13 +3948,13 @@
     "4427695": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 2,
       "sourceGame": "401772944"
     },
     "4427728": {
-      "yards": 0,
+      "yards": 29,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3780,7 +3964,7 @@
     "4427963": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -3796,7 +3980,7 @@
     "4428125": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -3804,7 +3988,7 @@
     "4428232": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -3812,7 +3996,7 @@
     "4428328": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -3820,7 +4004,7 @@
     "4428350": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -3828,7 +4012,7 @@
     "4428414": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -3836,7 +4020,7 @@
     "4428503": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -3844,15 +4028,15 @@
     "4428522": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 8,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 1,
       "sourceGame": "401772772"
     },
     "4428548": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -3860,7 +4044,7 @@
     "4428550": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -3868,7 +4052,7 @@
     "4428633": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -3876,7 +4060,7 @@
     "4428659": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -3890,7 +4074,7 @@
       "sourceGame": "401772769"
     },
     "4428718": {
-      "yards": 0,
+      "yards": 35,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3900,7 +4084,7 @@
     "4428872": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -3908,7 +4092,7 @@
     "4428914": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -3916,7 +4100,7 @@
     "4428930": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 8,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -3924,7 +4108,7 @@
     "4428988": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -3932,15 +4116,23 @@
     "4428989": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
+    "4428996": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
     "4429005": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -3948,14 +4140,14 @@
     "4429014": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 4,
+      "sacks": 0.5,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
     "4429059": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 81,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -3964,21 +4156,21 @@
     "4429071": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
     "4429086": {
-      "yards": 0,
+      "yards": 22,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "4429096": {
-      "yards": 0,
+      "yards": 14,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3986,7 +4178,7 @@
       "sourceGame": "401772879"
     },
     "4429105": {
-      "yards": 0,
+      "yards": 13,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -3996,7 +4188,7 @@
     "4429109": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -4004,13 +4196,13 @@
     "4429110": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "4429148": {
-      "yards": 0,
+      "yards": 75,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4018,8 +4210,8 @@
       "sourceGame": "401772875"
     },
     "4429160": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 225,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4028,7 +4220,7 @@
     "4429166": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -4036,13 +4228,13 @@
     "4429168": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 6,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4429205": {
-      "yards": 0,
+      "yards": 35,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4052,7 +4244,7 @@
     "4429281": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -4068,7 +4260,7 @@
     "4429511": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -4076,7 +4268,7 @@
     "4429560": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -4084,13 +4276,13 @@
     "4429607": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
     "4429615": {
-      "yards": 0,
+      "yards": 81,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4098,9 +4290,9 @@
       "sourceGame": "401772876"
     },
     "4429676": {
-      "yards": 0,
+      "yards": 4,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -4108,29 +4300,29 @@
     "4429767": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
     },
     "4429795": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 105,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
     "4429835": {
-      "yards": 0,
-      "touchdowns": 0,
-      "tackles": 0,
+      "yards": 9,
+      "touchdowns": 1,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
     "4430027": {
-      "yards": 0,
+      "yards": 45,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4145,10 +4337,18 @@
       "interceptions": 0,
       "sourceGame": "401772877"
     },
-    "4430261": {
+    "4430191": {
       "yards": 0,
       "touchdowns": 0,
       "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
+    "4430261": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -4156,7 +4356,7 @@
     "4430280": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -4164,7 +4364,7 @@
     "4430330": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -4172,7 +4372,7 @@
     "4430478": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -4180,7 +4380,7 @@
     "4430560": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -4194,15 +4394,15 @@
       "sourceGame": "401772876"
     },
     "4430737": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 57,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
     },
     "4430807": {
-      "yards": 0,
+      "yards": 88,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4212,7 +4412,7 @@
     "4430822": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -4220,13 +4420,13 @@
     "4430831": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4430871": {
-      "yards": 0,
+      "yards": 53,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4234,8 +4434,8 @@
       "sourceGame": "401772772"
     },
     "4430878": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 82,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4244,7 +4444,7 @@
     "4430925": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -4260,7 +4460,7 @@
     "4431005": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 11,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -4268,22 +4468,22 @@
     "4431194": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4431280": {
-      "yards": 0,
-      "touchdowns": 0,
-      "tackles": 0,
+      "yards": 40,
+      "touchdowns": 1,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "4431299": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 86,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4292,7 +4492,7 @@
     "4431321": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -4300,21 +4500,21 @@
     "4431426": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "4431452": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 283,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
     "4431459": {
-      "yards": 0,
+      "yards": 99,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4324,7 +4524,7 @@
     "4431517": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -4332,7 +4532,7 @@
     "4431553": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -4340,22 +4540,22 @@
     "4431567": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4431588": {
-      "yards": 0,
+      "yards": 32,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "4431611": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 283,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4364,21 +4564,21 @@
     "4431664": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
     "4432620": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 33,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4432665": {
-      "yards": 0,
+      "yards": 31,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4388,13 +4588,13 @@
     "4432668": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
     "4432708": {
-      "yards": 0,
+      "yards": 24,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4402,8 +4602,8 @@
       "sourceGame": "401772773"
     },
     "4432710": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 150,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4412,13 +4612,13 @@
     "4432730": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
     "4432775": {
-      "yards": 0,
+      "yards": 4,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4434,8 +4634,8 @@
       "sourceGame": "401772876"
     },
     "4433970": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 296,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4444,7 +4644,7 @@
     "4433975": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -4452,7 +4652,7 @@
     "4565190": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -4460,7 +4660,7 @@
     "4565200": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -4468,7 +4668,7 @@
     "4565350": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -4476,13 +4676,13 @@
     "4566154": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4567048": {
-      "yards": 0,
+      "yards": 41,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4490,7 +4690,7 @@
       "sourceGame": "401772773"
     },
     "4567096": {
-      "yards": 0,
+      "yards": 3,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4508,13 +4708,13 @@
     "4567111": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4567156": {
-      "yards": 0,
+      "yards": 21,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4524,7 +4724,15 @@
     "4567222": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
+    "4567226": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -4532,7 +4740,7 @@
     "4567403": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -4540,7 +4748,7 @@
     "4567416": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -4548,14 +4756,14 @@
     "4567462": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
     },
     "4567750": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 115,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4564,15 +4772,15 @@
     "4567962": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 4,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "4568007": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -4580,7 +4788,7 @@
     "4568217": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -4594,7 +4802,7 @@
       "sourceGame": "401772877"
     },
     "4568490": {
-      "yards": 0,
+      "yards": 18,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4604,7 +4812,7 @@
     "4568506": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -4612,7 +4820,7 @@
     "4568617": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -4620,7 +4828,7 @@
     "4568624": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -4628,13 +4836,13 @@
     "4569323": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
     "4569371": {
-      "yards": 0,
+      "yards": 4,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4644,7 +4852,7 @@
     "4569465": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -4652,7 +4860,7 @@
     "4569480": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
@@ -4666,7 +4874,7 @@
       "sourceGame": "401772773"
     },
     "4569559": {
-      "yards": 0,
+      "yards": 15,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4674,7 +4882,7 @@
       "sourceGame": "401772877"
     },
     "4569587": {
-      "yards": 0,
+      "yards": 62,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4682,9 +4890,9 @@
       "sourceGame": "401772875"
     },
     "4569603": {
-      "yards": 0,
-      "touchdowns": 0,
-      "tackles": 0,
+      "yards": 13,
+      "touchdowns": 1,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -4692,7 +4900,7 @@
     "4569618": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -4700,9 +4908,9 @@
     "4569620": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 1,
       "sourceGame": "401772769"
     },
     "4569923": {
@@ -4732,7 +4940,7 @@
     "4570044": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 5,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -4740,7 +4948,7 @@
     "4570119": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -4748,15 +4956,23 @@
     "4570470": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
     },
+    "4572055": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
     "4572922": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -4764,14 +4980,14 @@
     "4573319": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4573699": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 26,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4780,37 +4996,53 @@
     "4574689": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
     "4575131": {
-      "yards": 0,
+      "yards": 7,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
+    "4575431": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
     "4575517": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4576297": {
-      "yards": 0,
+      "yards": 1,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
-    "4586312": {
+    "4578085": {
       "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
+    "4586312": {
+      "yards": 35,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4820,7 +5052,7 @@
     "4588300": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -4836,13 +5068,13 @@
     "4592837": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
     "4596334": {
-      "yards": 0,
+      "yards": 31,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4852,15 +5084,15 @@
     "4596363": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
     },
     "4600981": {
-      "yards": 0,
+      "yards": 43,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -4868,15 +5100,23 @@
     "4601278": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
+    "4602667": {
+      "yards": 41,
+      "touchdowns": 0,
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772878"
+    },
     "4602699": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
@@ -4889,17 +5129,25 @@
       "interceptions": 0,
       "sourceGame": "401772944"
     },
+    "4605491": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772773"
+    },
     "4605792": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "4608686": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 28,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4908,14 +5156,14 @@
     "4608794": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "4608810": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 42,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4924,13 +5172,13 @@
     "4611993": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
     "4613104": {
-      "yards": 0,
+      "yards": 32,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4938,16 +5186,16 @@
       "sourceGame": "401772769"
     },
     "4613202": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 72,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
     "4635008": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 46,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -4956,13 +5204,21 @@
     "4676004": {
       "yards": 0,
       "touchdowns": 0,
+      "tackles": 7,
+      "sacks": 0,
+      "interceptions": 1,
+      "sourceGame": "401772771"
+    },
+    "4678006": {
+      "yards": 5,
+      "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
-      "sourceGame": "401772771"
+      "sourceGame": "401772773"
     },
     "4682652": {
-      "yards": 0,
+      "yards": 31,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -4970,17 +5226,25 @@
       "sourceGame": "401772877"
     },
     "4682745": {
-      "yards": 0,
+      "yards": 17,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
+    "4682983": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
     "4683188": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -4988,7 +5252,7 @@
     "4683215": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -5004,7 +5268,7 @@
     "4683276": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -5012,7 +5276,7 @@
     "4683553": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772875"
@@ -5020,7 +5284,7 @@
     "4683813": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -5028,15 +5292,15 @@
     "4683815": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 4,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "4685126": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772944"
@@ -5044,13 +5308,13 @@
     "4685145": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4685278": {
-      "yards": 0,
+      "yards": 51,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5066,9 +5330,9 @@
       "sourceGame": "401772877"
     },
     "4685472": {
-      "yards": 0,
+      "yards": 60,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -5084,15 +5348,15 @@
     "4685530": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 1,
       "sourceGame": "401772876"
     },
     "4685596": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -5100,13 +5364,13 @@
     "4685597": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 6,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772636"
     },
     "4685702": {
-      "yards": 0,
+      "yards": 85,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5114,7 +5378,7 @@
       "sourceGame": "401772769"
     },
     "4685720": {
-      "yards": 0,
+      "yards": 130,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5124,15 +5388,15 @@
     "4685724": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
     "4686027": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -5140,7 +5404,7 @@
     "4686308": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -5148,7 +5412,7 @@
     "4686334": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -5164,15 +5428,15 @@
     "4686540": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 6,
+      "sacks": 2,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
     "4686772": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 9,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -5188,13 +5452,13 @@
     "4688432": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
     "4688813": {
-      "yards": 0,
+      "yards": 3,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5204,14 +5468,14 @@
     "4688931": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 1,
       "sourceGame": "401772771"
     },
     "4689114": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 308,
+      "touchdowns": 2,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -5220,7 +5484,7 @@
     "4689936": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -5228,7 +5492,7 @@
     "4689989": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772636"
@@ -5244,15 +5508,15 @@
     "4690795": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 2,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
     "4692024": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 8,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -5260,8 +5524,8 @@
     "4692025": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 5,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772878"
     },
@@ -5276,7 +5540,15 @@
     "4693644": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 7,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
+    "4693848": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -5284,7 +5556,7 @@
     "4694334": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -5298,9 +5570,9 @@
       "sourceGame": "401772772"
     },
     "4695404": {
-      "yards": 0,
+      "yards": 11,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -5308,13 +5580,13 @@
     "4695783": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 2,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
     "4695883": {
-      "yards": 0,
+      "yards": 21,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5324,7 +5596,7 @@
     "4696211": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 4,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772879"
@@ -5332,7 +5604,7 @@
     "4696782": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -5340,7 +5612,7 @@
     "4697636": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
@@ -5354,7 +5626,7 @@
       "sourceGame": "401772876"
     },
     "4697815": {
-      "yards": 0,
+      "yards": 54,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5364,10 +5636,18 @@
     "4698244": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 6,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
+    },
+    "4710855": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
     },
     "4711533": {
       "yards": 0,
@@ -5380,13 +5660,13 @@
     "4714157": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "4723086": {
-      "yards": 0,
+      "yards": 55,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5394,7 +5674,7 @@
       "sourceGame": "401772875"
     },
     "4808766": {
-      "yards": 0,
+      "yards": 4,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5404,7 +5684,7 @@
     "4816107": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
@@ -5412,7 +5692,7 @@
     "4831989": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -5420,15 +5700,15 @@
     "4833355": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 4,
+      "sacks": 1,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "4837188": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
@@ -5436,21 +5716,29 @@
     "4869523": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 5,
+      "sacks": 0.5,
       "interceptions": 0,
       "sourceGame": "401772773"
     },
     "4873232": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
-    "4876006": {
+    "4875196": {
       "yards": 0,
+      "touchdowns": 0,
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
+    "4876006": {
+      "yards": 14,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5460,8 +5748,8 @@
     "4876017": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
-      "sacks": 0,
+      "tackles": 10,
+      "sacks": 0.5,
       "interceptions": 0,
       "sourceGame": "401772769"
     },
@@ -5474,8 +5762,8 @@
       "sourceGame": "401772769"
     },
     "4877706": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 42,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -5484,7 +5772,7 @@
     "4878287": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
@@ -5492,13 +5780,13 @@
     "4880613": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772877"
     },
     "4882093": {
-      "yards": 0,
+      "yards": 10,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5506,8 +5794,8 @@
       "sourceGame": "401772770"
     },
     "4890973": {
-      "yards": 0,
-      "touchdowns": 0,
+      "yards": 63,
+      "touchdowns": 1,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
@@ -5516,29 +5804,37 @@
     "4894654": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772771"
     },
     "4911851": {
-      "yards": 0,
+      "yards": 6,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772770"
     },
-    "5081394": {
+    "4912274": {
       "yards": 0,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
+      "sourceGame": "401772878"
+    },
+    "5081394": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
+      "sacks": 1,
+      "interceptions": 0,
       "sourceGame": "401772636"
     },
     "5081397": {
-      "yards": 0,
+      "yards": 3,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5546,7 +5842,7 @@
       "sourceGame": "401772769"
     },
     "5083076": {
-      "yards": 0,
+      "yards": 44,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
@@ -5556,7 +5852,7 @@
     "5085888": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772769"
@@ -5564,23 +5860,31 @@
     "5093973": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772876"
     },
     "5097554": {
-      "yards": 0,
+      "yards": 11,
       "touchdowns": 0,
       "tackles": 0,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772772"
     },
-    "5144894": {
+    "5125875": {
       "yards": 0,
       "touchdowns": 0,
       "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0,
+      "sourceGame": "401772879"
+    },
+    "5144894": {
+      "yards": 0,
+      "touchdowns": 0,
+      "tackles": 1,
       "sacks": 0,
       "interceptions": 0,
       "sourceGame": "401772878"
@@ -5588,9 +5892,9 @@
     "5216101": {
       "yards": 0,
       "touchdowns": 0,
-      "tackles": 0,
+      "tackles": 3,
       "sacks": 0,
-      "interceptions": 0,
+      "interceptions": 1,
       "sourceGame": "401772944"
     }
   }
