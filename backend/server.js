@@ -1,28 +1,23 @@
+// backend/server.js
 import express from "express";
+import cors from "cors";
 import fs from "fs";
 import path from "path";
-import cors from "cors";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
 const app = express();
-app.use(cors());
-
 const PORT = process.env.PORT || 10000;
+
+app.use(cors());
+app.use(express.json());
+
 const DATA_DIR = path.join(__dirname, "data");
+const PLAYERS_PATH = path.join(DATA_DIR, "players.json");
+const LAST_GAME_STATS_PATH = path.join(DATA_DIR, "lastGameStats.json");
 
-// --- Utility ---
-function loadJSON(fileName) {
-  const filePath = path.join(DATA_DIR, fileName);
-  if (fs.existsSync(filePath)) {
-    return JSON.parse(fs.readFileSync(filePath, "utf8"));
-  }
-  return {};
-}
-
-// --- Root route ---
+// ✅ Root route
 app.get("/", (req, res) => {
   res.json({
     message: "🏈 NFL College Tracker Backend Running",
@@ -30,86 +25,56 @@ app.get("/", (req, res) => {
       "/api/colleges",
       "/api/college/{college}",
       "/data/players.json",
-      "/data/lastGameStats.json",
-      "/data/scoreboard.json"
+      "/data/lastGameStats",
     ],
   });
 });
 
-// --- Serve raw JSON files ---
-app.get("/data/:file", (req, res) => {
-  const filePath = path.join(DATA_DIR, req.params.file);
-  if (!fs.existsSync(filePath)) {
-    return res.status(404).json({ error: "File not found" });
-  }
-  res.sendFile(filePath);
-});
+// ✅ Serve raw JSON files
+app.use("/data", express.static(DATA_DIR));
 
-// --- Colleges list ---
+// ✅ List all colleges
 app.get("/api/colleges", (req, res) => {
   try {
-    const players = loadJSON("players.json");
-    const colleges = Object.keys(players).sort();
-    res.json(colleges);
+    const data = JSON.parse(fs.readFileSync(PLAYERS_PATH, "utf8"));
+    res.json(Object.keys(data));
   } catch (err) {
-    console.error("❌ Error loading colleges:", err);
+    console.error("Error loading colleges:", err);
     res.status(500).json({ error: "Failed to load colleges" });
   }
 });
 
-// --- Merge player + game data ---
+// ✅ Get all players for a college
 app.get("/api/college/:college", (req, res) => {
-  const college = decodeURIComponent(req.params.college);
   try {
-    const playersFile = loadJSON("players.json");
-    const lastGameStats = loadJSON("lastGameStats.json");
-    const scoreboard = loadJSON("scoreboard.json");
+    const college = decodeURIComponent(req.params.college);
+    const playersData = JSON.parse(fs.readFileSync(PLAYERS_PATH, "utf8"));
+    const lastGameData = JSON.parse(fs.readFileSync(LAST_GAME_STATS_PATH, "utf8"));
+    const players = playersData[college] || [];
 
-    const collegePlayers = playersFile[college] || [];
-
-    const enriched = collegePlayers.map((p) => {
-      const pid = String(p.id);
-      const stats = lastGameStats.players?.[pid] || {};
-      const teamData = Object.values(scoreboard.teams || {}).find(
-        (t) => t.name === p.nfl_team
-      );
-
-      let summary = "No stats recorded";
-      let live = false;
-
-      if (teamData) {
-        const { status, score, opponent, detail } = teamData;
-        const oppLabel = teamData.homeAway === "away" ? "AWAY" : "HOME";
-if (status === "in-progress") {
-  live = true;
-  summary = `${score} vs ${opponent} (${oppLabel}, ${detail})`;
-} else {
-  summary = `${score} vs ${opponent} (${oppLabel}, ${detail})`;
-}
-      }
+    const enriched = players.map((p) => {
+      const stats = lastGameData.players?.[p.id] || {};
+      const hasStats =
+        stats &&
+        (stats.passingYards ||
+          stats.rushingYards ||
+          stats.receivingYards ||
+          stats.tackles ||
+          stats.sacks);
 
       return {
         ...p,
-        live,
-        summary,
-        stats,
+        live: stats.live || false,
+        summary: stats.summary || "No recent game found",
+        stats: hasStats ? stats : {},
       };
     });
 
     res.json(enriched);
   } catch (err) {
-    console.error("❌ Error merging stats:", err);
-    res.status(500).json({ error: "Failed to merge stats" });
+    console.error("Error fetching college players:", err);
+    res.status(500).json({ error: "Failed to load players" });
   }
-});
-
-// --- Serve frontend build ---
-const FRONTEND_DIST = path.join(__dirname, "..", "frontend", "dist");
-app.use(express.static(FRONTEND_DIST));
-
-// --- Fallback for React Router ---
-app.get(/^\/(?!api\/|data\/).*/, (req, res) => {
-  res.sendFile(path.join(FRONTEND_DIST, "index.html"));
 });
 
 app.listen(PORT, () => {
