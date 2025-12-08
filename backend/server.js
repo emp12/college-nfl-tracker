@@ -3,7 +3,6 @@
 require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
-const path = require("path");
 
 const routes = require("./routes"); // Loads routes/index.js
 
@@ -13,18 +12,13 @@ const app = express();
 // Middleware
 // -------------------------------------------------------------
 
+// Allow ALL origins (read-only public API, so this is fine)
+app.use(cors());
+
+// Parse JSON bodies
 app.use(express.json());
 
-// Allow frontend (Vite dev server) to access API
-app.use(
-  cors({
-    origin: "http://localhost:5173",
-    methods: ["GET", "POST"],
-    allowedHeaders: ["Content-Type"],
-  })
-);
-
-// Simple request logger
+// Simple request logger (handy for Render logs)
 app.use((req, res, next) => {
   console.log(`→ [${req.method}] ${req.url}`);
   next();
@@ -37,18 +31,10 @@ app.use((req, res, next) => {
 // All API endpoints begin with /api
 app.use("/api", routes);
 
-// -------------------------------------------------------------
-// Static file serving (optional, for production on Render)
-// -------------------------------------------------------------
-// If you later build the frontend and want to serve it from backend,
-// uncomment the following:
-
-// const frontendPath = path.join(__dirname, "..", "frontend", "dist");
-// app.use(express.static(frontendPath));
-
-// app.get("*", (req, res) => {
-//   res.sendFile(path.join(frontendPath, "index.html"));
-// });
+// Optional root route
+app.get("/", (req, res) => {
+  res.json({ status: "ok", message: "College NFL Tracker backend is running" });
+});
 
 // -------------------------------------------------------------
 // Start server
