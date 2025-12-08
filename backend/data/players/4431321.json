@@ -1,0 +1,22 @@
+{
+  "id": "4431321",
+  "name": "Dru Phillips",
+  "position": "CB",
+  "nfl_team": "New York Giants",
+  "college": "Kentucky",
+  "lastGame": {
+    "gameId": "401772888",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 27–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 5,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

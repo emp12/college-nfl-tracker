@@ -1,0 +1,22 @@
+{
+  "id": "3918331",
+  "name": "Andrew Wingard",
+  "position": "S",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Wyoming",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "LAC",
+    "homeAway": "HOME",
+    "resultText": "W 35–6",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 5,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

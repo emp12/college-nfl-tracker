@@ -1,0 +1,28 @@
+{
+  "id": "3046779",
+  "name": "Jared Goff",
+  "position": "QB",
+  "nfl_team": "Detroit Lions",
+  "college": "California",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 9–16",
+    "passing": {
+      "completions": 14,
+      "attempts": 37,
+      "yards": 255,
+      "td": 1,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": -1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

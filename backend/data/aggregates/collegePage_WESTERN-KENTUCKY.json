@@ -1,0 +1,165 @@
+{
+  "college": "Western Kentucky",
+  "slug": "western-kentucky",
+  "conference": "C-USA",
+  "group": "C-USA",
+  "players": [
+    {
+      "id": "4243457",
+      "name": "DeAngelo Malone",
+      "position": "LB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772924",
+        "date": "2025-10-20T00:20:00.000Z",
+        "opponent": "SF",
+        "homeAway": "AWAY",
+        "resultText": "L 10–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3051381",
+      "name": "Mike White",
+      "position": "QB",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": null
+    },
+    {
+      "id": "4613104",
+      "name": "Malachi Corley",
+      "position": "WR",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772898",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "HOME",
+        "resultText": "L 29–31",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 2,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4250360",
+      "name": "Bailey Zappe",
+      "position": "QB",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": null
+    },
+    {
+      "id": "4037559",
+      "name": "Devon Key",
+      "position": "S",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772778",
+        "date": "2025-11-16T21:25:00.000Z",
+        "opponent": "KC",
+        "homeAway": "HOME",
+        "resultText": "W 22–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4373814",
+      "name": "Kahlef Hailassie",
+      "position": "S",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    },
+    {
+      "id": "4365457",
+      "name": "Brodric Martin",
+      "position": "DT",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "4076803",
+      "name": "Jordan Meredith",
+      "position": "G",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772811",
+        "date": "2025-09-16T02:00:00.000Z",
+        "opponent": "LAC",
+        "homeAway": "HOME",
+        "resultText": "L 9–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "2573401",
+      "name": "Tyler Higbee",
+      "position": "TE",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "SF",
+        "homeAway": "AWAY",
+        "resultText": "W 42–26",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 3,
+          "yards": 33,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4565200",
+      "name": "Upton Stout",
+      "position": "CB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 26–42",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2583951",
+      "name": "George Fant",
+      "position": "OT",
+      "nfl_team": "Washington Commanders",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2972515",
+  "name": "Cooper Rush",
+  "position": "QB",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Central Michigan",
+  "lastGame": {
+    "gameId": "401772855",
+    "date": "2025-10-12T17:00:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 3–17",
+    "passing": {
+      "completions": 11,
+      "attempts": 19,
+      "yards": 72,
+      "td": 0,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": 0,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4257580",
+  "name": "Christian Braswell",
+  "position": "CB",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Rutgers",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

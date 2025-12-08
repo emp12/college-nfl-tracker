@@ -1,0 +1,22 @@
+{
+  "id": "4429835",
+  "name": "George Holani",
+  "position": "RB",
+  "nfl_team": "Seattle Seahawks",
+  "college": "Boise State",
+  "lastGame": {
+    "gameId": "401772884",
+    "date": "2025-11-16T21:05:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "AWAY",
+    "resultText": "L 19–21",
+    "passing": null,
+    "rushing": {
+      "carries": 2,
+      "yards": 6,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "college": "UTEP",
+  "slug": "utep",
+  "conference": "C-USA",
+  "group": "C-USA",
+  "players": [
+    {
+      "id": "3042516",
+      "name": "Will Hernandez",
+      "position": "G",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "4362064",
+      "name": "Andrew Meyer",
+      "position": "C",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "3042519",
+      "name": "Aaron Jones Sr.",
+      "position": "RB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "HOME",
+        "resultText": "W 31–0",
+        "passing": null,
+        "rushing": {
+          "carries": 14,
+          "yards": 76,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "2574891",
+      "name": "Roy Robertson-Harris",
+      "position": "DT",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772883",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "GB",
+        "homeAway": "HOME",
+        "resultText": "L 20–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3124702",
+      "name": "Nik Needham",
+      "position": "CB",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "4686540",
+      "name": "Tyrice Knight",
+      "position": "LB",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "W 37–9",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4362066",
+      "name": "Elijah Klein",
+      "position": "G",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

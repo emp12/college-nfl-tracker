@@ -1,0 +1,22 @@
+{
+  "id": "4688931",
+  "name": "Maxwell Hairston",
+  "position": "CB",
+  "nfl_team": "Buffalo Bills",
+  "college": "Kentucky",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "HOME",
+    "resultText": "W 39–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

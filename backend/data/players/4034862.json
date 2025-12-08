@@ -1,0 +1,22 @@
+{
+  "id": "4034862",
+  "name": "Jack Stoll",
+  "position": "TE",
+  "nfl_team": "New Orleans Saints",
+  "college": "Nebraska",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "AWAY",
+    "resultText": "W 24–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "college": "Georgia Southern",
+  "slug": "georgia-southern",
+  "conference": "Sun Belt",
+  "group": "Sun Belt",
+  "players": [
+    {
+      "id": "3917232",
+      "name": "Tyler Bass",
+      "position": "PK",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": null
+    },
+    {
+      "id": "3049899",
+      "name": "Younghoe Koo",
+      "position": "PK",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4036651",
+      "name": "Kindle Vildor",
+      "position": "CB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772749",
+        "date": "2025-10-12T20:25:00.000Z",
+        "opponent": "SF",
+        "homeAway": "HOME",
+        "resultText": "W 30–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 1
+        }
+      }
+    },
+    {
+      "id": "4036660",
+      "name": "Darrell Baker Jr.",
+      "position": "CB",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": {
+        "gameId": "401772881",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 13–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 12,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

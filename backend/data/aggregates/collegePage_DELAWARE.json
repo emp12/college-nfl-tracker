@@ -1,0 +1,84 @@
+{
+  "college": "Delaware",
+  "slug": "delaware",
+  "conference": "C-USA",
+  "group": "C-USA",
+  "players": [
+    {
+      "id": "3117922",
+      "name": "Bilal Nichols",
+      "position": "DT",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 17–45",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "11252",
+      "name": "Joe Flacco",
+      "position": "QB",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "NE",
+        "homeAway": "HOME",
+        "resultText": "L 20–26",
+        "passing": {
+          "completions": 19,
+          "attempts": 37,
+          "yards": 183,
+          "td": 1,
+          "int": 1
+        },
+        "rushing": {
+          "carries": 1,
+          "yards": 3,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4427461",
+      "name": "Tyron Herring",
+      "position": "CB",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": null
+    },
+    {
+      "id": "3116177",
+      "name": "Troy Reeder",
+      "position": "LB",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "AWAY",
+        "resultText": "W 45–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

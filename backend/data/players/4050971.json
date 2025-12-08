@@ -1,0 +1,22 @@
+{
+  "id": "4050971",
+  "name": "Eric Johnson II",
+  "position": "DT",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Missouri State",
+  "lastGame": {
+    "gameId": "401772733",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "AWAY",
+    "resultText": "W 41–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

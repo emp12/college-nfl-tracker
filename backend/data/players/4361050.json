@@ -1,0 +1,22 @@
+{
+  "id": "4361050",
+  "name": "Isaiah Likely",
+  "position": "TE",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Coastal Carolina",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "L 22–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 4,
+      "yards": 25,
+      "td": 1
+    },
+    "defense": null
+  }
+}

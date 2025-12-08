@@ -1,0 +1,26 @@
+{
+  "id": "3047876",
+  "name": "KhaDarel Hodge",
+  "position": "WR",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Prairie View A&M",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "HOME",
+    "resultText": "L 27–30",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

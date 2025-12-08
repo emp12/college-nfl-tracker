@@ -1,0 +1,29 @@
+{
+  "college": "Barton College",
+  "slug": "barton-college",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "5097554",
+      "name": "Kameron Johnson",
+      "position": "WR",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

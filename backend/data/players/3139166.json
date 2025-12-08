@@ -1,0 +1,22 @@
+{
+  "id": "3139166",
+  "name": "Mitchell Fraboni",
+  "position": "LS",
+  "nfl_team": "Denver Broncos",
+  "college": "Arizona State",
+  "lastGame": {
+    "gameId": "401772870",
+    "date": "2025-11-02T18:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "AWAY",
+    "resultText": "W 18–15",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

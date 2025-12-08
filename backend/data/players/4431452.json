@@ -1,0 +1,28 @@
+{
+  "id": "4431452",
+  "name": "Drake Maye",
+  "position": "QB",
+  "nfl_team": "New England Patriots",
+  "college": "North Carolina",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "W 26–20",
+    "passing": {
+      "completions": 22,
+      "attempts": 35,
+      "yards": 294,
+      "td": 1,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 5,
+      "yards": 22,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4045163",
+  "name": "Miles Sanders",
+  "position": "RB",
+  "nfl_team": "Dallas Cowboys",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772844",
+    "date": "2025-09-21T20:25:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "AWAY",
+    "resultText": "L 14–31",
+    "passing": null,
+    "rushing": {
+      "carries": 9,
+      "yards": 41,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 3,
+      "yards": 12,
+      "td": 0
+    },
+    "defense": null
+  }
+}

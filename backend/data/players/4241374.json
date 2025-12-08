@@ -1,0 +1,22 @@
+{
+  "id": "4241374",
+  "name": "Grant Calcaterra",
+  "position": "TE",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "SMU",
+  "lastGame": {
+    "gameId": "401772890",
+    "date": "2025-11-23T21:25:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "AWAY",
+    "resultText": "L 21–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 8,
+      "td": 0
+    },
+    "defense": null
+  }
+}

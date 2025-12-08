@@ -1,0 +1,22 @@
+{
+  "id": "4047941",
+  "name": "Brenden Schooler",
+  "position": "S",
+  "nfl_team": "New England Patriots",
+  "college": "Texas",
+  "lastGame": {
+    "gameId": "401772868",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "HOME",
+    "resultText": "W 32–13",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

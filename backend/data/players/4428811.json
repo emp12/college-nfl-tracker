@@ -1,0 +1,22 @@
+{
+  "id": "4428811",
+  "name": "Xavier Weaver",
+  "position": "WR",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Colorado",
+  "lastGame": {
+    "gameId": "401772885",
+    "date": "2025-11-16T21:05:00.000Z",
+    "opponent": "SF",
+    "homeAway": "HOME",
+    "resultText": "L 22–41",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 15,
+      "td": 0
+    },
+    "defense": null
+  }
+}

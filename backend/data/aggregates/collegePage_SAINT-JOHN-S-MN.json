@@ -1,0 +1,15 @@
+{
+  "college": "Saint John's (MN)",
+  "slug": "saint-john-s-mn",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4611506",
+      "name": "Ben Bartch",
+      "position": "G",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    }
+  ]
+}

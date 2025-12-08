@@ -1,0 +1,365 @@
+{
+  "college": "Iowa State",
+  "slug": "iowa-state",
+  "conference": "Big 12",
+  "group": "Big 12",
+  "players": [
+    {
+      "id": "4684636",
+      "name": "Malik Verdon",
+      "position": "S",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": null
+    },
+    {
+      "id": "4241263",
+      "name": "Charlie Kolar",
+      "position": "TE",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "L 22–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 19,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4241250",
+      "name": "Jake Hummel",
+      "position": "LB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772782",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "HOME",
+        "resultText": "W 23–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4575483",
+      "name": "T.J. Tampa",
+      "position": "CB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "L 22–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4066109",
+      "name": "Eyioma Uwazurike",
+      "position": "DE",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772778",
+        "date": "2025-11-16T21:25:00.000Z",
+        "opponent": "KC",
+        "homeAway": "HOME",
+        "resultText": "W 22–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4035538",
+      "name": "David Montgomery",
+      "position": "RB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 9–16",
+        "passing": null,
+        "rushing": {
+          "carries": 6,
+          "yards": 27,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 1,
+          "yards": 10,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4877706",
+      "name": "Jayden Higgins",
+      "position": "WR",
+      "nfl_team": "Houston Texans",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "KC",
+        "homeAway": "AWAY",
+        "resultText": "W 20–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 3,
+          "yards": 34,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4686422",
+      "name": "Xavier Hutchinson",
+      "position": "WR",
+      "nfl_team": "Houston Texans",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "KC",
+        "homeAway": "AWAY",
+        "resultText": "W 20–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4586312",
+      "name": "Jaylin Noel",
+      "position": "WR",
+      "nfl_team": "Houston Texans",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "KC",
+        "homeAway": "AWAY",
+        "resultText": "W 20–10",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 1,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 2,
+          "yards": 12,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4892240",
+      "name": "Jalen Travis",
+      "position": "OT",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "4874465",
+      "name": "Ben Nikkel",
+      "position": "S",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "4430330",
+      "name": "Darien Porter",
+      "position": "CB",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4701177",
+      "name": "Myles Purchase",
+      "position": "CB",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": null
+    },
+    {
+      "id": "4361748",
+      "name": "Anthony Johnson Jr.",
+      "position": "S",
+      "nfl_team": "New York Giants",
+      "lastGame": null
+    },
+    {
+      "id": "4427366",
+      "name": "Breece Hall",
+      "position": "RB",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "HOME",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": {
+          "carries": 14,
+          "yards": 43,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "3128390",
+      "name": "Allen Lazard",
+      "position": "WR",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "HOME",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4035537",
+      "name": "Kene Nwangwu",
+      "position": "RB",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "HOME",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4361767",
+      "name": "Will McDonald IV",
+      "position": "DE",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772769",
+        "date": "2025-11-09T18:00:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "HOME",
+        "resultText": "W 27–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 4,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4361741",
+      "name": "Brock Purdy",
+      "position": "QB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772885",
+        "date": "2025-11-16T21:05:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "AWAY",
+        "resultText": "W 41–22",
+        "passing": {
+          "completions": 19,
+          "attempts": 26,
+          "yards": 200,
+          "td": 3,
+          "int": 0
+        },
+        "rushing": {
+          "carries": 1,
+          "yards": -7,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4686447",
+      "name": "J.R. Singleton",
+      "position": "DT",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    },
+    {
+      "id": "3917949",
+      "name": "Julian Good-Jones",
+      "position": "G",
+      "nfl_team": "Washington Commanders",
+      "lastGame": null
+    }
+  ]
+}

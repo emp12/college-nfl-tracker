@@ -1,0 +1,22 @@
+{
+  "id": "4362921",
+  "name": "Tyquan Thornton",
+  "position": "WR",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Baylor",
+  "lastGame": {
+    "gameId": "401772932",
+    "date": "2025-12-08T01:20:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 10–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 19,
+      "td": 0
+    },
+    "defense": null
+  }
+}

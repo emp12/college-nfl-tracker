@@ -1,0 +1,26 @@
+{
+  "id": "3929630",
+  "name": "Saquon Barkley",
+  "position": "RB",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "W 16–9",
+    "passing": null,
+    "rushing": {
+      "carries": 26,
+      "yards": 83,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 7,
+      "td": 0
+    },
+    "defense": null
+  }
+}

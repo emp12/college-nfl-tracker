@@ -1,0 +1,26 @@
+{
+  "id": "4241416",
+  "name": "Chuba Hubbard",
+  "position": "RB",
+  "nfl_team": "Carolina Panthers",
+  "college": "Oklahoma State",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 30–27",
+    "passing": null,
+    "rushing": {
+      "carries": 4,
+      "yards": 21,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 7,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2573079",
+  "name": "Carson Wentz",
+  "position": "QB",
+  "nfl_team": "Minnesota Vikings",
+  "college": "North Dakota State",
+  "lastGame": {
+    "gameId": "401772862",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "HOME",
+    "resultText": "L 22–28",
+    "passing": {
+      "completions": 26,
+      "attempts": 42,
+      "yards": 313,
+      "td": 0,
+      "int": 2
+    },
+    "rushing": {
+      "carries": 4,
+      "yards": 28,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

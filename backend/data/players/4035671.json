@@ -1,0 +1,28 @@
+{
+  "id": "4035671",
+  "name": "Tyler Huntley",
+  "position": "QB",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Utah",
+  "lastGame": {
+    "gameId": "401772855",
+    "date": "2025-10-12T17:00:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 3–17",
+    "passing": {
+      "completions": 10,
+      "attempts": 15,
+      "yards": 68,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 3,
+      "yards": 39,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

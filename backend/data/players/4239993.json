@@ -1,0 +1,22 @@
+{
+  "id": "4239993",
+  "name": "Tee Higgins",
+  "position": "WR",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Clemson",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 34–39",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 6,
+      "yards": 92,
+      "td": 2
+    },
+    "defense": null
+  }
+}

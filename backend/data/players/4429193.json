@@ -1,0 +1,22 @@
+{
+  "id": "4429193",
+  "name": "Kris Abrams-Draine",
+  "position": "CB",
+  "nfl_team": "Denver Broncos",
+  "college": "Missouri",
+  "lastGame": {
+    "gameId": "401772794",
+    "date": "2025-12-07T21:05:00.000Z",
+    "opponent": "LV",
+    "homeAway": "AWAY",
+    "resultText": "W 24–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

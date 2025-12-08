@@ -1,0 +1,22 @@
+{
+  "id": "4431268",
+  "name": "Chimere Dike",
+  "position": "WR",
+  "nfl_team": "Tennessee Titans",
+  "college": "Florida",
+  "lastGame": {
+    "gameId": "401772881",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 14,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4371959",
+  "name": "Cam Jones",
+  "position": "LB",
+  "nfl_team": "New York Jets",
+  "college": "Indiana",
+  "lastGame": {
+    "gameId": "401772850",
+    "date": "2025-10-05T17:00:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "HOME",
+    "resultText": "L 22–37",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

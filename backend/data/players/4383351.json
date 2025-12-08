@@ -1,0 +1,28 @@
+{
+  "id": "4383351",
+  "name": "Trey Lance",
+  "position": "QB",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "North Dakota State",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 6–35",
+    "passing": {
+      "completions": 3,
+      "attempts": 8,
+      "yards": 37,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 3,
+      "yards": 1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

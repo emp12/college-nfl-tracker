@@ -1,0 +1,22 @@
+{
+  "id": "2980383",
+  "name": "Mike Hilton",
+  "position": "CB",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Ole Miss",
+  "lastGame": {
+    "gameId": "401772851",
+    "date": "2025-10-05T17:00:00.000Z",
+    "opponent": "LV",
+    "homeAway": "HOME",
+    "resultText": "W 40–6",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

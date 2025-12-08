@@ -1,0 +1,22 @@
+{
+  "id": "4242457",
+  "name": "Matthew Butler",
+  "position": "DT",
+  "nfl_team": "Miami Dolphins",
+  "college": "Tennessee",
+  "lastGame": {
+    "gameId": "401772754",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "AWAY",
+    "resultText": "L 6–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

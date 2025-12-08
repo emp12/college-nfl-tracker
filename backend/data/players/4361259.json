@@ -1,0 +1,22 @@
+{
+  "id": "4361259",
+  "name": "Zach Wilson",
+  "position": "QB",
+  "nfl_team": "Miami Dolphins",
+  "college": "BYU",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 34–10",
+    "passing": null,
+    "rushing": {
+      "carries": 2,
+      "yards": -2,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

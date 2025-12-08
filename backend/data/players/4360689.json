@@ -1,0 +1,28 @@
+{
+  "id": "4360689",
+  "name": "Tyler Shough",
+  "position": "QB",
+  "nfl_team": "New Orleans Saints",
+  "college": "Louisville",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "AWAY",
+    "resultText": "W 24–20",
+    "passing": {
+      "completions": 13,
+      "attempts": 20,
+      "yards": 144,
+      "td": 0,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 7,
+      "yards": 55,
+      "td": 2
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "college": "Marshall",
+  "slug": "marshall",
+  "conference": "Sun Belt",
+  "group": "Sun Belt",
+  "players": [
+    {
+      "id": "4690013",
+      "name": "Rasheen Ali",
+      "position": "RB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "L 22–27",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 2,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 2,
+          "yards": 11,
+          "td": 0
+        },
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4683188",
+      "name": "Mike Green",
+      "position": "LB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "L 22–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4370363",
+      "name": "Dalton Tucker",
+      "position": "G",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "4571627",
+      "name": "Ethan Driskell",
+      "position": "OT",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "4043625",
+      "name": "Nazeeh Johnson",
+      "position": "S",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "4428098",
+      "name": "Elias Neal",
+      "position": "LB",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": null
+    },
+    {
+      "id": "3059880",
+      "name": "Neville Hewitt",
+      "position": "LB",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772867",
+        "date": "2025-10-26T17:00:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 20–38",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4566165",
+      "name": "JJ Roberts",
+      "position": "S",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

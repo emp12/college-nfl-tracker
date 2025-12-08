@@ -1,0 +1,22 @@
+{
+  "id": "4431210",
+  "name": "Beaux Collins",
+  "position": "WR",
+  "nfl_team": "New York Giants",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772867",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 20–38",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 18,
+      "td": 0
+    },
+    "defense": null
+  }
+}

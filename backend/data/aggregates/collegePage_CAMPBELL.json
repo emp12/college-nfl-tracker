@@ -1,0 +1,36 @@
+{
+  "college": "Campbell",
+  "slug": "campbell",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4365395",
+      "name": "Julian Hill",
+      "position": "TE",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772892",
+        "date": "2025-11-30T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "W 21–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4247248",
+      "name": "Tyler McLellan",
+      "position": "OT",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

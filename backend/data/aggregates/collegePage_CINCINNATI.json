@@ -1,0 +1,352 @@
+{
+  "college": "Cincinnati",
+  "slug": "cincinnati",
+  "conference": "Big 12",
+  "group": "Big 12",
+  "players": [
+    {
+      "id": "3914151",
+      "name": "Josiah Deguara",
+      "position": "TE",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 17–45",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4426646",
+      "name": "Jared Bartlett",
+      "position": "LB",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "4360230",
+      "name": "Emory Jones",
+      "position": "QB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": null
+    },
+    {
+      "id": "4372019",
+      "name": "Jerome Ford",
+      "position": "RB",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772898",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "HOME",
+        "resultText": "L 29–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 10,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "2312707",
+      "name": "John Williams",
+      "position": "G",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": null
+    },
+    {
+      "id": "4360086",
+      "name": "Josh Whyle",
+      "position": "TE",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 21,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4360078",
+      "name": "Alec Pierce",
+      "position": "WR",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 19–36",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 5,
+          "yards": 80,
+          "td": 0
+        },
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "15847",
+      "name": "Travis Kelce",
+      "position": "TE",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 8,
+          "td": 0
+        },
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4247726",
+      "name": "Bryan Cook",
+      "position": "S",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4428718",
+      "name": "Tre Tucker",
+      "position": "WR",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 24,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4565908",
+      "name": "Tyler Scott",
+      "position": "WR",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": null
+    },
+    {
+      "id": "4430280",
+      "name": "Ivan Pace Jr.",
+      "position": "LB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "HOME",
+        "resultText": "W 31–0",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3056916",
+      "name": "Eric Wilson",
+      "position": "LB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "HOME",
+        "resultText": "W 31–0",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4431431",
+      "name": "Corey Kiner",
+      "position": "RB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": null
+    },
+    {
+      "id": "4258181",
+      "name": "James Hudson III",
+      "position": "OT",
+      "nfl_team": "New York Giants",
+      "lastGame": null
+    },
+    {
+      "id": "4426676",
+      "name": "Jowon Briggs",
+      "position": "DT",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "HOME",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4427250",
+      "name": "Sauce Gardner",
+      "position": "CB",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772779",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "KC",
+        "homeAway": "AWAY",
+        "resultText": "L 20–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 7,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4239088",
+      "name": "Darrick Forrest",
+      "position": "S",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4429366",
+      "name": "Derrick Canteen",
+      "position": "CB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    },
+    {
+      "id": "4239094",
+      "name": "Coby Bryant",
+      "position": "S",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "W 37–9",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4360063",
+      "name": "Lorenz Metz",
+      "position": "OT",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    },
+    {
+      "id": "2576581",
+      "name": "Chris Moore",
+      "position": "WR",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772631",
+        "date": "2025-11-16T14:30:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "AWAY",
+        "resultText": "L 13–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 28,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

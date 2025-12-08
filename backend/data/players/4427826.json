@@ -1,0 +1,22 @@
+{
+  "id": "4427826",
+  "name": "Zion Logue",
+  "position": "DT",
+  "nfl_team": "Buffalo Bills",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772922",
+    "date": "2025-10-06T00:20:00.000Z",
+    "opponent": "NE",
+    "homeAway": "HOME",
+    "resultText": "L 20–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

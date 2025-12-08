@@ -1,0 +1,26 @@
+{
+  "id": "4430878",
+  "name": "Jaxon Smith-Njigba",
+  "position": "WR",
+  "nfl_team": "Seattle Seahawks",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 37–9",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": -1,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 7,
+      "yards": 92,
+      "td": 2
+    },
+    "defense": null
+  }
+}

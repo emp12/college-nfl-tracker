@@ -1,0 +1,22 @@
+{
+  "id": "4572519",
+  "name": "Dom Jones",
+  "position": "CB",
+  "nfl_team": "Cleveland Browns",
+  "college": "Colorado State",
+  "lastGame": {
+    "gameId": "401772868",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "AWAY",
+    "resultText": "L 13–32",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

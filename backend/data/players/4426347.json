@@ -1,0 +1,22 @@
+{
+  "id": "4426347",
+  "name": "Mazi Smith",
+  "position": "DT",
+  "nfl_team": "Dallas Cowboys",
+  "college": "Michigan",
+  "lastGame": {
+    "gameId": "401772864",
+    "date": "2025-10-19T20:25:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "HOME",
+    "resultText": "W 44–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

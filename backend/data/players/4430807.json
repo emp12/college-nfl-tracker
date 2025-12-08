@@ -1,0 +1,26 @@
+{
+  "id": "4430807",
+  "name": "Bijan Robinson",
+  "position": "RB",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Texas",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "HOME",
+    "resultText": "L 9–37",
+    "passing": null,
+    "rushing": {
+      "carries": 20,
+      "yards": 86,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 8,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "college": "Missouri",
+  "slug": "missouri",
+  "conference": "SEC",
+  "group": "SEC",
+  "players": [
+    {
+      "id": "4569480",
+      "name": "Darius Robinson",
+      "position": "DE",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 17–45",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4244607",
+      "name": "Akayleb Evans",
+      "position": "CB",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": {
+        "gameId": "401772872",
+        "date": "2025-11-02T18:00:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "W 16–13",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4685278",
+      "name": "Luther Burden III",
+      "position": "WR",
+      "nfl_team": "Chicago Bears",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "L 21–28",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 3,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 4,
+          "yards": 67,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4362769",
+      "name": "Javon Foster",
+      "position": "OT",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": null
+    },
+    {
+      "id": "4427963",
+      "name": "Isaiah McGuire",
+      "position": "DE",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772898",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "HOME",
+        "resultText": "L 29–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 0,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4362748",
+      "name": "Tyler Badie",
+      "position": "RB",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–17",
+        "passing": null,
+        "rushing": {
+          "carries": 4,
+          "yards": 16,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 1,
+          "yards": 5,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4429193",
+      "name": "Kris Abrams-Draine",
+      "position": "CB",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4430973",
+      "name": "Johnny Walker Jr.",
+      "position": "LB",
+      "nfl_team": "Denver Broncos",
+      "lastGame": null
+    },
+    {
+      "id": "4035112",
+      "name": "Trystan Colon",
+      "position": "C",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "4566092",
+      "name": "Ennis Rakestraw Jr.",
+      "position": "CB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "4567406",
+      "name": "Ty'Ron Hopper",
+      "position": "LB",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4601021",
+      "name": "Jaylon Carlies",
+      "position": "LB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "4391845",
+      "name": "Cody Schrader",
+      "position": "RB",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    },
+    {
+      "id": "4362759",
+      "name": "Nick Bolton",
+      "position": "LB",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 12,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4035115",
+      "name": "Albert Okwuegbunam Jr.",
+      "position": "TE",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772851",
+        "date": "2025-10-05T17:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "AWAY",
+        "resultText": "L 6–40",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 5,
+          "yards": 36,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4241217",
+      "name": "Larry Borom",
+      "position": "OT",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772754",
+        "date": "2025-10-19T17:00:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "AWAY",
+        "resultText": "L 6–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4426535",
+      "name": "Theo Wease Jr.",
+      "position": "WR",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4565293",
+      "name": "Marcus Bryant",
+      "position": "OT",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    },
+    {
+      "id": "4241213",
+      "name": "Yasir Durant",
+      "position": "OT",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    },
+    {
+      "id": "4789907",
+      "name": "Armand Membou",
+      "position": "OT",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "4429435",
+      "name": "Brady Cook",
+      "position": "QB",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "HOME",
+        "resultText": "L 10–34",
+        "passing": {
+          "completions": 14,
+          "attempts": 30,
+          "yards": 163,
+          "td": 0,
+          "int": 2
+        },
+        "rushing": {
+          "carries": 1,
+          "yards": 0,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4039052",
+      "name": "Jordan Elliott",
+      "position": "DT",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 26–42",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3924327",
+      "name": "Drew Lock",
+      "position": "QB",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "W 37–9",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 0,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    }
+  ]
+}

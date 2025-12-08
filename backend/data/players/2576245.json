@@ -1,0 +1,22 @@
+{
+  "id": "2576245",
+  "name": "Graham Glasgow",
+  "position": "G",
+  "nfl_team": "Detroit Lions",
+  "college": "Michigan",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 9–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

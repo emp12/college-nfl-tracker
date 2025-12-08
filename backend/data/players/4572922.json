@@ -1,0 +1,22 @@
+{
+  "id": "4572922",
+  "name": "Christopher Edmonds",
+  "position": "S",
+  "nfl_team": "Cleveland Browns",
+  "college": "Arizona State",
+  "lastGame": {
+    "gameId": "401772784",
+    "date": "2025-11-23T21:05:00.000Z",
+    "opponent": "LV",
+    "homeAway": "AWAY",
+    "resultText": "W 24–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

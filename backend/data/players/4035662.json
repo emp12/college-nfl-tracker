@@ -1,0 +1,22 @@
+{
+  "id": "4035662",
+  "name": "Garett Bolles",
+  "position": "OT",
+  "nfl_team": "Denver Broncos",
+  "college": "Utah",
+  "lastGame": {
+    "gameId": "401772757",
+    "date": "2025-10-19T20:05:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "HOME",
+    "resultText": "W 33–32",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

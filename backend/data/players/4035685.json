@@ -1,0 +1,18 @@
+{
+  "id": "4035685",
+  "name": "Mitch Wishnowsky",
+  "position": "P",
+  "nfl_team": "Buffalo Bills",
+  "college": "Utah",
+  "lastGame": {
+    "gameId": "401772946",
+    "date": "2025-11-21T01:15:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "AWAY",
+    "resultText": "L 19–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2576925",
+  "name": "Darren Waller",
+  "position": "TE",
+  "nfl_team": "Miami Dolphins",
+  "college": "Georgia Tech",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 34–10",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 4,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 13,
+      "td": 0
+    },
+    "defense": null
+  }
+}

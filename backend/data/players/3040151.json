@@ -1,0 +1,26 @@
+{
+  "id": "3040151",
+  "name": "George Kittle",
+  "position": "TE",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Iowa",
+  "lastGame": {
+    "gameId": "401772879",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 26–42",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 9,
+      "yards": 84,
+      "td": 1
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

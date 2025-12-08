@@ -1,0 +1,18 @@
+{
+  "id": "17372",
+  "name": "Chris Boswell",
+  "position": "PK",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Rice",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "W 27–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4038524",
+  "name": "Gardner Minshew",
+  "position": "QB",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Washington State",
+  "lastGame": {
+    "gameId": "401772753",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "LV",
+    "homeAway": "HOME",
+    "resultText": "W 31–0",
+    "passing": null,
+    "rushing": {
+      "carries": 3,
+      "yards": -3,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

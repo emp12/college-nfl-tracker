@@ -1,0 +1,74 @@
+{
+  "college": "Yale",
+  "slug": "yale",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4883090",
+      "name": "Kiran Amegadjie",
+      "position": "OT",
+      "nfl_team": "Chicago Bears",
+      "lastGame": null
+    },
+    {
+      "id": "4248455",
+      "name": "Rodney Thomas II",
+      "position": "S",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772779",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "KC",
+        "homeAway": "AWAY",
+        "resultText": "L 20–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3050073",
+      "name": "Foyesade Oluokun",
+      "position": "LB",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 7,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4573697",
+      "name": "Mason Tipton",
+      "position": "WR",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    }
+  ]
+}

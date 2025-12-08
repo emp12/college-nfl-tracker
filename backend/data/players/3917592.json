@@ -1,0 +1,22 @@
+{
+  "id": "3917592",
+  "name": "Robert Hunt",
+  "position": "G",
+  "nfl_team": "Carolina Panthers",
+  "college": "Louisiana",
+  "lastGame": {
+    "gameId": "401772730",
+    "date": "2025-09-14T20:05:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "AWAY",
+    "resultText": "L 22–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

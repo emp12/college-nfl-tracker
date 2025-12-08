@@ -1,0 +1,18 @@
+{
+  "id": "4362647",
+  "name": "Damien Lewis",
+  "position": "G",
+  "nfl_team": "Carolina Panthers",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772877",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 7–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3121422",
+  "name": "Terry McLaurin",
+  "position": "WR",
+  "nfl_team": "Washington Commanders",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "L 0–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 41,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

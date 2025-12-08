@@ -1,0 +1,22 @@
+{
+  "id": "4430802",
+  "name": "Darnell Washington",
+  "position": "TE",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "W 27–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 12,
+      "td": 0
+    },
+    "defense": null
+  }
+}

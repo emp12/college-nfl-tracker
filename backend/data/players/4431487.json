@@ -1,0 +1,22 @@
+{
+  "id": "4431487",
+  "name": "Savion Williams",
+  "position": "WR",
+  "nfl_team": "Green Bay Packers",
+  "college": "TCU",
+  "lastGame": {
+    "gameId": "401772887",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "HOME",
+    "resultText": "W 23–6",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 0,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

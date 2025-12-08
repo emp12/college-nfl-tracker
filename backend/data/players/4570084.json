@@ -1,0 +1,22 @@
+{
+  "id": "4570084",
+  "name": "Jerrick Reed II",
+  "position": "S",
+  "nfl_team": "Seattle Seahawks",
+  "college": "New Mexico",
+  "lastGame": {
+    "gameId": "401772736",
+    "date": "2025-09-21T20:05:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "W 44–13",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

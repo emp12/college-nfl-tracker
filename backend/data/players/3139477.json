@@ -1,0 +1,32 @@
+{
+  "id": "3139477",
+  "name": "Patrick Mahomes",
+  "position": "QB",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Texas Tech",
+  "lastGame": {
+    "gameId": "401772932",
+    "date": "2025-12-08T01:20:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 10–20",
+    "passing": {
+      "completions": 14,
+      "attempts": 33,
+      "yards": 160,
+      "td": 0,
+      "int": 3
+    },
+    "rushing": {
+      "carries": 7,
+      "yards": 59,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": -10,
+      "td": 0
+    },
+    "defense": null
+  }
+}

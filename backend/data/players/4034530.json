@@ -1,0 +1,22 @@
+{
+  "id": "4034530",
+  "name": "Chris Williams",
+  "position": "DT",
+  "nfl_team": "Chicago Bears",
+  "college": "Wagner",
+  "lastGame": {
+    "gameId": "401772875",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "HOME",
+    "resultText": "W 24–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

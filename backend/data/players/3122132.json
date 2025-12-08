@@ -1,0 +1,22 @@
+{
+  "id": "3122132",
+  "name": "Myles Garrett",
+  "position": "DE",
+  "nfl_team": "Cleveland Browns",
+  "college": "Texas A&M",
+  "lastGame": {
+    "gameId": "401772898",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 29–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

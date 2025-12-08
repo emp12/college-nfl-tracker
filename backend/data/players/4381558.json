@@ -1,0 +1,22 @@
+{
+  "id": "4381558",
+  "name": "Jordan Davis",
+  "position": "DT",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "W 16–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

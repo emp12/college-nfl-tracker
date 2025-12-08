@@ -1,0 +1,26 @@
+{
+  "id": "4708486",
+  "name": "Jimmy Horn Jr.",
+  "position": "WR",
+  "nfl_team": "Carolina Panthers",
+  "college": "Colorado",
+  "lastGame": {
+    "gameId": "401772872",
+    "date": "2025-11-02T18:00:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "W 16–13",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 7,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 1,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4259324",
+  "name": "Travis Vokolek",
+  "position": "TE",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Nebraska",
+  "lastGame": {
+    "gameId": "401772747",
+    "date": "2025-10-05T20:05:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 21–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "3059839",
+  "name": "Elijah Wilkinson",
+  "position": "OT",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Massachusetts",
+  "lastGame": {
+    "gameId": "401772889",
+    "date": "2025-11-23T21:25:00.000Z",
+    "opponent": "NO",
+    "homeAway": "AWAY",
+    "resultText": "W 24–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

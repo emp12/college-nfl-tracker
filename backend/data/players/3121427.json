@@ -1,0 +1,26 @@
+{
+  "id": "3121427",
+  "name": "Curtis Samuel",
+  "position": "WR",
+  "nfl_team": "Buffalo Bills",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772776",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "HOME",
+    "resultText": "W 44–32",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 19,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

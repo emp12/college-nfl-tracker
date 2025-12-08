@@ -1,0 +1,18 @@
+{
+  "id": "4249616",
+  "name": "Owen Wright",
+  "position": "RB",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Monmouth",
+  "lastGame": {
+    "gameId": "401772776",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 32–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

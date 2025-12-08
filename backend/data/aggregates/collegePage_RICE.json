@@ -1,0 +1,122 @@
+{
+  "college": "Rice",
+  "slug": "rice",
+  "conference": "AAC",
+  "group": "AAC",
+  "players": [
+    {
+      "id": "3920591",
+      "name": "Nick Leverett",
+      "position": "G",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "3916370",
+      "name": "Jack Fox",
+      "position": "P",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 9–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4039164",
+      "name": "Myles Adams",
+      "position": "DE",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "4426623",
+      "name": "Brant Banks",
+      "position": "OT",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": null
+    },
+    {
+      "id": "4244856",
+      "name": "Austin Trammell",
+      "position": "WR",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4039170",
+      "name": "Elijah Garcia",
+      "position": "DE",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "HOME",
+        "resultText": "L 9–37",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "17372",
+      "name": "Chris Boswell",
+      "position": "PK",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BAL",
+        "homeAway": "AWAY",
+        "resultText": "W 27–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4426948",
+      "name": "Luke McCaffrey",
+      "position": "WR",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772864",
+        "date": "2025-10-19T20:25:00.000Z",
+        "opponent": "DAL",
+        "homeAway": "AWAY",
+        "resultText": "L 22–44",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

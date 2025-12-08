@@ -1,0 +1,22 @@
+{
+  "id": "4690070",
+  "name": "Mitchell Tinsley",
+  "position": "WR",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "HOME",
+    "resultText": "L 20–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 29,
+      "td": 1
+    },
+    "defense": null
+  }
+}

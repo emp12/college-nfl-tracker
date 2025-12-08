@@ -1,0 +1,22 @@
+{
+  "id": "3914397",
+  "name": "Scotty Miller",
+  "position": "WR",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Bowling Green",
+  "lastGame": {
+    "gameId": "401772941",
+    "date": "2025-10-17T00:15:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "L 31–33",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 9,
+      "td": 0
+    },
+    "defense": null
+  }
+}

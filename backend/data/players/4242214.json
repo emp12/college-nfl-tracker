@@ -1,0 +1,26 @@
+{
+  "id": "4242214",
+  "name": "Clyde Edwards-Helaire",
+  "position": "RB",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772779",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 23–20",
+    "passing": null,
+    "rushing": {
+      "carries": 5,
+      "yards": 8,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 9,
+      "td": 0
+    },
+    "defense": null
+  }
+}

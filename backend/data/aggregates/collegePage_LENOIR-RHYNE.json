@@ -1,0 +1,46 @@
+{
+  "college": "Lenoir Rhyne",
+  "slug": "lenoir-rhyne",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4401811",
+      "name": "Kyle Dugger",
+      "position": "S",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772780",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "AWAY",
+        "resultText": "L 28–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4401805",
+      "name": "Dareke Young",
+      "position": "WR",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772826",
+        "date": "2025-10-21T02:00:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "W 27–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    }
+  ]
+}

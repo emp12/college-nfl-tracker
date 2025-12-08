@@ -1,0 +1,28 @@
+{
+  "id": "4360423",
+  "name": "Michael Penix Jr.",
+  "position": "QB",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Washington",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "HOME",
+    "resultText": "L 27–30",
+    "passing": {
+      "completions": 13,
+      "attempts": 16,
+      "yards": 175,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": 9,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

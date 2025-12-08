@@ -1,0 +1,15 @@
+{
+  "college": "Central Missouri State",
+  "slug": "central-missouri-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "5211114",
+      "name": "David Olajiga",
+      "position": "DT",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": null
+    }
+  ]
+}

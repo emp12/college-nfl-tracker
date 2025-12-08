@@ -1,0 +1,22 @@
+{
+  "id": "4242558",
+  "name": "Tucker Fisk",
+  "position": "TE",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772927",
+    "date": "2025-11-10T01:20:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "W 25–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 7,
+      "td": 0
+    },
+    "defense": null
+  }
+}

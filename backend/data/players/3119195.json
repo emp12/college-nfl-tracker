@@ -1,0 +1,18 @@
+{
+  "id": "3119195",
+  "name": "Chase Edmonds",
+  "position": "RB",
+  "nfl_team": "Washington Commanders",
+  "college": "Fordham",
+  "lastGame": {
+    "gameId": "401772631",
+    "date": "2025-11-16T14:30:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "AWAY",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

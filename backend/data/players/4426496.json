@@ -1,0 +1,22 @@
+{
+  "id": "4426496",
+  "name": "Cade Stover",
+  "position": "TE",
+  "nfl_team": "Houston Texans",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772946",
+    "date": "2025-11-21T01:15:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "HOME",
+    "resultText": "W 23–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

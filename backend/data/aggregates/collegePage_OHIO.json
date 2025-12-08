@@ -1,0 +1,29 @@
+{
+  "college": "Ohio",
+  "slug": "ohio",
+  "conference": "MAC",
+  "group": "MAC",
+  "players": [
+    {
+      "id": "4709392",
+      "name": "Anthony Tyus III",
+      "position": "RB",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": null
+    },
+    {
+      "id": "4578436",
+      "name": "Coleman Owen",
+      "position": "WR",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "3920814",
+      "name": "Austen Pleasants",
+      "position": "OT",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    }
+  ]
+}

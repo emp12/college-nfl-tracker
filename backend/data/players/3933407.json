@@ -1,0 +1,22 @@
+{
+  "id": "3933407",
+  "name": "Quinton Bell",
+  "position": "LB",
+  "nfl_team": "Miami Dolphins",
+  "college": "Prairie View A&M",
+  "lastGame": {
+    "gameId": "401772771",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "HOME",
+    "resultText": "W 30–13",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

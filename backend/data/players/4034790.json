@@ -1,0 +1,22 @@
+{
+  "id": "4034790",
+  "name": "Antoine Winfield Jr.",
+  "position": "S",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Minnesota",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 20–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 5,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

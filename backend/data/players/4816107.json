@@ -1,0 +1,22 @@
+{
+  "id": "4816107",
+  "name": "Benjamin Morrison",
+  "position": "CB",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772776",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 32–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

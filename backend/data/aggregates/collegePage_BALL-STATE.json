@@ -1,0 +1,57 @@
+{
+  "college": "Ball State",
+  "slug": "ball-state",
+  "conference": "MAC",
+  "group": "MAC",
+  "players": [
+    {
+      "id": "4917439",
+      "name": "Loren Strickland",
+      "position": "S",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772816",
+        "date": "2025-10-20T23:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "HOME",
+        "resultText": "W 24–9",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3915470",
+      "name": "Danny Pinter",
+      "position": "C",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "4427636",
+      "name": "Nic Jones",
+      "position": "CB",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

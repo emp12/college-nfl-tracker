@@ -1,0 +1,28 @@
+{
+  "id": "2576980",
+  "name": "Marcus Mariota",
+  "position": "QB",
+  "nfl_team": "Washington Commanders",
+  "college": "Oregon",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "L 0–31",
+    "passing": {
+      "completions": 2,
+      "attempts": 4,
+      "yards": 30,
+      "td": 0,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 2,
+      "yards": 7,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

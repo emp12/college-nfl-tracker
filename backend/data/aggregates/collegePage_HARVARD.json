@@ -1,0 +1,57 @@
+{
+  "college": "Harvard",
+  "slug": "harvard",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "16002",
+      "name": "Kyle Juszczyk",
+      "position": "FB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 26–42",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 8,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4367828",
+      "name": "Truman Jones",
+      "position": "LB",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": {
+        "gameId": "401772881",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 13–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "17378",
+      "name": "Tyler Ott",
+      "position": "LS",
+      "nfl_team": "Washington Commanders",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "college": "Houston Christian",
+  "slug": "houston-christian",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4051069",
+      "name": "Caleb Johnson",
+      "position": "LB",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "AWAY",
+        "resultText": "W 34–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4571162",
+      "name": "Jalyx Hunt",
+      "position": "LB",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "DET",
+        "homeAway": "HOME",
+        "resultText": "W 16–9",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

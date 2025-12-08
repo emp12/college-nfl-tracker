@@ -1,0 +1,29 @@
+{
+  "college": "Fort Hays State",
+  "slug": "fort-hays-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4076951",
+      "name": "Nathan Shepherd",
+      "position": "DT",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

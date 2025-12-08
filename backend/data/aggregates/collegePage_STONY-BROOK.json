@@ -1,0 +1,29 @@
+{
+  "college": "Stony Brook",
+  "slug": "stony-brook",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4033855",
+      "name": "Sam Kamara",
+      "position": "DE",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772898",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "HOME",
+        "resultText": "L 29–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

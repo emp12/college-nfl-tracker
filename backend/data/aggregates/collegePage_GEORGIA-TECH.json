@@ -1,0 +1,176 @@
+{
+  "college": "Georgia Tech",
+  "slug": "georgia-tech",
+  "conference": "ACC",
+  "group": "ACC",
+  "players": [
+    {
+      "id": "4573699",
+      "name": "Jackson Hawes",
+      "position": "TE",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "HOME",
+        "resultText": "W 39–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 3,
+          "td": 1
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4360590",
+      "name": "Juanyeh Thomas",
+      "position": "S",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772858",
+        "date": "2025-10-12T17:00:00.000Z",
+        "opponent": "CAR",
+        "homeAway": "AWAY",
+        "resultText": "L 27–30",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4035270",
+      "name": "Devin Cochran",
+      "position": "OT",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "3055899",
+      "name": "Harrison Butker",
+      "position": "PK",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4683276",
+      "name": "Zeek Biggers",
+      "position": "DT",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772892",
+        "date": "2025-11-30T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "W 21–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0.5,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2576925",
+      "name": "Darren Waller",
+      "position": "TE",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "AWAY",
+        "resultText": "W 34–10",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 4,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 1,
+          "yards": 13,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4360569",
+      "name": "Jordan Mason",
+      "position": "RB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "HOME",
+        "resultText": "W 31–0",
+        "passing": null,
+        "rushing": {
+          "carries": 11,
+          "yards": 52,
+          "td": 1
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4248557",
+      "name": "E.J. Jenkins",
+      "position": "TE",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": null
+    },
+    {
+      "id": "4243493",
+      "name": "Keion White",
+      "position": "DE",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 26–42",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0.5,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2971498",
+      "name": "Adam Gotsis",
+      "position": "DT",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

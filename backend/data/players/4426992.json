@@ -1,0 +1,22 @@
+{
+  "id": "4426992",
+  "name": "Howard Cross III",
+  "position": "DT",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772731",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "L 10–48",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

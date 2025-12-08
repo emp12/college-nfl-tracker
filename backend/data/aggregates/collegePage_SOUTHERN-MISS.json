@@ -1,0 +1,161 @@
+{
+  "college": "Southern Miss",
+  "slug": "southern-miss",
+  "conference": "Sun Belt",
+  "group": "Sun Belt",
+  "players": [
+    {
+      "id": "4689989",
+      "name": "Natrone Brooks",
+      "position": "CB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772882",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "CAR",
+        "homeAway": "HOME",
+        "resultText": "L 27–30",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4429805",
+      "name": "Frank Gore Jr.",
+      "position": "RB",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": null
+    },
+    {
+      "id": "4245131",
+      "name": "Tim Jones",
+      "position": "WR",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772770",
+        "date": "2025-11-09T18:00:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "AWAY",
+        "resultText": "L 29–36",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3059989",
+      "name": "Nick Mullens",
+      "position": "QB",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": {
+          "completions": 1,
+          "attempts": 1,
+          "yards": 3,
+          "td": 0,
+          "int": 0
+        },
+        "rushing": {
+          "carries": 3,
+          "yards": -1,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4248032",
+      "name": "Eric Scott Jr.",
+      "position": "CB",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "4689988",
+      "name": "Jason Brownlee",
+      "position": "WR",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772923",
+        "date": "2025-10-13T00:20:00.000Z",
+        "opponent": "DET",
+        "homeAway": "HOME",
+        "resultText": "W 30–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2575453",
+      "name": "Rakeem Nunez-Roches",
+      "position": "DT",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4570546",
+      "name": "Swayze Bozeman",
+      "position": "LB",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4050373",
+      "name": "Quez Watkins",
+      "position": "WR",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": null
+    }
+  ]
+}

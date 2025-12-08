@@ -1,0 +1,22 @@
+{
+  "id": "4428996",
+  "name": "Jordan Burch",
+  "position": "LB",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Oregon",
+  "lastGame": {
+    "gameId": "401772773",
+    "date": "2025-11-09T21:05:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "AWAY",
+    "resultText": "L 22–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4430835",
+  "name": "Alfred Collins",
+  "position": "DT",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Texas",
+  "lastGame": {
+    "gameId": "401772866",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "AWAY",
+    "resultText": "L 15–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

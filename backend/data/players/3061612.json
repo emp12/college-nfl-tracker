@@ -1,0 +1,18 @@
+{
+  "id": "3061612",
+  "name": "Jamal Agnew",
+  "position": "WR",
+  "nfl_team": "Atlanta Falcons",
+  "college": "San Diego",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "HOME",
+    "resultText": "L 9–37",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

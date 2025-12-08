@@ -1,0 +1,22 @@
+{
+  "id": "4240464",
+  "name": "Victor Dimukeje",
+  "position": "LB",
+  "nfl_team": "New York Giants",
+  "college": "Duke",
+  "lastGame": {
+    "gameId": "401772867",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 20–38",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

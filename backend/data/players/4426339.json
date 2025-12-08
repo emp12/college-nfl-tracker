@@ -1,0 +1,28 @@
+{
+  "id": "4426339",
+  "name": "Spencer Rattler",
+  "position": "QB",
+  "nfl_team": "New Orleans Saints",
+  "college": "South Carolina",
+  "lastGame": {
+    "gameId": "401772869",
+    "date": "2025-10-26T20:05:00.000Z",
+    "opponent": "TB",
+    "homeAway": "HOME",
+    "resultText": "L 3–23",
+    "passing": {
+      "completions": 15,
+      "attempts": 21,
+      "yards": 136,
+      "td": 0,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 3,
+      "yards": 12,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

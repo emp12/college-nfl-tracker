@@ -1,0 +1,18 @@
+{
+  "id": "3055899",
+  "name": "Harrison Butker",
+  "position": "PK",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Georgia Tech",
+  "lastGame": {
+    "gameId": "401772932",
+    "date": "2025-12-08T01:20:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 10–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

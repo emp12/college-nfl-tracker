@@ -1,0 +1,22 @@
+{
+  "college": "North Texas",
+  "slug": "north-texas",
+  "conference": "AAC",
+  "group": "AAC",
+  "players": [
+    {
+      "id": "3122976",
+      "name": "Jeff Wilson Jr.",
+      "position": "RB",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4243831",
+      "name": "Kemon Hall",
+      "position": "CB",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    }
+  ]
+}

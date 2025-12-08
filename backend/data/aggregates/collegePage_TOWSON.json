@@ -1,0 +1,29 @@
+{
+  "college": "Towson",
+  "slug": "towson",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "5155825",
+      "name": "Carter Runyon",
+      "position": "TE",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772819",
+        "date": "2025-11-18T01:15:00.000Z",
+        "opponent": "DAL",
+        "homeAway": "HOME",
+        "resultText": "L 16–33",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

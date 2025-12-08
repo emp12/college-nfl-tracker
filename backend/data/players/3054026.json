@@ -1,0 +1,22 @@
+{
+  "id": "3054026",
+  "name": "Shaquill Griffin",
+  "position": "CB",
+  "nfl_team": "Seattle Seahawks",
+  "college": "UCF",
+  "lastGame": {
+    "gameId": "401772857",
+    "date": "2025-10-12T17:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "W 20–12",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 7,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

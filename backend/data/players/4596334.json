@@ -1,0 +1,22 @@
+{
+  "id": "4596334",
+  "name": "Keaton Mitchell",
+  "position": "RB",
+  "nfl_team": "Baltimore Ravens",
+  "college": "East Carolina",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "L 22–27",
+    "passing": null,
+    "rushing": {
+      "carries": 6,
+      "yards": 76,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

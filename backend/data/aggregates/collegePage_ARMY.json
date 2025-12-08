@@ -1,0 +1,64 @@
+{
+  "college": "Army",
+  "slug": "army",
+  "conference": "AAC",
+  "group": "AAC",
+  "players": [
+    {
+      "id": "4879972",
+      "name": "Lucas Scott",
+      "position": "FB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": null
+    },
+    {
+      "id": "4689804",
+      "name": "Jimmy Ciarlo",
+      "position": "LB",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": null
+    },
+    {
+      "id": "4577333",
+      "name": "Andre Carter II",
+      "position": "LB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "4036959",
+      "name": "Cole Christiansen",
+      "position": "LB",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "4258485",
+      "name": "Jon Rhattigan",
+      "position": "LB",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3129116",
+      "name": "Brett Toth",
+      "position": "OT",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "college": "Indiana",
+  "slug": "indiana",
+  "conference": "Big Ten",
+  "group": "Big Ten",
+  "players": [
+    {
+      "id": "4877824",
+      "name": "Zach Horton",
+      "position": "TE",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "4045305",
+      "name": "Ian Thomas",
+      "position": "TE",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 17,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "3929785",
+      "name": "Nick Westbrook-Ikhine",
+      "position": "WR",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "AWAY",
+        "resultText": "W 34–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4430656",
+      "name": "Myles Price",
+      "position": "WR",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "HOME",
+        "resultText": "W 31–0",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4371961",
+      "name": "Micah McFadden",
+      "position": "LB",
+      "nfl_team": "New York Giants",
+      "lastGame": null
+    },
+    {
+      "id": "4258237",
+      "name": "Raheem Layne",
+      "position": "S",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772867",
+        "date": "2025-10-26T17:00:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 20–38",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4371959",
+      "name": "Cam Jones",
+      "position": "LB",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772850",
+        "date": "2025-10-05T17:00:00.000Z",
+        "opponent": "DAL",
+        "homeAway": "HOME",
+        "resultText": "L 22–37",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4045299",
+      "name": "Marcelino McCrary-Ball",
+      "position": "LB",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772782",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "BAL",
+        "homeAway": "AWAY",
+        "resultText": "L 10–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4570738",
+      "name": "Ke'Shawn Williams",
+      "position": "WR",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772780",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "AWAY",
+        "resultText": "L 28–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4686308",
+      "name": "CJ West",
+      "position": "DT",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 26–42",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4430431",
+      "name": "Kurtis Rourke",
+      "position": "QB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    },
+    {
+      "id": "2979482",
+      "name": "Dan Feeney",
+      "position": "G",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    },
+    {
+      "id": "4686884",
+      "name": "Luke Haggard",
+      "position": "OT",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

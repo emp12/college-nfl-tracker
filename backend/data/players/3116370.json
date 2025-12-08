@@ -1,0 +1,18 @@
+{
+  "id": "3116370",
+  "name": "Orlando Brown Jr.",
+  "position": "OT",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Oklahoma",
+  "lastGame": {
+    "gameId": "401772854",
+    "date": "2025-10-05T20:25:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "L 24–37",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

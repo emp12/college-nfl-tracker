@@ -1,0 +1,28 @@
+{
+  "id": "4241464",
+  "name": "Mac Jones",
+  "position": "QB",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772879",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 26–42",
+    "passing": {
+      "completions": 33,
+      "attempts": 39,
+      "yards": 319,
+      "td": 3,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": 3,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

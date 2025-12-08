@@ -1,0 +1,26 @@
+{
+  "id": "4240657",
+  "name": "Michael Carter",
+  "position": "RB",
+  "nfl_team": "Arizona Cardinals",
+  "college": "North Carolina",
+  "lastGame": {
+    "gameId": "401772901",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 17–45",
+    "passing": null,
+    "rushing": {
+      "carries": 3,
+      "yards": 13,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 18,
+      "td": 0
+    },
+    "defense": null
+  }
+}

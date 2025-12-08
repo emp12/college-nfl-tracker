@@ -1,0 +1,194 @@
+{
+  "college": "Virginia",
+  "slug": "virginia",
+  "conference": "ACC",
+  "group": "ACC",
+  "players": [
+    {
+      "id": "4240824",
+      "name": "Joey Blount",
+      "position": "S",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "4240826",
+      "name": "Elliott Brown",
+      "position": "LB",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "16831",
+      "name": "Brent Urban",
+      "position": "DE",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772777",
+        "date": "2025-11-16T21:25:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "AWAY",
+        "resultText": "W 23–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3917914",
+      "name": "Olamide Zaccheaus",
+      "position": "WR",
+      "nfl_team": "Chicago Bears",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "L 21–28",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 7,
+          "td": 1
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4428850",
+      "name": "Dontayvion Wicks",
+      "position": "WR",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772891",
+        "date": "2025-11-27T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "W 31–24",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 6,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 6,
+          "yards": 94,
+          "td": 2
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4240849",
+      "name": "Charles Snowden",
+      "position": "DE",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4569603",
+      "name": "Malik Washington",
+      "position": "WR",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "AWAY",
+        "resultText": "W 34–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 3,
+          "yards": 10,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "16771",
+      "name": "Morgan Moses",
+      "position": "OT",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    },
+    {
+      "id": "4683813",
+      "name": "Jonas Sanker",
+      "position": "S",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4241410",
+      "name": "Jelani Woods",
+      "position": "TE",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "3917909",
+      "name": "Juan Thornhill",
+      "position": "S",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772927",
+        "date": "2025-11-10T01:20:00.000Z",
+        "opponent": "LAC",
+        "homeAway": "AWAY",
+        "resultText": "L 10–25",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4037584",
+      "name": "Bryce Hall",
+      "position": "CB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

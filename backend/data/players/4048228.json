@@ -1,0 +1,22 @@
+{
+  "id": "4048228",
+  "name": "John Bates",
+  "position": "TE",
+  "nfl_team": "Washington Commanders",
+  "college": "Boise State",
+  "lastGame": {
+    "gameId": "401772878",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "L 22–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 6,
+      "td": 0
+    },
+    "defense": null
+  }
+}

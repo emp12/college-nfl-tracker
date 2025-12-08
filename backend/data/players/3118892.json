@@ -1,0 +1,22 @@
+{
+  "id": "3118892",
+  "name": "Justin Watson",
+  "position": "WR",
+  "nfl_team": "Houston Texans",
+  "college": "Pennsylvania",
+  "lastGame": {
+    "gameId": "401772715",
+    "date": "2025-09-15T23:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "HOME",
+    "resultText": "L 19–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 3,
+      "td": 0
+    },
+    "defense": null
+  }
+}

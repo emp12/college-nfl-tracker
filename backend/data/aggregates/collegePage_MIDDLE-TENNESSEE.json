@@ -1,0 +1,99 @@
+{
+  "college": "Middle Tennessee",
+  "slug": "middle-tennessee",
+  "conference": "C-USA",
+  "group": "C-USA",
+  "players": [
+    {
+      "id": "2574056",
+      "name": "Kevin Byard III",
+      "position": "S",
+      "nfl_team": "Chicago Bears",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "L 21–28",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 7,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4570495",
+      "name": "Rob Jones",
+      "position": "G",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": null
+    },
+    {
+      "id": "4037361",
+      "name": "Charvarius Ward",
+      "position": "CB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 19–36",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3122906",
+      "name": "Darius Harris",
+      "position": "LB",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772847",
+        "date": "2025-09-28T17:00:00.000Z",
+        "opponent": "CAR",
+        "homeAway": "HOME",
+        "resultText": "W 42–13",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4243956",
+      "name": "Reed Blankenship",
+      "position": "S",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "DET",
+        "homeAway": "HOME",
+        "resultText": "W 16–9",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

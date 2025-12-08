@@ -1,0 +1,28 @@
+{
+  "id": "3912547",
+  "name": "Sam Darnold",
+  "position": "QB",
+  "nfl_team": "Seattle Seahawks",
+  "college": "USC",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 37–9",
+    "passing": {
+      "completions": 20,
+      "attempts": 30,
+      "yards": 249,
+      "td": 3,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 3,
+      "yards": 23,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

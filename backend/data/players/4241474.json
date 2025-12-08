@@ -1,0 +1,26 @@
+{
+  "id": "4241474",
+  "name": "Brian Robinson Jr.",
+  "position": "RB",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772879",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 26–42",
+    "passing": null,
+    "rushing": {
+      "carries": 8,
+      "yards": 41,
+      "td": 1
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 4,
+      "td": 0
+    },
+    "defense": null
+  }
+}

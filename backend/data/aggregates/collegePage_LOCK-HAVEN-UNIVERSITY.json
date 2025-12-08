@@ -1,0 +1,15 @@
+{
+  "college": "Lock Haven University",
+  "slug": "lock-haven-university",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4698191",
+      "name": "Chris Collier",
+      "position": "RB",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": null
+    }
+  ]
+}

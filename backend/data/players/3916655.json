@@ -1,0 +1,22 @@
+{
+  "id": "3916655",
+  "name": "Maxx Crosby",
+  "position": "DE",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Eastern Michigan",
+  "lastGame": {
+    "gameId": "401772794",
+    "date": "2025-12-07T21:05:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "HOME",
+    "resultText": "L 17–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

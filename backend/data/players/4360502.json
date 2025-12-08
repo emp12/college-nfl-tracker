@@ -1,0 +1,22 @@
+{
+  "id": "4360502",
+  "name": "Kaevon Merriweather",
+  "position": "S",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Iowa",
+  "lastGame": {
+    "gameId": "401772772",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "HOME",
+    "resultText": "L 23–28",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

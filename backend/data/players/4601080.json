@@ -1,0 +1,22 @@
+{
+  "id": "4601080",
+  "name": "Raheim Sanders",
+  "position": "RB",
+  "nfl_team": "Cleveland Browns",
+  "college": "South Carolina",
+  "lastGame": {
+    "gameId": "401772829",
+    "date": "2025-09-07T17:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "HOME",
+    "resultText": "L 16–17",
+    "passing": null,
+    "rushing": {
+      "carries": 3,
+      "yards": 3,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4239934",
+  "name": "AJ Dillon",
+  "position": "RB",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Boston College",
+  "lastGame": {
+    "gameId": "401772940",
+    "date": "2025-10-10T00:15:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "AWAY",
+    "resultText": "L 17–34",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 2,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 18,
+      "td": 0
+    },
+    "defense": null
+  }
+}

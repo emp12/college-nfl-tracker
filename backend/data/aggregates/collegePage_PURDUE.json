@@ -1,0 +1,204 @@
+{
+  "college": "Purdue",
+  "slug": "purdue",
+  "conference": "Big Ten",
+  "group": "Big Ten",
+  "players": [
+    {
+      "id": "4430118",
+      "name": "Sanoussi Kane",
+      "position": "S",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772812",
+        "date": "2025-09-23T00:15:00.000Z",
+        "opponent": "DET",
+        "homeAway": "HOME",
+        "resultText": "L 30–38",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4257188",
+      "name": "Charlie Jones",
+      "position": "WR",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BUF",
+        "homeAway": "AWAY",
+        "resultText": "L 34–39",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4371946",
+      "name": "Reese Taylor",
+      "position": "CB",
+      "nfl_team": "Denver Broncos",
+      "lastGame": null
+    },
+    {
+      "id": "4260409",
+      "name": "Derrick Barnes",
+      "position": "LB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 9–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4426659",
+      "name": "George Karlaftis",
+      "position": "DE",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2576414",
+      "name": "Raheem Mostert",
+      "position": "RB",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 2,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4260394",
+      "name": "Aidan O'Connell",
+      "position": "QB",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": null
+    },
+    {
+      "id": "4372485",
+      "name": "Rondale Moore",
+      "position": "WR",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": null
+    },
+    {
+      "id": "4686362",
+      "name": "Marcus Mbow",
+      "position": "G",
+      "nfl_team": "New York Giants",
+      "lastGame": null
+    },
+    {
+      "id": "4360516",
+      "name": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": null,
+        "rushing": {
+          "carries": 20,
+          "yards": 62,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 3,
+          "yards": 68,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4432237",
+      "name": "Gus Hartwig",
+      "position": "C",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "4372492",
+      "name": "Cory Trice Jr.",
+      "position": "CB",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4570410",
+      "name": "Jalen Graham",
+      "position": "LB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    },
+    {
+      "id": "4372505",
+      "name": "Payne Durham",
+      "position": "TE",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

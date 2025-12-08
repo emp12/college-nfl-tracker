@@ -1,0 +1,22 @@
+{
+  "id": "4249417",
+  "name": "Jalen Tolbert",
+  "position": "WR",
+  "nfl_team": "Dallas Cowboys",
+  "college": "South Alabama",
+  "lastGame": {
+    "gameId": "401772819",
+    "date": "2025-11-18T01:15:00.000Z",
+    "opponent": "LV",
+    "homeAway": "AWAY",
+    "resultText": "W 33–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

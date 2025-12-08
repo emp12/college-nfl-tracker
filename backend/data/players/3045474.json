@@ -1,0 +1,18 @@
+{
+  "id": "3045474",
+  "name": "Wyatt Teller",
+  "position": "G",
+  "nfl_team": "Cleveland Browns",
+  "college": "Virginia Tech",
+  "lastGame": {
+    "gameId": "401772777",
+    "date": "2025-11-16T21:25:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "HOME",
+    "resultText": "L 16–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

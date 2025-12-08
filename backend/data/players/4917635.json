@@ -1,0 +1,22 @@
+{
+  "id": "4917635",
+  "name": "Joshua Williams",
+  "position": "CB",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Fayetteville State",
+  "lastGame": {
+    "gameId": "401772814",
+    "date": "2025-10-07T00:15:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 28–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

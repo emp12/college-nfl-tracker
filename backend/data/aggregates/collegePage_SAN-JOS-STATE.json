@@ -1,0 +1,43 @@
+{
+  "college": "San José State",
+  "slug": "san-jos-state",
+  "conference": "Mountain West",
+  "group": "Mountain West",
+  "players": [
+    {
+      "id": "4570242",
+      "name": "Nick Nash",
+      "position": "WR",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": null
+    },
+    {
+      "id": "15946",
+      "name": "David Quessenberry",
+      "position": "OT",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": null
+    },
+    {
+      "id": "3921690",
+      "name": "Josh Oliver",
+      "position": "TE",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "HOME",
+        "resultText": "W 31–0",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 24,
+          "td": 2
+        },
+        "defense": null
+      }
+    }
+  ]
+}

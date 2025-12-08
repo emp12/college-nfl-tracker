@@ -1,0 +1,57 @@
+{
+  "college": "Central Arkansas",
+  "slug": "central-arkansas",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4032200",
+      "name": "Robert Rochell",
+      "position": "CB",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772834",
+        "date": "2025-09-14T17:00:00.000Z",
+        "opponent": "NYG",
+        "homeAway": "HOME",
+        "resultText": "W 40–37",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3134448",
+      "name": "Tremon Smith",
+      "position": "CB",
+      "nfl_team": "Houston Texans",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "KC",
+        "homeAway": "AWAY",
+        "resultText": "W 20–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "5085355",
+      "name": "David Walker",
+      "position": "LB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

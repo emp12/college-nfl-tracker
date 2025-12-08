@@ -1,0 +1,43 @@
+{
+  "college": "Chattanooga",
+  "slug": "chattanooga",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4692970",
+      "name": "Reuben Lowery III",
+      "position": "S",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772743",
+        "date": "2025-10-05T17:00:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–44",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4051001",
+      "name": "Cole Strange",
+      "position": "G",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "2973637",
+      "name": "Corey Levin",
+      "position": "C",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4686772",
+  "name": "Christian Gonzalez",
+  "position": "CB",
+  "nfl_team": "New England Patriots",
+  "college": "Oregon",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "W 26–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

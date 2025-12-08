@@ -1,0 +1,28 @@
+{
+  "id": "4426338",
+  "name": "Bo Nix",
+  "position": "QB",
+  "nfl_team": "Denver Broncos",
+  "college": "Oregon",
+  "lastGame": {
+    "gameId": "401772794",
+    "date": "2025-12-07T21:05:00.000Z",
+    "opponent": "LV",
+    "homeAway": "AWAY",
+    "resultText": "W 24–17",
+    "passing": {
+      "completions": 31,
+      "attempts": 38,
+      "yards": 212,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 3,
+      "yards": 15,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

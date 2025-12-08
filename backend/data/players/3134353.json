@@ -1,0 +1,22 @@
+{
+  "id": "3134353",
+  "name": "Tim Patrick",
+  "position": "WR",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Utah",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 5,
+      "yards": 78,
+      "td": 1
+    },
+    "defense": null
+  }
+}

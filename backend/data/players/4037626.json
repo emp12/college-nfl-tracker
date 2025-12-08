@@ -1,0 +1,22 @@
+{
+  "id": "4037626",
+  "name": "Divine Deablo",
+  "position": "LB",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Virginia Tech",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "HOME",
+    "resultText": "L 9–37",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 6,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

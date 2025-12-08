@@ -1,0 +1,22 @@
+{
+  "id": "3120347",
+  "name": "Adoree' Jackson",
+  "position": "CB",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "USC",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "W 16–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4361272",
+  "name": "Eku Leota",
+  "position": "LB",
+  "nfl_team": "New Orleans Saints",
+  "college": "Auburn",
+  "lastGame": {
+    "gameId": "401772744",
+    "date": "2025-10-05T17:00:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "HOME",
+    "resultText": "W 26–14",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "3116729",
+  "name": "Garrett Bradbury",
+  "position": "C",
+  "nfl_team": "New England Patriots",
+  "college": "NC State",
+  "lastGame": {
+    "gameId": "401772751",
+    "date": "2025-10-12T17:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "AWAY",
+    "resultText": "W 25–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

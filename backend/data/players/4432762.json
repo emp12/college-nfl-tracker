@@ -1,0 +1,28 @@
+{
+  "id": "4432762",
+  "name": "Shedeur Sanders",
+  "position": "QB",
+  "nfl_team": "Cleveland Browns",
+  "college": "Colorado",
+  "lastGame": {
+    "gameId": "401772898",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 29–31",
+    "passing": {
+      "completions": 23,
+      "attempts": 42,
+      "yards": 364,
+      "td": 3,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 3,
+      "yards": 29,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

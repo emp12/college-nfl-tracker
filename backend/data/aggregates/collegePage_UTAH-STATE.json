@@ -1,0 +1,119 @@
+{
+  "college": "Utah State",
+  "slug": "utah-state",
+  "conference": "Mountain West",
+  "group": "Mountain West",
+  "players": [
+    {
+      "id": "4374187",
+      "name": "Deven Thompkins",
+      "position": "WR",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "HOME",
+        "resultText": "L 9–37",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 4,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "3125356",
+      "name": "Jalen Davis",
+      "position": "CB",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BUF",
+        "homeAway": "AWAY",
+        "resultText": "L 34–39",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4574860",
+      "name": "Kyrese Rowan",
+      "position": "WR",
+      "nfl_team": "Denver Broncos",
+      "lastGame": null
+    },
+    {
+      "id": "4036378",
+      "name": "Jordan Love",
+      "position": "QB",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": {
+          "completions": 17,
+          "attempts": 25,
+          "yards": 234,
+          "td": 3,
+          "int": 1
+        },
+        "rushing": {
+          "carries": 1,
+          "yards": -1,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "5082630",
+      "name": "Jalen Royals",
+      "position": "WR",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "4374196",
+      "name": "Wyatt Bowles",
+      "position": "G",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": null
+    },
+    {
+      "id": "14979",
+      "name": "Bobby Wagner",
+      "position": "LB",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "AWAY",
+        "resultText": "L 0–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 16,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

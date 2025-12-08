@@ -1,0 +1,22 @@
+{
+  "id": "5123663",
+  "name": "Isaac TeSlaa",
+  "position": "WR",
+  "nfl_team": "Detroit Lions",
+  "college": "Arkansas",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 9–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

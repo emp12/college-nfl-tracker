@@ -1,0 +1,22 @@
+{
+  "id": "4360635",
+  "name": "Chig Okonkwo",
+  "position": "TE",
+  "nfl_team": "Tennessee Titans",
+  "college": "Maryland",
+  "lastGame": {
+    "gameId": "401772881",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 56,
+      "td": 0
+    },
+    "defense": null
+  }
+}

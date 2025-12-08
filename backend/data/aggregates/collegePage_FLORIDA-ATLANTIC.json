@@ -1,0 +1,155 @@
+{
+  "college": "Florida Atlantic",
+  "slug": "florida-atlantic",
+  "conference": "AAC",
+  "group": "AAC",
+  "players": [
+    {
+      "id": "4040778",
+      "name": "Brandon Walton",
+      "position": "OT",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": null
+    },
+    {
+      "id": "3052743",
+      "name": "Trey Hendrickson",
+      "position": "DE",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772752",
+        "date": "2025-10-12T20:25:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "L 18–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4040774",
+      "name": "Harrison Bryant",
+      "position": "TE",
+      "nfl_team": "Houston Texans",
+      "lastGame": {
+        "gameId": "401772870",
+        "date": "2025-11-02T18:00:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 15–18",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 2,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "3919117",
+      "name": "Azeez Al-Shaair",
+      "position": "LB",
+      "nfl_team": "Houston Texans",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "KC",
+        "homeAway": "AWAY",
+        "resultText": "W 20–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 1
+        }
+      }
+    },
+    {
+      "id": "4876006",
+      "name": "Zaire Mitchell-Paden",
+      "position": "TE",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772877",
+        "date": "2025-11-09T18:00:00.000Z",
+        "opponent": "CAR",
+        "homeAway": "AWAY",
+        "resultText": "W 17–7",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 14,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4040761",
+      "name": "Devin Singletary",
+      "position": "RB",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": null,
+        "rushing": {
+          "carries": 14,
+          "yards": 47,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4259252",
+      "name": "James Pierre",
+      "position": "CB",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BAL",
+        "homeAway": "AWAY",
+        "resultText": "W 27–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 1
+        }
+      }
+    },
+    {
+      "id": "4612182",
+      "name": "Evan Anderson",
+      "position": "DT",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    },
+    {
+      "id": "4430070",
+      "name": "Federico Maranges",
+      "position": "C",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    }
+  ]
+}

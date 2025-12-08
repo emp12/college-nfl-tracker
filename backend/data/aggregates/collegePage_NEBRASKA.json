@@ -1,0 +1,274 @@
+{
+  "college": "Nebraska",
+  "slug": "nebraska",
+  "conference": "Big Ten",
+  "group": "Big Ten",
+  "players": [
+    {
+      "id": "4259324",
+      "name": "Travis Vokolek",
+      "position": "TE",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772747",
+        "date": "2025-10-05T20:05:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "HOME",
+        "resultText": "L 21–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4361196",
+      "name": "Cam Taylor-Britt",
+      "position": "CB",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772774",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "AWAY",
+        "resultText": "L 12–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3040471",
+      "name": "Maliek Collins",
+      "position": "DT",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772784",
+        "date": "2025-11-23T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 2.5,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4428116",
+      "name": "Isaiah Neyor",
+      "position": "WR",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": null
+    },
+    {
+      "id": "2576336",
+      "name": "Ameer Abdullah",
+      "position": "RB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 19–36",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 4,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 2,
+          "yards": 5,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4240800",
+      "name": "Brenden Jaimes",
+      "position": "G",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    },
+    {
+      "id": "4034862",
+      "name": "Jack Stoll",
+      "position": "TE",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4426407",
+      "name": "Trey Palmer",
+      "position": "WR",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": null
+    },
+    {
+      "id": "4590292",
+      "name": "Thomas Fidone II",
+      "position": "TE",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772757",
+        "date": "2025-10-19T20:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "AWAY",
+        "resultText": "L 32–33",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4361178",
+      "name": "Cam Jurgens",
+      "position": "C",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": {
+        "gameId": "401772845",
+        "date": "2025-09-28T17:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 31–25",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4569586",
+      "name": "Ty Robinson",
+      "position": "DT",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": {
+        "gameId": "401772940",
+        "date": "2025-10-10T00:15:00.000Z",
+        "opponent": "NYG",
+        "homeAway": "AWAY",
+        "resultText": "L 17–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3116097",
+      "name": "Luke Gifford",
+      "position": "LB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 26–42",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4569563",
+      "name": "John Bullock",
+      "position": "LB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "14985",
+      "name": "Lavonte David",
+      "position": "LB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4431153",
+      "name": "Nash Hutmacher",
+      "position": "DT",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    },
+    {
+      "id": "4569202",
+      "name": "Ben Scott",
+      "position": "G",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4362603",
+  "name": "Brenden Bates",
+  "position": "TE",
+  "nfl_team": "Cleveland Browns",
+  "college": "Kentucky",
+  "lastGame": {
+    "gameId": "401772743",
+    "date": "2025-10-05T17:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "W 44–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 23,
+      "td": 0
+    },
+    "defense": null
+  }
+}

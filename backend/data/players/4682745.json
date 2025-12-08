@@ -1,0 +1,26 @@
+{
+  "id": "4682745",
+  "name": "Jaylen Wright",
+  "position": "RB",
+  "nfl_team": "Miami Dolphins",
+  "college": "Tennessee",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 34–10",
+    "passing": null,
+    "rushing": {
+      "carries": 24,
+      "yards": 107,
+      "td": 1
+    },
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

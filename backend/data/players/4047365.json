@@ -1,0 +1,26 @@
+{
+  "id": "4047365",
+  "name": "Josh Jacobs",
+  "position": "RB",
+  "nfl_team": "Green Bay Packers",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772897",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "HOME",
+    "resultText": "W 28–21",
+    "passing": null,
+    "rushing": {
+      "carries": 20,
+      "yards": 86,
+      "td": 1
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 6,
+      "td": 0
+    },
+    "defense": null
+  }
+}

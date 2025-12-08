@@ -1,0 +1,22 @@
+{
+  "id": "4367209",
+  "name": "Greg Dulcich",
+  "position": "TE",
+  "nfl_team": "Miami Dolphins",
+  "college": "UCLA",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 34–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 41,
+      "td": 0
+    },
+    "defense": null
+  }
+}

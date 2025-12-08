@@ -1,0 +1,22 @@
+{
+  "id": "2577327",
+  "name": "Tyler Lockett",
+  "position": "WR",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Kansas State",
+  "lastGame": {
+    "gameId": "401772794",
+    "date": "2025-12-07T21:05:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "HOME",
+    "resultText": "L 17–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 41,
+      "td": 0
+    },
+    "defense": null
+  }
+}

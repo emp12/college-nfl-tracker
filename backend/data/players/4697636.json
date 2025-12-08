@@ -1,0 +1,22 @@
+{
+  "id": "4697636",
+  "name": "Chau Smith-Wade",
+  "position": "CB",
+  "nfl_team": "Carolina Panthers",
+  "college": "Washington State",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 30–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

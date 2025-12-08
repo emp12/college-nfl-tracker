@@ -1,0 +1,78 @@
+{
+  "college": "Charlotte",
+  "slug": "charlotte",
+  "conference": "AAC",
+  "group": "AAC",
+  "players": [
+    {
+      "id": "3050122",
+      "name": "Larry Ogunjobi",
+      "position": "DT",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772946",
+        "date": "2025-11-21T01:15:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "AWAY",
+        "resultText": "L 19–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4037333",
+      "name": "Alex Highsmith",
+      "position": "LB",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BAL",
+        "homeAway": "AWAY",
+        "resultText": "W 27–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 7,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4372098",
+      "name": "Julius Welschof",
+      "position": "LB",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4373706",
+      "name": "Markees Watts",
+      "position": "LB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

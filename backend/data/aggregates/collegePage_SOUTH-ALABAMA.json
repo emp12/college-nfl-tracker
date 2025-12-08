@@ -1,0 +1,130 @@
+{
+  "college": "South Alabama",
+  "slug": "south-alabama",
+  "conference": "Sun Belt",
+  "group": "Sun Belt",
+  "players": [
+    {
+      "id": "4249417",
+      "name": "Jalen Tolbert",
+      "position": "WR",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772819",
+        "date": "2025-11-18T01:15:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 33–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4362260",
+      "name": "Carter Bradley",
+      "position": "QB",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    },
+    {
+      "id": "4572655",
+      "name": "Jeremiah Webb",
+      "position": "WR",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    },
+    {
+      "id": "4892576",
+      "name": "Jamaal Pritchett",
+      "position": "WR",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "3125280",
+      "name": "Corliss Waitman",
+      "position": "P",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BAL",
+        "homeAway": "AWAY",
+        "resultText": "W 27–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4685978",
+      "name": "Darrell Luter Jr.",
+      "position": "CB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772885",
+        "date": "2025-11-16T21:05:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "AWAY",
+        "resultText": "W 41–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4685984",
+      "name": "Jamie Sheriff",
+      "position": "LB",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772886",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "AWAY",
+        "resultText": "W 30–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3125248",
+      "name": "Jeremy Reaves",
+      "position": "S",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "AWAY",
+        "resultText": "L 0–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

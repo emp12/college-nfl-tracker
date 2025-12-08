@@ -1,0 +1,57 @@
+{
+  "college": "Western Illinois",
+  "slug": "western-illinois",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4376288",
+      "name": "LaCale London",
+      "position": "DE",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "HOME",
+        "resultText": "L 9–37",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3121634",
+      "name": "Khalen Saunders",
+      "position": "DT",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "HOME",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4572786",
+      "name": "Dennis Houston",
+      "position": "WR",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

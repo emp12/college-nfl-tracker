@@ -1,0 +1,57 @@
+{
+  "college": "Florida International",
+  "slug": "florida-international",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3914307",
+      "name": "Maurice Alexander",
+      "position": "WR",
+      "nfl_team": "Chicago Bears",
+      "lastGame": null
+    },
+    {
+      "id": "4374269",
+      "name": "Teair Tart",
+      "position": "DT",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": {
+        "gameId": "401772775",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 6–35",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3054212",
+      "name": "Jonnu Smith",
+      "position": "TE",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BAL",
+        "homeAway": "AWAY",
+        "resultText": "W 27–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

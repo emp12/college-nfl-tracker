@@ -1,0 +1,22 @@
+{
+  "id": "4360086",
+  "name": "Josh Whyle",
+  "position": "TE",
+  "nfl_team": "Green Bay Packers",
+  "college": "Cincinnati",
+  "lastGame": {
+    "gameId": "401772897",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "HOME",
+    "resultText": "W 28–21",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 21,
+      "td": 0
+    },
+    "defense": null
+  }
+}

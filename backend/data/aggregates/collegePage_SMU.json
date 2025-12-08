@@ -1,0 +1,319 @@
+{
+  "college": "SMU",
+  "slug": "smu",
+  "conference": "ACC",
+  "group": "ACC",
+  "players": [
+    {
+      "id": "15035",
+      "name": "Kelvin Beachum",
+      "position": "OT",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "3128412",
+      "name": "Evan Brown",
+      "position": "C",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772730",
+        "date": "2025-09-14T20:05:00.000Z",
+        "opponent": "CAR",
+        "homeAway": "HOME",
+        "resultText": "W 27–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4039034",
+      "name": "Shane Buechele",
+      "position": "QB",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": null
+    },
+    {
+      "id": "4427401",
+      "name": "Jared Harrison-Hunte",
+      "position": "DE",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": null
+    },
+    {
+      "id": "4567230",
+      "name": "Justin Osborne",
+      "position": "C",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": null
+    },
+    {
+      "id": "3128429",
+      "name": "Courtland Sutton",
+      "position": "WR",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 6,
+          "yards": 62,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4362524",
+      "name": "Jordan Miller",
+      "position": "DT",
+      "nfl_team": "Denver Broncos",
+      "lastGame": null
+    },
+    {
+      "id": "4428331",
+      "name": "Rashee Rice",
+      "position": "WR",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 4,
+          "yards": 34,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4596602",
+      "name": "Brashard Smith",
+      "position": "RB",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–20",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 7,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4427408",
+      "name": "Jahfari Harvey",
+      "position": "DE",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": null
+    },
+    {
+      "id": "4368113",
+      "name": "Charles Woods",
+      "position": "CB",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "AWAY",
+        "resultText": "W 26–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2575788",
+      "name": "Zach Wood",
+      "position": "LS",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772874",
+        "date": "2025-11-02T21:05:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "AWAY",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4429392",
+      "name": "Elijah Chatman",
+      "position": "DT",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772883",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "GB",
+        "homeAway": "HOME",
+        "resultText": "L 20–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4035824",
+      "name": "Brandon Stephens",
+      "position": "CB",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "HOME",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4241374",
+      "name": "Grant Calcaterra",
+      "position": "TE",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": {
+        "gameId": "401772890",
+        "date": "2025-11-23T21:25:00.000Z",
+        "opponent": "DAL",
+        "homeAway": "AWAY",
+        "resultText": "L 21–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 8,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4039160",
+      "name": "Kylen Granson",
+      "position": "TE",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "DET",
+        "homeAway": "HOME",
+        "resultText": "W 16–9",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 4,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "12701",
+      "name": "Thomas Morstead",
+      "position": "P",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 26–42",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4690795",
+      "name": "Elijah Roberts",
+      "position": "DE",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3916204",
+      "name": "James Proche II",
+      "position": "WR",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": {
+        "gameId": "401772898",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "AWAY",
+        "resultText": "W 31–29",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

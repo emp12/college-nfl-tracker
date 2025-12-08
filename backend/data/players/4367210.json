@@ -1,0 +1,22 @@
+{
+  "id": "4367210",
+  "name": "Otito Ogbonnia",
+  "position": "DT",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "UCLA",
+  "lastGame": {
+    "gameId": "401772750",
+    "date": "2025-10-12T17:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "AWAY",
+    "resultText": "W 29–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

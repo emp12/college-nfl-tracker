@@ -1,0 +1,203 @@
+{
+  "college": "Fresno State",
+  "slug": "fresno-state",
+  "conference": "Mountain West",
+  "group": "Mountain West",
+  "players": [
+    {
+      "id": "4248911",
+      "name": "DaRon Bland",
+      "position": "CB",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772947",
+        "date": "2025-12-05T01:15:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 30–44",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 7,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4426990",
+      "name": "Jalen Cropper",
+      "position": "WR",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772858",
+        "date": "2025-10-12T17:00:00.000Z",
+        "opponent": "CAR",
+        "homeAway": "AWAY",
+        "resultText": "L 27–30",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4428241",
+      "name": "Levelle Bailey",
+      "position": "LB",
+      "nfl_team": "Denver Broncos",
+      "lastGame": null
+    },
+    {
+      "id": "4242996",
+      "name": "Arron Mosby",
+      "position": "DE",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4372716",
+      "name": "Nikko Remigio",
+      "position": "WR",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772779",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 23–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "16800",
+      "name": "Davante Adams",
+      "position": "WR",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "AWAY",
+        "resultText": "W 45–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 4,
+          "yards": 29,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4243003",
+      "name": "Ronnie Rivers",
+      "position": "RB",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "AWAY",
+        "resultText": "W 45–17",
+        "passing": null,
+        "rushing": {
+          "carries": 8,
+          "yards": 41,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4243322",
+      "name": "Jake Haener",
+      "position": "QB",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": null
+    },
+    {
+      "id": "4243009",
+      "name": "Mykal Walker",
+      "position": "LB",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "HOME",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4426921",
+      "name": "Dean Clark",
+      "position": "S",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772769",
+        "date": "2025-11-09T18:00:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "HOME",
+        "resultText": "W 27–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4243004",
+      "name": "Jordan Mims",
+      "position": "RB",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": {
+        "gameId": "401772724",
+        "date": "2025-09-14T17:00:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 19–33",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "college": "Central Michigan",
+  "slug": "central-michigan",
+  "conference": "MAC",
+  "group": "MAC",
+  "players": [
+    {
+      "id": "3932886",
+      "name": "Sean Murphy-Bunting",
+      "position": "CB",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "2972515",
+      "name": "Cooper Rush",
+      "position": "QB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772855",
+        "date": "2025-10-12T17:00:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 3–17",
+        "passing": {
+          "completions": 11,
+          "attempts": 19,
+          "yards": 72,
+          "td": 0,
+          "int": 1
+        },
+        "rushing": {
+          "carries": 1,
+          "yards": 0,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4714157",
+      "name": "Thomas Incoom",
+      "position": "LB",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": {
+        "gameId": "401772882",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "W 30–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4362580",
+      "name": "Bernhard Raimann",
+      "position": "OT",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772851",
+        "date": "2025-10-05T17:00:00.000Z",
+        "opponent": "LV",
+        "homeAway": "HOME",
+        "resultText": "W 40–6",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "3915486",
+      "name": "Tyler Conklin",
+      "position": "TE",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": {
+        "gameId": "401772927",
+        "date": "2025-11-10T01:20:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "W 25–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 12,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4039274",
+      "name": "Jonathan Ward",
+      "position": "RB",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    },
+    {
+      "id": "4428119",
+      "name": "Lew Nichols",
+      "position": "RB",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4608004",
+      "name": "Donte Kent",
+      "position": "CB",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4380507",
+      "name": "Luke Goedeke",
+      "position": "OT",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    },
+    {
+      "id": "4362570",
+      "name": "Joel Wilson",
+      "position": "TE",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    },
+    {
+      "id": "14471",
+      "name": "Nick Bellore",
+      "position": "LB",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772878",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "DET",
+        "homeAway": "HOME",
+        "resultText": "L 22–44",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

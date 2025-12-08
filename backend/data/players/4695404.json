@@ -1,0 +1,26 @@
+{
+  "id": "4695404",
+  "name": "Isaiah Davis",
+  "position": "RB",
+  "nfl_team": "New York Jets",
+  "college": "South Dakota State",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": {
+      "carries": 2,
+      "yards": 22,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "4569587",
+  "name": "Wan'Dale Robinson",
+  "position": "WR",
+  "nfl_team": "New York Giants",
+  "college": "Kentucky",
+  "lastGame": {
+    "gameId": "401772888",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 27–34",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 0,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 9,
+      "yards": 156,
+      "td": 1
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "5081397",
+  "name": "Dylan Sampson",
+  "position": "RB",
+  "nfl_team": "Cleveland Browns",
+  "college": "Tennessee",
+  "lastGame": {
+    "gameId": "401772898",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 29–31",
+    "passing": null,
+    "rushing": {
+      "carries": 2,
+      "yards": 4,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 5,
+      "yards": 64,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

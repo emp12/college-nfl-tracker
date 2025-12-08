@@ -1,0 +1,22 @@
+{
+  "id": "4362580",
+  "name": "Bernhard Raimann",
+  "position": "OT",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Central Michigan",
+  "lastGame": {
+    "gameId": "401772851",
+    "date": "2025-10-05T17:00:00.000Z",
+    "opponent": "LV",
+    "homeAway": "HOME",
+    "resultText": "W 40–6",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

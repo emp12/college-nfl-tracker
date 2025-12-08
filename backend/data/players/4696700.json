@@ -1,0 +1,22 @@
+{
+  "id": "4696700",
+  "name": "Tip Reiman",
+  "position": "TE",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Illinois",
+  "lastGame": {
+    "gameId": "401772747",
+    "date": "2025-10-05T20:05:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 21–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

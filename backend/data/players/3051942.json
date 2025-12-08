@@ -1,0 +1,22 @@
+{
+  "id": "3051942",
+  "name": "Al-Quadin Muhammad",
+  "position": "LB",
+  "nfl_team": "Detroit Lions",
+  "college": "Miami",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 9–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4242557",
+  "name": "Colby Parkinson",
+  "position": "TE",
+  "nfl_team": "Los Angeles Rams",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772901",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "AWAY",
+    "resultText": "W 45–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 32,
+      "td": 1
+    },
+    "defense": null
+  }
+}

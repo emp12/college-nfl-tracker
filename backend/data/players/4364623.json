@@ -1,0 +1,22 @@
+{
+  "id": "4364623",
+  "name": "Patrick O'Connell",
+  "position": "LB",
+  "nfl_team": "Seattle Seahawks",
+  "college": "Montana",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 37–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

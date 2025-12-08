@@ -1,0 +1,22 @@
+{
+  "id": "4686334",
+  "name": "Yaya Diaby",
+  "position": "LB",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Louisville",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 20–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

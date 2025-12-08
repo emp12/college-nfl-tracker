@@ -1,0 +1,22 @@
+{
+  "id": "3925345",
+  "name": "Minkah Fitzpatrick",
+  "position": "S",
+  "nfl_team": "Miami Dolphins",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 34–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

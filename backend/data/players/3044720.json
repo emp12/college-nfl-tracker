@@ -1,0 +1,28 @@
+{
+  "id": "3044720",
+  "name": "Joshua Dobbs",
+  "position": "QB",
+  "nfl_team": "New England Patriots",
+  "college": "Tennessee",
+  "lastGame": {
+    "gameId": "401772755",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "AWAY",
+    "resultText": "W 31–13",
+    "passing": {
+      "completions": 1,
+      "attempts": 1,
+      "yards": 12,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 2,
+      "yards": -2,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

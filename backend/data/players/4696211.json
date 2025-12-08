@@ -1,0 +1,22 @@
+{
+  "id": "4696211",
+  "name": "Malik Mustapha",
+  "position": "S",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Wake Forest",
+  "lastGame": {
+    "gameId": "401772879",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 26–42",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 8,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

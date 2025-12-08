@@ -1,0 +1,24 @@
+{
+  "id": "4428512",
+  "name": "Kedon Slovis",
+  "position": "QB",
+  "nfl_team": "Arizona Cardinals",
+  "college": "BYU",
+  "lastGame": {
+    "gameId": "401772773",
+    "date": "2025-11-09T21:05:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "AWAY",
+    "resultText": "L 22–44",
+    "passing": {
+      "completions": 0,
+      "attempts": 1,
+      "yards": 0,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

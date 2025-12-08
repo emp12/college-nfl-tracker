@@ -1,0 +1,95 @@
+{
+  "college": "Nevada",
+  "slug": "nevada",
+  "conference": "Mountain West",
+  "group": "Mountain West",
+  "players": [
+    {
+      "id": "4430821",
+      "name": "Kitan Crawford",
+      "position": "S",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 17–45",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3056608",
+      "name": "Austin Corbett",
+      "position": "C",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": {
+        "gameId": "401772865",
+        "date": "2025-10-26T17:00:00.000Z",
+        "opponent": "BUF",
+        "homeAway": "HOME",
+        "resultText": "L 9–40",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "16740",
+      "name": "Joel Bitonio",
+      "position": "G",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772726",
+        "date": "2025-09-14T17:00:00.000Z",
+        "opponent": "BAL",
+        "homeAway": "AWAY",
+        "resultText": "L 17–41",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4361432",
+      "name": "Romeo Doubs",
+      "position": "WR",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4361437",
+      "name": "Emany Johnson",
+      "position": "LB",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": null
+    }
+  ]
+}

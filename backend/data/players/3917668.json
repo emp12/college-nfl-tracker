@@ -1,0 +1,22 @@
+{
+  "id": "3917668",
+  "name": "Alec Ingold",
+  "position": "FB",
+  "nfl_team": "Miami Dolphins",
+  "college": "Wisconsin",
+  "lastGame": {
+    "gameId": "401772771",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "HOME",
+    "resultText": "W 30–13",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 6,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

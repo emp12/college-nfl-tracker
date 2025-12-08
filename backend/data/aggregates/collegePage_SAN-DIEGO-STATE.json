@@ -1,0 +1,165 @@
+{
+  "college": "San Diego State",
+  "slug": "san-diego-state",
+  "conference": "Mountain West",
+  "group": "Mountain West",
+  "players": [
+    {
+      "id": "15241",
+      "name": "Aaron Brewer",
+      "position": "LS",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 17–45",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4261606",
+      "name": "Darren Hall",
+      "position": "CB",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 17–45",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4241476",
+      "name": "Tyrell Shavers",
+      "position": "WR",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "HOME",
+        "resultText": "W 39–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 16,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "2976099",
+      "name": "Damontae Kazee",
+      "position": "S",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": null
+    },
+    {
+      "id": "4361510",
+      "name": "Cameron Thomas",
+      "position": "DE",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772784",
+        "date": "2025-11-23T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4260703",
+      "name": "Segun Olubi",
+      "position": "LB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 19–36",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4361496",
+      "name": "Matt Araiza",
+      "position": "P",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "2976117",
+      "name": "Daniel Brunskill",
+      "position": "OT",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4361516",
+      "name": "Daniel Bellinger",
+      "position": "TE",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

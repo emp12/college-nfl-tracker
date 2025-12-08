@@ -1,0 +1,22 @@
+{
+  "id": "3050481",
+  "name": "Tanner Hudson",
+  "position": "TE",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Southern Arkansas",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 34–39",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 11,
+      "td": 0
+    },
+    "defense": null
+  }
+}

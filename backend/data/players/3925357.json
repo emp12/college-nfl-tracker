@@ -1,0 +1,22 @@
+{
+  "id": "3925357",
+  "name": "Calvin Ridley",
+  "position": "WR",
+  "nfl_team": "Tennessee Titans",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772881",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 13,
+      "td": 0
+    },
+    "defense": null
+  }
+}

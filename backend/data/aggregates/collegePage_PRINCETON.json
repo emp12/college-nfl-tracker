@@ -1,0 +1,43 @@
+{
+  "college": "Princeton",
+  "slug": "princeton",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3948283",
+      "name": "Stephen Carlson",
+      "position": "TE",
+      "nfl_team": "Chicago Bears",
+      "lastGame": null
+    },
+    {
+      "id": "4368003",
+      "name": "Andrei Iosivas",
+      "position": "WR",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BUF",
+        "homeAway": "AWAY",
+        "resultText": "L 34–39",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 17,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4367995",
+      "name": "Henry Byrd",
+      "position": "G",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4032473",
+  "name": "Rashid Shaheed",
+  "position": "WR",
+  "nfl_team": "New Orleans Saints",
+  "college": "Weber State",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 37–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 4,
+      "yards": 67,
+      "td": 0
+    },
+    "defense": null
+  }
+}

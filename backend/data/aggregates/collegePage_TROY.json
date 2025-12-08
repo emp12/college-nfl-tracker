@@ -1,0 +1,107 @@
+{
+  "college": "Troy",
+  "slug": "troy",
+  "conference": "Sun Belt",
+  "group": "Sun Belt",
+  "players": [
+    {
+      "id": "4428548",
+      "name": "Javon Solomon",
+      "position": "DE",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772946",
+        "date": "2025-11-21T01:15:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "AWAY",
+        "resultText": "L 19–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4428584",
+      "name": "Reddy Steward",
+      "position": "CB",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772947",
+        "date": "2025-12-05T01:15:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 30–44",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4362732",
+      "name": "Jake Andrews",
+      "position": "C",
+      "nfl_team": "Houston Texans",
+      "lastGame": null
+    },
+    {
+      "id": "4430968",
+      "name": "Kimani Vidal",
+      "position": "RB",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": {
+        "gameId": "401772775",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 6–35",
+        "passing": null,
+        "rushing": {
+          "carries": 5,
+          "yards": 13,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 2,
+          "yards": -1,
+          "td": 0
+        },
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4428232",
+      "name": "Dell Pettus",
+      "position": "S",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772772",
+        "date": "2025-11-09T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 28–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4696882",
+  "name": "Devontez Walker",
+  "position": "WR",
+  "nfl_team": "Baltimore Ravens",
+  "college": "North Carolina",
+  "lastGame": {
+    "gameId": "401772782",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "HOME",
+    "resultText": "W 23–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 30,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

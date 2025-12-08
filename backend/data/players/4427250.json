@@ -1,0 +1,22 @@
+{
+  "id": "4427250",
+  "name": "Sauce Gardner",
+  "position": "CB",
+  "nfl_team": "New York Jets",
+  "college": "Cincinnati",
+  "lastGame": {
+    "gameId": "401772779",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "KC",
+    "homeAway": "AWAY",
+    "resultText": "L 20–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 7,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

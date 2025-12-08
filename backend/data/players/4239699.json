@@ -1,0 +1,22 @@
+{
+  "id": "4239699",
+  "name": "Milton Williams",
+  "position": "DE",
+  "nfl_team": "New England Patriots",
+  "college": "Louisiana Tech",
+  "lastGame": {
+    "gameId": "401772772",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "AWAY",
+    "resultText": "W 28–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

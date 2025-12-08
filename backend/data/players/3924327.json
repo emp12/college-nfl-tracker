@@ -1,0 +1,22 @@
+{
+  "id": "3924327",
+  "name": "Drew Lock",
+  "position": "QB",
+  "nfl_team": "Seattle Seahawks",
+  "college": "Missouri",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 37–9",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 0,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

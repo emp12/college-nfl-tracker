@@ -1,0 +1,22 @@
+{
+  "id": "4360763",
+  "name": "Brycen Tremayne",
+  "position": "WR",
+  "nfl_team": "Carolina Panthers",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 30–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 17,
+      "td": 0
+    },
+    "defense": null
+  }
+}

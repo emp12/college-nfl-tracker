@@ -1,0 +1,22 @@
+{
+  "id": "4427132",
+  "name": "Ikem Ekwonu",
+  "position": "OT",
+  "nfl_team": "Carolina Panthers",
+  "college": "NC State",
+  "lastGame": {
+    "gameId": "401772858",
+    "date": "2025-10-12T17:00:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "HOME",
+    "resultText": "W 30–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4569547",
+  "name": "Nick Kallerup",
+  "position": "TE",
+  "nfl_team": "Seattle Seahawks",
+  "college": "Minnesota",
+  "lastGame": {
+    "gameId": "401772773",
+    "date": "2025-11-09T21:05:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "HOME",
+    "resultText": "W 44–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

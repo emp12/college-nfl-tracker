@@ -1,0 +1,22 @@
+{
+  "id": "4431523",
+  "name": "Connor Colby",
+  "position": "G",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Iowa",
+  "lastGame": {
+    "gameId": "401772924",
+    "date": "2025-10-20T00:20:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "HOME",
+    "resultText": "W 20–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": -1,
+      "td": 0
+    },
+    "defense": null
+  }
+}

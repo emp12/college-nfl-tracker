@@ -1,0 +1,22 @@
+{
+  "id": "16195",
+  "name": "Tony Jefferson",
+  "position": "S",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "Oklahoma",
+  "lastGame": {
+    "gameId": "401772756",
+    "date": "2025-10-19T20:05:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "L 24–38",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 6,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

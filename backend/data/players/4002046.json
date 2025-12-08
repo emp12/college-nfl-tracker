@@ -1,0 +1,22 @@
+{
+  "id": "4002046",
+  "name": "David Onyemata",
+  "position": "DT",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Manitoba",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "HOME",
+    "resultText": "L 9–37",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

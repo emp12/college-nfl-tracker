@@ -1,0 +1,22 @@
+{
+  "id": "2573401",
+  "name": "Tyler Higbee",
+  "position": "TE",
+  "nfl_team": "Los Angeles Rams",
+  "college": "Western Kentucky",
+  "lastGame": {
+    "gameId": "401772879",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "SF",
+    "homeAway": "AWAY",
+    "resultText": "W 42–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 33,
+      "td": 0
+    },
+    "defense": null
+  }
+}

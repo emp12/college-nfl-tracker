@@ -1,0 +1,36 @@
+{
+  "college": "Washburn",
+  "slug": "washburn",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4682831",
+      "name": "Kyle Hinton",
+      "position": "G",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": null
+    },
+    {
+      "id": "4411769",
+      "name": "Corey Ballentine",
+      "position": "CB",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772720",
+        "date": "2025-09-07T17:00:00.000Z",
+        "opponent": "LV",
+        "homeAway": "HOME",
+        "resultText": "L 13–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

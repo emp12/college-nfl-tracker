@@ -1,0 +1,22 @@
+{
+  "id": "3116406",
+  "name": "Tyreek Hill",
+  "position": "WR",
+  "nfl_team": "Miami Dolphins",
+  "college": "West Alabama",
+  "lastGame": {
+    "gameId": "401772728",
+    "date": "2025-09-14T17:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "HOME",
+    "resultText": "L 27–33",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 6,
+      "yards": 109,
+      "td": 0
+    },
+    "defense": null
+  }
+}

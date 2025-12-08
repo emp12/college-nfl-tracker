@@ -1,0 +1,22 @@
+{
+  "id": "4240472",
+  "name": "Noah Gray",
+  "position": "TE",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Duke",
+  "lastGame": {
+    "gameId": "401772932",
+    "date": "2025-12-08T01:20:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 10–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 14,
+      "td": 0
+    },
+    "defense": null
+  }
+}

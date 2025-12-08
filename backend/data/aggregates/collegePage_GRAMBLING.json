@@ -1,0 +1,15 @@
+{
+  "college": "Grambling",
+  "slug": "grambling",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3123303",
+      "name": "Trent Scott",
+      "position": "OT",
+      "nfl_team": "Washington Commanders",
+      "lastGame": null
+    }
+  ]
+}

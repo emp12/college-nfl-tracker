@@ -1,0 +1,28 @@
+{
+  "id": "4429435",
+  "name": "Brady Cook",
+  "position": "QB",
+  "nfl_team": "New York Jets",
+  "college": "Missouri",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": {
+      "completions": 14,
+      "attempts": 30,
+      "yards": 163,
+      "td": 0,
+      "int": 2
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": 0,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

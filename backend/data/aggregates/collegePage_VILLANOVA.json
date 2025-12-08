@@ -1,0 +1,57 @@
+{
+  "college": "Villanova",
+  "slug": "villanova",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4379778",
+      "name": "Christian Benford",
+      "position": "CB",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "HOME",
+        "resultText": "W 39–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 1,
+          "interceptions": 1
+        }
+      }
+    },
+    {
+      "id": "2982313",
+      "name": "Tanoh Kpassagnon",
+      "position": "DE",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772844",
+        "date": "2025-09-21T20:25:00.000Z",
+        "opponent": "DAL",
+        "homeAway": "HOME",
+        "resultText": "W 31–14",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4574105",
+      "name": "Isas Waxter",
+      "position": "CB",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": null
+    }
+  ]
+}

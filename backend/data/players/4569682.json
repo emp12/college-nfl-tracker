@@ -1,0 +1,22 @@
+{
+  "id": "4569682",
+  "name": "Audric Estime",
+  "position": "RB",
+  "nfl_team": "New Orleans Saints",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "AWAY",
+    "resultText": "W 24–20",
+    "passing": null,
+    "rushing": {
+      "carries": 3,
+      "yards": 11,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4372016",
+  "name": "Jaylen Waddle",
+  "position": "WR",
+  "nfl_team": "Miami Dolphins",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 34–10",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 21,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 5,
+      "yards": 50,
+      "td": 1
+    },
+    "defense": null
+  }
+}

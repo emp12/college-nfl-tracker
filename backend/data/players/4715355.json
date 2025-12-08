@@ -1,0 +1,22 @@
+{
+  "id": "4715355",
+  "name": "Darius Cooper",
+  "position": "WR",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Tarleton State",
+  "lastGame": {
+    "gameId": "401772890",
+    "date": "2025-11-23T21:25:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "AWAY",
+    "resultText": "L 21–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 7,
+      "td": 0
+    },
+    "defense": null
+  }
+}

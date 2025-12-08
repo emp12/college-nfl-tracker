@@ -1,0 +1,22 @@
+{
+  "id": "4037559",
+  "name": "Devon Key",
+  "position": "S",
+  "nfl_team": "Denver Broncos",
+  "college": "Western Kentucky",
+  "lastGame": {
+    "gameId": "401772778",
+    "date": "2025-11-16T21:25:00.000Z",
+    "opponent": "KC",
+    "homeAway": "HOME",
+    "resultText": "W 22–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

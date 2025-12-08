@@ -1,0 +1,207 @@
+{
+  "college": "Temple",
+  "slug": "temple",
+  "conference": "AAC",
+  "group": "AAC",
+  "players": [
+    {
+      "id": "3046401",
+      "name": "Keith Kirkwood",
+      "position": "WR",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": null
+    },
+    {
+      "id": "3051324",
+      "name": "Dion Dawkins",
+      "position": "OT",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": null
+    },
+    {
+      "id": "4044133",
+      "name": "Sam Franklin Jr.",
+      "position": "S",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772946",
+        "date": "2025-11-21T01:15:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "AWAY",
+        "resultText": "L 19–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3910229",
+      "name": "Rock Ya-Sin",
+      "position": "CB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 9–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4051353",
+      "name": "Michael Niese",
+      "position": "G",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "16339",
+      "name": "Brandon McManus",
+      "position": "PK",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "3138744",
+      "name": "Chris Myarick",
+      "position": "TE",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4044138",
+      "name": "Matt Hennessy",
+      "position": "C",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    },
+    {
+      "id": "2980504",
+      "name": "Haason Reddick",
+      "position": "LB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4360978",
+      "name": "David Martin-Robinson",
+      "position": "TE",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": {
+        "gameId": "401772881",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 13–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4568617",
+      "name": "Jordan Magee",
+      "position": "LB",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "AWAY",
+        "resultText": "L 0–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3138764",
+      "name": "Jacob Martin",
+      "position": "DE",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "AWAY",
+        "resultText": "L 0–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2574808",
+      "name": "Robbie Chosen",
+      "position": "WR",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772631",
+        "date": "2025-11-16T14:30:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "AWAY",
+        "resultText": "L 13–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2531358",
+  "name": "Chris Manhertz",
+  "position": "TE",
+  "nfl_team": "New York Giants",
+  "college": "Canisius",
+  "lastGame": {
+    "gameId": "401772920",
+    "date": "2025-09-22T00:20:00.000Z",
+    "opponent": "KC",
+    "homeAway": "HOME",
+    "resultText": "L 9–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 7,
+      "td": 0
+    },
+    "defense": null
+  }
+}

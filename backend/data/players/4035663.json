@@ -1,0 +1,22 @@
+{
+  "id": "4035663",
+  "name": "Terrell Burgess",
+  "position": "S",
+  "nfl_team": "New Orleans Saints",
+  "college": "Utah",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "AWAY",
+    "resultText": "W 24–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

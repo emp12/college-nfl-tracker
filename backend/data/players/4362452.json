@@ -1,0 +1,22 @@
+{
+  "id": "4362452",
+  "name": "Jaret Patterson",
+  "position": "RB",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "Buffalo",
+  "lastGame": {
+    "gameId": "401772927",
+    "date": "2025-11-10T01:20:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "W 25–10",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

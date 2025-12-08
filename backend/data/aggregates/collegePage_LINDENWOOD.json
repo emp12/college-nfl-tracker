@@ -1,0 +1,15 @@
+{
+  "college": "Lindenwood",
+  "slug": "lindenwood",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4422407",
+      "name": "Jonathan Harris",
+      "position": "DE",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": null
+    }
+  ]
+}

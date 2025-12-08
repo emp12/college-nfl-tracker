@@ -1,0 +1,22 @@
+{
+  "id": "4685126",
+  "name": "Cody Lindenberg",
+  "position": "LB",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Minnesota",
+  "lastGame": {
+    "gameId": "401772944",
+    "date": "2025-11-07T01:15:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "AWAY",
+    "resultText": "L 7–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

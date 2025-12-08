@@ -1,0 +1,22 @@
+{
+  "id": "4569371",
+  "name": "Isaiah Williams",
+  "position": "WR",
+  "nfl_team": "New York Jets",
+  "college": "Illinois",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 24,
+      "td": 0
+    },
+    "defense": null
+  }
+}

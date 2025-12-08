@@ -1,0 +1,33 @@
+{
+  "college": "Malone",
+  "slug": "malone",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4061956",
+      "name": "Ashton Dulin",
+      "position": "WR",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772779",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "KC",
+        "homeAway": "AWAY",
+        "resultText": "L 20–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 48,
+          "td": 0
+        },
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

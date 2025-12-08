@@ -1,0 +1,22 @@
+{
+  "id": "4372533",
+  "name": "Tyree Wilson",
+  "position": "DE",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Texas Tech",
+  "lastGame": {
+    "gameId": "401772784",
+    "date": "2025-11-23T21:05:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "HOME",
+    "resultText": "L 10–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

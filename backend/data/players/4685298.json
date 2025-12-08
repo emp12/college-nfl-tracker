@@ -1,0 +1,22 @@
+{
+  "id": "4685298",
+  "name": "Will Campbell",
+  "position": "OT",
+  "nfl_team": "New England Patriots",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772732",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "L 14–21",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4360078",
+  "name": "Alec Pierce",
+  "position": "WR",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Cincinnati",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 19–36",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 5,
+      "yards": 80,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

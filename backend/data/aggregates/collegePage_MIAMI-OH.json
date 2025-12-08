@@ -1,0 +1,57 @@
+{
+  "college": "Miami (OH)",
+  "slug": "miami-oh",
+  "conference": "MAC",
+  "group": "MAC",
+  "players": [
+    {
+      "id": "4244300",
+      "name": "Dominique Robinson",
+      "position": "DE",
+      "nfl_team": "Chicago Bears",
+      "lastGame": {
+        "gameId": "401772780",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "W 31–28",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4429951",
+      "name": "Reid Holskey",
+      "position": "OT",
+      "nfl_team": "New York Giants",
+      "lastGame": null
+    },
+    {
+      "id": "4244310",
+      "name": "Mike Brown",
+      "position": "S",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": {
+        "gameId": "401772886",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "HOME",
+        "resultText": "L 24–30",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

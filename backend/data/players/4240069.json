@@ -1,0 +1,22 @@
+{
+  "id": "4240069",
+  "name": "Malik Cunningham",
+  "position": "WR",
+  "nfl_team": "Detroit Lions",
+  "college": "Louisville",
+  "lastGame": {
+    "gameId": "401772947",
+    "date": "2025-12-05T01:15:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "HOME",
+    "resultText": "W 44–30",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

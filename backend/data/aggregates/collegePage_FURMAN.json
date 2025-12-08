@@ -1,0 +1,36 @@
+{
+  "college": "Furman",
+  "slug": "furman",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4911517",
+      "name": "Mason Pline",
+      "position": "TE",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": null
+    },
+    {
+      "id": "4369466",
+      "name": "Ryan Miller",
+      "position": "WR",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

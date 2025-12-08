@@ -1,0 +1,22 @@
+{
+  "id": "16831",
+  "name": "Brent Urban",
+  "position": "DE",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Virginia",
+  "lastGame": {
+    "gameId": "401772777",
+    "date": "2025-11-16T21:25:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "AWAY",
+    "resultText": "W 23–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4429059",
+  "name": "Woody Marks",
+  "position": "RB",
+  "nfl_team": "Houston Texans",
+  "college": "USC",
+  "lastGame": {
+    "gameId": "401772932",
+    "date": "2025-12-08T01:20:00.000Z",
+    "opponent": "KC",
+    "homeAway": "AWAY",
+    "resultText": "W 20–10",
+    "passing": null,
+    "rushing": {
+      "carries": 26,
+      "yards": 68,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 8,
+      "td": 1
+    },
+    "defense": null
+  }
+}

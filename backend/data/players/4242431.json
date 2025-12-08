@@ -1,0 +1,18 @@
+{
+  "id": "4242431",
+  "name": "Ty Chandler",
+  "position": "RB",
+  "nfl_team": "Minnesota Vikings",
+  "college": "North Carolina",
+  "lastGame": {
+    "gameId": "401772810",
+    "date": "2025-09-09T00:15:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "AWAY",
+    "resultText": "W 27–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "11252",
+  "name": "Joe Flacco",
+  "position": "QB",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Delaware",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "HOME",
+    "resultText": "L 20–26",
+    "passing": {
+      "completions": 19,
+      "attempts": 37,
+      "yards": 183,
+      "td": 1,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": 3,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

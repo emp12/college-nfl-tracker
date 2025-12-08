@@ -1,0 +1,92 @@
+{
+  "college": "Eastern Michigan",
+  "slug": "eastern-michigan",
+  "conference": "MAC",
+  "group": "MAC",
+  "players": [
+    {
+      "id": "4363551",
+      "name": "Dylan Drummond",
+      "position": "WR",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "HOME",
+        "resultText": "L 9–37",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 3,
+          "yards": 21,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "2980206",
+      "name": "Pat O'Connor",
+      "position": "DE",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772871",
+        "date": "2025-11-02T18:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "HOME",
+        "resultText": "L 24–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4244826",
+      "name": "Sidy Sow",
+      "position": "G",
+      "nfl_team": "Houston Texans",
+      "lastGame": null
+    },
+    {
+      "id": "3916655",
+      "name": "Maxx Crosby",
+      "position": "DE",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4363554",
+      "name": "Thomas Odukoya",
+      "position": "TE",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    },
+    {
+      "id": "3042702",
+      "name": "Andrew Wylie",
+      "position": "G",
+      "nfl_team": "Washington Commanders",
+      "lastGame": null
+    }
+  ]
+}

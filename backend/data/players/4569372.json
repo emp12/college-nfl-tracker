@@ -1,0 +1,22 @@
+{
+  "id": "4569372",
+  "name": "Dalevon Campbell",
+  "position": "WR",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "South Carolina",
+  "lastGame": {
+    "gameId": "401772838",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "HOME",
+    "resultText": "W 30–0",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3122793",
+  "name": "Harold Landry III",
+  "position": "LB",
+  "nfl_team": "New England Patriots",
+  "college": "Boston College",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "W 26–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

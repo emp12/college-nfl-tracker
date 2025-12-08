@@ -1,0 +1,22 @@
+{
+  "id": "4360807",
+  "name": "Yasir Abdullah",
+  "position": "LB",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Louisville",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "LAC",
+    "homeAway": "HOME",
+    "resultText": "W 35–6",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

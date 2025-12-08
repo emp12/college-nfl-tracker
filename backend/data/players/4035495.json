@@ -1,0 +1,22 @@
+{
+  "id": "4035495",
+  "name": "Derrick Brown",
+  "position": "DE",
+  "nfl_team": "Carolina Panthers",
+  "college": "Auburn",
+  "lastGame": {
+    "gameId": "401772877",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 7–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 9,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

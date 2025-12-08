@@ -1,0 +1,340 @@
+{
+  "college": "BYU",
+  "slug": "byu",
+  "conference": "Big 12",
+  "group": "Big 12",
+  "players": [
+    {
+      "id": "4428512",
+      "name": "Kedon Slovis",
+      "position": "QB",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772773",
+        "date": "2025-11-09T21:05:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "AWAY",
+        "resultText": "L 22–44",
+        "passing": {
+          "completions": 0,
+          "attempts": 1,
+          "yards": 0,
+          "td": 0,
+          "int": 0
+        },
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4373626",
+      "name": "Tyler Allgeier",
+      "position": "RB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "HOME",
+        "resultText": "L 9–37",
+        "passing": null,
+        "rushing": {
+          "carries": 11,
+          "yards": 34,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 2,
+          "yards": 33,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "16772",
+      "name": "Kyle Van Noy",
+      "position": "LB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "L 22–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4256062",
+      "name": "Brady Christensen",
+      "position": "G",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": {
+        "gameId": "401772865",
+        "date": "2025-10-26T17:00:00.000Z",
+        "opponent": "BUF",
+        "homeAway": "HOME",
+        "resultText": "L 9–40",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4608820",
+      "name": "Ryan Rehkow",
+      "position": "P",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BUF",
+        "homeAway": "AWAY",
+        "resultText": "L 34–39",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "3149687",
+      "name": "Chris Brooks",
+      "position": "RB",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 6,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "3932335",
+      "name": "Zayne Anderson",
+      "position": "S",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4429636",
+      "name": "Blake Freeland",
+      "position": "OT",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "4431595",
+      "name": "Kingsley Suamataia",
+      "position": "OT",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "4426515",
+      "name": "Puka Nacua",
+      "position": "WR",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "AWAY",
+        "resultText": "W 45–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 7,
+          "yards": 167,
+          "td": 2
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4361259",
+      "name": "Zach Wilson",
+      "position": "QB",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "AWAY",
+        "resultText": "W 34–10",
+        "passing": null,
+        "rushing": {
+          "carries": 2,
+          "yards": -2,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4608794",
+      "name": "Tyler Batty",
+      "position": "LB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772887",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "L 6–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3138834",
+      "name": "Sione Takitaki",
+      "position": "LB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": null
+    },
+    {
+      "id": "4256074",
+      "name": "Khyiris Tonga",
+      "position": "DT",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "AWAY",
+        "resultText": "W 26–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2468609",
+      "name": "Taysom Hill",
+      "position": "QB",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": {
+          "carries": 2,
+          "yards": -1,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3053795",
+      "name": "Michael Davis",
+      "position": "CB",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4612272",
+      "name": "Jakob Robinson",
+      "position": "CB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    },
+    {
+      "id": "3138826",
+      "name": "Fred Warner",
+      "position": "LB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772749",
+        "date": "2025-10-12T20:25:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "L 19–30",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

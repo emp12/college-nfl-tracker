@@ -1,0 +1,22 @@
+{
+  "id": "4040774",
+  "name": "Harrison Bryant",
+  "position": "TE",
+  "nfl_team": "Houston Texans",
+  "college": "Florida Atlantic",
+  "lastGame": {
+    "gameId": "401772870",
+    "date": "2025-11-02T18:00:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "HOME",
+    "resultText": "L 15–18",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 2,
+      "td": 0
+    },
+    "defense": null
+  }
+}

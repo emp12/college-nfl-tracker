@@ -1,0 +1,18 @@
+{
+  "id": "4362081",
+  "name": "Cameron Dicker",
+  "position": "PK",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "Texas",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 6–35",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

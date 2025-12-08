@@ -1,0 +1,22 @@
+{
+  "id": "4360797",
+  "name": "Tutu Atwell",
+  "position": "WR",
+  "nfl_team": "Los Angeles Rams",
+  "college": "Louisville",
+  "lastGame": {
+    "gameId": "401772939",
+    "date": "2025-10-03T00:15:00.000Z",
+    "opponent": "SF",
+    "homeAway": "HOME",
+    "resultText": "L 23–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 72,
+      "td": 0
+    },
+    "defense": null
+  }
+}

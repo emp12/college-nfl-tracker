@@ -1,0 +1,22 @@
+{
+  "id": "3892883",
+  "name": "Neville Gallimore",
+  "position": "DT",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Oklahoma",
+  "lastGame": {
+    "gameId": "401772779",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "KC",
+    "homeAway": "AWAY",
+    "resultText": "L 20–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

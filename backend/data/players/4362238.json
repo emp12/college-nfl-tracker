@@ -1,0 +1,26 @@
+{
+  "id": "4362238",
+  "name": "Chase Brown",
+  "position": "RB",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Illinois",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 34–39",
+    "passing": null,
+    "rushing": {
+      "carries": 12,
+      "yards": 23,
+      "td": 1
+    },
+    "receiving": {
+      "receptions": 3,
+      "yards": 12,
+      "td": 1
+    },
+    "defense": null
+  }
+}

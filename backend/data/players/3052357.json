@@ -1,0 +1,18 @@
+{
+  "id": "3052357",
+  "name": "Trent Sieg",
+  "position": "LS",
+  "nfl_team": "Dallas Cowboys",
+  "college": "Colorado State",
+  "lastGame": {
+    "gameId": "401772890",
+    "date": "2025-11-23T21:25:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "HOME",
+    "resultText": "W 24–21",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

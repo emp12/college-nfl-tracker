@@ -1,0 +1,113 @@
+{
+  "college": "Louisiana Tech",
+  "slug": "louisiana-tech",
+  "conference": "C-USA",
+  "group": "C-USA",
+  "players": [
+    {
+      "id": "4239694",
+      "name": "Amik Robertson",
+      "position": "CB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 9–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4431142",
+      "name": "Jimmy Holiday",
+      "position": "WR",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "4875786",
+      "name": "Tru Edwards",
+      "position": "WR",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": null
+    },
+    {
+      "id": "4239699",
+      "name": "Milton Williams",
+      "position": "DE",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772772",
+        "date": "2025-11-09T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 28–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3040569",
+      "name": "Trent Taylor",
+      "position": "WR",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    },
+    {
+      "id": "3040572",
+      "name": "Xavier Woods",
+      "position": "S",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": {
+        "gameId": "401772898",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "AWAY",
+        "resultText": "W 31–29",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 1
+        }
+      }
+    },
+    {
+      "id": "4040432",
+      "name": "L'Jarius Sneed",
+      "position": "CB",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": {
+        "gameId": "401772755",
+        "date": "2025-10-19T17:00:00.000Z",
+        "opponent": "NE",
+        "homeAway": "HOME",
+        "resultText": "L 13–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

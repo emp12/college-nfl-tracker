@@ -1,0 +1,22 @@
+{
+  "id": "4372019",
+  "name": "Jerome Ford",
+  "position": "RB",
+  "nfl_team": "Cleveland Browns",
+  "college": "Cincinnati",
+  "lastGame": {
+    "gameId": "401772898",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 29–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 10,
+      "td": 0
+    },
+    "defense": null
+  }
+}

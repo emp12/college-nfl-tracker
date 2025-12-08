@@ -1,0 +1,22 @@
+{
+  "id": "4033234",
+  "name": "Michael Hoecht",
+  "position": "DE",
+  "nfl_team": "Buffalo Bills",
+  "college": "Brown",
+  "lastGame": {
+    "gameId": "401772865",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "AWAY",
+    "resultText": "W 40–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 1.5,
+      "interceptions": 0
+    }
+  }
+}

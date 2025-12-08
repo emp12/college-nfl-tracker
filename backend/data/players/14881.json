@@ -1,0 +1,28 @@
+{
+  "id": "14881",
+  "name": "Russell Wilson",
+  "position": "QB",
+  "nfl_team": "New York Giants",
+  "college": "Wisconsin",
+  "lastGame": {
+    "gameId": "401772875",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "AWAY",
+    "resultText": "L 20–24",
+    "passing": {
+      "completions": 3,
+      "attempts": 7,
+      "yards": 45,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 2,
+      "yards": 12,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

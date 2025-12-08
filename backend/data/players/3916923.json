@@ -1,0 +1,22 @@
+{
+  "id": "3916923",
+  "name": "Carlton Davis III",
+  "position": "CB",
+  "nfl_team": "New England Patriots",
+  "college": "Auburn",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "W 26–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 8,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4692835",
+  "name": "Jalen Brooks",
+  "position": "WR",
+  "nfl_team": "Arizona Cardinals",
+  "college": "South Carolina",
+  "lastGame": {
+    "gameId": "401772901",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 17–45",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 32,
+      "td": 0
+    },
+    "defense": null
+  }
+}

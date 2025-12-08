@@ -1,0 +1,22 @@
+{
+  "id": "4372459",
+  "name": "Christian Izien",
+  "position": "S",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Rutgers",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 20–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 8,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

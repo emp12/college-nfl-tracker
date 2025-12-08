@@ -1,0 +1,36 @@
+{
+  "college": "Sioux Falls",
+  "slug": "sioux-falls",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4334300",
+      "name": "Dennis Gardeck",
+      "position": "LB",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4411189",
+      "name": "Trey Pipkins III",
+      "position": "G",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4044133",
+  "name": "Sam Franklin Jr.",
+  "position": "S",
+  "nfl_team": "Buffalo Bills",
+  "college": "Temple",
+  "lastGame": {
+    "gameId": "401772946",
+    "date": "2025-11-21T01:15:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "AWAY",
+    "resultText": "L 19–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

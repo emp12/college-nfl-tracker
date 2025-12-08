@@ -1,0 +1,22 @@
+{
+  "id": "4565350",
+  "name": "Jay Higgins IV",
+  "position": "LB",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Iowa",
+  "lastGame": {
+    "gameId": "401772876",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "W 27–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

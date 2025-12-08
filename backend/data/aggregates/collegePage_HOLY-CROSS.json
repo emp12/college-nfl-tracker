@@ -1,0 +1,60 @@
+{
+  "college": "Holy Cross",
+  "slug": "holy-cross",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4695883",
+      "name": "Jalen Coker",
+      "position": "WR",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": {
+        "gameId": "401772882",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "W 30–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 4,
+          "yards": 52,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4368056",
+      "name": "Liam Anderson",
+      "position": "LB",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": null
+    },
+    {
+      "id": "2973405",
+      "name": "Kalif Raymond",
+      "position": "WR",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 9–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4571810",
+      "name": "C.J. Hanson",
+      "position": "G",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    }
+  ]
+}

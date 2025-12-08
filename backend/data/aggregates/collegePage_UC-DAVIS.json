@@ -1,0 +1,32 @@
+{
+  "college": "UC Davis",
+  "slug": "uc-davis",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4248789",
+      "name": "Daniel Whelan",
+      "position": "P",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4698253",
+      "name": "Lan Larison",
+      "position": "RB",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    }
+  ]
+}

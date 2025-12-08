@@ -1,0 +1,22 @@
+{
+  "id": "4426359",
+  "name": "DeMarvin Leal",
+  "position": "DE",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Texas A&M",
+  "lastGame": {
+    "gameId": "401772732",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "AWAY",
+    "resultText": "W 21–14",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

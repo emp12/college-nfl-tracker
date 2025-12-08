@@ -1,0 +1,50 @@
+{
+  "college": "Missouri State",
+  "slug": "missouri-state",
+  "conference": "C-USA",
+  "group": "C-USA",
+  "players": [
+    {
+      "id": "4050971",
+      "name": "Eric Johnson II",
+      "position": "DT",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772733",
+        "date": "2025-09-21T17:00:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "AWAY",
+        "resultText": "W 41–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4428943",
+      "name": "Jacardia Wright",
+      "position": "RB",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772736",
+        "date": "2025-09-21T20:05:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "W 44–13",
+        "passing": null,
+        "rushing": {
+          "carries": 5,
+          "yards": 20,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    }
+  ]
+}

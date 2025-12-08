@@ -1,0 +1,22 @@
+{
+  "id": "4431466",
+  "name": "Jordan Watkins",
+  "position": "WR",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Ole Miss",
+  "lastGame": {
+    "gameId": "401772866",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "AWAY",
+    "resultText": "L 15–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 7,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4379399",
+  "name": "James Cook III",
+  "position": "RB",
+  "nfl_team": "Buffalo Bills",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "HOME",
+    "resultText": "W 39–34",
+    "passing": null,
+    "rushing": {
+      "carries": 18,
+      "yards": 80,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 31,
+      "td": 0
+    },
+    "defense": null
+  }
+}

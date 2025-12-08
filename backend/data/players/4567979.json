@@ -1,0 +1,22 @@
+{
+  "id": "4567979",
+  "name": "Brandin Echols",
+  "position": "CB",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Kentucky",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "W 27–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4429795",
+  "name": "Jahmyr Gibbs",
+  "position": "RB",
+  "nfl_team": "Detroit Lions",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 9–16",
+    "passing": null,
+    "rushing": {
+      "carries": 12,
+      "yards": 39,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 5,
+      "yards": 107,
+      "td": 0
+    },
+    "defense": null
+  }
+}

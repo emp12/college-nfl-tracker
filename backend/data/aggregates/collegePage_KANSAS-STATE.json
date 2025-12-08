@@ -1,0 +1,285 @@
+{
+  "college": "Kansas State",
+  "slug": "kansas-state",
+  "conference": "Big 12",
+  "group": "Big 12",
+  "players": [
+    {
+      "id": "3125082",
+      "name": "Dalton Risner",
+      "position": "G",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BUF",
+        "homeAway": "AWAY",
+        "resultText": "L 34–39",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4240071",
+      "name": "Russ Yeast",
+      "position": "S",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": null
+    },
+    {
+      "id": "4373079",
+      "name": "KT Leveston",
+      "position": "OT",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772846",
+        "date": "2025-09-28T17:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "17202",
+      "name": "Cornelius Lucas",
+      "position": "OT",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": null
+    },
+    {
+      "id": "4426663",
+      "name": "Cooper Beebe",
+      "position": "C",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": null
+    },
+    {
+      "id": "4431453",
+      "name": "Deuce Vaughn",
+      "position": "RB",
+      "nfl_team": "Denver Broncos",
+      "lastGame": null
+    },
+    {
+      "id": "3139387",
+      "name": "D.J. Reed",
+      "position": "CB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772947",
+        "date": "2025-12-05T01:15:00.000Z",
+        "opponent": "DAL",
+        "homeAway": "HOME",
+        "resultText": "W 44–30",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 8,
+          "sacks": 0,
+          "interceptions": 1
+        }
+      }
+    },
+    {
+      "id": "4874509",
+      "name": "DJ Giddens",
+      "position": "RB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772851",
+        "date": "2025-10-05T17:00:00.000Z",
+        "opponent": "LV",
+        "homeAway": "HOME",
+        "resultText": "W 40–6",
+        "passing": null,
+        "rushing": {
+          "carries": 5,
+          "yards": 22,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4612387",
+      "name": "Felix Anudike-Uzomah",
+      "position": "DE",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "2577327",
+      "name": "Tyler Lockett",
+      "position": "WR",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 3,
+          "yards": 41,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4360488",
+      "name": "JuJu Brents",
+      "position": "CB",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772631",
+        "date": "2025-11-16T14:30:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "HOME",
+        "resultText": "W 16–13",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4696488",
+      "name": "Easton Kilty",
+      "position": "OT",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": null
+    },
+    {
+      "id": "4036419",
+      "name": "Skylar Thompson",
+      "position": "QB",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4361182",
+      "name": "Adrian Martinez",
+      "position": "QB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    },
+    {
+      "id": "4693337",
+      "name": "Marques Sigle",
+      "position": "S",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772885",
+        "date": "2025-11-16T21:05:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "AWAY",
+        "resultText": "W 41–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4248533",
+      "name": "Josh Hayes",
+      "position": "CB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772776",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "BUF",
+        "homeAway": "AWAY",
+        "resultText": "L 32–44",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4912847",
+      "name": "Jacob Parrish",
+      "position": "CB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4045701",
+      "name": "Timmy Horne",
+      "position": "DT",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    },
+    {
+      "id": "4690923",
+      "name": "Ben Sinnott",
+      "position": "TE",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "AWAY",
+        "resultText": "L 0–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 8,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

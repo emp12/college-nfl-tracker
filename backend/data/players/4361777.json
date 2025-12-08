@@ -1,0 +1,26 @@
+{
+  "id": "4361777",
+  "name": "Zamir White",
+  "position": "RB",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772841",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "AWAY",
+    "resultText": "L 24–41",
+    "passing": null,
+    "rushing": {
+      "carries": 5,
+      "yards": 19,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 4,
+      "td": 0
+    },
+    "defense": null
+  }
+}

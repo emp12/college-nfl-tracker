@@ -1,0 +1,22 @@
+{
+  "id": "3139389",
+  "name": "D'Angelo Ross",
+  "position": "CB",
+  "nfl_team": "Houston Texans",
+  "college": "New Mexico",
+  "lastGame": {
+    "gameId": "401772784",
+    "date": "2025-11-23T21:05:00.000Z",
+    "opponent": "LV",
+    "homeAway": "AWAY",
+    "resultText": "W 24–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

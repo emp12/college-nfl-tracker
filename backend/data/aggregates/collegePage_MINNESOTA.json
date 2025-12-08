@@ -1,0 +1,432 @@
+{
+  "college": "Minnesota",
+  "slug": "minnesota",
+  "conference": "Big Ten",
+  "group": "Big Ten",
+  "players": [
+    {
+      "id": "4360939",
+      "name": "Rashod Bateman",
+      "position": "WR",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "L 22–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 23,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4360964",
+      "name": "Daniel Faalele",
+      "position": "G",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": null
+    },
+    {
+      "id": "4360935",
+      "name": "Terell Smith",
+      "position": "CB",
+      "nfl_team": "Chicago Bears",
+      "lastGame": null
+    },
+    {
+      "id": "4360967",
+      "name": "Brevyn Spann-Ford",
+      "position": "TE",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772947",
+        "date": "2025-12-05T01:15:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 30–44",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 7,
+          "td": 0
+        },
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4429693",
+      "name": "Aireontae Ersery",
+      "position": "OT",
+      "nfl_team": "Houston Texans",
+      "lastGame": null
+    },
+    {
+      "id": "4682909",
+      "name": "Justin Walley",
+      "position": "CB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "2517081",
+      "name": "Jack Wilson",
+      "position": "OT",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "4573319",
+      "name": "Danny Striggow",
+      "position": "DE",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2970716",
+      "name": "Eric Murray",
+      "position": "S",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4685126",
+      "name": "Cody Lindenberg",
+      "position": "LB",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772944",
+        "date": "2025-11-07T01:15:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "AWAY",
+        "resultText": "L 7–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4258206",
+      "name": "Benjamin St-Juste",
+      "position": "CB",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": {
+        "gameId": "401772775",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 6–35",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4876614",
+      "name": "Ethan Robinson",
+      "position": "CB",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4573398",
+      "name": "Max Brosmer",
+      "position": "QB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772633",
+        "date": "2025-10-05T13:30:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "AWAY",
+        "resultText": "W 21–17",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": -1,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "3728281",
+      "name": "Blake Cashman",
+      "position": "LB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "HOME",
+        "resultText": "W 31–0",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 10,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4249739",
+      "name": "Jack Gibbens",
+      "position": "LB",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "AWAY",
+        "resultText": "W 26–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4360949",
+      "name": "Jordan Howden",
+      "position": "S",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4240771",
+      "name": "John Michael Schmitz Jr.",
+      "position": "C",
+      "nfl_team": "New York Giants",
+      "lastGame": null
+    },
+    {
+      "id": "4430261",
+      "name": "Tyler Nubin",
+      "position": "S",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772875",
+        "date": "2025-11-09T18:00:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "AWAY",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 7,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2310331",
+      "name": "Tyler Johnson",
+      "position": "WR",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772769",
+        "date": "2025-11-09T18:00:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "HOME",
+        "resultText": "W 27–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4240759",
+      "name": "Esezi Otomewo",
+      "position": "DE",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BAL",
+        "homeAway": "AWAY",
+        "resultText": "W 27–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4573443",
+      "name": "Kyler Baugh",
+      "position": "DT",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4696820",
+      "name": "Jack Henderson",
+      "position": "S",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4569547",
+      "name": "Nick Kallerup",
+      "position": "TE",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772773",
+        "date": "2025-11-09T21:05:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "HOME",
+        "resultText": "W 44–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4240754",
+      "name": "Boye Mafe",
+      "position": "LB",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "W 37–9",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4034790",
+      "name": "Antoine Winfield Jr.",
+      "position": "S",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4034779",
+      "name": "Ko Kieft",
+      "position": "TE",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772840",
+        "date": "2025-09-21T17:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "HOME",
+        "resultText": "W 29–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

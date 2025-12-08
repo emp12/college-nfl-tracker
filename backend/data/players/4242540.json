@@ -1,0 +1,22 @@
+{
+  "id": "4242540",
+  "name": "Isaiah Hodgins",
+  "position": "WR",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Oregon State",
+  "lastGame": {
+    "gameId": "401772888",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 27–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 42,
+      "td": 1
+    },
+    "defense": null
+  }
+}

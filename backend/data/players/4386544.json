@@ -1,0 +1,22 @@
+{
+  "id": "4386544",
+  "name": "Xavier Smith",
+  "position": "WR",
+  "nfl_team": "Los Angeles Rams",
+  "college": "Florida A&M",
+  "lastGame": {
+    "gameId": "401772901",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "AWAY",
+    "resultText": "W 45–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 6,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4685382",
+  "name": "Omarion Hampton",
+  "position": "RB",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "North Carolina",
+  "lastGame": {
+    "gameId": "401772853",
+    "date": "2025-10-05T20:25:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "HOME",
+    "resultText": "L 10–27",
+    "passing": null,
+    "rushing": {
+      "carries": 12,
+      "yards": 44,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 6,
+      "yards": 26,
+      "td": 0
+    },
+    "defense": null
+  }
+}

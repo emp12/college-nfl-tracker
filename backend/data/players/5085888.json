@@ -1,0 +1,22 @@
+{
+  "id": "5085888",
+  "name": "Easton Mascarenas-Arnold",
+  "position": "LB",
+  "nfl_team": "Cleveland Browns",
+  "college": "USC",
+  "lastGame": {
+    "gameId": "401772769",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "L 20–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

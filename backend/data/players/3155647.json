@@ -1,0 +1,22 @@
+{
+  "id": "3155647",
+  "name": "Mike Edwards",
+  "position": "S",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Kentucky",
+  "lastGame": {
+    "gameId": "401772932",
+    "date": "2025-12-08T01:20:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 10–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 7,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

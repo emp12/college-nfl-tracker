@@ -1,0 +1,22 @@
+{
+  "id": "4876017",
+  "name": "Carson Schwesinger",
+  "position": "LB",
+  "nfl_team": "Cleveland Browns",
+  "college": "UCLA",
+  "lastGame": {
+    "gameId": "401772898",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 29–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 13,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

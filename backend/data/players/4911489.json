@@ -1,0 +1,22 @@
+{
+  "id": "4911489",
+  "name": "Caleb Murphy",
+  "position": "LB",
+  "nfl_team": "New England Patriots",
+  "college": "Ferris State",
+  "lastGame": {
+    "gameId": "401772853",
+    "date": "2025-10-05T20:25:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "HOME",
+    "resultText": "L 10–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

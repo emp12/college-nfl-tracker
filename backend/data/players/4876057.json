@@ -1,0 +1,22 @@
+{
+  "id": "4876057",
+  "name": "Oluwafemi Oladejo",
+  "position": "LB",
+  "nfl_team": "Tennessee Titans",
+  "college": "UCLA",
+  "lastGame": {
+    "gameId": "401772859",
+    "date": "2025-10-12T20:05:00.000Z",
+    "opponent": "LV",
+    "homeAway": "AWAY",
+    "resultText": "L 10–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

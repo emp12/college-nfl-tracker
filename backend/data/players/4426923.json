@@ -1,0 +1,22 @@
+{
+  "id": "4426923",
+  "name": "Kei'Trel Clark",
+  "position": "CB",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Louisville",
+  "lastGame": {
+    "gameId": "401772885",
+    "date": "2025-11-16T21:05:00.000Z",
+    "opponent": "SF",
+    "homeAway": "HOME",
+    "resultText": "L 22–41",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

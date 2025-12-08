@@ -1,0 +1,18 @@
+{
+  "id": "4430957",
+  "name": "Tanor Bortolini",
+  "position": "C",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Wisconsin",
+  "lastGame": {
+    "gameId": "401772636",
+    "date": "2025-11-09T14:30:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "HOME",
+    "resultText": "W 31–25",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

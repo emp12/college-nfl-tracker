@@ -1,0 +1,221 @@
+{
+  "college": "Texas Tech",
+  "slug": "texas-tech",
+  "conference": "Big 12",
+  "group": "Big 12",
+  "players": [
+    {
+      "id": "4428633",
+      "name": "Dadrion Taylor-Demerson",
+      "position": "S",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772773",
+        "date": "2025-11-09T21:05:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "AWAY",
+        "resultText": "L 22–44",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3915837",
+      "name": "Broderick Washington Jr.",
+      "position": "DT",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772812",
+        "date": "2025-09-23T00:15:00.000Z",
+        "opponent": "DET",
+        "homeAway": "HOME",
+        "resultText": "L 30–38",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4429299",
+      "name": "Tahj Brooks",
+      "position": "RB",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "NE",
+        "homeAway": "HOME",
+        "resultText": "L 20–26",
+        "passing": null,
+        "rushing": {
+          "carries": 2,
+          "yards": 5,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4575559",
+      "name": "Bralyn Lux",
+      "position": "CB",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": null
+    },
+    {
+      "id": "3915834",
+      "name": "Terence Steele",
+      "position": "OT",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": null
+    },
+    {
+      "id": "4575558",
+      "name": "Josh Kelly",
+      "position": "WR",
+      "nfl_team": "Houston Texans",
+      "lastGame": null
+    },
+    {
+      "id": "3139477",
+      "name": "Patrick Mahomes",
+      "position": "QB",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–20",
+        "passing": {
+          "completions": 14,
+          "attempts": 33,
+          "yards": 160,
+          "td": 0,
+          "int": 3
+        },
+        "rushing": {
+          "carries": 7,
+          "yards": 59,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 1,
+          "yards": -10,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4433889",
+      "name": "Caleb Rogers",
+      "position": "G",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": null
+    },
+    {
+      "id": "4372533",
+      "name": "Tyree Wilson",
+      "position": "DE",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772784",
+        "date": "2025-11-23T21:05:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "HOME",
+        "resultText": "L 10–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4043130",
+      "name": "Jordyn Brooks",
+      "position": "LB",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "AWAY",
+        "resultText": "W 34–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4431044",
+      "name": "Jalin Conyers",
+      "position": "TE",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4427982",
+      "name": "Austin McNamara",
+      "position": "P",
+      "nfl_team": "New York Jets",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "HOME",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4572460",
+      "name": "Tyler Owens",
+      "position": "S",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "AWAY",
+        "resultText": "L 0–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

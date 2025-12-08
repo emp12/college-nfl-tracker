@@ -1,0 +1,7751 @@
+{
+  "week": "2025-M12-W2",
+  "lastUpdated": "2025-12-08T18:51:19.623Z",
+  "conferenceGroups": {
+    "SEC": [
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "numPlayers": 67
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "numPlayers": 63
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "numPlayers": 55
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "numPlayers": 49
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "numPlayers": 43
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "numPlayers": 41
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "numPlayers": 37
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "numPlayers": 36
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "numPlayers": 35
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "numPlayers": 34
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "numPlayers": 31
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "numPlayers": 26
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "numPlayers": 25
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "numPlayers": 23
+      },
+      {
+        "college": "Mississippi State",
+        "slug": "mississippi-state",
+        "numPlayers": 20
+      },
+      {
+        "college": "Vanderbilt",
+        "slug": "vanderbilt",
+        "numPlayers": 8
+      }
+    ],
+    "Big Ten": [
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "numPlayers": 71
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "numPlayers": 54
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "numPlayers": 46
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "numPlayers": 46
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "numPlayers": 39
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "numPlayers": 38
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "numPlayers": 36
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "numPlayers": 36
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "numPlayers": 32
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "numPlayers": 27
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "numPlayers": 26
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "numPlayers": 25
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "numPlayers": 20
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "numPlayers": 17
+      },
+      {
+        "college": "Nebraska",
+        "slug": "nebraska",
+        "numPlayers": 16
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "numPlayers": 14
+      },
+      {
+        "college": "Indiana",
+        "slug": "indiana",
+        "numPlayers": 13
+      },
+      {
+        "college": "Northwestern",
+        "slug": "northwestern",
+        "numPlayers": 13
+      }
+    ],
+    "Big 12": [
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "numPlayers": 29
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "numPlayers": 28
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "numPlayers": 22
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "numPlayers": 21
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "numPlayers": 21
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "numPlayers": 19
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "numPlayers": 18
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "numPlayers": 18
+      },
+      {
+        "college": "Baylor",
+        "slug": "baylor",
+        "numPlayers": 17
+      },
+      {
+        "college": "Colorado",
+        "slug": "colorado",
+        "numPlayers": 16
+      },
+      {
+        "college": "Houston",
+        "slug": "houston",
+        "numPlayers": 16
+      },
+      {
+        "college": "West Virginia",
+        "slug": "west-virginia",
+        "numPlayers": 16
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "numPlayers": 13
+      },
+      {
+        "college": "Arizona",
+        "slug": "arizona",
+        "numPlayers": 12
+      },
+      {
+        "college": "Arizona State",
+        "slug": "arizona-state",
+        "numPlayers": 9
+      },
+      {
+        "college": "Kansas",
+        "slug": "kansas",
+        "numPlayers": 9
+      }
+    ],
+    "ACC": [
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "numPlayers": 34
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "numPlayers": 30
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "numPlayers": 29
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "numPlayers": 27
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "numPlayers": 27
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "numPlayers": 24
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "numPlayers": 23
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "numPlayers": 21
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "numPlayers": 19
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "numPlayers": 19
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "numPlayers": 18
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "numPlayers": 18
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "numPlayers": 16
+      },
+      {
+        "college": "Wake Forest",
+        "slug": "wake-forest",
+        "numPlayers": 16
+      },
+      {
+        "college": "Virginia",
+        "slug": "virginia",
+        "numPlayers": 12
+      },
+      {
+        "college": "Georgia Tech",
+        "slug": "georgia-tech",
+        "numPlayers": 10
+      }
+    ],
+    "AAC": [
+      {
+        "college": "Memphis",
+        "slug": "memphis",
+        "numPlayers": 14
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "numPlayers": 13
+      },
+      {
+        "college": "Tulane",
+        "slug": "tulane",
+        "numPlayers": 13
+      },
+      {
+        "college": "Florida Atlantic",
+        "slug": "florida-atlantic",
+        "numPlayers": 9
+      },
+      {
+        "college": "UTSA",
+        "slug": "utsa",
+        "numPlayers": 9
+      },
+      {
+        "college": "Rice",
+        "slug": "rice",
+        "numPlayers": 8
+      },
+      {
+        "college": "Army",
+        "slug": "army",
+        "numPlayers": 6
+      },
+      {
+        "college": "East Carolina",
+        "slug": "east-carolina",
+        "numPlayers": 5
+      },
+      {
+        "college": "Tulsa",
+        "slug": "tulsa",
+        "numPlayers": 5
+      },
+      {
+        "college": "UAB",
+        "slug": "uab",
+        "numPlayers": 5
+      },
+      {
+        "college": "Charlotte",
+        "slug": "charlotte",
+        "numPlayers": 4
+      },
+      {
+        "college": "South Florida",
+        "slug": "south-florida",
+        "numPlayers": 4
+      },
+      {
+        "college": "Navy",
+        "slug": "navy",
+        "numPlayers": 2
+      },
+      {
+        "college": "North Texas",
+        "slug": "north-texas",
+        "numPlayers": 2
+      }
+    ],
+    "Mountain West": [
+      {
+        "college": "Boise State",
+        "slug": "boise-state",
+        "numPlayers": 13
+      },
+      {
+        "college": "Fresno State",
+        "slug": "fresno-state",
+        "numPlayers": 11
+      },
+      {
+        "college": "San Diego State",
+        "slug": "san-diego-state",
+        "numPlayers": 9
+      },
+      {
+        "college": "Colorado State",
+        "slug": "colorado-state",
+        "numPlayers": 8
+      },
+      {
+        "college": "Utah State",
+        "slug": "utah-state",
+        "numPlayers": 7
+      },
+      {
+        "college": "Wyoming",
+        "slug": "wyoming",
+        "numPlayers": 7
+      },
+      {
+        "college": "Nevada",
+        "slug": "nevada",
+        "numPlayers": 5
+      },
+      {
+        "college": "New Mexico",
+        "slug": "new-mexico",
+        "numPlayers": 4
+      },
+      {
+        "college": "UNLV",
+        "slug": "unlv",
+        "numPlayers": 4
+      },
+      {
+        "college": "San José State",
+        "slug": "san-jos-state",
+        "numPlayers": 3
+      },
+      {
+        "college": "Air Force",
+        "slug": "air-force",
+        "numPlayers": 2
+      }
+    ],
+    "Sun Belt": [
+      {
+        "college": "Louisiana",
+        "slug": "louisiana",
+        "numPlayers": 10
+      },
+      {
+        "college": "Southern Miss",
+        "slug": "southern-miss",
+        "numPlayers": 9
+      },
+      {
+        "college": "Marshall",
+        "slug": "marshall",
+        "numPlayers": 8
+      },
+      {
+        "college": "South Alabama",
+        "slug": "south-alabama",
+        "numPlayers": 8
+      },
+      {
+        "college": "Troy",
+        "slug": "troy",
+        "numPlayers": 5
+      },
+      {
+        "college": "Georgia Southern",
+        "slug": "georgia-southern",
+        "numPlayers": 4
+      },
+      {
+        "college": "Arkansas State",
+        "slug": "arkansas-state",
+        "numPlayers": 3
+      },
+      {
+        "college": "Coastal Carolina",
+        "slug": "coastal-carolina",
+        "numPlayers": 3
+      },
+      {
+        "college": "Georgia State",
+        "slug": "georgia-state",
+        "numPlayers": 3
+      },
+      {
+        "college": "James Madison",
+        "slug": "james-madison",
+        "numPlayers": 3
+      },
+      {
+        "college": "Old Dominion",
+        "slug": "old-dominion",
+        "numPlayers": 3
+      },
+      {
+        "college": "Texas State",
+        "slug": "texas-state",
+        "numPlayers": 2
+      }
+    ],
+    "MAC": [
+      {
+        "college": "Western Michigan",
+        "slug": "western-michigan",
+        "numPlayers": 12
+      },
+      {
+        "college": "Central Michigan",
+        "slug": "central-michigan",
+        "numPlayers": 11
+      },
+      {
+        "college": "Buffalo",
+        "slug": "buffalo",
+        "numPlayers": 9
+      },
+      {
+        "college": "Toledo",
+        "slug": "toledo",
+        "numPlayers": 9
+      },
+      {
+        "college": "Bowling Green",
+        "slug": "bowling-green",
+        "numPlayers": 6
+      },
+      {
+        "college": "Eastern Michigan",
+        "slug": "eastern-michigan",
+        "numPlayers": 6
+      },
+      {
+        "college": "Northern Illinois",
+        "slug": "northern-illinois",
+        "numPlayers": 5
+      },
+      {
+        "college": "Ball State",
+        "slug": "ball-state",
+        "numPlayers": 3
+      },
+      {
+        "college": "Miami (OH)",
+        "slug": "miami-oh",
+        "numPlayers": 3
+      },
+      {
+        "college": "Ohio",
+        "slug": "ohio",
+        "numPlayers": 3
+      },
+      {
+        "college": "Kent State",
+        "slug": "kent-state",
+        "numPlayers": 1
+      }
+    ],
+    "C-USA": [
+      {
+        "college": "Western Kentucky",
+        "slug": "western-kentucky",
+        "numPlayers": 11
+      },
+      {
+        "college": "Louisiana Tech",
+        "slug": "louisiana-tech",
+        "numPlayers": 7
+      },
+      {
+        "college": "UTEP",
+        "slug": "utep",
+        "numPlayers": 7
+      },
+      {
+        "college": "Middle Tennessee",
+        "slug": "middle-tennessee",
+        "numPlayers": 5
+      },
+      {
+        "college": "Delaware",
+        "slug": "delaware",
+        "numPlayers": 4
+      },
+      {
+        "college": "Jacksonville State",
+        "slug": "jacksonville-state",
+        "numPlayers": 2
+      },
+      {
+        "college": "Liberty",
+        "slug": "liberty",
+        "numPlayers": 2
+      },
+      {
+        "college": "Missouri State",
+        "slug": "missouri-state",
+        "numPlayers": 2
+      },
+      {
+        "college": "Sam Houston",
+        "slug": "sam-houston",
+        "numPlayers": 2
+      }
+    ],
+    "Independent": [
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "numPlayers": 56
+      },
+      {
+        "college": "UConn",
+        "slug": "uconn",
+        "numPlayers": 8
+      }
+    ],
+    "FCS / Other": [
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "numPlayers": 35
+      },
+      {
+        "college": "Oregon State",
+        "slug": "oregon-state",
+        "numPlayers": 19
+      },
+      {
+        "college": "Unknown",
+        "slug": "unknown",
+        "numPlayers": 18
+      },
+      {
+        "college": "North Dakota State",
+        "slug": "north-dakota-state",
+        "numPlayers": 15
+      },
+      {
+        "college": "Washington State",
+        "slug": "washington-state",
+        "numPlayers": 13
+      },
+      {
+        "college": "South Dakota State",
+        "slug": "south-dakota-state",
+        "numPlayers": 10
+      },
+      {
+        "college": "App State",
+        "slug": "app-state",
+        "numPlayers": 9
+      },
+      {
+        "college": "Montana State",
+        "slug": "montana-state",
+        "numPlayers": 5
+      },
+      {
+        "college": "Northern Iowa",
+        "slug": "northern-iowa",
+        "numPlayers": 5
+      },
+      {
+        "college": "San Diego",
+        "slug": "san-diego",
+        "numPlayers": 5
+      },
+      {
+        "college": "Weber State",
+        "slug": "weber-state",
+        "numPlayers": 5
+      },
+      {
+        "college": "Eastern Washington",
+        "slug": "eastern-washington",
+        "numPlayers": 4
+      },
+      {
+        "college": "Florida A&M",
+        "slug": "florida-aandm",
+        "numPlayers": 4
+      },
+      {
+        "college": "Hawai'i",
+        "slug": "hawai-i",
+        "numPlayers": 4
+      },
+      {
+        "college": "Holy Cross",
+        "slug": "holy-cross",
+        "numPlayers": 4
+      },
+      {
+        "college": "Illinois State",
+        "slug": "illinois-state",
+        "numPlayers": 4
+      },
+      {
+        "college": "Yale",
+        "slug": "yale",
+        "numPlayers": 4
+      },
+      {
+        "college": "Central Arkansas",
+        "slug": "central-arkansas",
+        "numPlayers": 3
+      },
+      {
+        "college": "Chattanooga",
+        "slug": "chattanooga",
+        "numPlayers": 3
+      },
+      {
+        "college": "Elon",
+        "slug": "elon",
+        "numPlayers": 3
+      },
+      {
+        "college": "Ferris State",
+        "slug": "ferris-state",
+        "numPlayers": 3
+      },
+      {
+        "college": "Florida International",
+        "slug": "florida-international",
+        "numPlayers": 3
+      },
+      {
+        "college": "Harvard",
+        "slug": "harvard",
+        "numPlayers": 3
+      },
+      {
+        "college": "Idaho",
+        "slug": "idaho",
+        "numPlayers": 3
+      },
+      {
+        "college": "Massachusetts",
+        "slug": "massachusetts",
+        "numPlayers": 3
+      },
+      {
+        "college": "Missouri Western",
+        "slug": "missouri-western",
+        "numPlayers": 3
+      },
+      {
+        "college": "Montana",
+        "slug": "montana",
+        "numPlayers": 3
+      },
+      {
+        "college": "Princeton",
+        "slug": "princeton",
+        "numPlayers": 3
+      },
+      {
+        "college": "Sacramento State",
+        "slug": "sacramento-state",
+        "numPlayers": 3
+      },
+      {
+        "college": "South Carolina State",
+        "slug": "south-carolina-state",
+        "numPlayers": 3
+      },
+      {
+        "college": "Southeast Missouri State",
+        "slug": "southeast-missouri-state",
+        "numPlayers": 3
+      },
+      {
+        "college": "Tarleton State",
+        "slug": "tarleton-state",
+        "numPlayers": 3
+      },
+      {
+        "college": "Villanova",
+        "slug": "villanova",
+        "numPlayers": 3
+      },
+      {
+        "college": "Western Illinois",
+        "slug": "western-illinois",
+        "numPlayers": 3
+      },
+      {
+        "college": "William & Mary",
+        "slug": "william-and-mary",
+        "numPlayers": 3
+      },
+      {
+        "college": "Youngstown State",
+        "slug": "youngstown-state",
+        "numPlayers": 3
+      },
+      {
+        "college": "Alcorn State",
+        "slug": "alcorn-state",
+        "numPlayers": 2
+      },
+      {
+        "college": "British Columbia",
+        "slug": "british-columbia",
+        "numPlayers": 2
+      },
+      {
+        "college": "Campbell",
+        "slug": "campbell",
+        "numPlayers": 2
+      },
+      {
+        "college": "East Texas A&M",
+        "slug": "east-texas-aandm",
+        "numPlayers": 2
+      },
+      {
+        "college": "Fayetteville State",
+        "slug": "fayetteville-state",
+        "numPlayers": 2
+      },
+      {
+        "college": "Fordham",
+        "slug": "fordham",
+        "numPlayers": 2
+      },
+      {
+        "college": "Furman",
+        "slug": "furman",
+        "numPlayers": 2
+      },
+      {
+        "college": "Houston Christian",
+        "slug": "houston-christian",
+        "numPlayers": 2
+      },
+      {
+        "college": "Indiana-Pennsylvania",
+        "slug": "indiana-pennsylvania",
+        "numPlayers": 2
+      },
+      {
+        "college": "Jackson State",
+        "slug": "jackson-state",
+        "numPlayers": 2
+      },
+      {
+        "college": "Lenoir Rhyne",
+        "slug": "lenoir-rhyne",
+        "numPlayers": 2
+      },
+      {
+        "college": "Maine",
+        "slug": "maine",
+        "numPlayers": 2
+      },
+      {
+        "college": "Minnesota State",
+        "slug": "minnesota-state",
+        "numPlayers": 2
+      },
+      {
+        "college": "Morgan State",
+        "slug": "morgan-state",
+        "numPlayers": 2
+      },
+      {
+        "college": "New Hampshire",
+        "slug": "new-hampshire",
+        "numPlayers": 2
+      },
+      {
+        "college": "North Carolina A&T",
+        "slug": "north-carolina-aandt",
+        "numPlayers": 2
+      },
+      {
+        "college": "Northwest Missouri State",
+        "slug": "northwest-missouri-state",
+        "numPlayers": 2
+      },
+      {
+        "college": "Pennsylvania",
+        "slug": "pennsylvania",
+        "numPlayers": 2
+      },
+      {
+        "college": "Pittsburg State",
+        "slug": "pittsburg-state",
+        "numPlayers": 2
+      },
+      {
+        "college": "Prairie View A&M",
+        "slug": "prairie-view-aandm",
+        "numPlayers": 2
+      },
+      {
+        "college": "Saginaw Valley State",
+        "slug": "saginaw-valley-state",
+        "numPlayers": 2
+      },
+      {
+        "college": "Sioux Falls",
+        "slug": "sioux-falls",
+        "numPlayers": 2
+      },
+      {
+        "college": "South Dakota",
+        "slug": "south-dakota",
+        "numPlayers": 2
+      },
+      {
+        "college": "Southern Arkansas",
+        "slug": "southern-arkansas",
+        "numPlayers": 2
+      },
+      {
+        "college": "Southern Illinois",
+        "slug": "southern-illinois",
+        "numPlayers": 2
+      },
+      {
+        "college": "Southern Utah",
+        "slug": "southern-utah",
+        "numPlayers": 2
+      },
+      {
+        "college": "Stephen F. Austin",
+        "slug": "stephen-f-austin",
+        "numPlayers": 2
+      },
+      {
+        "college": "UC Davis",
+        "slug": "uc-davis",
+        "numPlayers": 2
+      },
+      {
+        "college": "Washburn",
+        "slug": "washburn",
+        "numPlayers": 2
+      },
+      {
+        "college": "West Florida",
+        "slug": "west-florida",
+        "numPlayers": 2
+      },
+      {
+        "college": "Alabama A&M",
+        "slug": "alabama-aandm",
+        "numPlayers": 1
+      },
+      {
+        "college": "Alabama State",
+        "slug": "alabama-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Albany State",
+        "slug": "albany-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Arkansas-Pine Bluff",
+        "slug": "arkansas-pine-bluff",
+        "numPlayers": 1
+      },
+      {
+        "college": "Augustana University (SD)",
+        "slug": "augustana-university-sd",
+        "numPlayers": 1
+      },
+      {
+        "college": "Austin Peay",
+        "slug": "austin-peay",
+        "numPlayers": 1
+      },
+      {
+        "college": "Azusa Pacific",
+        "slug": "azusa-pacific",
+        "numPlayers": 1
+      },
+      {
+        "college": "Baldwin-Wallace",
+        "slug": "baldwin-wallace",
+        "numPlayers": 1
+      },
+      {
+        "college": "Barton College",
+        "slug": "barton-college",
+        "numPlayers": 1
+      },
+      {
+        "college": "Bemidji State",
+        "slug": "bemidji-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Berry College",
+        "slug": "berry-college",
+        "numPlayers": 1
+      },
+      {
+        "college": "Brown",
+        "slug": "brown",
+        "numPlayers": 1
+      },
+      {
+        "college": "Bryant",
+        "slug": "bryant",
+        "numPlayers": 1
+      },
+      {
+        "college": "Cal Poly",
+        "slug": "cal-poly",
+        "numPlayers": 1
+      },
+      {
+        "college": "California (PA)",
+        "slug": "california-pa",
+        "numPlayers": 1
+      },
+      {
+        "college": "Canisius",
+        "slug": "canisius",
+        "numPlayers": 1
+      },
+      {
+        "college": "Central Missouri State",
+        "slug": "central-missouri-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Colorado State-Pueblo",
+        "slug": "colorado-state-pueblo",
+        "numPlayers": 1
+      },
+      {
+        "college": "Culver-Stockton College",
+        "slug": "culver-stockton-college",
+        "numPlayers": 1
+      },
+      {
+        "college": "Dayton",
+        "slug": "dayton",
+        "numPlayers": 1
+      },
+      {
+        "college": "Dickinson (PA)",
+        "slug": "dickinson-pa",
+        "numPlayers": 1
+      },
+      {
+        "college": "Drake",
+        "slug": "drake",
+        "numPlayers": 1
+      },
+      {
+        "college": "Duquesne",
+        "slug": "duquesne",
+        "numPlayers": 1
+      },
+      {
+        "college": "East Central (OK)",
+        "slug": "east-central-ok",
+        "numPlayers": 1
+      },
+      {
+        "college": "East Tennessee State",
+        "slug": "east-tennessee-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Eastern Illinois",
+        "slug": "eastern-illinois",
+        "numPlayers": 1
+      },
+      {
+        "college": "Findlay",
+        "slug": "findlay",
+        "numPlayers": 1
+      },
+      {
+        "college": "Fort Hays State",
+        "slug": "fort-hays-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Fort Valley State",
+        "slug": "fort-valley-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Friends University",
+        "slug": "friends-university",
+        "numPlayers": 1
+      },
+      {
+        "college": "Grambling",
+        "slug": "grambling",
+        "numPlayers": 1
+      },
+      {
+        "college": "Grand Valley State",
+        "slug": "grand-valley-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Humboldt State",
+        "slug": "humboldt-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Idaho State",
+        "slug": "idaho-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Indiana State",
+        "slug": "indiana-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "Iowa Western Community",
+        "slug": "iowa-western-community",
+        "numPlayers": 1
+      },
+      {
+        "college": "Kutztown",
+        "slug": "kutztown",
+        "numPlayers": 1
+      },
+      {
+        "college": "Lafayette",
+        "slug": "lafayette",
+        "numPlayers": 1
+      },
+      {
+        "college": "Lindenwood",
+        "slug": "lindenwood",
+        "numPlayers": 1
+      },
+      {
+        "college": "Lock Haven University",
+        "slug": "lock-haven-university",
+        "numPlayers": 1
+      },
+      {
+        "college": "Malone",
+        "slug": "malone",
+        "numPlayers": 1
+      },
+      {
+        "college": "Manitoba",
+        "slug": "manitoba",
+        "numPlayers": 1
+      },
+      {
+        "college": "Marist",
+        "slug": "marist",
+        "numPlayers": 1
+      },
+      {
+        "college": "Mercer",
+        "slug": "mercer",
+        "numPlayers": 1
+      },
+      {
+        "college": "Minot State Universi",
+        "slug": "minot-state-universi",
+        "numPlayers": 1
+      },
+      {
+        "college": "Missouri S&T",
+        "slug": "missouri-sandt",
+        "numPlayers": 1
+      },
+      {
+        "college": "Monmouth",
+        "slug": "monmouth",
+        "numPlayers": 1
+      },
+      {
+        "college": "Murray State",
+        "slug": "murray-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "North Carolina Central",
+        "slug": "north-carolina-central",
+        "numPlayers": 1
+      },
+      {
+        "college": "Northern Arizona",
+        "slug": "northern-arizona",
+        "numPlayers": 1
+      },
+      {
+        "college": "Northern Colorado",
+        "slug": "northern-colorado",
+        "numPlayers": 1
+      },
+      {
+        "college": "Rhode Island",
+        "slug": "rhode-island",
+        "numPlayers": 1
+      },
+      {
+        "college": "Sacred Heart",
+        "slug": "sacred-heart",
+        "numPlayers": 1
+      },
+      {
+        "college": "Saint John's (MN)",
+        "slug": "saint-john-s-mn",
+        "numPlayers": 1
+      },
+      {
+        "college": "Samford",
+        "slug": "samford",
+        "numPlayers": 1
+      },
+      {
+        "college": "SE Louisiana",
+        "slug": "se-louisiana",
+        "numPlayers": 1
+      },
+      {
+        "college": "Shepherd",
+        "slug": "shepherd",
+        "numPlayers": 1
+      },
+      {
+        "college": "Stetson",
+        "slug": "stetson",
+        "numPlayers": 1
+      },
+      {
+        "college": "Stony Brook",
+        "slug": "stony-brook",
+        "numPlayers": 1
+      },
+      {
+        "college": "Towson",
+        "slug": "towson",
+        "numPlayers": 1
+      },
+      {
+        "college": "Tusculum",
+        "slug": "tusculum",
+        "numPlayers": 1
+      },
+      {
+        "college": "UL Monroe",
+        "slug": "ul-monroe",
+        "numPlayers": 1
+      },
+      {
+        "college": "Valdosta State",
+        "slug": "valdosta-state",
+        "numPlayers": 1
+      },
+      {
+        "college": "VCU",
+        "slug": "vcu",
+        "numPlayers": 1
+      },
+      {
+        "college": "Wagner",
+        "slug": "wagner",
+        "numPlayers": 1
+      },
+      {
+        "college": "West Alabama",
+        "slug": "west-alabama",
+        "numPlayers": 1
+      },
+      {
+        "college": "Western Colorado",
+        "slug": "western-colorado",
+        "numPlayers": 1
+      },
+      {
+        "college": "Wingate",
+        "slug": "wingate",
+        "numPlayers": 1
+      },
+      {
+        "college": "Wisconsin Whitewater",
+        "slug": "wisconsin-whitewater",
+        "numPlayers": 1
+      }
+    ]
+  },
+  "topSchoolsThisWeek": [
+    {
+      "college": "Air Force",
+      "slug": "air-force",
+      "totalProduction": 0,
+      "latestGameDate": "2025-12-07T18:00:00.000Z"
+    },
+    {
+      "college": "Alabama",
+      "slug": "ala",
+      "totalProduction": 0,
+      "latestGameDate": "2025-12-08T01:20:00.000Z"
+    },
+    {
+      "college": "Alabama A&M",
+      "slug": "alabama-aandm",
+      "totalProduction": 0,
+      "latestGameDate": null
+    },
+    {
+      "college": "Alabama State",
+      "slug": "alabama-state",
+      "totalProduction": 0,
+      "latestGameDate": null
+    },
+    {
+      "college": "Albany State",
+      "slug": "albany-state",
+      "totalProduction": 0,
+      "latestGameDate": "2025-12-07T18:00:00.000Z"
+    },
+    {
+      "college": "Alcorn State",
+      "slug": "alcorn-state",
+      "totalProduction": 0,
+      "latestGameDate": "2025-11-16T18:00:00.000Z"
+    },
+    {
+      "college": "App State",
+      "slug": "app-state",
+      "totalProduction": 0,
+      "latestGameDate": "2025-12-07T21:25:00.000Z"
+    },
+    {
+      "college": "Arizona State",
+      "slug": "arizona-state",
+      "totalProduction": 0,
+      "latestGameDate": "2025-12-07T18:00:00.000Z"
+    },
+    {
+      "college": "Arizona",
+      "slug": "arizona",
+      "totalProduction": 0,
+      "latestGameDate": "2025-12-07T18:00:00.000Z"
+    },
+    {
+      "college": "Arkansas-Pine Bluff",
+      "slug": "arkansas-pine-bluff",
+      "totalProduction": 0,
+      "latestGameDate": "2025-11-23T18:00:00.000Z"
+    }
+  ],
+  "positionLeaders": {
+    "DT": [
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 11
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 9
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 8
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 7
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 7
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 6
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 6
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 5
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 5
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 5
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 5
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 5
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 4
+      },
+      {
+        "college": "Baylor",
+        "slug": "baylor",
+        "count": 4
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "count": 4
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 4
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 4
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 4
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 4
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 4
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 4
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 4
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 4
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 3
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 3
+      },
+      {
+        "college": "Mississippi State",
+        "slug": "mississippi-state",
+        "count": 3
+      },
+      {
+        "college": "Nebraska",
+        "slug": "nebraska",
+        "count": 3
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 3
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "count": 3
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 3
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 3
+      },
+      {
+        "college": "Georgia Tech",
+        "slug": "georgia-tech",
+        "count": 2
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 2
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 2
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 2
+      },
+      {
+        "college": "Northwestern",
+        "slug": "northwestern",
+        "count": 2
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "count": 2
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 2
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 2
+      },
+      {
+        "college": "UConn",
+        "slug": "uconn",
+        "count": 2
+      },
+      {
+        "college": "Unknown",
+        "slug": "unknown",
+        "count": 2
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 2
+      },
+      {
+        "college": "West Virginia",
+        "slug": "west-virginia",
+        "count": 2
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 2
+      },
+      {
+        "college": "Air Force",
+        "slug": "air-force",
+        "count": 1
+      },
+      {
+        "college": "Albany State",
+        "slug": "albany-state",
+        "count": 1
+      },
+      {
+        "college": "Arizona State",
+        "slug": "arizona-state",
+        "count": 1
+      },
+      {
+        "college": "Arizona",
+        "slug": "arizona",
+        "count": 1
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 1
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "count": 1
+      },
+      {
+        "college": "Central Missouri State",
+        "slug": "central-missouri-state",
+        "count": 1
+      },
+      {
+        "college": "Charlotte",
+        "slug": "charlotte",
+        "count": 1
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "count": 1
+      },
+      {
+        "college": "Coastal Carolina",
+        "slug": "coastal-carolina",
+        "count": 1
+      },
+      {
+        "college": "Colorado State-Pueblo",
+        "slug": "colorado-state-pueblo",
+        "count": 1
+      },
+      {
+        "college": "Colorado",
+        "slug": "colorado",
+        "count": 1
+      },
+      {
+        "college": "Delaware",
+        "slug": "delaware",
+        "count": 1
+      },
+      {
+        "college": "Dickinson (PA)",
+        "slug": "dickinson-pa",
+        "count": 1
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "count": 1
+      },
+      {
+        "college": "East Texas A&M",
+        "slug": "east-texas-aandm",
+        "count": 1
+      },
+      {
+        "college": "Ferris State",
+        "slug": "ferris-state",
+        "count": 1
+      },
+      {
+        "college": "Florida Atlantic",
+        "slug": "florida-atlantic",
+        "count": 1
+      },
+      {
+        "college": "Florida International",
+        "slug": "florida-international",
+        "count": 1
+      },
+      {
+        "college": "Fort Hays State",
+        "slug": "fort-hays-state",
+        "count": 1
+      },
+      {
+        "college": "Friends University",
+        "slug": "friends-university",
+        "count": 1
+      },
+      {
+        "college": "Houston",
+        "slug": "houston",
+        "count": 1
+      },
+      {
+        "college": "Illinois State",
+        "slug": "illinois-state",
+        "count": 1
+      },
+      {
+        "college": "Indiana",
+        "slug": "indiana",
+        "count": 1
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 1
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 1
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "count": 1
+      },
+      {
+        "college": "Manitoba",
+        "slug": "manitoba",
+        "count": 1
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 1
+      },
+      {
+        "college": "Missouri S&T",
+        "slug": "missouri-sandt",
+        "count": 1
+      },
+      {
+        "college": "Missouri State",
+        "slug": "missouri-state",
+        "count": 1
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "count": 1
+      },
+      {
+        "college": "Northern Illinois",
+        "slug": "northern-illinois",
+        "count": 1
+      },
+      {
+        "college": "Northern Iowa",
+        "slug": "northern-iowa",
+        "count": 1
+      },
+      {
+        "college": "Northwest Missouri State",
+        "slug": "northwest-missouri-state",
+        "count": 1
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "count": 1
+      },
+      {
+        "college": "Oregon State",
+        "slug": "oregon-state",
+        "count": 1
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 1
+      },
+      {
+        "college": "South Carolina State",
+        "slug": "south-carolina-state",
+        "count": 1
+      },
+      {
+        "college": "Southern Miss",
+        "slug": "southern-miss",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "Toledo",
+        "slug": "toledo",
+        "count": 1
+      },
+      {
+        "college": "UTEP",
+        "slug": "utep",
+        "count": 1
+      },
+      {
+        "college": "Vanderbilt",
+        "slug": "vanderbilt",
+        "count": 1
+      },
+      {
+        "college": "Wagner",
+        "slug": "wagner",
+        "count": 1
+      },
+      {
+        "college": "Washington State",
+        "slug": "washington-state",
+        "count": 1
+      },
+      {
+        "college": "Western Illinois",
+        "slug": "western-illinois",
+        "count": 1
+      },
+      {
+        "college": "Western Kentucky",
+        "slug": "western-kentucky",
+        "count": 1
+      }
+    ],
+    "LB": [
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 12
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 10
+      },
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 9
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 9
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 9
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 8
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 8
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 7
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 7
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "count": 6
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 6
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 6
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 6
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 6
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 6
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 5
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 5
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "count": 5
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 5
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 5
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 5
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 5
+      },
+      {
+        "college": "Army",
+        "slug": "army",
+        "count": 4
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "count": 4
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 4
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 4
+      },
+      {
+        "college": "Mississippi State",
+        "slug": "mississippi-state",
+        "count": 4
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "count": 4
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 4
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 4
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 4
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "count": 4
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 4
+      },
+      {
+        "college": "App State",
+        "slug": "app-state",
+        "count": 3
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 3
+      },
+      {
+        "college": "Buffalo",
+        "slug": "buffalo",
+        "count": 3
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "count": 3
+      },
+      {
+        "college": "Charlotte",
+        "slug": "charlotte",
+        "count": 3
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "count": 3
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "count": 3
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 3
+      },
+      {
+        "college": "Indiana",
+        "slug": "indiana",
+        "count": 3
+      },
+      {
+        "college": "Marshall",
+        "slug": "marshall",
+        "count": 3
+      },
+      {
+        "college": "Nebraska",
+        "slug": "nebraska",
+        "count": 3
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "count": 3
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 3
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 3
+      },
+      {
+        "college": "Vanderbilt",
+        "slug": "vanderbilt",
+        "count": 3
+      },
+      {
+        "college": "Wake Forest",
+        "slug": "wake-forest",
+        "count": 3
+      },
+      {
+        "college": "Washington State",
+        "slug": "washington-state",
+        "count": 3
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 2
+      },
+      {
+        "college": "Baylor",
+        "slug": "baylor",
+        "count": 2
+      },
+      {
+        "college": "Central Michigan",
+        "slug": "central-michigan",
+        "count": 2
+      },
+      {
+        "college": "Colorado",
+        "slug": "colorado",
+        "count": 2
+      },
+      {
+        "college": "Fresno State",
+        "slug": "fresno-state",
+        "count": 2
+      },
+      {
+        "college": "Houston Christian",
+        "slug": "houston-christian",
+        "count": 2
+      },
+      {
+        "college": "Houston",
+        "slug": "houston",
+        "count": 2
+      },
+      {
+        "college": "Idaho",
+        "slug": "idaho",
+        "count": 2
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "count": 2
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 2
+      },
+      {
+        "college": "Memphis",
+        "slug": "memphis",
+        "count": 2
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 2
+      },
+      {
+        "college": "Montana State",
+        "slug": "montana-state",
+        "count": 2
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "count": 2
+      },
+      {
+        "college": "South Dakota State",
+        "slug": "south-dakota-state",
+        "count": 2
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 2
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "count": 2
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 2
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 2
+      },
+      {
+        "college": "Tulane",
+        "slug": "tulane",
+        "count": 2
+      },
+      {
+        "college": "Tulsa",
+        "slug": "tulsa",
+        "count": 2
+      },
+      {
+        "college": "Unknown",
+        "slug": "unknown",
+        "count": 2
+      },
+      {
+        "college": "UNLV",
+        "slug": "unlv",
+        "count": 2
+      },
+      {
+        "college": "Western Michigan",
+        "slug": "western-michigan",
+        "count": 2
+      },
+      {
+        "college": "Air Force",
+        "slug": "air-force",
+        "count": 1
+      },
+      {
+        "college": "Alcorn State",
+        "slug": "alcorn-state",
+        "count": 1
+      },
+      {
+        "college": "Arizona",
+        "slug": "arizona",
+        "count": 1
+      },
+      {
+        "college": "Arkansas State",
+        "slug": "arkansas-state",
+        "count": 1
+      },
+      {
+        "college": "Cal Poly",
+        "slug": "cal-poly",
+        "count": 1
+      },
+      {
+        "college": "Central Arkansas",
+        "slug": "central-arkansas",
+        "count": 1
+      },
+      {
+        "college": "Colorado State",
+        "slug": "colorado-state",
+        "count": 1
+      },
+      {
+        "college": "Delaware",
+        "slug": "delaware",
+        "count": 1
+      },
+      {
+        "college": "Ferris State",
+        "slug": "ferris-state",
+        "count": 1
+      },
+      {
+        "college": "Florida A&M",
+        "slug": "florida-aandm",
+        "count": 1
+      },
+      {
+        "college": "Florida Atlantic",
+        "slug": "florida-atlantic",
+        "count": 1
+      },
+      {
+        "college": "Grand Valley State",
+        "slug": "grand-valley-state",
+        "count": 1
+      },
+      {
+        "college": "Harvard",
+        "slug": "harvard",
+        "count": 1
+      },
+      {
+        "college": "Hawai'i",
+        "slug": "hawai-i",
+        "count": 1
+      },
+      {
+        "college": "Holy Cross",
+        "slug": "holy-cross",
+        "count": 1
+      },
+      {
+        "college": "Indiana-Pennsylvania",
+        "slug": "indiana-pennsylvania",
+        "count": 1
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 1
+      },
+      {
+        "college": "Lafayette",
+        "slug": "lafayette",
+        "count": 1
+      },
+      {
+        "college": "Middle Tennessee",
+        "slug": "middle-tennessee",
+        "count": 1
+      },
+      {
+        "college": "Montana",
+        "slug": "montana",
+        "count": 1
+      },
+      {
+        "college": "Murray State",
+        "slug": "murray-state",
+        "count": 1
+      },
+      {
+        "college": "Nevada",
+        "slug": "nevada",
+        "count": 1
+      },
+      {
+        "college": "North Dakota State",
+        "slug": "north-dakota-state",
+        "count": 1
+      },
+      {
+        "college": "Northwestern",
+        "slug": "northwestern",
+        "count": 1
+      },
+      {
+        "college": "Prairie View A&M",
+        "slug": "prairie-view-aandm",
+        "count": 1
+      },
+      {
+        "college": "Sacramento State",
+        "slug": "sacramento-state",
+        "count": 1
+      },
+      {
+        "college": "Saginaw Valley State",
+        "slug": "saginaw-valley-state",
+        "count": 1
+      },
+      {
+        "college": "San Diego State",
+        "slug": "san-diego-state",
+        "count": 1
+      },
+      {
+        "college": "Sioux Falls",
+        "slug": "sioux-falls",
+        "count": 1
+      },
+      {
+        "college": "South Alabama",
+        "slug": "south-alabama",
+        "count": 1
+      },
+      {
+        "college": "South Dakota",
+        "slug": "south-dakota",
+        "count": 1
+      },
+      {
+        "college": "Southern Miss",
+        "slug": "southern-miss",
+        "count": 1
+      },
+      {
+        "college": "Tarleton State",
+        "slug": "tarleton-state",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "Utah State",
+        "slug": "utah-state",
+        "count": 1
+      },
+      {
+        "college": "UTEP",
+        "slug": "utep",
+        "count": 1
+      },
+      {
+        "college": "Virginia",
+        "slug": "virginia",
+        "count": 1
+      },
+      {
+        "college": "Weber State",
+        "slug": "weber-state",
+        "count": 1
+      },
+      {
+        "college": "West Virginia",
+        "slug": "west-virginia",
+        "count": 1
+      },
+      {
+        "college": "Western Kentucky",
+        "slug": "western-kentucky",
+        "count": 1
+      },
+      {
+        "college": "Wyoming",
+        "slug": "wyoming",
+        "count": 1
+      },
+      {
+        "college": "Yale",
+        "slug": "yale",
+        "count": 1
+      }
+    ],
+    "OT": [
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 8
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 7
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 7
+      },
+      {
+        "college": "Unknown",
+        "slug": "unknown",
+        "count": 7
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 6
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 5
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "count": 5
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 5
+      },
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 4
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 4
+      },
+      {
+        "college": "UConn",
+        "slug": "uconn",
+        "count": 4
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 3
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 3
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 3
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 3
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 3
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 3
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 3
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 3
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 3
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 3
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 3
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 3
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 3
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 3
+      },
+      {
+        "college": "App State",
+        "slug": "app-state",
+        "count": 2
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 2
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "count": 2
+      },
+      {
+        "college": "Central Michigan",
+        "slug": "central-michigan",
+        "count": 2
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "count": 2
+      },
+      {
+        "college": "Georgia State",
+        "slug": "georgia-state",
+        "count": 2
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 2
+      },
+      {
+        "college": "Kansas",
+        "slug": "kansas",
+        "count": 2
+      },
+      {
+        "college": "Louisiana",
+        "slug": "louisiana",
+        "count": 2
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 2
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 2
+      },
+      {
+        "college": "Mississippi State",
+        "slug": "mississippi-state",
+        "count": 2
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 2
+      },
+      {
+        "college": "North Carolina A&T",
+        "slug": "north-carolina-aandt",
+        "count": 2
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "count": 2
+      },
+      {
+        "college": "North Dakota State",
+        "slug": "north-dakota-state",
+        "count": 2
+      },
+      {
+        "college": "Northern Iowa",
+        "slug": "northern-iowa",
+        "count": 2
+      },
+      {
+        "college": "Northwestern",
+        "slug": "northwestern",
+        "count": 2
+      },
+      {
+        "college": "Oregon State",
+        "slug": "oregon-state",
+        "count": 2
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 2
+      },
+      {
+        "college": "South Florida",
+        "slug": "south-florida",
+        "count": 2
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 2
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 2
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 2
+      },
+      {
+        "college": "UTSA",
+        "slug": "utsa",
+        "count": 2
+      },
+      {
+        "college": "Wake Forest",
+        "slug": "wake-forest",
+        "count": 2
+      },
+      {
+        "college": "Washington State",
+        "slug": "washington-state",
+        "count": 2
+      },
+      {
+        "college": "West Virginia",
+        "slug": "west-virginia",
+        "count": 2
+      },
+      {
+        "college": "Western Michigan",
+        "slug": "western-michigan",
+        "count": 2
+      },
+      {
+        "college": "William & Mary",
+        "slug": "william-and-mary",
+        "count": 2
+      },
+      {
+        "college": "Alabama A&M",
+        "slug": "alabama-aandm",
+        "count": 1
+      },
+      {
+        "college": "Alabama State",
+        "slug": "alabama-state",
+        "count": 1
+      },
+      {
+        "college": "Arizona",
+        "slug": "arizona",
+        "count": 1
+      },
+      {
+        "college": "Army",
+        "slug": "army",
+        "count": 1
+      },
+      {
+        "college": "Boise State",
+        "slug": "boise-state",
+        "count": 1
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 1
+      },
+      {
+        "college": "British Columbia",
+        "slug": "british-columbia",
+        "count": 1
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "count": 1
+      },
+      {
+        "college": "Campbell",
+        "slug": "campbell",
+        "count": 1
+      },
+      {
+        "college": "Colorado State",
+        "slug": "colorado-state",
+        "count": 1
+      },
+      {
+        "college": "Culver-Stockton College",
+        "slug": "culver-stockton-college",
+        "count": 1
+      },
+      {
+        "college": "Elon",
+        "slug": "elon",
+        "count": 1
+      },
+      {
+        "college": "Fayetteville State",
+        "slug": "fayetteville-state",
+        "count": 1
+      },
+      {
+        "college": "Findlay",
+        "slug": "findlay",
+        "count": 1
+      },
+      {
+        "college": "Florida Atlantic",
+        "slug": "florida-atlantic",
+        "count": 1
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "count": 1
+      },
+      {
+        "college": "Fordham",
+        "slug": "fordham",
+        "count": 1
+      },
+      {
+        "college": "Georgia Tech",
+        "slug": "georgia-tech",
+        "count": 1
+      },
+      {
+        "college": "Grambling",
+        "slug": "grambling",
+        "count": 1
+      },
+      {
+        "college": "Hawai'i",
+        "slug": "hawai-i",
+        "count": 1
+      },
+      {
+        "college": "Houston",
+        "slug": "houston",
+        "count": 1
+      },
+      {
+        "college": "Indiana",
+        "slug": "indiana",
+        "count": 1
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 1
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "count": 1
+      },
+      {
+        "college": "Marshall",
+        "slug": "marshall",
+        "count": 1
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 1
+      },
+      {
+        "college": "Massachusetts",
+        "slug": "massachusetts",
+        "count": 1
+      },
+      {
+        "college": "Miami (OH)",
+        "slug": "miami-oh",
+        "count": 1
+      },
+      {
+        "college": "Minot State Universi",
+        "slug": "minot-state-universi",
+        "count": 1
+      },
+      {
+        "college": "Montana",
+        "slug": "montana",
+        "count": 1
+      },
+      {
+        "college": "Morgan State",
+        "slug": "morgan-state",
+        "count": 1
+      },
+      {
+        "college": "Ohio",
+        "slug": "ohio",
+        "count": 1
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "count": 1
+      },
+      {
+        "college": "Old Dominion",
+        "slug": "old-dominion",
+        "count": 1
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 1
+      },
+      {
+        "college": "Rice",
+        "slug": "rice",
+        "count": 1
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "count": 1
+      },
+      {
+        "college": "San Diego State",
+        "slug": "san-diego-state",
+        "count": 1
+      },
+      {
+        "college": "San José State",
+        "slug": "san-jos-state",
+        "count": 1
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 1
+      },
+      {
+        "college": "Southern Utah",
+        "slug": "southern-utah",
+        "count": 1
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "count": 1
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "Toledo",
+        "slug": "toledo",
+        "count": 1
+      },
+      {
+        "college": "UAB",
+        "slug": "uab",
+        "count": 1
+      },
+      {
+        "college": "Vanderbilt",
+        "slug": "vanderbilt",
+        "count": 1
+      },
+      {
+        "college": "Virginia",
+        "slug": "virginia",
+        "count": 1
+      },
+      {
+        "college": "Western Kentucky",
+        "slug": "western-kentucky",
+        "count": 1
+      },
+      {
+        "college": "Wyoming",
+        "slug": "wyoming",
+        "count": 1
+      },
+      {
+        "college": "Yale",
+        "slug": "yale",
+        "count": 1
+      }
+    ],
+    "S": [
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 6
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "count": 6
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 6
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 6
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 5
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 5
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 5
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 5
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 4
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 4
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 4
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 4
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 4
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 4
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 4
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "count": 3
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 3
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 3
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 3
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 3
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 3
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 3
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "count": 3
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 3
+      },
+      {
+        "college": "Virginia",
+        "slug": "virginia",
+        "count": 3
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 2
+      },
+      {
+        "college": "Baylor",
+        "slug": "baylor",
+        "count": 2
+      },
+      {
+        "college": "Colorado",
+        "slug": "colorado",
+        "count": 2
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "count": 2
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 2
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 2
+      },
+      {
+        "college": "Marshall",
+        "slug": "marshall",
+        "count": 2
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 2
+      },
+      {
+        "college": "Middle Tennessee",
+        "slug": "middle-tennessee",
+        "count": 2
+      },
+      {
+        "college": "Northern Illinois",
+        "slug": "northern-illinois",
+        "count": 2
+      },
+      {
+        "college": "Oregon State",
+        "slug": "oregon-state",
+        "count": 2
+      },
+      {
+        "college": "Southern Illinois",
+        "slug": "southern-illinois",
+        "count": 2
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 2
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 2
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 2
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 2
+      },
+      {
+        "college": "Toledo",
+        "slug": "toledo",
+        "count": 2
+      },
+      {
+        "college": "UTSA",
+        "slug": "utsa",
+        "count": 2
+      },
+      {
+        "college": "Wake Forest",
+        "slug": "wake-forest",
+        "count": 2
+      },
+      {
+        "college": "Washington State",
+        "slug": "washington-state",
+        "count": 2
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 2
+      },
+      {
+        "college": "Western Kentucky",
+        "slug": "western-kentucky",
+        "count": 2
+      },
+      {
+        "college": "Wyoming",
+        "slug": "wyoming",
+        "count": 2
+      },
+      {
+        "college": "Arizona State",
+        "slug": "arizona-state",
+        "count": 1
+      },
+      {
+        "college": "Arkansas State",
+        "slug": "arkansas-state",
+        "count": 1
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 1
+      },
+      {
+        "college": "Ball State",
+        "slug": "ball-state",
+        "count": 1
+      },
+      {
+        "college": "Boise State",
+        "slug": "boise-state",
+        "count": 1
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 1
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "count": 1
+      },
+      {
+        "college": "Chattanooga",
+        "slug": "chattanooga",
+        "count": 1
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 1
+      },
+      {
+        "college": "East Carolina",
+        "slug": "east-carolina",
+        "count": 1
+      },
+      {
+        "college": "Ferris State",
+        "slug": "ferris-state",
+        "count": 1
+      },
+      {
+        "college": "Florida A&M",
+        "slug": "florida-aandm",
+        "count": 1
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 1
+      },
+      {
+        "college": "Fresno State",
+        "slug": "fresno-state",
+        "count": 1
+      },
+      {
+        "college": "Georgia Tech",
+        "slug": "georgia-tech",
+        "count": 1
+      },
+      {
+        "college": "Houston",
+        "slug": "houston",
+        "count": 1
+      },
+      {
+        "college": "Illinois State",
+        "slug": "illinois-state",
+        "count": 1
+      },
+      {
+        "college": "Indiana",
+        "slug": "indiana",
+        "count": 1
+      },
+      {
+        "college": "Jackson State",
+        "slug": "jackson-state",
+        "count": 1
+      },
+      {
+        "college": "Lenoir Rhyne",
+        "slug": "lenoir-rhyne",
+        "count": 1
+      },
+      {
+        "college": "Louisiana Tech",
+        "slug": "louisiana-tech",
+        "count": 1
+      },
+      {
+        "college": "Louisiana",
+        "slug": "louisiana",
+        "count": 1
+      },
+      {
+        "college": "Miami (OH)",
+        "slug": "miami-oh",
+        "count": 1
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 1
+      },
+      {
+        "college": "Mississippi State",
+        "slug": "mississippi-state",
+        "count": 1
+      },
+      {
+        "college": "Missouri Western",
+        "slug": "missouri-western",
+        "count": 1
+      },
+      {
+        "college": "Montana State",
+        "slug": "montana-state",
+        "count": 1
+      },
+      {
+        "college": "Navy",
+        "slug": "navy",
+        "count": 1
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 1
+      },
+      {
+        "college": "Nevada",
+        "slug": "nevada",
+        "count": 1
+      },
+      {
+        "college": "New Hampshire",
+        "slug": "new-hampshire",
+        "count": 1
+      },
+      {
+        "college": "New Mexico",
+        "slug": "new-mexico",
+        "count": 1
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "count": 1
+      },
+      {
+        "college": "Northern Iowa",
+        "slug": "northern-iowa",
+        "count": 1
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "count": 1
+      },
+      {
+        "college": "Rhode Island",
+        "slug": "rhode-island",
+        "count": 1
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "count": 1
+      },
+      {
+        "college": "Sam Houston",
+        "slug": "sam-houston",
+        "count": 1
+      },
+      {
+        "college": "San Diego State",
+        "slug": "san-diego-state",
+        "count": 1
+      },
+      {
+        "college": "South Alabama",
+        "slug": "south-alabama",
+        "count": 1
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 1
+      },
+      {
+        "college": "Southern Utah",
+        "slug": "southern-utah",
+        "count": 1
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "count": 1
+      },
+      {
+        "college": "Troy",
+        "slug": "troy",
+        "count": 1
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 1
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 1
+      },
+      {
+        "college": "West Florida",
+        "slug": "west-florida",
+        "count": 1
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 1
+      },
+      {
+        "college": "Yale",
+        "slug": "yale",
+        "count": 1
+      }
+    ],
+    "RB": [
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 7
+      },
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 5
+      },
+      {
+        "college": "Memphis",
+        "slug": "memphis",
+        "count": 5
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "count": 5
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 5
+      },
+      {
+        "college": "Boise State",
+        "slug": "boise-state",
+        "count": 4
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 4
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 4
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "count": 4
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 4
+      },
+      {
+        "college": "Arizona",
+        "slug": "arizona",
+        "count": 3
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 3
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "count": 3
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 3
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 3
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 3
+      },
+      {
+        "college": "South Dakota State",
+        "slug": "south-dakota-state",
+        "count": 3
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 3
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "count": 3
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 3
+      },
+      {
+        "college": "Arizona State",
+        "slug": "arizona-state",
+        "count": 2
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 2
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 2
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "count": 2
+      },
+      {
+        "college": "Central Michigan",
+        "slug": "central-michigan",
+        "count": 2
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "count": 2
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 2
+      },
+      {
+        "college": "Fresno State",
+        "slug": "fresno-state",
+        "count": 2
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 2
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 2
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 2
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 2
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 2
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "count": 2
+      },
+      {
+        "college": "Northwestern",
+        "slug": "northwestern",
+        "count": 2
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 2
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 2
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "count": 2
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "count": 2
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 2
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 2
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 2
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 2
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 2
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 2
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 1
+      },
+      {
+        "college": "Baylor",
+        "slug": "baylor",
+        "count": 1
+      },
+      {
+        "college": "Buffalo",
+        "slug": "buffalo",
+        "count": 1
+      },
+      {
+        "college": "East Carolina",
+        "slug": "east-carolina",
+        "count": 1
+      },
+      {
+        "college": "East Tennessee State",
+        "slug": "east-tennessee-state",
+        "count": 1
+      },
+      {
+        "college": "Elon",
+        "slug": "elon",
+        "count": 1
+      },
+      {
+        "college": "Florida A&M",
+        "slug": "florida-aandm",
+        "count": 1
+      },
+      {
+        "college": "Florida Atlantic",
+        "slug": "florida-atlantic",
+        "count": 1
+      },
+      {
+        "college": "Fordham",
+        "slug": "fordham",
+        "count": 1
+      },
+      {
+        "college": "Fort Valley State",
+        "slug": "fort-valley-state",
+        "count": 1
+      },
+      {
+        "college": "Georgia Tech",
+        "slug": "georgia-tech",
+        "count": 1
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 1
+      },
+      {
+        "college": "Kansas",
+        "slug": "kansas",
+        "count": 1
+      },
+      {
+        "college": "Kutztown",
+        "slug": "kutztown",
+        "count": 1
+      },
+      {
+        "college": "Lock Haven University",
+        "slug": "lock-haven-university",
+        "count": 1
+      },
+      {
+        "college": "Louisiana",
+        "slug": "louisiana",
+        "count": 1
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "count": 1
+      },
+      {
+        "college": "Maine",
+        "slug": "maine",
+        "count": 1
+      },
+      {
+        "college": "Marshall",
+        "slug": "marshall",
+        "count": 1
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 1
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 1
+      },
+      {
+        "college": "Missouri State",
+        "slug": "missouri-state",
+        "count": 1
+      },
+      {
+        "college": "Monmouth",
+        "slug": "monmouth",
+        "count": 1
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 1
+      },
+      {
+        "college": "Nebraska",
+        "slug": "nebraska",
+        "count": 1
+      },
+      {
+        "college": "New Hampshire",
+        "slug": "new-hampshire",
+        "count": 1
+      },
+      {
+        "college": "North Dakota State",
+        "slug": "north-dakota-state",
+        "count": 1
+      },
+      {
+        "college": "North Texas",
+        "slug": "north-texas",
+        "count": 1
+      },
+      {
+        "college": "Ohio",
+        "slug": "ohio",
+        "count": 1
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 1
+      },
+      {
+        "college": "Oregon State",
+        "slug": "oregon-state",
+        "count": 1
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 1
+      },
+      {
+        "college": "Sacred Heart",
+        "slug": "sacred-heart",
+        "count": 1
+      },
+      {
+        "college": "SE Louisiana",
+        "slug": "se-louisiana",
+        "count": 1
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 1
+      },
+      {
+        "college": "South Florida",
+        "slug": "south-florida",
+        "count": 1
+      },
+      {
+        "college": "Southern Miss",
+        "slug": "southern-miss",
+        "count": 1
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 1
+      },
+      {
+        "college": "Texas State",
+        "slug": "texas-state",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "Toledo",
+        "slug": "toledo",
+        "count": 1
+      },
+      {
+        "college": "Troy",
+        "slug": "troy",
+        "count": 1
+      },
+      {
+        "college": "Tulane",
+        "slug": "tulane",
+        "count": 1
+      },
+      {
+        "college": "Tulsa",
+        "slug": "tulsa",
+        "count": 1
+      },
+      {
+        "college": "UC Davis",
+        "slug": "uc-davis",
+        "count": 1
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 1
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 1
+      },
+      {
+        "college": "UTEP",
+        "slug": "utep",
+        "count": 1
+      },
+      {
+        "college": "UTSA",
+        "slug": "utsa",
+        "count": 1
+      },
+      {
+        "college": "Western Colorado",
+        "slug": "western-colorado",
+        "count": 1
+      },
+      {
+        "college": "Youngstown State",
+        "slug": "youngstown-state",
+        "count": 1
+      }
+    ],
+    "CB": [
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 8
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 8
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 8
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 6
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 6
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "count": 6
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 6
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "count": 6
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 6
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "count": 5
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 5
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 5
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 5
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 5
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 5
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "count": 5
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 4
+      },
+      {
+        "college": "Houston",
+        "slug": "houston",
+        "count": 4
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 4
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 4
+      },
+      {
+        "college": "Mississippi State",
+        "slug": "mississippi-state",
+        "count": 4
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 4
+      },
+      {
+        "college": "Oregon State",
+        "slug": "oregon-state",
+        "count": 4
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 4
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 4
+      },
+      {
+        "college": "Tulane",
+        "slug": "tulane",
+        "count": 4
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 4
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 3
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 3
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 3
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "count": 3
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "count": 3
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 3
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 3
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 3
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 3
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 3
+      },
+      {
+        "college": "Washington State",
+        "slug": "washington-state",
+        "count": 3
+      },
+      {
+        "college": "App State",
+        "slug": "app-state",
+        "count": 2
+      },
+      {
+        "college": "Arizona State",
+        "slug": "arizona-state",
+        "count": 2
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 2
+      },
+      {
+        "college": "Buffalo",
+        "slug": "buffalo",
+        "count": 2
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "count": 2
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "count": 2
+      },
+      {
+        "college": "Central Arkansas",
+        "slug": "central-arkansas",
+        "count": 2
+      },
+      {
+        "college": "Central Michigan",
+        "slug": "central-michigan",
+        "count": 2
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "count": 2
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 2
+      },
+      {
+        "college": "Colorado State",
+        "slug": "colorado-state",
+        "count": 2
+      },
+      {
+        "college": "Colorado",
+        "slug": "colorado",
+        "count": 2
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "count": 2
+      },
+      {
+        "college": "East Carolina",
+        "slug": "east-carolina",
+        "count": 2
+      },
+      {
+        "college": "Georgia Southern",
+        "slug": "georgia-southern",
+        "count": 2
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 2
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 2
+      },
+      {
+        "college": "Louisiana Tech",
+        "slug": "louisiana-tech",
+        "count": 2
+      },
+      {
+        "college": "Memphis",
+        "slug": "memphis",
+        "count": 2
+      },
+      {
+        "college": "Northwestern",
+        "slug": "northwestern",
+        "count": 2
+      },
+      {
+        "college": "Pittsburg State",
+        "slug": "pittsburg-state",
+        "count": 2
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "count": 2
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 2
+      },
+      {
+        "college": "South Carolina State",
+        "slug": "south-carolina-state",
+        "count": 2
+      },
+      {
+        "college": "Southern Miss",
+        "slug": "southern-miss",
+        "count": 2
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 2
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 2
+      },
+      {
+        "college": "Toledo",
+        "slug": "toledo",
+        "count": 2
+      },
+      {
+        "college": "UAB",
+        "slug": "uab",
+        "count": 2
+      },
+      {
+        "college": "UTSA",
+        "slug": "utsa",
+        "count": 2
+      },
+      {
+        "college": "Villanova",
+        "slug": "villanova",
+        "count": 2
+      },
+      {
+        "college": "Wake Forest",
+        "slug": "wake-forest",
+        "count": 2
+      },
+      {
+        "college": "West Virginia",
+        "slug": "west-virginia",
+        "count": 2
+      },
+      {
+        "college": "Western Michigan",
+        "slug": "western-michigan",
+        "count": 2
+      },
+      {
+        "college": "Baldwin-Wallace",
+        "slug": "baldwin-wallace",
+        "count": 1
+      },
+      {
+        "college": "Ball State",
+        "slug": "ball-state",
+        "count": 1
+      },
+      {
+        "college": "Bowling Green",
+        "slug": "bowling-green",
+        "count": 1
+      },
+      {
+        "college": "California (PA)",
+        "slug": "california-pa",
+        "count": 1
+      },
+      {
+        "college": "Delaware",
+        "slug": "delaware",
+        "count": 1
+      },
+      {
+        "college": "East Texas A&M",
+        "slug": "east-texas-aandm",
+        "count": 1
+      },
+      {
+        "college": "Fayetteville State",
+        "slug": "fayetteville-state",
+        "count": 1
+      },
+      {
+        "college": "Florida Atlantic",
+        "slug": "florida-atlantic",
+        "count": 1
+      },
+      {
+        "college": "Fresno State",
+        "slug": "fresno-state",
+        "count": 1
+      },
+      {
+        "college": "Jacksonville State",
+        "slug": "jacksonville-state",
+        "count": 1
+      },
+      {
+        "college": "Kansas",
+        "slug": "kansas",
+        "count": 1
+      },
+      {
+        "college": "Louisiana",
+        "slug": "louisiana",
+        "count": 1
+      },
+      {
+        "college": "Massachusetts",
+        "slug": "massachusetts",
+        "count": 1
+      },
+      {
+        "college": "Mercer",
+        "slug": "mercer",
+        "count": 1
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 1
+      },
+      {
+        "college": "Middle Tennessee",
+        "slug": "middle-tennessee",
+        "count": 1
+      },
+      {
+        "college": "Missouri Western",
+        "slug": "missouri-western",
+        "count": 1
+      },
+      {
+        "college": "Nebraska",
+        "slug": "nebraska",
+        "count": 1
+      },
+      {
+        "college": "New Mexico",
+        "slug": "new-mexico",
+        "count": 1
+      },
+      {
+        "college": "North Carolina Central",
+        "slug": "north-carolina-central",
+        "count": 1
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "count": 1
+      },
+      {
+        "college": "North Dakota State",
+        "slug": "north-dakota-state",
+        "count": 1
+      },
+      {
+        "college": "North Texas",
+        "slug": "north-texas",
+        "count": 1
+      },
+      {
+        "college": "Northern Arizona",
+        "slug": "northern-arizona",
+        "count": 1
+      },
+      {
+        "college": "Saginaw Valley State",
+        "slug": "saginaw-valley-state",
+        "count": 1
+      },
+      {
+        "college": "Sam Houston",
+        "slug": "sam-houston",
+        "count": 1
+      },
+      {
+        "college": "San Diego State",
+        "slug": "san-diego-state",
+        "count": 1
+      },
+      {
+        "college": "South Alabama",
+        "slug": "south-alabama",
+        "count": 1
+      },
+      {
+        "college": "South Dakota State",
+        "slug": "south-dakota-state",
+        "count": 1
+      },
+      {
+        "college": "South Dakota",
+        "slug": "south-dakota",
+        "count": 1
+      },
+      {
+        "college": "Southeast Missouri State",
+        "slug": "southeast-missouri-state",
+        "count": 1
+      },
+      {
+        "college": "Southern Arkansas",
+        "slug": "southern-arkansas",
+        "count": 1
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "count": 1
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "Troy",
+        "slug": "troy",
+        "count": 1
+      },
+      {
+        "college": "Tusculum",
+        "slug": "tusculum",
+        "count": 1
+      },
+      {
+        "college": "UL Monroe",
+        "slug": "ul-monroe",
+        "count": 1
+      },
+      {
+        "college": "Unknown",
+        "slug": "unknown",
+        "count": 1
+      },
+      {
+        "college": "UNLV",
+        "slug": "unlv",
+        "count": 1
+      },
+      {
+        "college": "Utah State",
+        "slug": "utah-state",
+        "count": 1
+      },
+      {
+        "college": "UTEP",
+        "slug": "utep",
+        "count": 1
+      },
+      {
+        "college": "Valdosta State",
+        "slug": "valdosta-state",
+        "count": 1
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 1
+      },
+      {
+        "college": "Virginia",
+        "slug": "virginia",
+        "count": 1
+      },
+      {
+        "college": "Washburn",
+        "slug": "washburn",
+        "count": 1
+      },
+      {
+        "college": "Weber State",
+        "slug": "weber-state",
+        "count": 1
+      },
+      {
+        "college": "Western Kentucky",
+        "slug": "western-kentucky",
+        "count": 1
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 1
+      }
+    ],
+    "QB": [
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 4
+      },
+      {
+        "college": "North Dakota State",
+        "slug": "north-dakota-state",
+        "count": 4
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 4
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "count": 3
+      },
+      {
+        "college": "Houston",
+        "slug": "houston",
+        "count": 3
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "count": 3
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "count": 3
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 3
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 3
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 3
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "count": 2
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 2
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "count": 2
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 2
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 2
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 2
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 2
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "count": 2
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 2
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 2
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 2
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "count": 2
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 2
+      },
+      {
+        "college": "West Virginia",
+        "slug": "west-virginia",
+        "count": 2
+      },
+      {
+        "college": "Western Kentucky",
+        "slug": "western-kentucky",
+        "count": 2
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 1
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 1
+      },
+      {
+        "college": "Boise State",
+        "slug": "boise-state",
+        "count": 1
+      },
+      {
+        "college": "Bowling Green",
+        "slug": "bowling-green",
+        "count": 1
+      },
+      {
+        "college": "Central Michigan",
+        "slug": "central-michigan",
+        "count": 1
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "count": 1
+      },
+      {
+        "college": "Colorado",
+        "slug": "colorado",
+        "count": 1
+      },
+      {
+        "college": "Delaware",
+        "slug": "delaware",
+        "count": 1
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "count": 1
+      },
+      {
+        "college": "Eastern Illinois",
+        "slug": "eastern-illinois",
+        "count": 1
+      },
+      {
+        "college": "Fresno State",
+        "slug": "fresno-state",
+        "count": 1
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 1
+      },
+      {
+        "college": "Indiana",
+        "slug": "indiana",
+        "count": 1
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 1
+      },
+      {
+        "college": "Iowa Western Community",
+        "slug": "iowa-western-community",
+        "count": 1
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 1
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 1
+      },
+      {
+        "college": "Liberty",
+        "slug": "liberty",
+        "count": 1
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 1
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 1
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 1
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 1
+      },
+      {
+        "college": "Mississippi State",
+        "slug": "mississippi-state",
+        "count": 1
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 1
+      },
+      {
+        "college": "Northwestern",
+        "slug": "northwestern",
+        "count": 1
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "count": 1
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 1
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 1
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 1
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "count": 1
+      },
+      {
+        "college": "San Diego",
+        "slug": "san-diego",
+        "count": 1
+      },
+      {
+        "college": "Shepherd",
+        "slug": "shepherd",
+        "count": 1
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 1
+      },
+      {
+        "college": "South Alabama",
+        "slug": "south-alabama",
+        "count": 1
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 1
+      },
+      {
+        "college": "South Dakota State",
+        "slug": "south-dakota-state",
+        "count": 1
+      },
+      {
+        "college": "Southern Miss",
+        "slug": "southern-miss",
+        "count": 1
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 1
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 1
+      },
+      {
+        "college": "Utah State",
+        "slug": "utah-state",
+        "count": 1
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 1
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 1
+      },
+      {
+        "college": "Wake Forest",
+        "slug": "wake-forest",
+        "count": 1
+      },
+      {
+        "college": "Washington State",
+        "slug": "washington-state",
+        "count": 1
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 1
+      },
+      {
+        "college": "Wyoming",
+        "slug": "wyoming",
+        "count": 1
+      }
+    ],
+    "DE": [
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 7
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 7
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 6
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 5
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 4
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 4
+      },
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 3
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 3
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 3
+      },
+      {
+        "college": "Mississippi State",
+        "slug": "mississippi-state",
+        "count": 3
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "count": 3
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 3
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 3
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "count": 3
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 2
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 2
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 2
+      },
+      {
+        "college": "Eastern Michigan",
+        "slug": "eastern-michigan",
+        "count": 2
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "count": 2
+      },
+      {
+        "college": "Houston",
+        "slug": "houston",
+        "count": 2
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 2
+      },
+      {
+        "college": "Kansas",
+        "slug": "kansas",
+        "count": 2
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 2
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 2
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 2
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "count": 2
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 2
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 2
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 2
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 2
+      },
+      {
+        "college": "Rice",
+        "slug": "rice",
+        "count": 2
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 2
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 2
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 2
+      },
+      {
+        "college": "Tulane",
+        "slug": "tulane",
+        "count": 2
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 2
+      },
+      {
+        "college": "Virginia",
+        "slug": "virginia",
+        "count": 2
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 2
+      },
+      {
+        "college": "Baylor",
+        "slug": "baylor",
+        "count": 1
+      },
+      {
+        "college": "Boise State",
+        "slug": "boise-state",
+        "count": 1
+      },
+      {
+        "college": "Bowling Green",
+        "slug": "bowling-green",
+        "count": 1
+      },
+      {
+        "college": "Brown",
+        "slug": "brown",
+        "count": 1
+      },
+      {
+        "college": "Buffalo",
+        "slug": "buffalo",
+        "count": 1
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "count": 1
+      },
+      {
+        "college": "Coastal Carolina",
+        "slug": "coastal-carolina",
+        "count": 1
+      },
+      {
+        "college": "Colorado",
+        "slug": "colorado",
+        "count": 1
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "count": 1
+      },
+      {
+        "college": "Eastern Washington",
+        "slug": "eastern-washington",
+        "count": 1
+      },
+      {
+        "college": "Florida Atlantic",
+        "slug": "florida-atlantic",
+        "count": 1
+      },
+      {
+        "college": "Fresno State",
+        "slug": "fresno-state",
+        "count": 1
+      },
+      {
+        "college": "Georgia Tech",
+        "slug": "georgia-tech",
+        "count": 1
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 1
+      },
+      {
+        "college": "Jackson State",
+        "slug": "jackson-state",
+        "count": 1
+      },
+      {
+        "college": "James Madison",
+        "slug": "james-madison",
+        "count": 1
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 1
+      },
+      {
+        "college": "Lindenwood",
+        "slug": "lindenwood",
+        "count": 1
+      },
+      {
+        "college": "Louisiana Tech",
+        "slug": "louisiana-tech",
+        "count": 1
+      },
+      {
+        "college": "Louisiana",
+        "slug": "louisiana",
+        "count": 1
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "count": 1
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 1
+      },
+      {
+        "college": "Memphis",
+        "slug": "memphis",
+        "count": 1
+      },
+      {
+        "college": "Miami (OH)",
+        "slug": "miami-oh",
+        "count": 1
+      },
+      {
+        "college": "Missouri Western",
+        "slug": "missouri-western",
+        "count": 1
+      },
+      {
+        "college": "Montana State",
+        "slug": "montana-state",
+        "count": 1
+      },
+      {
+        "college": "Morgan State",
+        "slug": "morgan-state",
+        "count": 1
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 1
+      },
+      {
+        "college": "Northwestern",
+        "slug": "northwestern",
+        "count": 1
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "count": 1
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "count": 1
+      },
+      {
+        "college": "San Diego State",
+        "slug": "san-diego-state",
+        "count": 1
+      },
+      {
+        "college": "Stephen F. Austin",
+        "slug": "stephen-f-austin",
+        "count": 1
+      },
+      {
+        "college": "Stony Brook",
+        "slug": "stony-brook",
+        "count": 1
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 1
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "Toledo",
+        "slug": "toledo",
+        "count": 1
+      },
+      {
+        "college": "Troy",
+        "slug": "troy",
+        "count": 1
+      },
+      {
+        "college": "UAB",
+        "slug": "uab",
+        "count": 1
+      },
+      {
+        "college": "UConn",
+        "slug": "uconn",
+        "count": 1
+      },
+      {
+        "college": "UTSA",
+        "slug": "utsa",
+        "count": 1
+      },
+      {
+        "college": "Vanderbilt",
+        "slug": "vanderbilt",
+        "count": 1
+      },
+      {
+        "college": "Villanova",
+        "slug": "villanova",
+        "count": 1
+      },
+      {
+        "college": "Wake Forest",
+        "slug": "wake-forest",
+        "count": 1
+      },
+      {
+        "college": "Weber State",
+        "slug": "weber-state",
+        "count": 1
+      },
+      {
+        "college": "Western Illinois",
+        "slug": "western-illinois",
+        "count": 1
+      },
+      {
+        "college": "Western Michigan",
+        "slug": "western-michigan",
+        "count": 1
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 1
+      },
+      {
+        "college": "Wyoming",
+        "slug": "wyoming",
+        "count": 1
+      }
+    ],
+    "WR": [
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 9
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 9
+      },
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 7
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 7
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 7
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 6
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "count": 6
+      },
+      {
+        "college": "Colorado",
+        "slug": "colorado",
+        "count": 5
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 5
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 5
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 5
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 5
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 5
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 5
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 5
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 5
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "count": 4
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 4
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 4
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 4
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "count": 4
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 4
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 4
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "count": 4
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 4
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 4
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 4
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 3
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 3
+      },
+      {
+        "college": "Baylor",
+        "slug": "baylor",
+        "count": 3
+      },
+      {
+        "college": "Eastern Washington",
+        "slug": "eastern-washington",
+        "count": 3
+      },
+      {
+        "college": "Fresno State",
+        "slug": "fresno-state",
+        "count": 3
+      },
+      {
+        "college": "Indiana",
+        "slug": "indiana",
+        "count": 3
+      },
+      {
+        "college": "Louisiana Tech",
+        "slug": "louisiana-tech",
+        "count": 3
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 3
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 3
+      },
+      {
+        "college": "Oregon State",
+        "slug": "oregon-state",
+        "count": 3
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 3
+      },
+      {
+        "college": "San Diego",
+        "slug": "san-diego",
+        "count": 3
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 3
+      },
+      {
+        "college": "South Alabama",
+        "slug": "south-alabama",
+        "count": 3
+      },
+      {
+        "college": "Southern Miss",
+        "slug": "southern-miss",
+        "count": 3
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 3
+      },
+      {
+        "college": "Utah State",
+        "slug": "utah-state",
+        "count": 3
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 3
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 3
+      },
+      {
+        "college": "Virginia",
+        "slug": "virginia",
+        "count": 3
+      },
+      {
+        "college": "Wake Forest",
+        "slug": "wake-forest",
+        "count": 3
+      },
+      {
+        "college": "West Virginia",
+        "slug": "west-virginia",
+        "count": 3
+      },
+      {
+        "college": "Arizona",
+        "slug": "arizona",
+        "count": 2
+      },
+      {
+        "college": "Boise State",
+        "slug": "boise-state",
+        "count": 2
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "count": 2
+      },
+      {
+        "college": "Holy Cross",
+        "slug": "holy-cross",
+        "count": 2
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 2
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "count": 2
+      },
+      {
+        "college": "Nebraska",
+        "slug": "nebraska",
+        "count": 2
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "count": 2
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "count": 2
+      },
+      {
+        "college": "Rice",
+        "slug": "rice",
+        "count": 2
+      },
+      {
+        "college": "Southeast Missouri State",
+        "slug": "southeast-missouri-state",
+        "count": 2
+      },
+      {
+        "college": "Tarleton State",
+        "slug": "tarleton-state",
+        "count": 2
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "count": 2
+      },
+      {
+        "college": "Tulane",
+        "slug": "tulane",
+        "count": 2
+      },
+      {
+        "college": "Western Michigan",
+        "slug": "western-michigan",
+        "count": 2
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 2
+      },
+      {
+        "college": "Alcorn State",
+        "slug": "alcorn-state",
+        "count": 1
+      },
+      {
+        "college": "Arizona State",
+        "slug": "arizona-state",
+        "count": 1
+      },
+      {
+        "college": "Arkansas State",
+        "slug": "arkansas-state",
+        "count": 1
+      },
+      {
+        "college": "Austin Peay",
+        "slug": "austin-peay",
+        "count": 1
+      },
+      {
+        "college": "Barton College",
+        "slug": "barton-college",
+        "count": 1
+      },
+      {
+        "college": "Bemidji State",
+        "slug": "bemidji-state",
+        "count": 1
+      },
+      {
+        "college": "Berry College",
+        "slug": "berry-college",
+        "count": 1
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 1
+      },
+      {
+        "college": "Bowling Green",
+        "slug": "bowling-green",
+        "count": 1
+      },
+      {
+        "college": "Bryant",
+        "slug": "bryant",
+        "count": 1
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "count": 1
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "count": 1
+      },
+      {
+        "college": "Colorado State",
+        "slug": "colorado-state",
+        "count": 1
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "count": 1
+      },
+      {
+        "college": "East Carolina",
+        "slug": "east-carolina",
+        "count": 1
+      },
+      {
+        "college": "East Central (OK)",
+        "slug": "east-central-ok",
+        "count": 1
+      },
+      {
+        "college": "Eastern Michigan",
+        "slug": "eastern-michigan",
+        "count": 1
+      },
+      {
+        "college": "Elon",
+        "slug": "elon",
+        "count": 1
+      },
+      {
+        "college": "Florida A&M",
+        "slug": "florida-aandm",
+        "count": 1
+      },
+      {
+        "college": "Florida International",
+        "slug": "florida-international",
+        "count": 1
+      },
+      {
+        "college": "Furman",
+        "slug": "furman",
+        "count": 1
+      },
+      {
+        "college": "Houston",
+        "slug": "houston",
+        "count": 1
+      },
+      {
+        "college": "Indiana-Pennsylvania",
+        "slug": "indiana-pennsylvania",
+        "count": 1
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 1
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 1
+      },
+      {
+        "college": "Kansas",
+        "slug": "kansas",
+        "count": 1
+      },
+      {
+        "college": "Kent State",
+        "slug": "kent-state",
+        "count": 1
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 1
+      },
+      {
+        "college": "Lenoir Rhyne",
+        "slug": "lenoir-rhyne",
+        "count": 1
+      },
+      {
+        "college": "Liberty",
+        "slug": "liberty",
+        "count": 1
+      },
+      {
+        "college": "Louisiana",
+        "slug": "louisiana",
+        "count": 1
+      },
+      {
+        "college": "Malone",
+        "slug": "malone",
+        "count": 1
+      },
+      {
+        "college": "Massachusetts",
+        "slug": "massachusetts",
+        "count": 1
+      },
+      {
+        "college": "Memphis",
+        "slug": "memphis",
+        "count": 1
+      },
+      {
+        "college": "Minnesota State",
+        "slug": "minnesota-state",
+        "count": 1
+      },
+      {
+        "college": "Montana State",
+        "slug": "montana-state",
+        "count": 1
+      },
+      {
+        "college": "Montana",
+        "slug": "montana",
+        "count": 1
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 1
+      },
+      {
+        "college": "Nevada",
+        "slug": "nevada",
+        "count": 1
+      },
+      {
+        "college": "North Dakota State",
+        "slug": "north-dakota-state",
+        "count": 1
+      },
+      {
+        "college": "Northwest Missouri State",
+        "slug": "northwest-missouri-state",
+        "count": 1
+      },
+      {
+        "college": "Northwestern",
+        "slug": "northwestern",
+        "count": 1
+      },
+      {
+        "college": "Ohio",
+        "slug": "ohio",
+        "count": 1
+      },
+      {
+        "college": "Pennsylvania",
+        "slug": "pennsylvania",
+        "count": 1
+      },
+      {
+        "college": "Prairie View A&M",
+        "slug": "prairie-view-aandm",
+        "count": 1
+      },
+      {
+        "college": "Princeton",
+        "slug": "princeton",
+        "count": 1
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "count": 1
+      },
+      {
+        "college": "Sacramento State",
+        "slug": "sacramento-state",
+        "count": 1
+      },
+      {
+        "college": "San Diego State",
+        "slug": "san-diego-state",
+        "count": 1
+      },
+      {
+        "college": "San José State",
+        "slug": "san-jos-state",
+        "count": 1
+      },
+      {
+        "college": "Stephen F. Austin",
+        "slug": "stephen-f-austin",
+        "count": 1
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "UAB",
+        "slug": "uab",
+        "count": 1
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 1
+      },
+      {
+        "college": "UNLV",
+        "slug": "unlv",
+        "count": 1
+      },
+      {
+        "college": "UTSA",
+        "slug": "utsa",
+        "count": 1
+      },
+      {
+        "college": "Vanderbilt",
+        "slug": "vanderbilt",
+        "count": 1
+      },
+      {
+        "college": "Washington State",
+        "slug": "washington-state",
+        "count": 1
+      },
+      {
+        "college": "Weber State",
+        "slug": "weber-state",
+        "count": 1
+      },
+      {
+        "college": "West Alabama",
+        "slug": "west-alabama",
+        "count": 1
+      },
+      {
+        "college": "West Florida",
+        "slug": "west-florida",
+        "count": 1
+      },
+      {
+        "college": "Western Illinois",
+        "slug": "western-illinois",
+        "count": 1
+      },
+      {
+        "college": "Western Kentucky",
+        "slug": "western-kentucky",
+        "count": 1
+      },
+      {
+        "college": "Yale",
+        "slug": "yale",
+        "count": 1
+      },
+      {
+        "college": "Youngstown State",
+        "slug": "youngstown-state",
+        "count": 1
+      }
+    ],
+    "G": [
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 6
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 6
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "count": 6
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 4
+      },
+      {
+        "college": "North Dakota State",
+        "slug": "north-dakota-state",
+        "count": 4
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 4
+      },
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 3
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 3
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 3
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 3
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 3
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 3
+      },
+      {
+        "college": "Oregon State",
+        "slug": "oregon-state",
+        "count": 3
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 3
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 3
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 3
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 3
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 3
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 2
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "count": 2
+      },
+      {
+        "college": "Eastern Michigan",
+        "slug": "eastern-michigan",
+        "count": 2
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 2
+      },
+      {
+        "college": "James Madison",
+        "slug": "james-madison",
+        "count": 2
+      },
+      {
+        "college": "Kansas",
+        "slug": "kansas",
+        "count": 2
+      },
+      {
+        "college": "Louisiana",
+        "slug": "louisiana",
+        "count": 2
+      },
+      {
+        "college": "Nebraska",
+        "slug": "nebraska",
+        "count": 2
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 2
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "count": 2
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 2
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 2
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 2
+      },
+      {
+        "college": "Tulsa",
+        "slug": "tulsa",
+        "count": 2
+      },
+      {
+        "college": "UTEP",
+        "slug": "utep",
+        "count": 2
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 2
+      },
+      {
+        "college": "Western Michigan",
+        "slug": "western-michigan",
+        "count": 2
+      },
+      {
+        "college": "App State",
+        "slug": "app-state",
+        "count": 1
+      },
+      {
+        "college": "Arizona",
+        "slug": "arizona",
+        "count": 1
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 1
+      },
+      {
+        "college": "Baylor",
+        "slug": "baylor",
+        "count": 1
+      },
+      {
+        "college": "Boise State",
+        "slug": "boise-state",
+        "count": 1
+      },
+      {
+        "college": "British Columbia",
+        "slug": "british-columbia",
+        "count": 1
+      },
+      {
+        "college": "Buffalo",
+        "slug": "buffalo",
+        "count": 1
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "count": 1
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "count": 1
+      },
+      {
+        "college": "Chattanooga",
+        "slug": "chattanooga",
+        "count": 1
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "count": 1
+      },
+      {
+        "college": "Colorado State",
+        "slug": "colorado-state",
+        "count": 1
+      },
+      {
+        "college": "Colorado",
+        "slug": "colorado",
+        "count": 1
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 1
+      },
+      {
+        "college": "Hawai'i",
+        "slug": "hawai-i",
+        "count": 1
+      },
+      {
+        "college": "Holy Cross",
+        "slug": "holy-cross",
+        "count": 1
+      },
+      {
+        "college": "Houston",
+        "slug": "houston",
+        "count": 1
+      },
+      {
+        "college": "Humboldt State",
+        "slug": "humboldt-state",
+        "count": 1
+      },
+      {
+        "college": "Indiana",
+        "slug": "indiana",
+        "count": 1
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 1
+      },
+      {
+        "college": "Jacksonville State",
+        "slug": "jacksonville-state",
+        "count": 1
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 1
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "count": 1
+      },
+      {
+        "college": "Marshall",
+        "slug": "marshall",
+        "count": 1
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 1
+      },
+      {
+        "college": "Memphis",
+        "slug": "memphis",
+        "count": 1
+      },
+      {
+        "college": "Middle Tennessee",
+        "slug": "middle-tennessee",
+        "count": 1
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 1
+      },
+      {
+        "college": "Mississippi State",
+        "slug": "mississippi-state",
+        "count": 1
+      },
+      {
+        "college": "Nevada",
+        "slug": "nevada",
+        "count": 1
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "count": 1
+      },
+      {
+        "college": "Northern Illinois",
+        "slug": "northern-illinois",
+        "count": 1
+      },
+      {
+        "college": "Northern Iowa",
+        "slug": "northern-iowa",
+        "count": 1
+      },
+      {
+        "college": "Northwestern",
+        "slug": "northwestern",
+        "count": 1
+      },
+      {
+        "college": "Pennsylvania",
+        "slug": "pennsylvania",
+        "count": 1
+      },
+      {
+        "college": "Princeton",
+        "slug": "princeton",
+        "count": 1
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "count": 1
+      },
+      {
+        "college": "Rice",
+        "slug": "rice",
+        "count": 1
+      },
+      {
+        "college": "Sacramento State",
+        "slug": "sacramento-state",
+        "count": 1
+      },
+      {
+        "college": "Saint John's (MN)",
+        "slug": "saint-john-s-mn",
+        "count": 1
+      },
+      {
+        "college": "Sioux Falls",
+        "slug": "sioux-falls",
+        "count": 1
+      },
+      {
+        "college": "South Dakota State",
+        "slug": "south-dakota-state",
+        "count": 1
+      },
+      {
+        "college": "South Florida",
+        "slug": "south-florida",
+        "count": 1
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 1
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 1
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 1
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "count": 1
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 1
+      },
+      {
+        "college": "Texas State",
+        "slug": "texas-state",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 1
+      },
+      {
+        "college": "UConn",
+        "slug": "uconn",
+        "count": 1
+      },
+      {
+        "college": "Utah State",
+        "slug": "utah-state",
+        "count": 1
+      },
+      {
+        "college": "Wake Forest",
+        "slug": "wake-forest",
+        "count": 1
+      },
+      {
+        "college": "Washburn",
+        "slug": "washburn",
+        "count": 1
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 1
+      },
+      {
+        "college": "Weber State",
+        "slug": "weber-state",
+        "count": 1
+      },
+      {
+        "college": "West Virginia",
+        "slug": "west-virginia",
+        "count": 1
+      },
+      {
+        "college": "Western Kentucky",
+        "slug": "western-kentucky",
+        "count": 1
+      },
+      {
+        "college": "Wisconsin Whitewater",
+        "slug": "wisconsin-whitewater",
+        "count": 1
+      }
+    ],
+    "C": [
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 4
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 3
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 3
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 3
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 3
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 3
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 3
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 3
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 3
+      },
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 2
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 2
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "count": 2
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 2
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 2
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 2
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 2
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 2
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 2
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 2
+      },
+      {
+        "college": "Ball State",
+        "slug": "ball-state",
+        "count": 1
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 1
+      },
+      {
+        "college": "Chattanooga",
+        "slug": "chattanooga",
+        "count": 1
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 1
+      },
+      {
+        "college": "Florida Atlantic",
+        "slug": "florida-atlantic",
+        "count": 1
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 1
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 1
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 1
+      },
+      {
+        "college": "Louisville",
+        "slug": "louisville",
+        "count": 1
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 1
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 1
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 1
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 1
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "count": 1
+      },
+      {
+        "college": "Nebraska",
+        "slug": "nebraska",
+        "count": 1
+      },
+      {
+        "college": "Nevada",
+        "slug": "nevada",
+        "count": 1
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "count": 1
+      },
+      {
+        "college": "North Dakota State",
+        "slug": "north-dakota-state",
+        "count": 1
+      },
+      {
+        "college": "Oklahoma State",
+        "slug": "oklahoma-state",
+        "count": 1
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 1
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 1
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 1
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "count": 1
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 1
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 1
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "count": 1
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 1
+      },
+      {
+        "college": "Troy",
+        "slug": "troy",
+        "count": 1
+      },
+      {
+        "college": "USC",
+        "slug": "usc",
+        "count": 1
+      },
+      {
+        "college": "UTEP",
+        "slug": "utep",
+        "count": 1
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 1
+      },
+      {
+        "college": "West Virginia",
+        "slug": "west-virginia",
+        "count": 1
+      },
+      {
+        "college": "Western Michigan",
+        "slug": "western-michigan",
+        "count": 1
+      }
+    ],
+    "P": [
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 2
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 2
+      },
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 1
+      },
+      {
+        "college": "App State",
+        "slug": "app-state",
+        "count": 1
+      },
+      {
+        "college": "Arkansas-Pine Bluff",
+        "slug": "arkansas-pine-bluff",
+        "count": 1
+      },
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "count": 1
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "count": 1
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 1
+      },
+      {
+        "college": "Hawai'i",
+        "slug": "hawai-i",
+        "count": 1
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 1
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 1
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 1
+      },
+      {
+        "college": "Mississippi State",
+        "slug": "mississippi-state",
+        "count": 1
+      },
+      {
+        "college": "NC State",
+        "slug": "nc-state",
+        "count": 1
+      },
+      {
+        "college": "New Mexico",
+        "slug": "new-mexico",
+        "count": 1
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 1
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 1
+      },
+      {
+        "college": "Oregon State",
+        "slug": "oregon-state",
+        "count": 1
+      },
+      {
+        "college": "Rice",
+        "slug": "rice",
+        "count": 1
+      },
+      {
+        "college": "San Diego State",
+        "slug": "san-diego-state",
+        "count": 1
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 1
+      },
+      {
+        "college": "South Alabama",
+        "slug": "south-alabama",
+        "count": 1
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 1
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 1
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 1
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 1
+      },
+      {
+        "college": "Tulane",
+        "slug": "tulane",
+        "count": 1
+      },
+      {
+        "college": "UC Davis",
+        "slug": "uc-davis",
+        "count": 1
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 1
+      },
+      {
+        "college": "Wingate",
+        "slug": "wingate",
+        "count": 1
+      }
+    ],
+    "PK": [
+      {
+        "college": "Arizona",
+        "slug": "arizona",
+        "count": 3
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 3
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 2
+      },
+      {
+        "college": "Florida State",
+        "slug": "florida-state",
+        "count": 2
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 2
+      },
+      {
+        "college": "Georgia Southern",
+        "slug": "georgia-southern",
+        "count": 2
+      },
+      {
+        "college": "Memphis",
+        "slug": "memphis",
+        "count": 2
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 2
+      },
+      {
+        "college": "Unknown",
+        "slug": "unknown",
+        "count": 2
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 2
+      },
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 1
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 1
+      },
+      {
+        "college": "Georgia State",
+        "slug": "georgia-state",
+        "count": 1
+      },
+      {
+        "college": "Georgia Tech",
+        "slug": "georgia-tech",
+        "count": 1
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 1
+      },
+      {
+        "college": "Marist",
+        "slug": "marist",
+        "count": 1
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 1
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 1
+      },
+      {
+        "college": "New Mexico",
+        "slug": "new-mexico",
+        "count": 1
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 1
+      },
+      {
+        "college": "Rice",
+        "slug": "rice",
+        "count": 1
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "count": 1
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 1
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 1
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "count": 1
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 1
+      },
+      {
+        "college": "Tulane",
+        "slug": "tulane",
+        "count": 1
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 1
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 1
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 1
+      }
+    ],
+    "TE": [
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 6
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 6
+      },
+      {
+        "college": "Stanford",
+        "slug": "stanford",
+        "count": 6
+      },
+      {
+        "college": "Washington",
+        "slug": "washington",
+        "count": 6
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 5
+      },
+      {
+        "college": "Oregon",
+        "slug": "oregon",
+        "count": 5
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 5
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 5
+      },
+      {
+        "college": "Miami",
+        "slug": "miami",
+        "count": 4
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 4
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 4
+      },
+      {
+        "college": "Ole Miss",
+        "slug": "ole-miss",
+        "count": 4
+      },
+      {
+        "college": "Cincinnati",
+        "slug": "cincinnati",
+        "count": 3
+      },
+      {
+        "college": "Georgia Tech",
+        "slug": "georgia-tech",
+        "count": 3
+      },
+      {
+        "college": "Minnesota",
+        "slug": "minnesota",
+        "count": 3
+      },
+      {
+        "college": "Nebraska",
+        "slug": "nebraska",
+        "count": 3
+      },
+      {
+        "college": "Utah",
+        "slug": "utah",
+        "count": 3
+      },
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 2
+      },
+      {
+        "college": "Arkansas",
+        "slug": "arkansas",
+        "count": 2
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 2
+      },
+      {
+        "college": "Bowling Green",
+        "slug": "bowling-green",
+        "count": 2
+      },
+      {
+        "college": "Central Michigan",
+        "slug": "central-michigan",
+        "count": 2
+      },
+      {
+        "college": "Clemson",
+        "slug": "clemson",
+        "count": 2
+      },
+      {
+        "college": "Florida Atlantic",
+        "slug": "florida-atlantic",
+        "count": 2
+      },
+      {
+        "college": "Illinois State",
+        "slug": "illinois-state",
+        "count": 2
+      },
+      {
+        "college": "Indiana",
+        "slug": "indiana",
+        "count": 2
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 2
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 2
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 2
+      },
+      {
+        "college": "Oregon State",
+        "slug": "oregon-state",
+        "count": 2
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 2
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 2
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 2
+      },
+      {
+        "college": "South Dakota State",
+        "slug": "south-dakota-state",
+        "count": 2
+      },
+      {
+        "college": "Syracuse",
+        "slug": "syracuse",
+        "count": 2
+      },
+      {
+        "college": "Temple",
+        "slug": "temple",
+        "count": 2
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 2
+      },
+      {
+        "college": "Unknown",
+        "slug": "unknown",
+        "count": 2
+      },
+      {
+        "college": "Virginia Tech",
+        "slug": "virginia-tech",
+        "count": 2
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 2
+      },
+      {
+        "college": "Arizona State",
+        "slug": "arizona-state",
+        "count": 1
+      },
+      {
+        "college": "Baylor",
+        "slug": "baylor",
+        "count": 1
+      },
+      {
+        "college": "Boise State",
+        "slug": "boise-state",
+        "count": 1
+      },
+      {
+        "college": "Boston College",
+        "slug": "boston-college",
+        "count": 1
+      },
+      {
+        "college": "Buffalo",
+        "slug": "buffalo",
+        "count": 1
+      },
+      {
+        "college": "California",
+        "slug": "california",
+        "count": 1
+      },
+      {
+        "college": "Campbell",
+        "slug": "campbell",
+        "count": 1
+      },
+      {
+        "college": "Canisius",
+        "slug": "canisius",
+        "count": 1
+      },
+      {
+        "college": "Coastal Carolina",
+        "slug": "coastal-carolina",
+        "count": 1
+      },
+      {
+        "college": "Colorado State",
+        "slug": "colorado-state",
+        "count": 1
+      },
+      {
+        "college": "Dayton",
+        "slug": "dayton",
+        "count": 1
+      },
+      {
+        "college": "Drake",
+        "slug": "drake",
+        "count": 1
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "count": 1
+      },
+      {
+        "college": "Eastern Michigan",
+        "slug": "eastern-michigan",
+        "count": 1
+      },
+      {
+        "college": "Florida International",
+        "slug": "florida-international",
+        "count": 1
+      },
+      {
+        "college": "Florida",
+        "slug": "florida",
+        "count": 1
+      },
+      {
+        "college": "Furman",
+        "slug": "furman",
+        "count": 1
+      },
+      {
+        "college": "Idaho State",
+        "slug": "idaho-state",
+        "count": 1
+      },
+      {
+        "college": "Illinois",
+        "slug": "illinois",
+        "count": 1
+      },
+      {
+        "college": "Indiana State",
+        "slug": "indiana-state",
+        "count": 1
+      },
+      {
+        "college": "Iowa State",
+        "slug": "iowa-state",
+        "count": 1
+      },
+      {
+        "college": "Kansas State",
+        "slug": "kansas-state",
+        "count": 1
+      },
+      {
+        "college": "Kentucky",
+        "slug": "kentucky",
+        "count": 1
+      },
+      {
+        "college": "Louisiana",
+        "slug": "louisiana",
+        "count": 1
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 1
+      },
+      {
+        "college": "Minnesota State",
+        "slug": "minnesota-state",
+        "count": 1
+      },
+      {
+        "college": "Missouri",
+        "slug": "missouri",
+        "count": 1
+      },
+      {
+        "college": "North Carolina",
+        "slug": "north-carolina",
+        "count": 1
+      },
+      {
+        "college": "Old Dominion",
+        "slug": "old-dominion",
+        "count": 1
+      },
+      {
+        "college": "Princeton",
+        "slug": "princeton",
+        "count": 1
+      },
+      {
+        "college": "Purdue",
+        "slug": "purdue",
+        "count": 1
+      },
+      {
+        "college": "Samford",
+        "slug": "samford",
+        "count": 1
+      },
+      {
+        "college": "San Diego State",
+        "slug": "san-diego-state",
+        "count": 1
+      },
+      {
+        "college": "San Diego",
+        "slug": "san-diego",
+        "count": 1
+      },
+      {
+        "college": "San José State",
+        "slug": "san-jos-state",
+        "count": 1
+      },
+      {
+        "college": "Southern Arkansas",
+        "slug": "southern-arkansas",
+        "count": 1
+      },
+      {
+        "college": "Stetson",
+        "slug": "stetson",
+        "count": 1
+      },
+      {
+        "college": "TCU",
+        "slug": "tcu",
+        "count": 1
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 1
+      },
+      {
+        "college": "Texas A&M",
+        "slug": "texas-aandm",
+        "count": 1
+      },
+      {
+        "college": "Texas Tech",
+        "slug": "texas-tech",
+        "count": 1
+      },
+      {
+        "college": "Towson",
+        "slug": "towson",
+        "count": 1
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 1
+      },
+      {
+        "college": "VCU",
+        "slug": "vcu",
+        "count": 1
+      },
+      {
+        "college": "Virginia",
+        "slug": "virginia",
+        "count": 1
+      },
+      {
+        "college": "Wake Forest",
+        "slug": "wake-forest",
+        "count": 1
+      },
+      {
+        "college": "Western Kentucky",
+        "slug": "western-kentucky",
+        "count": 1
+      },
+      {
+        "college": "Wyoming",
+        "slug": "wyoming",
+        "count": 1
+      },
+      {
+        "college": "Youngstown State",
+        "slug": "youngstown-state",
+        "count": 1
+      }
+    ],
+    "FB": [
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "count": 1
+      },
+      {
+        "college": "Army",
+        "slug": "army",
+        "count": 1
+      },
+      {
+        "college": "Augustana University (SD)",
+        "slug": "augustana-university-sd",
+        "count": 1
+      },
+      {
+        "college": "Boise State",
+        "slug": "boise-state",
+        "count": 1
+      },
+      {
+        "college": "Colorado",
+        "slug": "colorado",
+        "count": 1
+      },
+      {
+        "college": "Harvard",
+        "slug": "harvard",
+        "count": 1
+      },
+      {
+        "college": "Maine",
+        "slug": "maine",
+        "count": 1
+      },
+      {
+        "college": "Michigan State",
+        "slug": "michigan-state",
+        "count": 1
+      },
+      {
+        "college": "Northern Illinois",
+        "slug": "northern-illinois",
+        "count": 1
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "count": 1
+      },
+      {
+        "college": "South Carolina",
+        "slug": "south-carolina",
+        "count": 1
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 1
+      },
+      {
+        "college": "Texas",
+        "slug": "texas",
+        "count": 1
+      },
+      {
+        "college": "Toledo",
+        "slug": "toledo",
+        "count": 1
+      },
+      {
+        "college": "UCLA",
+        "slug": "ucla",
+        "count": 1
+      },
+      {
+        "college": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 1
+      }
+    ],
+    "LS": [
+      {
+        "college": "Baylor",
+        "slug": "baylor",
+        "count": 2
+      },
+      {
+        "college": "Duke",
+        "slug": "duke",
+        "count": 2
+      },
+      {
+        "college": "Notre Dame",
+        "slug": "notre-dame",
+        "count": 2
+      },
+      {
+        "college": "UCF",
+        "slug": "ucf",
+        "count": 2
+      },
+      {
+        "college": "West Virginia",
+        "slug": "west-virginia",
+        "count": 2
+      },
+      {
+        "college": "Arizona State",
+        "slug": "arizona-state",
+        "count": 1
+      },
+      {
+        "college": "Auburn",
+        "slug": "auburn",
+        "count": 1
+      },
+      {
+        "college": "Azusa Pacific",
+        "slug": "azusa-pacific",
+        "count": 1
+      },
+      {
+        "college": "Colorado State",
+        "slug": "colorado-state",
+        "count": 1
+      },
+      {
+        "college": "Duquesne",
+        "slug": "duquesne",
+        "count": 1
+      },
+      {
+        "college": "Georgia",
+        "slug": "georgia",
+        "count": 1
+      },
+      {
+        "college": "Harvard",
+        "slug": "harvard",
+        "count": 1
+      },
+      {
+        "college": "Idaho",
+        "slug": "idaho",
+        "count": 1
+      },
+      {
+        "college": "Iowa",
+        "slug": "iowa",
+        "count": 1
+      },
+      {
+        "college": "LSU",
+        "slug": "lsu",
+        "count": 1
+      },
+      {
+        "college": "Michigan",
+        "slug": "michigan",
+        "count": 1
+      },
+      {
+        "college": "Navy",
+        "slug": "navy",
+        "count": 1
+      },
+      {
+        "college": "Northern Colorado",
+        "slug": "northern-colorado",
+        "count": 1
+      },
+      {
+        "college": "Ohio State",
+        "slug": "ohio-state",
+        "count": 1
+      },
+      {
+        "college": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 1
+      },
+      {
+        "college": "Old Dominion",
+        "slug": "old-dominion",
+        "count": 1
+      },
+      {
+        "college": "Penn State",
+        "slug": "penn-state",
+        "count": 1
+      },
+      {
+        "college": "Pittsburgh",
+        "slug": "pittsburgh",
+        "count": 1
+      },
+      {
+        "college": "Rutgers",
+        "slug": "rutgers",
+        "count": 1
+      },
+      {
+        "college": "San Diego State",
+        "slug": "san-diego-state",
+        "count": 1
+      },
+      {
+        "college": "SMU",
+        "slug": "smu",
+        "count": 1
+      },
+      {
+        "college": "Tennessee",
+        "slug": "tennessee",
+        "count": 1
+      },
+      {
+        "college": "Vanderbilt",
+        "slug": "vanderbilt",
+        "count": 1
+      },
+      {
+        "college": "William & Mary",
+        "slug": "william-and-mary",
+        "count": 1
+      }
+    ],
+    "DB": [
+      {
+        "college": "Unknown",
+        "slug": "unknown",
+        "count": 2
+      },
+      {
+        "college": "Maryland",
+        "slug": "maryland",
+        "count": 1
+      }
+    ]
+  }
+}

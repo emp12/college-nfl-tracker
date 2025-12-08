@@ -1,0 +1,18 @@
+{
+  "id": "4259619",
+  "name": "Blake Grupe",
+  "position": "PK",
+  "nfl_team": "New Orleans Saints",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 19–36",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

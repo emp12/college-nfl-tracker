@@ -1,0 +1,15 @@
+{
+  "college": "Findlay",
+  "slug": "findlay",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "5209093",
+      "name": "Michael Jerrell",
+      "position": "OT",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": null
+    }
+  ]
+}

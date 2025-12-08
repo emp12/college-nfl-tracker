@@ -1,0 +1,26 @@
+{
+  "id": "4697815",
+  "name": "Rachaad White",
+  "position": "RB",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Arizona State",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 20–24",
+    "passing": null,
+    "rushing": {
+      "carries": 11,
+      "yards": 53,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 2,
+      "td": 0
+    },
+    "defense": null
+  }
+}

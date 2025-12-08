@@ -1,0 +1,36 @@
+{
+  "college": "Alcorn State",
+  "slug": "alcorn-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4369886",
+      "name": "Chris Blair",
+      "position": "WR",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": null
+    },
+    {
+      "id": "4256224",
+      "name": "Claudin Cherelus",
+      "position": "LB",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": {
+        "gameId": "401772882",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "W 30–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 10,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

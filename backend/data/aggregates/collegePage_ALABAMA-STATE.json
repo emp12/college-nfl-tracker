@@ -1,0 +1,15 @@
+{
+  "college": "Alabama State",
+  "slug": "alabama-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3131498",
+      "name": "Tytus Howard",
+      "position": "OT",
+      "nfl_team": "Houston Texans",
+      "lastGame": null
+    }
+  ]
+}

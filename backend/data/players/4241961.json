@@ -1,0 +1,22 @@
+{
+  "id": "4241961",
+  "name": "Connor Heyward",
+  "position": "TE",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Michigan State",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "W 27–22",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 2,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

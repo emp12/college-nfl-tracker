@@ -1,0 +1,22 @@
+{
+  "id": "4687513",
+  "name": "Cam Jackson",
+  "position": "DT",
+  "nfl_team": "Carolina Panthers",
+  "college": "Florida",
+  "lastGame": {
+    "gameId": "401772847",
+    "date": "2025-09-28T17:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "AWAY",
+    "resultText": "L 13–42",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

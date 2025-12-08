@@ -1,0 +1,29 @@
+{
+  "college": "Drake",
+  "slug": "drake",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "2975863",
+      "name": "Eric Saubert",
+      "position": "TE",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772857",
+        "date": "2025-10-12T17:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "W 20–12",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

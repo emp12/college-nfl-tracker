@@ -1,0 +1,159 @@
+{
+  "college": "Northwestern",
+  "slug": "northwestern",
+  "conference": "Big Ten",
+  "group": "Big Ten",
+  "players": [
+    {
+      "id": "4242292",
+      "name": "Earnest Brown IV",
+      "position": "DE",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": null
+    },
+    {
+      "id": "3116136",
+      "name": "Justin Jackson",
+      "position": "RB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "4427635",
+      "name": "Adetomiwa Adebawore",
+      "position": "DT",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 19–36",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4569607",
+      "name": "Cameron Mitchell",
+      "position": "CB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772756",
+        "date": "2025-10-19T20:05:00.000Z",
+        "opponent": "LAC",
+        "homeAway": "AWAY",
+        "resultText": "W 38–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3045251",
+      "name": "Anthony Walker Jr.",
+      "position": "LB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "4361266",
+      "name": "Greg Newsome II",
+      "position": "CB",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 1
+        }
+      }
+    },
+    {
+      "id": "4242283",
+      "name": "Rashawn Slater",
+      "position": "OT",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": null
+    },
+    {
+      "id": "4429053",
+      "name": "AJ Henning",
+      "position": "WR",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4569609",
+      "name": "Evan Hull",
+      "position": "RB",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 4,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 1,
+          "yards": 6,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "2974348",
+      "name": "Dean Lowry",
+      "position": "DT",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4429100",
+      "name": "Peter Skoronski",
+      "position": "OT",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    },
+    {
+      "id": "3116135",
+      "name": "Blake Hance",
+      "position": "G",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    },
+    {
+      "id": "2511109",
+      "name": "Trevor Siemian",
+      "position": "QB",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    }
+  ]
+}

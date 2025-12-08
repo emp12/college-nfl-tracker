@@ -1,0 +1,26 @@
+{
+  "id": "3676833",
+  "name": "KaVontae Turpin",
+  "position": "WR",
+  "nfl_team": "Dallas Cowboys",
+  "college": "TCU",
+  "lastGame": {
+    "gameId": "401772947",
+    "date": "2025-12-05T01:15:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 30–44",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 4,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 26,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4360231",
+  "name": "Lucas Krull",
+  "position": "TE",
+  "nfl_team": "Denver Broncos",
+  "college": "Pittsburgh",
+  "lastGame": {
+    "gameId": "401772735",
+    "date": "2025-09-21T20:05:00.000Z",
+    "opponent": "LAC",
+    "homeAway": "AWAY",
+    "resultText": "L 20–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 9,
+      "td": 0
+    },
+    "defense": null
+  }
+}

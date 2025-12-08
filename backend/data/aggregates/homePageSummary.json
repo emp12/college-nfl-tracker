@@ -1,0 +1,51 @@
+{
+  "week": "2025-M12-W1",
+  "lastUpdated": "2025-12-07T23:06:12.025Z",
+  "conferenceGroups": {
+    "Big 12": [
+      {
+        "college": "BYU",
+        "slug": "byu",
+        "numPlayers": 0
+      }
+    ],
+    "SEC": [
+      {
+        "college": "Alabama",
+        "slug": "ala",
+        "numPlayers": 1
+      }
+    ]
+  },
+  "topSchoolsThisWeek": [
+    {
+      "college": "Alabama",
+      "slug": "ala",
+      "totalProduction": 133,
+      "latestGameDate": "2025-12-07"
+    },
+    {
+      "college": "BYU",
+      "slug": "byu",
+      "totalProduction": 0,
+      "latestGameDate": null
+    }
+  ],
+  "overPerformers": [
+    {
+      "college": "Alabama",
+      "slug": "ala",
+      "weekly": 133,
+      "seasonAvg": 0,
+      "overBy": 133
+    }
+  ],
+  "positionLeaders": {
+    "QB": [
+      {
+        "collegeSlug": "ala",
+        "numPlayers": 1
+      }
+    ]
+  }
+}

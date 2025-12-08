@@ -1,0 +1,22 @@
+{
+  "id": "4401823",
+  "name": "Dee Alford",
+  "position": "CB",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Tusculum",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "HOME",
+    "resultText": "L 9–37",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 5,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

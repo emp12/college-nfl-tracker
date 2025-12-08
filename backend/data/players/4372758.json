@@ -1,0 +1,22 @@
+{
+  "id": "4372758",
+  "name": "Kevin Austin Jr.",
+  "position": "WR",
+  "nfl_team": "New Orleans Saints",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772736",
+    "date": "2025-09-21T20:05:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "AWAY",
+    "resultText": "L 13–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

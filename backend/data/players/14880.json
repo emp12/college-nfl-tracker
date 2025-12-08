@@ -1,0 +1,24 @@
+{
+  "id": "14880",
+  "name": "Kirk Cousins",
+  "position": "QB",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Michigan State",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "HOME",
+    "resultText": "L 9–37",
+    "passing": {
+      "completions": 15,
+      "attempts": 30,
+      "yards": 162,
+      "td": 0,
+      "int": 2
+    },
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

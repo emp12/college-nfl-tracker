@@ -1,0 +1,22 @@
+{
+  "id": "4693373",
+  "name": "Jordan Turner",
+  "position": "LB",
+  "nfl_team": "Denver Broncos",
+  "college": "Michigan State",
+  "lastGame": {
+    "gameId": "401772778",
+    "date": "2025-11-16T21:25:00.000Z",
+    "opponent": "KC",
+    "homeAway": "HOME",
+    "resultText": "W 22–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

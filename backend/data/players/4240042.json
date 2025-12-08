@@ -1,0 +1,22 @@
+{
+  "id": "4240042",
+  "name": "Cory Durden",
+  "position": "DT",
+  "nfl_team": "New England Patriots",
+  "college": "NC State",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "W 26–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

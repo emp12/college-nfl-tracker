@@ -1,0 +1,18 @@
+{
+  "id": "16863",
+  "name": "Pat O'Donnell",
+  "position": "P",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Miami",
+  "lastGame": {
+    "gameId": "401772885",
+    "date": "2025-11-16T21:05:00.000Z",
+    "opponent": "SF",
+    "homeAway": "HOME",
+    "resultText": "L 22–41",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

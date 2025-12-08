@@ -1,0 +1,137 @@
+{
+  "college": "App State",
+  "slug": "app-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3917142",
+      "name": "Akeem Davis-Gaither",
+      "position": "LB",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772885",
+        "date": "2025-11-16T21:05:00.000Z",
+        "opponent": "SF",
+        "homeAway": "HOME",
+        "resultText": "L 22–41",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4036444",
+      "name": "Ryan Neuzil",
+      "position": "G",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "HOME",
+        "resultText": "L 9–37",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "15928",
+      "name": "Sam Martin",
+      "position": "P",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": {
+        "gameId": "401772882",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "W 30–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4241007",
+      "name": "D'Marco Jackson",
+      "position": "LB",
+      "nfl_team": "Chicago Bears",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "L 21–28",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4360786",
+      "name": "Cooper Hodges",
+      "position": "OT",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    },
+    {
+      "id": "4360773",
+      "name": "Nick Hampton",
+      "position": "LB",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": {
+        "gameId": "401772884",
+        "date": "2025-11-16T21:05:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "HOME",
+        "resultText": "W 21–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2509370",
+      "name": "Kendall Lamm",
+      "position": "OT",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4367330",
+      "name": "Tyrek Funderburk",
+      "position": "CB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": null
+    },
+    {
+      "id": "4036430",
+      "name": "Shemar Jean-Charles",
+      "position": "CB",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4036133",
+  "name": "T.J. Hockenson",
+  "position": "TE",
+  "nfl_team": "Minnesota Vikings",
+  "college": "Iowa",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "HOME",
+    "resultText": "W 31–0",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 12,
+      "td": 1
+    },
+    "defense": null
+  }
+}

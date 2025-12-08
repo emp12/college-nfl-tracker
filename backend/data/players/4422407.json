@@ -1,0 +1,46 @@
+{
+  "id": "4422407",
+  "espnId": "4422407",
+  "name": "Jonathan Harris",
+  "position": "DE",
+  "college": "Lindenwood",
+  "collegeSlug": "lindenwood",
+  "nfl_team": "Minnesota Vikings",
+  "games": [],
+  "totals": {
+    "gamesPlayed": 0,
+    "passing": {
+      "att": 0,
+      "cmp": 0,
+      "yds": 0,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "att": 0,
+      "yds": 0,
+      "td": 0
+    },
+    "receiving": {
+      "rec": 0,
+      "yds": 0,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0
+    },
+    "kicking": {
+      "fgMade": 0,
+      "fgAtt": 0,
+      "xpMade": 0,
+      "xpAtt": 0
+    },
+    "punting": {
+      "punts": 0,
+      "yds": 0
+    }
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,15 @@
+{
+  "college": "SE Louisiana",
+  "slug": "se-louisiana",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4248425",
+      "name": "Carlos Washington Jr.",
+      "position": "RB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": null
+    }
+  ]
+}

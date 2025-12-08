@@ -1,0 +1,18 @@
+{
+  "id": "3150744",
+  "name": "Chase McLaughlin",
+  "position": "PK",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Illinois",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 20–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

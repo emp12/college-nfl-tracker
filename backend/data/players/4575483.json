@@ -1,0 +1,22 @@
+{
+  "id": "4575483",
+  "name": "T.J. Tampa",
+  "position": "CB",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Iowa State",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "L 22–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

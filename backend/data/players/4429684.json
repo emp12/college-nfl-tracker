@@ -1,0 +1,22 @@
+{
+  "id": "4429684",
+  "name": "Anthony Gould",
+  "position": "WR",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Oregon State",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 19–36",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 3,
+      "td": 0
+    },
+    "defense": null
+  }
+}

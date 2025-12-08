@@ -1,0 +1,22 @@
+{
+  "id": "4432773",
+  "name": "Brian Thomas Jr.",
+  "position": "WR",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 87,
+      "td": 0
+    },
+    "defense": null
+  }
+}

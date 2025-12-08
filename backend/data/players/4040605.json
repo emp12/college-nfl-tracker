@@ -1,0 +1,22 @@
+{
+  "id": "4040605",
+  "name": "Nick Bosa",
+  "position": "DE",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772843",
+    "date": "2025-09-21T20:25:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "HOME",
+    "resultText": "W 16–15",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

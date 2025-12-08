@@ -1,0 +1,22 @@
+{
+  "id": "4040982",
+  "name": "Quinnen Williams",
+  "position": "DT",
+  "nfl_team": "New York Jets",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772947",
+    "date": "2025-12-05T01:15:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 30–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4431545",
+  "name": "Will Shipley",
+  "position": "RB",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Clemson",
+  "lastGame": {
+    "gameId": "401772890",
+    "date": "2025-11-23T21:25:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "AWAY",
+    "resultText": "L 21–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

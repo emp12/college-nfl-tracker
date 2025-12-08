@@ -1,0 +1,22 @@
+{
+  "id": "3915837",
+  "name": "Broderick Washington Jr.",
+  "position": "DT",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Texas Tech",
+  "lastGame": {
+    "gameId": "401772812",
+    "date": "2025-09-23T00:15:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "L 30–38",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4040945",
+  "name": "Dillon Radunz",
+  "position": "OT",
+  "nfl_team": "New Orleans Saints",
+  "college": "North Dakota State",
+  "lastGame": {
+    "gameId": "401772892",
+    "date": "2025-11-30T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "AWAY",
+    "resultText": "L 17–21",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

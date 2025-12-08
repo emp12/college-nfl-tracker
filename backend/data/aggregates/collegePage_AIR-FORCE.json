@@ -1,0 +1,50 @@
+{
+  "college": "Air Force",
+  "slug": "air-force",
+  "conference": "Mountain West",
+  "group": "Mountain West",
+  "players": [
+    {
+      "id": "4261090",
+      "name": "Jordan Jackson",
+      "position": "DT",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772735",
+        "date": "2025-09-21T20:05:00.000Z",
+        "opponent": "LAC",
+        "homeAway": "AWAY",
+        "resultText": "L 20–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4875564",
+      "name": "Bo Richter",
+      "position": "LB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "HOME",
+        "resultText": "W 31–0",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "college": "Western Colorado",
+  "slug": "western-colorado",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3068267",
+      "name": "Austin Ekeler",
+      "position": "RB",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772936",
+        "date": "2025-09-12T00:15:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "L 18–27",
+        "passing": null,
+        "rushing": {
+          "carries": 8,
+          "yards": 17,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 2,
+          "yards": 7,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

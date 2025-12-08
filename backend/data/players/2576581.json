@@ -1,0 +1,22 @@
+{
+  "id": "2576581",
+  "name": "Chris Moore",
+  "position": "WR",
+  "nfl_team": "Washington Commanders",
+  "college": "Cincinnati",
+  "lastGame": {
+    "gameId": "401772631",
+    "date": "2025-11-16T14:30:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "AWAY",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 28,
+      "td": 0
+    },
+    "defense": null
+  }
+}

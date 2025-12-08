@@ -1,0 +1,57 @@
+{
+  "college": "Tarleton State",
+  "slug": "tarleton-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3071353",
+      "name": "E.J. Speed",
+      "position": "LB",
+      "nfl_team": "Houston Texans",
+      "lastGame": {
+        "gameId": "401772881",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "AWAY",
+        "resultText": "W 16–13",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4715355",
+      "name": "Darius Cooper",
+      "position": "WR",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": {
+        "gameId": "401772890",
+        "date": "2025-11-23T21:25:00.000Z",
+        "opponent": "DAL",
+        "homeAway": "AWAY",
+        "resultText": "L 21–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 7,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4581750",
+      "name": "Jaden Smith",
+      "position": "WR",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

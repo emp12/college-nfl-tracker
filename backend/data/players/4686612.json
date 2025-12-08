@@ -1,0 +1,22 @@
+{
+  "id": "4686612",
+  "name": "Tre' Harris",
+  "position": "WR",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "Ole Miss",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 6–35",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 12,
+      "td": 0
+    },
+    "defense": null
+  }
+}

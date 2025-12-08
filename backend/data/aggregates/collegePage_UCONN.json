@@ -1,0 +1,92 @@
+{
+  "college": "UConn",
+  "slug": "uconn",
+  "conference": "Independent",
+  "group": "Independent",
+  "players": [
+    {
+      "id": "4428458",
+      "name": "Valentin Senn",
+      "position": "OT",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "4362139",
+      "name": "Travis Jones",
+      "position": "DT",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "L 22–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4427843",
+      "name": "Chase Lundt",
+      "position": "OT",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": null
+    },
+    {
+      "id": "4239140",
+      "name": "Ryan Van Demark",
+      "position": "OT",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": null
+    },
+    {
+      "id": "3921936",
+      "name": "Matt Peart",
+      "position": "OT",
+      "nfl_team": "Denver Broncos",
+      "lastGame": null
+    },
+    {
+      "id": "3045172",
+      "name": "Folorunso Fatukasi",
+      "position": "DT",
+      "nfl_team": "Houston Texans",
+      "lastGame": {
+        "gameId": "401772734",
+        "date": "2025-09-21T17:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 10–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0.5,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4569016",
+      "name": "Eric Watts",
+      "position": "DE",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "4362135",
+      "name": "Christian Haynes",
+      "position": "G",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    }
+  ]
+}

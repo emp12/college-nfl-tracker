@@ -1,0 +1,29 @@
+{
+  "college": "Elon",
+  "slug": "elon",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4573243",
+      "name": "Chandler Brayboy",
+      "position": "WR",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    },
+    {
+      "id": "4876613",
+      "name": "Rushawn Baker",
+      "position": "RB",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    },
+    {
+      "id": "3120502",
+      "name": "Olisaemeka Udoh",
+      "position": "OT",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    }
+  ]
+}

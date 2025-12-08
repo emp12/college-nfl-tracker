@@ -1,0 +1,22 @@
+{
+  "id": "4569586",
+  "name": "Ty Robinson",
+  "position": "DT",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Nebraska",
+  "lastGame": {
+    "gameId": "401772940",
+    "date": "2025-10-10T00:15:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "AWAY",
+    "resultText": "L 17–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

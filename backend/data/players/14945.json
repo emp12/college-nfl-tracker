@@ -1,0 +1,22 @@
+{
+  "id": "14945",
+  "name": "Harrison Smith",
+  "position": "S",
+  "nfl_team": "Minnesota Vikings",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "HOME",
+    "resultText": "W 31–0",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 1
+    }
+  }
+}

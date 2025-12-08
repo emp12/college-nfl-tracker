@@ -1,0 +1,22 @@
+{
+  "id": "4360488",
+  "name": "JuJu Brents",
+  "position": "CB",
+  "nfl_team": "Miami Dolphins",
+  "college": "Kansas State",
+  "lastGame": {
+    "gameId": "401772631",
+    "date": "2025-11-16T14:30:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "HOME",
+    "resultText": "W 16–13",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 5,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

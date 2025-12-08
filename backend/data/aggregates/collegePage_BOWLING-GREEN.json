@@ -1,0 +1,106 @@
+{
+  "college": "Bowling Green",
+  "slug": "bowling-green",
+  "conference": "MAC",
+  "group": "MAC",
+  "players": [
+    {
+      "id": "5083076",
+      "name": "Harold Fannin Jr.",
+      "position": "TE",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772898",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "HOME",
+        "resultText": "L 29–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 8,
+          "yards": 114,
+          "td": 1
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4373423",
+      "name": "Karl Brooks",
+      "position": "DE",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4244049",
+      "name": "Quintin Morris",
+      "position": "TE",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4601079",
+      "name": "Jordan Oladokun",
+      "position": "CB",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": null
+    },
+    {
+      "id": "3914397",
+      "name": "Scotty Miller",
+      "position": "WR",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772941",
+        "date": "2025-10-17T00:15:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "AWAY",
+        "resultText": "L 31–33",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 9,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4426444",
+      "name": "Connor Bazelak",
+      "position": "QB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

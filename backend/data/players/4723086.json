@@ -1,0 +1,22 @@
+{
+  "id": "4723086",
+  "name": "Colston Loveland",
+  "position": "TE",
+  "nfl_team": "Chicago Bears",
+  "college": "Michigan",
+  "lastGame": {
+    "gameId": "401772897",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "L 21–28",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 4,
+      "yards": 29,
+      "td": 1
+    },
+    "defense": null
+  }
+}

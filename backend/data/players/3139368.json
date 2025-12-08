@@ -1,0 +1,22 @@
+{
+  "id": "3139368",
+  "name": "Marcus Epps",
+  "position": "S",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Wyoming",
+  "lastGame": {
+    "gameId": "401772867",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "HOME",
+    "resultText": "W 38–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

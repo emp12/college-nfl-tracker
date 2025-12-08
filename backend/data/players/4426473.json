@@ -1,0 +1,22 @@
+{
+  "id": "4426473",
+  "name": "Laiatu Latu",
+  "position": "DE",
+  "nfl_team": "Indianapolis Colts",
+  "college": "UCLA",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 19–36",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

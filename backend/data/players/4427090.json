@@ -1,0 +1,22 @@
+{
+  "id": "4427090",
+  "name": "Brandon Dorlus",
+  "position": "DT",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Oregon",
+  "lastGame": {
+    "gameId": "401772889",
+    "date": "2025-11-23T21:25:00.000Z",
+    "opponent": "NO",
+    "homeAway": "AWAY",
+    "resultText": "W 24–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 1.5,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4036378",
+  "name": "Jordan Love",
+  "position": "QB",
+  "nfl_team": "Green Bay Packers",
+  "college": "Utah State",
+  "lastGame": {
+    "gameId": "401772897",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "HOME",
+    "resultText": "W 28–21",
+    "passing": {
+      "completions": 17,
+      "attempts": 25,
+      "yards": 234,
+      "td": 3,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": -1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

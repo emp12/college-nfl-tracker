@@ -1,0 +1,26 @@
+{
+  "id": "4242433",
+  "name": "Joshua Palmer",
+  "position": "WR",
+  "nfl_team": "Buffalo Bills",
+  "college": "Tennessee",
+  "lastGame": {
+    "gameId": "401772946",
+    "date": "2025-11-21T01:15:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "AWAY",
+    "resultText": "L 19–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 21,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

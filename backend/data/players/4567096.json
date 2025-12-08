@@ -1,0 +1,22 @@
+{
+  "id": "4567096",
+  "name": "John Metchie III",
+  "position": "WR",
+  "nfl_team": "New York Jets",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 4,
+      "yards": 34,
+      "td": 0
+    },
+    "defense": null
+  }
+}

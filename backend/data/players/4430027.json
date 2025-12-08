@@ -1,0 +1,22 @@
+{
+  "id": "4430027",
+  "name": "Sam LaPorta",
+  "position": "TE",
+  "nfl_team": "Detroit Lions",
+  "college": "Iowa",
+  "lastGame": {
+    "gameId": "401772878",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "AWAY",
+    "resultText": "W 44–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 5,
+      "yards": 53,
+      "td": 0
+    },
+    "defense": null
+  }
+}

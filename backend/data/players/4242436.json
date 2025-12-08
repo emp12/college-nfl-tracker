@@ -1,0 +1,22 @@
+{
+  "id": "4242436",
+  "name": "Theo Jackson",
+  "position": "S",
+  "nfl_team": "Minnesota Vikings",
+  "college": "Tennessee",
+  "lastGame": {
+    "gameId": "401772887",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "L 6–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 7,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

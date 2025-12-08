@@ -1,0 +1,22 @@
+{
+  "id": "4047846",
+  "name": "Chase Lucas",
+  "position": "CB",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Arizona State",
+  "lastGame": {
+    "gameId": "401772885",
+    "date": "2025-11-16T21:05:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "AWAY",
+    "resultText": "W 41–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

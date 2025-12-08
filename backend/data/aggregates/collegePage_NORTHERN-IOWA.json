@@ -1,0 +1,81 @@
+{
+  "college": "Northern Iowa",
+  "slug": "northern-iowa",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4428225",
+      "name": "Jared Penning",
+      "position": "G",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": null
+    },
+    {
+      "id": "4030899",
+      "name": "Spencer Brown",
+      "position": "OT",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772727",
+        "date": "2025-09-14T17:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "AWAY",
+        "resultText": "W 30–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "3932901",
+      "name": "Elijah Campbell",
+      "position": "S",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772892",
+        "date": "2025-11-30T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "W 21–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4248627",
+      "name": "Trevor Penning",
+      "position": "OT",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": null
+    },
+    {
+      "id": "4384595",
+      "name": "Khristian Boyd",
+      "position": "DT",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772861",
+        "date": "2025-10-19T17:00:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "AWAY",
+        "resultText": "L 14–26",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

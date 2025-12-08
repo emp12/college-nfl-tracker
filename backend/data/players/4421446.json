@@ -1,0 +1,22 @@
+{
+  "id": "4421446",
+  "name": "Craig Reynolds",
+  "position": "RB",
+  "nfl_team": "Detroit Lions",
+  "college": "Kutztown",
+  "lastGame": {
+    "gameId": "401772923",
+    "date": "2025-10-13T00:20:00.000Z",
+    "opponent": "KC",
+    "homeAway": "AWAY",
+    "resultText": "L 17–30",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

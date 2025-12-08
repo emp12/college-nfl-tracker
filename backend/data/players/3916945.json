@@ -1,0 +1,22 @@
+{
+  "id": "3916945",
+  "name": "Darius Slayton",
+  "position": "WR",
+  "nfl_team": "New York Giants",
+  "college": "Auburn",
+  "lastGame": {
+    "gameId": "401772888",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 27–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 23,
+      "td": 0
+    },
+    "defense": null
+  }
+}

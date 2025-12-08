@@ -1,0 +1,15 @@
+{
+  "college": "Lafayette",
+  "slug": "lafayette",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4369994",
+      "name": "Malik Hamm",
+      "position": "LB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": null
+    }
+  ]
+}

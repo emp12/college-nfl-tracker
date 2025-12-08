@@ -1,0 +1,22 @@
+{
+  "id": "4573398",
+  "name": "Max Brosmer",
+  "position": "QB",
+  "nfl_team": "Minnesota Vikings",
+  "college": "Minnesota",
+  "lastGame": {
+    "gameId": "401772633",
+    "date": "2025-10-05T13:30:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "AWAY",
+    "resultText": "W 21–17",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": -1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

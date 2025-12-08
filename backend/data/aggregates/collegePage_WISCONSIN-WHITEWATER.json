@@ -1,0 +1,29 @@
+{
+  "college": "Wisconsin Whitewater",
+  "slug": "wisconsin-whitewater",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4608138",
+      "name": "Quinn Meinerz",
+      "position": "G",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772832",
+        "date": "2025-09-07T20:05:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "HOME",
+        "resultText": "W 20–12",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

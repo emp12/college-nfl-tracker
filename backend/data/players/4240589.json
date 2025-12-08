@@ -1,0 +1,18 @@
+{
+  "id": "4240589",
+  "name": "Tristan Wirfs",
+  "position": "OT",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Iowa",
+  "lastGame": {
+    "gameId": "401772816",
+    "date": "2025-10-20T23:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 9–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

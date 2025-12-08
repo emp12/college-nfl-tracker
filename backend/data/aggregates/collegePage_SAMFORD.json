@@ -1,0 +1,15 @@
+{
+  "college": "Samford",
+  "slug": "samford",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4379769",
+      "name": "Qadir Ismail",
+      "position": "TE",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "college": "Arkansas",
+  "slug": "arkansas",
+  "conference": "SEC",
+  "group": "SEC",
+  "players": [
+    {
+      "id": "3886633",
+      "name": "Hjalte Froholdt",
+      "position": "G",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772843",
+        "date": "2025-09-21T20:25:00.000Z",
+        "opponent": "SF",
+        "homeAway": "AWAY",
+        "resultText": "L 15–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4034948",
+      "name": "Feleipe Franks",
+      "position": "TE",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "HOME",
+        "resultText": "L 9–37",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "5082541",
+      "name": "Marquise Robinson",
+      "position": "CB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": null
+    },
+    {
+      "id": "4432715",
+      "name": "Landon Jackson",
+      "position": "DE",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": null
+    },
+    {
+      "id": "4567173",
+      "name": "Ricky Stromberg",
+      "position": "C",
+      "nfl_team": "Chicago Bears",
+      "lastGame": null
+    },
+    {
+      "id": "3916903",
+      "name": "Dre Greenlaw",
+      "position": "LB",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4685721",
+      "name": "Drew Sanders",
+      "position": "LB",
+      "nfl_team": "Denver Broncos",
+      "lastGame": null
+    },
+    {
+      "id": "3046435",
+      "name": "Dan Skipper",
+      "position": "OT",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "5123663",
+      "name": "Isaac TeSlaa",
+      "position": "WR",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 9–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4689936",
+      "name": "Jake Bates",
+      "position": "PK",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 9–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4242149",
+      "name": "Montaric Brown",
+      "position": "CB",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772775",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "LAC",
+        "homeAway": "HOME",
+        "resultText": "W 35–6",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4686361",
+      "name": "Cam Little",
+      "position": "PK",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4690972",
+      "name": "Ja'Quinden Jackson",
+      "position": "RB",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    },
+    {
+      "id": "4428390",
+      "name": "Keivie Rose",
+      "position": "DT",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    },
+    {
+      "id": "4242177",
+      "name": "Dalton Wagner",
+      "position": "OT",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": null
+    },
+    {
+      "id": "4567175",
+      "name": "Beaux Limmer",
+      "position": "C",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": null
+    },
+    {
+      "id": "4242154",
+      "name": "Kam Curl",
+      "position": "S",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "AWAY",
+        "resultText": "W 45–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4429128",
+      "name": "Dwight McGlothern",
+      "position": "CB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": null
+    },
+    {
+      "id": "3046439",
+      "name": "Hunter Henry",
+      "position": "TE",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "AWAY",
+        "resultText": "W 26–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 7,
+          "yards": 115,
+          "td": 1
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4567171",
+      "name": "Eric Gregory",
+      "position": "DT",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    },
+    {
+      "id": "4248047",
+      "name": "John Ridgeway III",
+      "position": "DT",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772869",
+        "date": "2025-10-26T20:05:00.000Z",
+        "opponent": "TB",
+        "homeAway": "HOME",
+        "resultText": "L 3–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4429313",
+      "name": "Tyrone Broden",
+      "position": "WR",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    },
+    {
+      "id": "2574511",
+      "name": "Brandon Allen",
+      "position": "QB",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    },
+    {
+      "id": "4567156",
+      "name": "Treylon Burks",
+      "position": "WR",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "AWAY",
+        "resultText": "L 0–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2980080",
+      "name": "Deatrich Wise Jr.",
+      "position": "DE",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772936",
+        "date": "2025-09-12T00:15:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "L 18–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

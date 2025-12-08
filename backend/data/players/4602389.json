@@ -1,0 +1,22 @@
+{
+  "id": "4602389",
+  "name": "Jeffrey Bassa",
+  "position": "LB",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Oregon",
+  "lastGame": {
+    "gameId": "401772923",
+    "date": "2025-10-13T00:20:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "W 30–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4431299",
+  "name": "Rome Odunze",
+  "position": "WR",
+  "nfl_team": "Chicago Bears",
+  "college": "Washington",
+  "lastGame": {
+    "gameId": "401772780",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "W 31–28",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 53,
+      "td": 0
+    },
+    "defense": null
+  }
+}

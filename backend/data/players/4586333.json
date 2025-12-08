@@ -1,0 +1,22 @@
+{
+  "id": "4586333",
+  "name": "Mekhi Wingo",
+  "position": "DT",
+  "nfl_team": "Detroit Lions",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772835",
+    "date": "2025-09-14T17:00:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "HOME",
+    "resultText": "W 52–21",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

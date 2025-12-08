@@ -1,0 +1,22 @@
+{
+  "college": "British Columbia",
+  "slug": "british-columbia",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "5125873",
+      "name": "Theo Benedet",
+      "position": "G",
+      "nfl_team": "Chicago Bears",
+      "lastGame": null
+    },
+    {
+      "id": "5209589",
+      "name": "Giovanni Manu",
+      "position": "OT",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "college": "Western Michigan",
+  "slug": "western-michigan",
+  "conference": "MAC",
+  "group": "MAC",
+  "players": [
+    {
+      "id": "5083656",
+      "name": "Bilhal Kone",
+      "position": "CB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": null
+    },
+    {
+      "id": "2973051",
+      "name": "Taylor Moton",
+      "position": "OT",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": null
+    },
+    {
+      "id": "4429996",
+      "name": "Marshawn Kneeland",
+      "position": "DE",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772858",
+        "date": "2025-10-12T17:00:00.000Z",
+        "opponent": "CAR",
+        "homeAway": "AWAY",
+        "resultText": "L 27–30",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3916746",
+      "name": "Wesley French",
+      "position": "C",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": null
+    },
+    {
+      "id": "4362236",
+      "name": "Keni-H Lovely",
+      "position": "CB",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    },
+    {
+      "id": "4043039",
+      "name": "Mike Caliendo",
+      "position": "G",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "4043041",
+      "name": "Jaylon Moore",
+      "position": "G",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": null
+    },
+    {
+      "id": "4043016",
+      "name": "Dee Eskridge",
+      "position": "WR",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "AWAY",
+        "resultText": "W 34–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "3129446",
+      "name": "Robert Spillane",
+      "position": "LB",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "AWAY",
+        "resultText": "W 26–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4362234",
+      "name": "Zaire Barnes",
+      "position": "LB",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3129473",
+      "name": "Chukwuma Okorafor",
+      "position": "OT",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "4430191",
+      "name": "Skyy Moore",
+      "position": "WR",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 26–42",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 18,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

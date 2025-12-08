@@ -1,0 +1,28 @@
+{
+  "id": "4889929",
+  "name": "Quinn Ewers",
+  "position": "QB",
+  "nfl_team": "Miami Dolphins",
+  "college": "Texas",
+  "lastGame": {
+    "gameId": "401772754",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "AWAY",
+    "resultText": "L 6–31",
+    "passing": {
+      "completions": 5,
+      "attempts": 8,
+      "yards": 53,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": 0,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2576336",
+  "name": "Ameer Abdullah",
+  "position": "RB",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Nebraska",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 19–36",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 4,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 5,
+      "td": 0
+    },
+    "defense": null
+  }
+}

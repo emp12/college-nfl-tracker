@@ -1,0 +1,32 @@
+{
+  "id": "8439",
+  "name": "Aaron Rodgers",
+  "position": "QB",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "California",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "W 27–22",
+    "passing": {
+      "completions": 23,
+      "attempts": 34,
+      "yards": 284,
+      "td": 1,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 2,
+      "yards": 0,
+      "td": 1
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": -9,
+      "td": 0
+    },
+    "defense": null
+  }
+}

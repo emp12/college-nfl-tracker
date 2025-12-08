@@ -1,0 +1,22 @@
+{
+  "id": "4379778",
+  "name": "Christian Benford",
+  "position": "CB",
+  "nfl_team": "Buffalo Bills",
+  "college": "Villanova",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "HOME",
+    "resultText": "W 39–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 1,
+      "interceptions": 1
+    }
+  }
+}

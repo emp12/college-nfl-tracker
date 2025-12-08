@@ -1,0 +1,28 @@
+{
+  "id": "4688380",
+  "name": "Cam Ward",
+  "position": "QB",
+  "nfl_team": "Tennessee Titans",
+  "college": "Miami",
+  "lastGame": {
+    "gameId": "401772881",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 13–16",
+    "passing": {
+      "completions": 24,
+      "attempts": 37,
+      "yards": 194,
+      "td": 1,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 3,
+      "yards": 33,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

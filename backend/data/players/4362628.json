@@ -1,0 +1,26 @@
+{
+  "id": "4362628",
+  "name": "Ja'Marr Chase",
+  "position": "WR",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 34–39",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 8,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 5,
+      "yards": 44,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4361741",
+  "name": "Brock Purdy",
+  "position": "QB",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Iowa State",
+  "lastGame": {
+    "gameId": "401772885",
+    "date": "2025-11-16T21:05:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "AWAY",
+    "resultText": "W 41–22",
+    "passing": {
+      "completions": 19,
+      "attempts": 26,
+      "yards": 200,
+      "td": 3,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": -7,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

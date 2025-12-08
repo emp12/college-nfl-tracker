@@ -1,0 +1,625 @@
+{
+  "college": "Washington",
+  "slug": "washington",
+  "conference": "Big Ten",
+  "group": "Big Ten",
+  "players": [
+    {
+      "id": "3127287",
+      "name": "Budda Baker",
+      "position": "S",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 17–45",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3886809",
+      "name": "Andre Baccellia",
+      "position": "WR",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 17–45",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 3,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4360423",
+      "name": "Michael Penix Jr.",
+      "position": "QB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772882",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "CAR",
+        "homeAway": "HOME",
+        "resultText": "L 27–30",
+        "passing": {
+          "completions": 13,
+          "attempts": 16,
+          "yards": 175,
+          "td": 0,
+          "int": 0
+        },
+        "rushing": {
+          "carries": 1,
+          "yards": 9,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "3127304",
+      "name": "Kaleb McGary",
+      "position": "OT",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": null
+    },
+    {
+      "id": "4428713",
+      "name": "Bralen Trice",
+      "position": "LB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": null
+    },
+    {
+      "id": "4243332",
+      "name": "Keith Taylor",
+      "position": "CB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772636",
+        "date": "2025-11-09T14:30:00.000Z",
+        "opponent": "IND",
+        "homeAway": "AWAY",
+        "resultText": "L 25–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4430876",
+      "name": "Roger Rosengarten",
+      "position": "OT",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": null
+    },
+    {
+      "id": "2978313",
+      "name": "Shaq Thompson",
+      "position": "LB",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "HOME",
+        "resultText": "W 39–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4039007",
+      "name": "Taylor Rapp",
+      "position": "S",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772815",
+        "date": "2025-10-13T23:15:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "L 14–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 7,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4688552",
+      "name": "Keleki Latu",
+      "position": "TE",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772776",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "HOME",
+        "resultText": "W 44–32",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 4,
+          "td": 0
+        },
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4431299",
+      "name": "Rome Odunze",
+      "position": "WR",
+      "nfl_team": "Chicago Bears",
+      "lastGame": {
+        "gameId": "401772780",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "W 31–28",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 3,
+          "yards": 53,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4361093",
+      "name": "Kyler Gordon",
+      "position": "CB",
+      "nfl_team": "Chicago Bears",
+      "lastGame": {
+        "gameId": "401772861",
+        "date": "2025-10-19T17:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "W 26–14",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3886812",
+      "name": "Jake Browning",
+      "position": "QB",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "NE",
+        "homeAway": "HOME",
+        "resultText": "L 20–26",
+        "passing": {
+          "completions": 1,
+          "attempts": 1,
+          "yards": 14,
+          "td": 0,
+          "int": 0
+        },
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4243324",
+      "name": "Jaxson Kirkland",
+      "position": "G",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": null
+    },
+    {
+      "id": "3127310",
+      "name": "Drew Sample",
+      "position": "TE",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "NE",
+        "homeAway": "HOME",
+        "resultText": "L 20–26",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4243333",
+      "name": "Joe Tryon-Shoyinka",
+      "position": "DE",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772780",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "PIT",
+        "homeAway": "HOME",
+        "resultText": "W 31–28",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4374280",
+      "name": "Edefuan Ulofoshio",
+      "position": "LB",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": null
+    },
+    {
+      "id": "4039018",
+      "name": "Luke Wattenberg",
+      "position": "C",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772832",
+        "date": "2025-09-07T20:05:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "HOME",
+        "resultText": "W 20–12",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4039020",
+      "name": "Levi Onwuzurike",
+      "position": "DE",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "3894901",
+      "name": "Ezekiel Turner",
+      "position": "LB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "4039010",
+      "name": "Myles Bryant",
+      "position": "CB",
+      "nfl_team": "Houston Texans",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "KC",
+        "homeAway": "AWAY",
+        "resultText": "W 20–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4243315",
+      "name": "Salvon Ahmed",
+      "position": "RB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "4426405",
+      "name": "Trent McDuffie",
+      "position": "CB",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772932",
+        "date": "2025-12-08T01:20:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "L 10–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3127292",
+      "name": "Will Dissly",
+      "position": "TE",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": {
+        "gameId": "401772756",
+        "date": "2025-10-19T20:05:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "L 24–38",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4243328",
+      "name": "Elijah Molden",
+      "position": "CB",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": {
+        "gameId": "401772775",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 6–35",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 7,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3052180",
+      "name": "Coleman Shelton",
+      "position": "C",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": null
+    },
+    {
+      "id": "4038999",
+      "name": "Byron Murphy Jr.",
+      "position": "CB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "HOME",
+        "resultText": "W 31–0",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4361100",
+      "name": "Jack Westover",
+      "position": "TE",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772772",
+        "date": "2025-11-09T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 28–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4430637",
+      "name": "Ja'Lynn Polk",
+      "position": "WR",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": null
+    },
+    {
+      "id": "3127306",
+      "name": "Dante Pettis",
+      "position": "WR",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4427170",
+      "name": "Troy Fautanu",
+      "position": "OT",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4429490",
+      "name": "Carson Bruener",
+      "position": "LB",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": {
+        "gameId": "401772791",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "BAL",
+        "homeAway": "AWAY",
+        "resultText": "W 27–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4775220",
+      "name": "Sebastian Valdez",
+      "position": "DT",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    },
+    {
+      "id": "3886818",
+      "name": "Myles Gaskin",
+      "position": "RB",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    },
+    {
+      "id": "4361112",
+      "name": "Devin Culp",
+      "position": "TE",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    },
+    {
+      "id": "4243331",
+      "name": "Cade Otton",
+      "position": "TE",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 3,
+          "yards": 19,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "3127294",
+      "name": "Greg Gaines",
+      "position": "DT",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3134362",
+      "name": "Vita Vea",
+      "position": "DT",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4430834",
+      "name": "Jalen McMillan",
+      "position": "WR",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3124058",
+  "name": "Marcus Davenport",
+  "position": "DE",
+  "nfl_team": "Detroit Lions",
+  "college": "UTSA",
+  "lastGame": {
+    "gameId": "401772947",
+    "date": "2025-12-05T01:15:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "HOME",
+    "resultText": "W 44–30",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

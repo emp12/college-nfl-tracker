@@ -1,0 +1,24 @@
+{
+  "id": "12483",
+  "name": "Matthew Stafford",
+  "position": "QB",
+  "nfl_team": "Los Angeles Rams",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772901",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "AWAY",
+    "resultText": "W 45–17",
+    "passing": {
+      "completions": 22,
+      "attempts": 31,
+      "yards": 281,
+      "td": 3,
+      "int": 0
+    },
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

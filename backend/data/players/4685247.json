@@ -1,0 +1,26 @@
+{
+  "id": "4685247",
+  "name": "Braelon Allen",
+  "position": "RB",
+  "nfl_team": "New York Jets",
+  "college": "Wisconsin",
+  "lastGame": {
+    "gameId": "401772840",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "AWAY",
+    "resultText": "L 27–29",
+    "passing": null,
+    "rushing": {
+      "carries": 6,
+      "yards": 30,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 17,
+      "td": 0
+    },
+    "defense": null
+  }
+}

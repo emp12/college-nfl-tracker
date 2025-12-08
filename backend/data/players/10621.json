@@ -1,0 +1,18 @@
+{
+  "id": "10621",
+  "name": "Nick Folk",
+  "position": "PK",
+  "nfl_team": "New York Jets",
+  "college": "Arizona",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

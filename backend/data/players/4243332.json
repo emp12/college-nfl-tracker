@@ -1,0 +1,22 @@
+{
+  "id": "4243332",
+  "name": "Keith Taylor",
+  "position": "CB",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Washington",
+  "lastGame": {
+    "gameId": "401772636",
+    "date": "2025-11-09T14:30:00.000Z",
+    "opponent": "IND",
+    "homeAway": "AWAY",
+    "resultText": "L 25–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 6,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

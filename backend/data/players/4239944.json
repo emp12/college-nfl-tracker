@@ -1,0 +1,22 @@
+{
+  "id": "4239944",
+  "name": "Hunter Long",
+  "position": "TE",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Boston College",
+  "lastGame": {
+    "gameId": "401772873",
+    "date": "2025-11-02T21:05:00.000Z",
+    "opponent": "LV",
+    "homeAway": "AWAY",
+    "resultText": "W 30–29",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 6,
+      "td": 0
+    },
+    "defense": null
+  }
+}

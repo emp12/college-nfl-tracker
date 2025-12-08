@@ -1,0 +1,22 @@
+{
+  "id": "4426926",
+  "name": "Demani Richardson",
+  "position": "S",
+  "nfl_team": "Carolina Panthers",
+  "college": "Texas A&M",
+  "lastGame": {
+    "gameId": "401772872",
+    "date": "2025-11-02T18:00:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "W 16–13",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

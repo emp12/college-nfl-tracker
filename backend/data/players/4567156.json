@@ -1,0 +1,26 @@
+{
+  "id": "4567156",
+  "name": "Treylon Burks",
+  "position": "WR",
+  "nfl_team": "Washington Commanders",
+  "college": "Arkansas",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "L 0–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

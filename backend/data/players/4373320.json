@@ -1,0 +1,22 @@
+{
+  "id": "4373320",
+  "name": "Erick Hallett",
+  "position": "S",
+  "nfl_team": "Detroit Lions",
+  "college": "Pittsburgh",
+  "lastGame": {
+    "gameId": "401772816",
+    "date": "2025-10-20T23:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "HOME",
+    "resultText": "W 24–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 8,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4427404",
+  "name": "Cam Hart",
+  "position": "CB",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 6–35",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

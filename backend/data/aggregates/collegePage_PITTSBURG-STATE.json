@@ -1,0 +1,50 @@
+{
+  "college": "Pittsburg State",
+  "slug": "pittsburg-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4917592",
+      "name": "Dallis Flowers",
+      "position": "CB",
+      "nfl_team": "Chicago Bears",
+      "lastGame": {
+        "gameId": "401772844",
+        "date": "2025-09-21T20:25:00.000Z",
+        "opponent": "DAL",
+        "homeAway": "HOME",
+        "resultText": "W 31–14",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4368350",
+      "name": "Rico Payton",
+      "position": "CB",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

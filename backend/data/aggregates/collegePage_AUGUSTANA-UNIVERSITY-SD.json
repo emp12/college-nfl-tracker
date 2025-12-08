@@ -1,0 +1,29 @@
+{
+  "college": "Augustana University (SD)",
+  "slug": "augustana-university-sd",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4012556",
+      "name": "C.J. Ham",
+      "position": "FB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772880",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "L 17–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

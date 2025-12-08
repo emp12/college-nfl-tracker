@@ -1,0 +1,74 @@
+{
+  "college": "New Mexico",
+  "slug": "new-mexico",
+  "conference": "Mountain West",
+  "group": "Mountain West",
+  "players": [
+    {
+      "id": "4039396",
+      "name": "Corey Bojorquez",
+      "position": "P",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772898",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "HOME",
+        "resultText": "L 29–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "3139389",
+      "name": "D'Angelo Ross",
+      "position": "CB",
+      "nfl_team": "Houston Texans",
+      "lastGame": {
+        "gameId": "401772784",
+        "date": "2025-11-23T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3124679",
+      "name": "Jason Sanders",
+      "position": "PK",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4570084",
+      "name": "Jerrick Reed II",
+      "position": "S",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772736",
+        "date": "2025-09-21T20:05:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "W 44–13",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

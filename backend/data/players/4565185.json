@@ -1,0 +1,22 @@
+{
+  "id": "4565185",
+  "name": "Tai Felton",
+  "position": "WR",
+  "nfl_team": "Minnesota Vikings",
+  "college": "Maryland",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "HOME",
+    "resultText": "W 31–0",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 10,
+      "td": 0
+    },
+    "defense": null
+  }
+}

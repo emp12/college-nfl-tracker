@@ -1,0 +1,26 @@
+{
+  "id": "3916433",
+  "name": "Jakobi Meyers",
+  "position": "WR",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "NC State",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": null,
+    "rushing": {
+      "carries": 3,
+      "yards": 9,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 4,
+      "yards": 39,
+      "td": 1
+    },
+    "defense": null
+  }
+}

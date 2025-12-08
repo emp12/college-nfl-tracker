@@ -1,0 +1,26 @@
+{
+  "id": "4878878",
+  "name": "Amar Johnson",
+  "position": "RB",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "South Dakota State",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 6–35",
+    "passing": null,
+    "rushing": {
+      "carries": 2,
+      "yards": 8,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

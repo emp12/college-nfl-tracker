@@ -1,0 +1,22 @@
+{
+  "id": "4426948",
+  "name": "Luke McCaffrey",
+  "position": "WR",
+  "nfl_team": "Washington Commanders",
+  "college": "Rice",
+  "lastGame": {
+    "gameId": "401772864",
+    "date": "2025-10-19T20:25:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "AWAY",
+    "resultText": "L 22–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

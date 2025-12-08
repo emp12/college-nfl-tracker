@@ -1,0 +1,28 @@
+{
+  "id": "4431611",
+  "name": "Caleb Williams",
+  "position": "QB",
+  "nfl_team": "Chicago Bears",
+  "college": "USC",
+  "lastGame": {
+    "gameId": "401772897",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "L 21–28",
+    "passing": {
+      "completions": 19,
+      "attempts": 35,
+      "yards": 186,
+      "td": 2,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 4,
+      "yards": 15,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

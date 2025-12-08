@@ -1,0 +1,22 @@
+{
+  "id": "4240778",
+  "name": "Jamin Davis",
+  "position": "LB",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Kentucky",
+  "lastGame": {
+    "gameId": "401772819",
+    "date": "2025-11-18T01:15:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "HOME",
+    "resultText": "L 16–33",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

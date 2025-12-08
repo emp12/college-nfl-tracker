@@ -1,0 +1,22 @@
+{
+  "id": "2977740",
+  "name": "Emmanuel Ogbah",
+  "position": "DE",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Oklahoma State",
+  "lastGame": {
+    "gameId": "401772873",
+    "date": "2025-11-02T21:05:00.000Z",
+    "opponent": "LV",
+    "homeAway": "AWAY",
+    "resultText": "W 30–29",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0.5,
+      "interceptions": 0
+    }
+  }
+}

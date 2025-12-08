@@ -1,0 +1,22 @@
+{
+  "id": "3059021",
+  "name": "Alex Cappa",
+  "position": "G",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Humboldt State",
+  "lastGame": {
+    "gameId": "401772859",
+    "date": "2025-10-12T20:05:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "W 20–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

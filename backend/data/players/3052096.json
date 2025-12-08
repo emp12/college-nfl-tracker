@@ -1,0 +1,22 @@
+{
+  "id": "3052096",
+  "name": "Johnny Mundt",
+  "position": "TE",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Oregon",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "LAC",
+    "homeAway": "HOME",
+    "resultText": "W 35–6",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 25,
+      "td": 0
+    },
+    "defense": null
+  }
+}

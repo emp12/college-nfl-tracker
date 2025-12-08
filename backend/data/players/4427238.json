@@ -1,0 +1,28 @@
+{
+  "id": "4427238",
+  "name": "Dillon Gabriel",
+  "position": "QB",
+  "nfl_team": "Cleveland Browns",
+  "college": "Oregon",
+  "lastGame": {
+    "gameId": "401772777",
+    "date": "2025-11-16T21:25:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "HOME",
+    "resultText": "L 16–23",
+    "passing": {
+      "completions": 7,
+      "attempts": 10,
+      "yards": 68,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 2,
+      "yards": 2,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

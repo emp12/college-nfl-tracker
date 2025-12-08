@@ -1,0 +1,18 @@
+{
+  "id": "4599198",
+  "name": "Jared Wilson",
+  "position": "C",
+  "nfl_team": "New England Patriots",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772868",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "HOME",
+    "resultText": "W 32–13",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4242392",
+  "name": "Brock Wright",
+  "position": "TE",
+  "nfl_team": "Detroit Lions",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 9–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 8,
+      "td": 0
+    },
+    "defense": null
+  }
+}

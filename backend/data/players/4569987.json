@@ -1,0 +1,26 @@
+{
+  "id": "4569987",
+  "name": "Jaylen Warren",
+  "position": "RB",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Oklahoma State",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "W 27–22",
+    "passing": null,
+    "rushing": {
+      "carries": 8,
+      "yards": 13,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 3,
+      "yards": 49,
+      "td": 1
+    },
+    "defense": null
+  }
+}

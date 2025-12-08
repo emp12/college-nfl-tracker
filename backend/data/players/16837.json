@@ -1,0 +1,22 @@
+{
+  "id": "16837",
+  "name": "Shelby Harris",
+  "position": "DT",
+  "nfl_team": "Cleveland Browns",
+  "college": "Illinois State",
+  "lastGame": {
+    "gameId": "401772898",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 29–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

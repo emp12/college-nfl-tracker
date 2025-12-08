@@ -1,0 +1,22 @@
+{
+  "id": "4383440",
+  "name": "Nate Adkins",
+  "position": "TE",
+  "nfl_team": "Denver Broncos",
+  "college": "South Carolina",
+  "lastGame": {
+    "gameId": "401772757",
+    "date": "2025-10-19T20:05:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "HOME",
+    "resultText": "W 33–32",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 20,
+      "td": 0
+    },
+    "defense": null
+  }
+}

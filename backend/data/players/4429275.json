@@ -1,0 +1,26 @@
+{
+  "id": "4429275",
+  "name": "Trey Benson",
+  "position": "RB",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Florida State",
+  "lastGame": {
+    "gameId": "401772843",
+    "date": "2025-09-21T20:25:00.000Z",
+    "opponent": "SF",
+    "homeAway": "AWAY",
+    "resultText": "L 15–16",
+    "passing": null,
+    "rushing": {
+      "carries": 10,
+      "yards": 42,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 3,
+      "yards": 9,
+      "td": 0
+    },
+    "defense": null
+  }
+}

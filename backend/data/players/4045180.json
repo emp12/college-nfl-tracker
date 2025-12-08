@@ -1,0 +1,18 @@
+{
+  "id": "4045180",
+  "name": "Blake Gillikin",
+  "position": "P",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772747",
+    "date": "2025-10-05T20:05:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 21–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "college": "Southern Illinois",
+  "slug": "southern-illinois",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4429946",
+      "name": "PJ Jules",
+      "position": "S",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "NE",
+        "homeAway": "HOME",
+        "resultText": "L 20–26",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4043169",
+      "name": "Jeremy Chinn",
+      "position": "S",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 11,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

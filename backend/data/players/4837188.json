@@ -1,0 +1,22 @@
+{
+  "id": "4837188",
+  "name": "Jordan Phillips",
+  "position": "DT",
+  "nfl_team": "Miami Dolphins",
+  "college": "Maryland",
+  "lastGame": {
+    "gameId": "401772892",
+    "date": "2025-11-30T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "W 21–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

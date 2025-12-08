@@ -1,0 +1,26 @@
+{
+  "id": "4374302",
+  "name": "Amon-Ra St. Brown",
+  "position": "WR",
+  "nfl_team": "Detroit Lions",
+  "college": "USC",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 9–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 42,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "college": "UNLV",
+  "slug": "unlv",
+  "conference": "Mountain West",
+  "group": "Mountain West",
+  "players": [
+    {
+      "id": "4709980",
+      "name": "Johnathan Baldwin",
+      "position": "CB",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": null
+    },
+    {
+      "id": "4685637",
+      "name": "Jackson Woodard",
+      "position": "LB",
+      "nfl_team": "Houston Texans",
+      "lastGame": null
+    },
+    {
+      "id": "4374171",
+      "name": "Austin Ajiake",
+      "position": "LB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 19–36",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4431479",
+      "name": "Ricky White III",
+      "position": "WR",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    }
+  ]
+}

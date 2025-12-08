@@ -1,0 +1,28 @@
+{
+  "id": "4362887",
+  "name": "Justin Fields",
+  "position": "QB",
+  "nfl_team": "New York Jets",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772769",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "HOME",
+    "resultText": "W 27–20",
+    "passing": {
+      "completions": 6,
+      "attempts": 11,
+      "yards": 54,
+      "td": 1,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 7,
+      "yards": 28,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

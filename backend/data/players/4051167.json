@@ -1,0 +1,18 @@
+{
+  "id": "4051167",
+  "name": "Parker Romo",
+  "position": "PK",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Virginia Tech",
+  "lastGame": {
+    "gameId": "401772924",
+    "date": "2025-10-20T00:20:00.000Z",
+    "opponent": "SF",
+    "homeAway": "AWAY",
+    "resultText": "L 10–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

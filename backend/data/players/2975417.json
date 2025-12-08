@@ -1,0 +1,22 @@
+{
+  "id": "2975417",
+  "name": "Patrick Ricard",
+  "position": "FB",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Maine",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "L 22–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

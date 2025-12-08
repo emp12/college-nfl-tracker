@@ -1,0 +1,18 @@
+{
+  "id": "4038441",
+  "name": "Justice Hill",
+  "position": "RB",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Oklahoma State",
+  "lastGame": {
+    "gameId": "401772782",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "HOME",
+    "resultText": "W 23–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

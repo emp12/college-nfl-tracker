@@ -1,0 +1,116 @@
+{
+  "college": "Colorado State",
+  "slug": "colorado-state",
+  "conference": "Mountain West",
+  "group": "Mountain West",
+  "players": [
+    {
+      "id": "4361307",
+      "name": "Trey McBride",
+      "position": "TE",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": {
+        "gameId": "401772901",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 17–45",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 5,
+          "yards": 58,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4360475",
+      "name": "Chigozie Anusiem",
+      "position": "CB",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "4572519",
+      "name": "Dom Jones",
+      "position": "CB",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772868",
+        "date": "2025-10-26T17:00:00.000Z",
+        "opponent": "NE",
+        "homeAway": "AWAY",
+        "resultText": "L 13–32",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3052357",
+      "name": "Trent Sieg",
+      "position": "LS",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772890",
+        "date": "2025-11-23T21:25:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "HOME",
+        "resultText": "W 24–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4256055",
+      "name": "Barry Wesley",
+      "position": "OT",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": null
+    },
+    {
+      "id": "4597703",
+      "name": "Tory Horton",
+      "position": "WR",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772826",
+        "date": "2025-10-21T02:00:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "HOME",
+        "resultText": "W 27–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4427677",
+      "name": "Mohamed Kamara",
+      "position": "LB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    },
+    {
+      "id": "4879480",
+      "name": "Drew Moss",
+      "position": "G",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    }
+  ]
+}

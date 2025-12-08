@@ -1,0 +1,22 @@
+{
+  "id": "4361101",
+  "name": "Jackson Sirmon",
+  "position": "LB",
+  "nfl_team": "New York Jets",
+  "college": "California",
+  "lastGame": {
+    "gameId": "401772860",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "HOME",
+    "resultText": "L 6–13",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

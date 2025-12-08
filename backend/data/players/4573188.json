@@ -1,0 +1,22 @@
+{
+  "id": "4573188",
+  "name": "Nick Martin",
+  "position": "LB",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Oklahoma State",
+  "lastGame": {
+    "gameId": "401772885",
+    "date": "2025-11-16T21:05:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "AWAY",
+    "resultText": "W 41–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 7,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

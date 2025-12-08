@@ -1,0 +1,15 @@
+{
+  "college": "Baldwin-Wallace",
+  "slug": "baldwin-wallace",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "5143279",
+      "name": "Anthony Kendall",
+      "position": "CB",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": null
+    }
+  ]
+}

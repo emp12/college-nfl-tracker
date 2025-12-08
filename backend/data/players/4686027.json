@@ -1,0 +1,22 @@
+{
+  "id": "4686027",
+  "name": "Donovan McMillon",
+  "position": "S",
+  "nfl_team": "Cleveland Browns",
+  "college": "Pittsburgh",
+  "lastGame": {
+    "gameId": "401772777",
+    "date": "2025-11-16T21:25:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "HOME",
+    "resultText": "L 16–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

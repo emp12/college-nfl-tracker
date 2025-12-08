@@ -1,0 +1,15 @@
+{
+  "college": "Stetson",
+  "slug": "stetson",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3912092",
+      "name": "Donald Parham Jr.",
+      "position": "TE",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    }
+  ]
+}

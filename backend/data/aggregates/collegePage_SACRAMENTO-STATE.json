@@ -1,0 +1,53 @@
+{
+  "college": "Sacramento State",
+  "slug": "sacramento-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "2580216",
+      "name": "DeAndre Carter",
+      "position": "WR",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772846",
+        "date": "2025-09-28T17:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 10–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4248899",
+      "name": "Marte Mapu",
+      "position": "LB",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "AWAY",
+        "resultText": "W 26–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4876319",
+      "name": "Jackson Slater",
+      "position": "G",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    }
+  ]
+}

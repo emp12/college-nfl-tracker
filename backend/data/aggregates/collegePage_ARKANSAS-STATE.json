@@ -1,0 +1,57 @@
+{
+  "college": "Arkansas State",
+  "slug": "arkansas-state",
+  "conference": "Sun Belt",
+  "group": "Sun Belt",
+  "players": [
+    {
+      "id": "4570633",
+      "name": "Trevian Thomas",
+      "position": "S",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": {
+        "gameId": "401772852",
+        "date": "2025-10-05T17:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "HOME",
+        "resultText": "W 27–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "14958",
+      "name": "Demario Davis",
+      "position": "LB",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 7,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4565172",
+      "name": "Courtney Jackson",
+      "position": "WR",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    }
+  ]
+}

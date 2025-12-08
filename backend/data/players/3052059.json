@@ -1,0 +1,22 @@
+{
+  "id": "3052059",
+  "name": "Daniel Ekuale",
+  "position": "DT",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Washington State",
+  "lastGame": {
+    "gameId": "401772748",
+    "date": "2025-10-12T17:00:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "HOME",
+    "resultText": "W 23–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

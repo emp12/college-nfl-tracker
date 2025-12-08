@@ -1,0 +1,28 @@
+{
+  "id": "15864",
+  "name": "Geno Smith",
+  "position": "QB",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "West Virginia",
+  "lastGame": {
+    "gameId": "401772794",
+    "date": "2025-12-07T21:05:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "HOME",
+    "resultText": "L 17–24",
+    "passing": {
+      "completions": 13,
+      "attempts": 21,
+      "yards": 116,
+      "td": 1,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": 4,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

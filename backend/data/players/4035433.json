@@ -1,0 +1,22 @@
+{
+  "id": "4035433",
+  "name": "Kristian Fulton",
+  "position": "CB",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772778",
+    "date": "2025-11-16T21:25:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "AWAY",
+    "resultText": "L 19–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

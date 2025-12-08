@@ -1,0 +1,22 @@
+{
+  "id": "16731",
+  "name": "Brandin Cooks",
+  "position": "WR",
+  "nfl_team": "New Orleans Saints",
+  "college": "Oregon State",
+  "lastGame": {
+    "gameId": "401772874",
+    "date": "2025-11-02T21:05:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "AWAY",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 16,
+      "td": 0
+    },
+    "defense": null
+  }
+}

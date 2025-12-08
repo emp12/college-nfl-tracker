@@ -1,0 +1,22 @@
+{
+  "id": "4371973",
+  "name": "Roger McCreary",
+  "position": "CB",
+  "nfl_team": "Los Angeles Rams",
+  "college": "Auburn",
+  "lastGame": {
+    "gameId": "401772755",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "HOME",
+    "resultText": "L 13–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 6,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

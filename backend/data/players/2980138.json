@@ -1,0 +1,22 @@
+{
+  "id": "2980138",
+  "name": "Scott Daly",
+  "position": "LS",
+  "nfl_team": "Chicago Bears",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772880",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "W 19–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

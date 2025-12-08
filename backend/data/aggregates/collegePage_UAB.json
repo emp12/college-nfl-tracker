@@ -1,0 +1,71 @@
+{
+  "college": "UAB",
+  "slug": "uab",
+  "conference": "AAC",
+  "group": "AAC",
+  "players": [
+    {
+      "id": "4363408",
+      "name": "Starling Thomas V",
+      "position": "CB",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "4875912",
+      "name": "Tejhaun Palmer",
+      "position": "WR",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "4570119",
+      "name": "Alex Wright",
+      "position": "DE",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772898",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TEN",
+        "homeAway": "HOME",
+        "resultText": "L 29–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4239833",
+      "name": "Darious Williams",
+      "position": "CB",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "SF",
+        "homeAway": "AWAY",
+        "resultText": "W 42–26",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4240615",
+      "name": "Kadeem Telfort",
+      "position": "OT",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    }
+  ]
+}

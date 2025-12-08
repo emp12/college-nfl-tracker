@@ -1,0 +1,22 @@
+{
+  "id": "4569607",
+  "name": "Cameron Mitchell",
+  "position": "CB",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Northwestern",
+  "lastGame": {
+    "gameId": "401772756",
+    "date": "2025-10-19T20:05:00.000Z",
+    "opponent": "LAC",
+    "homeAway": "AWAY",
+    "resultText": "W 38–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

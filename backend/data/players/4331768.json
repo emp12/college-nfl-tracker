@@ -1,0 +1,22 @@
+{
+  "id": "4331768",
+  "name": "Jonathan Owens",
+  "position": "S",
+  "nfl_team": "Chicago Bears",
+  "college": "Missouri Western",
+  "lastGame": {
+    "gameId": "401772897",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "L 21–28",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

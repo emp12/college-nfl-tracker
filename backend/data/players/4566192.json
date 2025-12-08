@@ -1,0 +1,18 @@
+{
+  "id": "4566192",
+  "name": "Joshua Karty",
+  "position": "PK",
+  "nfl_team": "Los Angeles Rams",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772874",
+    "date": "2025-11-02T21:05:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "W 34–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

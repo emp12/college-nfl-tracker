@@ -1,0 +1,22 @@
+{
+  "id": "4258595",
+  "name": "Cole Kmet",
+  "position": "TE",
+  "nfl_team": "Chicago Bears",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772897",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "L 21–28",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 42,
+      "td": 0
+    },
+    "defense": null
+  }
+}

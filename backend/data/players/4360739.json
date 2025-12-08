@@ -1,0 +1,22 @@
+{
+  "id": "4360739",
+  "name": "Simi Fehoko",
+  "position": "WR",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772773",
+    "date": "2025-11-09T21:05:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "AWAY",
+    "resultText": "L 22–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

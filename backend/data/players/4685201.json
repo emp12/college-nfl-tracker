@@ -1,0 +1,22 @@
+{
+  "id": "4685201",
+  "name": "Tanner McKee",
+  "position": "QB",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772867",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "HOME",
+    "resultText": "W 38–20",
+    "passing": null,
+    "rushing": {
+      "carries": 3,
+      "yards": -2,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

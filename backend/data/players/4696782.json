@@ -1,0 +1,22 @@
+{
+  "id": "4696782",
+  "name": "Elijah Williams",
+  "position": "DE",
+  "nfl_team": "Minnesota Vikings",
+  "college": "Morgan State",
+  "lastGame": {
+    "gameId": "401772876",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "HOME",
+    "resultText": "L 19–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4686906",
+  "name": "Lukas Van Ness",
+  "position": "DE",
+  "nfl_team": "Green Bay Packers",
+  "college": "Iowa",
+  "lastGame": {
+    "gameId": "401772752",
+    "date": "2025-10-12T20:25:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "HOME",
+    "resultText": "W 27–18",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

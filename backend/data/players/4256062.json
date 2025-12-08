@@ -1,0 +1,22 @@
+{
+  "id": "4256062",
+  "name": "Brady Christensen",
+  "position": "G",
+  "nfl_team": "Carolina Panthers",
+  "college": "BYU",
+  "lastGame": {
+    "gameId": "401772865",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "HOME",
+    "resultText": "L 9–40",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

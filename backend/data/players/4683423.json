@@ -1,0 +1,28 @@
+{
+  "id": "4683423",
+  "name": "Riley Leonard",
+  "position": "QB",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Notre Dame",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 19–36",
+    "passing": {
+      "completions": 18,
+      "attempts": 29,
+      "yards": 145,
+      "td": 0,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 2,
+      "yards": 5,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4911851",
+  "name": "LeQuint Allen Jr.",
+  "position": "RB",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Syracuse",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 8,
+      "td": 0
+    },
+    "defense": null
+  }
+}

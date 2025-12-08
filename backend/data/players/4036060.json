@@ -1,0 +1,22 @@
+{
+  "id": "4036060",
+  "name": "Damar Hamlin",
+  "position": "S",
+  "nfl_team": "Buffalo Bills",
+  "college": "Pittsburgh",
+  "lastGame": {
+    "gameId": "401772727",
+    "date": "2025-09-14T17:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 30–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

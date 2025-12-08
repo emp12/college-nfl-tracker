@@ -1,0 +1,22 @@
+{
+  "id": "4432665",
+  "name": "Brock Bowers",
+  "position": "TE",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772794",
+    "date": "2025-12-07T21:05:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "HOME",
+    "resultText": "L 17–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 4,
+      "yards": 46,
+      "td": 1
+    },
+    "defense": null
+  }
+}

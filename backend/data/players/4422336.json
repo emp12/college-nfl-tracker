@@ -1,0 +1,22 @@
+{
+  "id": "4422336",
+  "name": "Matt Orzech",
+  "position": "LS",
+  "nfl_team": "Green Bay Packers",
+  "college": "Azusa Pacific",
+  "lastGame": {
+    "gameId": "401772883",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "AWAY",
+    "resultText": "W 27–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

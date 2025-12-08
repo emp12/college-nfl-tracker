@@ -1,0 +1,26 @@
+{
+  "id": "4037235",
+  "name": "Greg Dortch",
+  "position": "WR",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Wake Forest",
+  "lastGame": {
+    "gameId": "401772885",
+    "date": "2025-11-16T21:05:00.000Z",
+    "opponent": "SF",
+    "homeAway": "HOME",
+    "resultText": "L 22–41",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 6,
+      "yards": 66,
+      "td": 1
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

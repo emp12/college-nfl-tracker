@@ -1,0 +1,24 @@
+{
+  "id": "4360698",
+  "name": "Joe Milton III",
+  "position": "QB",
+  "nfl_team": "Dallas Cowboys",
+  "college": "Tennessee",
+  "lastGame": {
+    "gameId": "401772844",
+    "date": "2025-09-21T20:25:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "AWAY",
+    "resultText": "L 14–31",
+    "passing": {
+      "completions": 3,
+      "attempts": 5,
+      "yards": 41,
+      "td": 0,
+      "int": 1
+    },
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

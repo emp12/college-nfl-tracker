@@ -1,0 +1,75 @@
+{
+  "college": "Youngstown State",
+  "slug": "youngstown-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4722893",
+      "name": "Jaleel McLaughlin",
+      "position": "RB",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–17",
+        "passing": null,
+        "rushing": {
+          "carries": 4,
+          "yards": 22,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 1,
+          "yards": 9,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4722908",
+      "name": "Drew Ogletree",
+      "position": "TE",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 19–36",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4362617",
+      "name": "Bryce Oliver",
+      "position": "WR",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": {
+        "gameId": "401772724",
+        "date": "2025-09-14T17:00:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 19–33",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

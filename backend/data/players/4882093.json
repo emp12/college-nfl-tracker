@@ -1,0 +1,22 @@
+{
+  "id": "4882093",
+  "name": "Bhayshul Tuten",
+  "position": "RB",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Virginia Tech",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": null,
+    "rushing": {
+      "carries": 2,
+      "yards": 5,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

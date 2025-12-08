@@ -1,0 +1,18 @@
+{
+  "id": "4258199",
+  "name": "Cesar Ruiz",
+  "position": "C",
+  "nfl_team": "New Orleans Saints",
+  "college": "Michigan",
+  "lastGame": {
+    "gameId": "401772833",
+    "date": "2025-09-14T17:00:00.000Z",
+    "opponent": "SF",
+    "homeAway": "HOME",
+    "resultText": "L 21–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

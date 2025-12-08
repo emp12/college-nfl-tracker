@@ -1,0 +1,22 @@
+{
+  "id": "4259647",
+  "name": "Jay Tufele",
+  "position": "DT",
+  "nfl_team": "New York Jets",
+  "college": "USC",
+  "lastGame": {
+    "gameId": "401772782",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "L 10–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

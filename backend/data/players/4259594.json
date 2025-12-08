@@ -1,0 +1,22 @@
+{
+  "id": "4259594",
+  "name": "Yetur Gross-Matos",
+  "position": "DE",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772939",
+    "date": "2025-10-03T00:15:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "AWAY",
+    "resultText": "W 26–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

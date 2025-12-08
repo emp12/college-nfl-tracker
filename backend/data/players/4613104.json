@@ -1,0 +1,22 @@
+{
+  "id": "4613104",
+  "name": "Malachi Corley",
+  "position": "WR",
+  "nfl_team": "Cleveland Browns",
+  "college": "Western Kentucky",
+  "lastGame": {
+    "gameId": "401772898",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 29–31",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 2,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

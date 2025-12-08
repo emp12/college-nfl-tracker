@@ -1,0 +1,22 @@
+{
+  "id": "4698244",
+  "name": "Teddye Buchanan",
+  "position": "LB",
+  "nfl_team": "Baltimore Ravens",
+  "college": "California",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "L 22–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

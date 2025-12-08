@@ -1,0 +1,22 @@
+{
+  "id": "3040471",
+  "name": "Maliek Collins",
+  "position": "DT",
+  "nfl_team": "Cleveland Browns",
+  "college": "Nebraska",
+  "lastGame": {
+    "gameId": "401772784",
+    "date": "2025-11-23T21:05:00.000Z",
+    "opponent": "LV",
+    "homeAway": "AWAY",
+    "resultText": "W 24–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 2.5,
+      "interceptions": 0
+    }
+  }
+}

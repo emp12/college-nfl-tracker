@@ -1,0 +1,26 @@
+{
+  "id": "4427095",
+  "name": "DeMario Douglas",
+  "position": "WR",
+  "nfl_team": "New England Patriots",
+  "college": "Liberty",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "W 26–20",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 14,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 37,
+      "td": 0
+    },
+    "defense": null
+  }
+}

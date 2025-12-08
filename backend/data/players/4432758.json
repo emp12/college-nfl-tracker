@@ -1,0 +1,22 @@
+{
+  "id": "4432758",
+  "name": "Jaylen Reed",
+  "position": "S",
+  "nfl_team": "Houston Texans",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772946",
+    "date": "2025-11-21T01:15:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "HOME",
+    "resultText": "W 23–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 12,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

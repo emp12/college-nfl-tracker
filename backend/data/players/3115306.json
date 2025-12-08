@@ -1,0 +1,26 @@
+{
+  "id": "3115306",
+  "name": "Josh Reynolds",
+  "position": "WR",
+  "nfl_team": "New York Jets",
+  "college": "Texas A&M",
+  "lastGame": {
+    "gameId": "401772860",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "HOME",
+    "resultText": "L 6–13",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 29,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4567750",
+  "name": "Emeka Egbuka",
+  "position": "WR",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 20–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 15,
+      "td": 0
+    },
+    "defense": null
+  }
+}

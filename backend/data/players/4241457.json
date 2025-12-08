@@ -1,0 +1,22 @@
+{
+  "id": "4241457",
+  "name": "Najee Harris",
+  "position": "RB",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772735",
+    "date": "2025-09-21T20:05:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "HOME",
+    "resultText": "W 23–20",
+    "passing": null,
+    "rushing": {
+      "carries": 6,
+      "yards": 28,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "college": "Houston",
+  "slug": "houston",
+  "conference": "Big 12",
+  "group": "Big 12",
+  "players": [
+    {
+      "id": "4039303",
+      "name": "Ed Oliver",
+      "position": "DT",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772865",
+        "date": "2025-10-26T17:00:00.000Z",
+        "opponent": "CAR",
+        "homeAway": "AWAY",
+        "resultText": "W 40–9",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "15168",
+      "name": "Case Keenum",
+      "position": "QB",
+      "nfl_team": "Chicago Bears",
+      "lastGame": null
+    },
+    {
+      "id": "4567482",
+      "name": "Gervarrius Owens",
+      "position": "S",
+      "nfl_team": "Chicago Bears",
+      "lastGame": null
+    },
+    {
+      "id": "4240269",
+      "name": "Payton Turner",
+      "position": "DE",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": null
+    },
+    {
+      "id": "3115293",
+      "name": "Kyle Allen",
+      "position": "QB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772878",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "WSH",
+        "homeAway": "AWAY",
+        "resultText": "W 44–22",
+        "passing": {
+          "completions": 0,
+          "attempts": 2,
+          "yards": 0,
+          "td": 0,
+          "int": 0
+        },
+        "rushing": {
+          "carries": 1,
+          "yards": -1,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4240255",
+      "name": "Grant Stuard",
+      "position": "LB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 9–16",
+        "passing": null,
+        "rushing": {
+          "carries": 1,
+          "yards": 0,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4360175",
+      "name": "Clayton Tune",
+      "position": "QB",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": null
+    },
+    {
+      "id": "4366031",
+      "name": "Tank Dell",
+      "position": "WR",
+      "nfl_team": "Houston Texans",
+      "lastGame": null
+    },
+    {
+      "id": "4429379",
+      "name": "Ajani Carter",
+      "position": "CB",
+      "nfl_team": "Houston Texans",
+      "lastGame": null
+    },
+    {
+      "id": "2987743",
+      "name": "Elandon Roberts",
+      "position": "LB",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4567493",
+      "name": "Patrick Paul",
+      "position": "OT",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4241720",
+      "name": "Marcus Jones",
+      "position": "CB",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772781",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "AWAY",
+        "resultText": "W 26–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 1
+        }
+      }
+    },
+    {
+      "id": "4689674",
+      "name": "Art Green",
+      "position": "CB",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772757",
+        "date": "2025-10-19T20:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "AWAY",
+        "resultText": "L 32–33",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3914630",
+      "name": "Josh Jones",
+      "position": "G",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    },
+    {
+      "id": "4360189",
+      "name": "Logan Hall",
+      "position": "DE",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4567480",
+      "name": "Damarion Williams",
+      "position": "CB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

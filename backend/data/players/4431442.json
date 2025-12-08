@@ -1,0 +1,22 @@
+{
+  "id": "4431442",
+  "name": "Tuli Tuipulotu",
+  "position": "LB",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "USC",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 6–35",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3117258",
+  "name": "Solomon Thomas",
+  "position": "DT",
+  "nfl_team": "Dallas Cowboys",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772890",
+    "date": "2025-11-23T21:25:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "HOME",
+    "resultText": "W 24–21",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

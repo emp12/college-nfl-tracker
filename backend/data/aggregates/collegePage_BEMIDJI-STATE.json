@@ -1,0 +1,31 @@
+{
+  "college": "Bemidji State",
+  "slug": "bemidji-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4424106",
+      "name": "Gunner Olszewski",
+      "position": "WR",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": {
+          "completions": 1,
+          "attempts": 1,
+          "yards": 33,
+          "td": 1,
+          "int": 0
+        },
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    }
+  ]
+}

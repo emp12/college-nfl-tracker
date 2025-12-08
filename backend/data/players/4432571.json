@@ -1,0 +1,22 @@
+{
+  "id": "4432571",
+  "name": "Tarheeb Still",
+  "position": "CB",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "Maryland",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 6–35",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

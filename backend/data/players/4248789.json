@@ -1,0 +1,18 @@
+{
+  "id": "4248789",
+  "name": "Daniel Whelan",
+  "position": "P",
+  "nfl_team": "Green Bay Packers",
+  "college": "UC Davis",
+  "lastGame": {
+    "gameId": "401772897",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "HOME",
+    "resultText": "W 28–21",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

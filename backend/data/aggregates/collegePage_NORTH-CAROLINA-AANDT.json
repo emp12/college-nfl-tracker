@@ -1,0 +1,22 @@
+{
+  "college": "North Carolina A&T",
+  "slug": "north-carolina-aandt",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4369308",
+      "name": "Ricky Lee",
+      "position": "OT",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    },
+    {
+      "id": "3072292",
+      "name": "Brandon Parker",
+      "position": "OT",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    }
+  ]
+}

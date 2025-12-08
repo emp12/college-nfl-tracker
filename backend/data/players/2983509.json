@@ -1,0 +1,26 @@
+{
+  "id": "2983509",
+  "name": "Dare Ogunbowale",
+  "position": "RB",
+  "nfl_team": "Houston Texans",
+  "college": "Wisconsin",
+  "lastGame": {
+    "gameId": "401772932",
+    "date": "2025-12-08T01:20:00.000Z",
+    "opponent": "KC",
+    "homeAway": "AWAY",
+    "resultText": "W 20–10",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 5,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

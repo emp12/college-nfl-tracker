@@ -1,0 +1,22 @@
+{
+  "id": "3928979",
+  "name": "Dorance Armstrong",
+  "position": "DE",
+  "nfl_team": "Washington Commanders",
+  "college": "Kansas",
+  "lastGame": {
+    "gameId": "401772717",
+    "date": "2025-10-14T00:15:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "HOME",
+    "resultText": "L 24–25",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0.5,
+      "interceptions": 0
+    }
+  }
+}

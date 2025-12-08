@@ -1,0 +1,18 @@
+{
+  "id": "4361429",
+  "name": "Rasheed Walker",
+  "position": "OT",
+  "nfl_team": "Green Bay Packers",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772891",
+    "date": "2025-11-27T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "W 31–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

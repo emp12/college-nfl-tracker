@@ -1,0 +1,22 @@
+{
+  "id": "4427479",
+  "name": "Jamal Hill",
+  "position": "LB",
+  "nfl_team": "Houston Texans",
+  "college": "Oregon",
+  "lastGame": {
+    "gameId": "401772870",
+    "date": "2025-11-02T18:00:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "HOME",
+    "resultText": "L 15–18",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

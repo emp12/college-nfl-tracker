@@ -1,0 +1,26 @@
+{
+  "id": "4569618",
+  "name": "Garrett Wilson",
+  "position": "WR",
+  "nfl_team": "New York Jets",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772769",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "HOME",
+    "resultText": "W 27–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

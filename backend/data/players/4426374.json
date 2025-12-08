@@ -1,0 +1,22 @@
+{
+  "id": "4426374",
+  "name": "Tyrique Stevenson",
+  "position": "CB",
+  "nfl_team": "Chicago Bears",
+  "college": "Miami",
+  "lastGame": {
+    "gameId": "401772780",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "W 31–28",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 5,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

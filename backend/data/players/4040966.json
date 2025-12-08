@@ -1,0 +1,22 @@
+{
+  "id": "4040966",
+  "name": "Trevon Diggs",
+  "position": "CB",
+  "nfl_team": "Dallas Cowboys",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772858",
+    "date": "2025-10-12T17:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "AWAY",
+    "resultText": "L 27–30",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

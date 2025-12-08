@@ -1,0 +1,22 @@
+{
+  "id": "4613202",
+  "name": "Kyle Williams",
+  "position": "WR",
+  "nfl_team": "New England Patriots",
+  "college": "Washington State",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "W 26–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 18,
+      "td": 0
+    },
+    "defense": null
+  }
+}

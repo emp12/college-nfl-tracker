@@ -1,0 +1,22 @@
+{
+  "id": "4685623",
+  "name": "Mykel Williams",
+  "position": "DE",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772866",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "AWAY",
+    "resultText": "L 15–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

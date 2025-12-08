@@ -1,0 +1,22 @@
+{
+  "id": "4212909",
+  "name": "David Moore",
+  "position": "WR",
+  "nfl_team": "Carolina Panthers",
+  "college": "East Central (OK)",
+  "lastGame": {
+    "gameId": "401772847",
+    "date": "2025-09-28T17:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "AWAY",
+    "resultText": "L 13–42",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 12,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3110565",
+  "name": "Quincy Williams",
+  "position": "LB",
+  "nfl_team": "New York Jets",
+  "college": "Murray State",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 7,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4037520",
+  "name": "Tomon Fox",
+  "position": "LB",
+  "nfl_team": "New York Giants",
+  "college": "North Carolina",
+  "lastGame": {
+    "gameId": "401772883",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "GB",
+    "homeAway": "HOME",
+    "resultText": "L 20–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

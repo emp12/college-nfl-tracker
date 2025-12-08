@@ -1,0 +1,22 @@
+{
+  "id": "2980080",
+  "name": "Deatrich Wise Jr.",
+  "position": "DE",
+  "nfl_team": "Washington Commanders",
+  "college": "Arkansas",
+  "lastGame": {
+    "gameId": "401772936",
+    "date": "2025-09-12T00:15:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "L 18–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

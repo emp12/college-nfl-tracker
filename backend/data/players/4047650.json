@@ -1,0 +1,22 @@
+{
+  "id": "4047650",
+  "name": "DK Metcalf",
+  "position": "WR",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Ole Miss",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "W 27–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 7,
+      "yards": 148,
+      "td": 0
+    },
+    "defense": null
+  }
+}

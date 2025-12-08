@@ -1,0 +1,22 @@
+{
+  "id": "4035299",
+  "name": "Benito Jones",
+  "position": "DT",
+  "nfl_team": "Miami Dolphins",
+  "college": "Ole Miss",
+  "lastGame": {
+    "gameId": "401772892",
+    "date": "2025-11-30T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "W 21–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

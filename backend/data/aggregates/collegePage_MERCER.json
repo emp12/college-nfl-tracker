@@ -1,0 +1,15 @@
+{
+  "college": "Mercer",
+  "slug": "mercer",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4692055",
+      "name": "TJ Moore",
+      "position": "CB",
+      "nfl_team": "New York Giants",
+      "lastGame": null
+    }
+  ]
+}

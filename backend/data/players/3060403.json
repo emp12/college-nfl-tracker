@@ -1,0 +1,22 @@
+{
+  "id": "3060403",
+  "name": "Chris Board",
+  "position": "LB",
+  "nfl_team": "New York Giants",
+  "college": "North Dakota State",
+  "lastGame": {
+    "gameId": "401772834",
+    "date": "2025-09-14T17:00:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "AWAY",
+    "resultText": "L 37–40",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

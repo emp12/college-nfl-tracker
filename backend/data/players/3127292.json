@@ -1,0 +1,22 @@
+{
+  "id": "3127292",
+  "name": "Will Dissly",
+  "position": "TE",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "Washington",
+  "lastGame": {
+    "gameId": "401772756",
+    "date": "2025-10-19T20:05:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "L 24–38",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

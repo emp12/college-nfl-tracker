@@ -1,0 +1,22 @@
+{
+  "id": "15863",
+  "name": "Darius Slay",
+  "position": "CB",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Mississippi State",
+  "lastGame": {
+    "gameId": "401772780",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "AWAY",
+    "resultText": "L 28–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

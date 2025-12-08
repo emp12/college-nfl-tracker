@@ -1,0 +1,22 @@
+{
+  "id": "4360413",
+  "name": "Shaka Heyward",
+  "position": "LB",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Duke",
+  "lastGame": {
+    "gameId": "401772941",
+    "date": "2025-10-17T00:15:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "W 33–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

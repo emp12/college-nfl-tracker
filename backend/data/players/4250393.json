@@ -1,0 +1,22 @@
+{
+  "id": "4250393",
+  "name": "Tristin McCollum",
+  "position": "S",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Sam Houston",
+  "lastGame": {
+    "gameId": "401772873",
+    "date": "2025-11-02T21:05:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "HOME",
+    "resultText": "L 29–30",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

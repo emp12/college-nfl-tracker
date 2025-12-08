@@ -1,0 +1,245 @@
+{
+  "college": "Boise State",
+  "slug": "boise-state",
+  "conference": "Mountain West",
+  "group": "Mountain West",
+  "players": [
+    {
+      "id": "4373678",
+      "name": "Khalil Shakir",
+      "position": "WR",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "HOME",
+        "resultText": "W 39–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 16,
+          "td": 1
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4428503",
+      "name": "JL Skinner",
+      "position": "S",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3722362",
+      "name": "Brett Rypien",
+      "position": "QB",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772731",
+        "date": "2025-09-21T17:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "AWAY",
+        "resultText": "L 10–48",
+        "passing": {
+          "completions": 0,
+          "attempts": 0,
+          "yards": 0,
+          "td": 0,
+          "int": 0
+        },
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4048231",
+      "name": "Ezra Cleveland",
+      "position": "G",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4890973",
+      "name": "Ashton Jeanty",
+      "position": "RB",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "HOME",
+        "resultText": "L 17–24",
+        "passing": null,
+        "rushing": {
+          "carries": 10,
+          "yards": 30,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 2,
+          "yards": 8,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4373684",
+      "name": "Scott Matlock",
+      "position": "FB",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": null
+    },
+    {
+      "id": "4036335",
+      "name": "Cedrick Wilson Jr.",
+      "position": "WR",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772892",
+        "date": "2025-11-30T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "W 21–17",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 16,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4048244",
+      "name": "Alexander Mattison",
+      "position": "RB",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "4429835",
+      "name": "George Holani",
+      "position": "RB",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772884",
+        "date": "2025-11-16T21:05:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "AWAY",
+        "resultText": "L 19–21",
+        "passing": null,
+        "rushing": {
+          "carries": 2,
+          "yards": 6,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "16802",
+      "name": "DeMarcus Lawrence",
+      "position": "DE",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "W 37–9",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4240015",
+      "name": "John Ojukwu",
+      "position": "OT",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    },
+    {
+      "id": "4048228",
+      "name": "John Bates",
+      "position": "TE",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772878",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "DET",
+        "homeAway": "HOME",
+        "resultText": "L 22–44",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 6,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "3127586",
+      "name": "Jeremy McNichols",
+      "position": "RB",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772899",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "AWAY",
+        "resultText": "L 0–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 2,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

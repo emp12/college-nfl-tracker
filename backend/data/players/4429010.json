@@ -1,0 +1,22 @@
+{
+  "id": "4429010",
+  "name": "Jalen Rivers",
+  "position": "OT",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Miami",
+  "lastGame": {
+    "gameId": "401772752",
+    "date": "2025-10-12T20:25:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "L 18–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4077786",
+  "name": "Sam Roberts",
+  "position": "DT",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Northwest Missouri State",
+  "lastGame": {
+    "gameId": "401772636",
+    "date": "2025-11-09T14:30:00.000Z",
+    "opponent": "IND",
+    "homeAway": "AWAY",
+    "resultText": "L 25–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

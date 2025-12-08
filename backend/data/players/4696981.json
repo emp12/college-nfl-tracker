@@ -1,0 +1,26 @@
+{
+  "id": "4696981",
+  "name": "Cam Skattebo",
+  "position": "RB",
+  "nfl_team": "New York Giants",
+  "college": "Arizona State",
+  "lastGame": {
+    "gameId": "401772867",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 20–38",
+    "passing": null,
+    "rushing": {
+      "carries": 3,
+      "yards": 12,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 18,
+      "td": 1
+    },
+    "defense": null
+  }
+}

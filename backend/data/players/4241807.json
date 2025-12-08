@@ -1,0 +1,22 @@
+{
+  "id": "4241807",
+  "name": "Garret Wallow",
+  "position": "LB",
+  "nfl_team": "Denver Broncos",
+  "college": "TCU",
+  "lastGame": {
+    "gameId": "401772778",
+    "date": "2025-11-16T21:25:00.000Z",
+    "opponent": "KC",
+    "homeAway": "HOME",
+    "resultText": "W 22–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

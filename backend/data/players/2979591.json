@@ -1,0 +1,22 @@
+{
+  "id": "2979591",
+  "name": "Austin Johnson",
+  "position": "DT",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772635",
+    "date": "2025-10-19T13:30:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 7–35",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

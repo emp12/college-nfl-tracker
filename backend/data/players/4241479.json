@@ -1,0 +1,28 @@
+{
+  "id": "4241479",
+  "name": "Tua Tagovailoa",
+  "position": "QB",
+  "nfl_team": "Miami Dolphins",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 34–10",
+    "passing": {
+      "completions": 13,
+      "attempts": 21,
+      "yards": 127,
+      "td": 1,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": 0,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4361577",
+  "name": "Dyami Brown",
+  "position": "WR",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "North Carolina",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "LAC",
+    "homeAway": "HOME",
+    "resultText": "W 35–6",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

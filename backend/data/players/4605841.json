@@ -1,0 +1,22 @@
+{
+  "id": "4605841",
+  "name": "Nathan Carter",
+  "position": "RB",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Michigan State",
+  "lastGame": {
+    "gameId": "401772838",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "AWAY",
+    "resultText": "L 0–30",
+    "passing": null,
+    "rushing": {
+      "carries": 7,
+      "yards": 46,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

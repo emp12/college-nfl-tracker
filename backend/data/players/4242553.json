@@ -1,0 +1,18 @@
+{
+  "id": "4242553",
+  "name": "Drew Dalman",
+  "position": "C",
+  "nfl_team": "Chicago Bears",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772861",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "W 26–14",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

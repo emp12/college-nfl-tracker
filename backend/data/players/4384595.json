@@ -1,0 +1,22 @@
+{
+  "id": "4384595",
+  "name": "Khristian Boyd",
+  "position": "DT",
+  "nfl_team": "New Orleans Saints",
+  "college": "Northern Iowa",
+  "lastGame": {
+    "gameId": "401772861",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "AWAY",
+    "resultText": "L 14–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

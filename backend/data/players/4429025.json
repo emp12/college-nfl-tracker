@@ -1,0 +1,22 @@
+{
+  "id": "4429025",
+  "name": "Quentin Johnston",
+  "position": "WR",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "TCU",
+  "lastGame": {
+    "gameId": "401772775",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 6–35",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

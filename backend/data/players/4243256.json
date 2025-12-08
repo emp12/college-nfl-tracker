@@ -1,0 +1,22 @@
+{
+  "id": "4243256",
+  "name": "Devin Lloyd",
+  "position": "LB",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Utah",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 8,
+      "sacks": 0,
+      "interceptions": 1
+    }
+  }
+}

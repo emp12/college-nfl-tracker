@@ -1,0 +1,32 @@
+{
+  "id": "2969939",
+  "name": "Jameis Winston",
+  "position": "QB",
+  "nfl_team": "New York Giants",
+  "college": "Florida State",
+  "lastGame": {
+    "gameId": "401772888",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 27–34",
+    "passing": {
+      "completions": 18,
+      "attempts": 36,
+      "yards": 366,
+      "td": 2,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 4,
+      "yards": 13,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 33,
+      "td": 1
+    },
+    "defense": null
+  }
+}

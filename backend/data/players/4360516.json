@@ -1,0 +1,26 @@
+{
+  "id": "4360516",
+  "name": "Tyrone Tracy Jr.",
+  "position": "RB",
+  "nfl_team": "New York Giants",
+  "college": "Purdue",
+  "lastGame": {
+    "gameId": "401772888",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 27–34",
+    "passing": null,
+    "rushing": {
+      "carries": 20,
+      "yards": 62,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 3,
+      "yards": 68,
+      "td": 0
+    },
+    "defense": null
+  }
+}

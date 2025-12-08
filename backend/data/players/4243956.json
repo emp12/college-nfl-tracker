@@ -1,0 +1,22 @@
+{
+  "id": "4243956",
+  "name": "Reed Blankenship",
+  "position": "S",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Middle Tennessee",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "W 16–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

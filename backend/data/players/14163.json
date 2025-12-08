@@ -1,0 +1,24 @@
+{
+  "id": "14163",
+  "name": "Tyrod Taylor",
+  "position": "QB",
+  "nfl_team": "New York Jets",
+  "college": "Virginia Tech",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": {
+      "completions": 1,
+      "attempts": 4,
+      "yards": 6,
+      "td": 0,
+      "int": 1
+    },
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

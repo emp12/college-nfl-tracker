@@ -1,0 +1,26 @@
+{
+  "id": "4427366",
+  "name": "Breece Hall",
+  "position": "RB",
+  "nfl_team": "New York Jets",
+  "college": "Iowa State",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": {
+      "carries": 14,
+      "yards": 43,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

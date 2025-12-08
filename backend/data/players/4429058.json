@@ -1,0 +1,22 @@
+{
+  "id": "4429058",
+  "name": "Jaylen Harrell",
+  "position": "LB",
+  "nfl_team": "Tennessee Titans",
+  "college": "Michigan",
+  "lastGame": {
+    "gameId": "401772881",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0.5,
+      "interceptions": 0
+    }
+  }
+}

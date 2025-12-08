@@ -1,0 +1,22 @@
+{
+  "id": "4039018",
+  "name": "Luke Wattenberg",
+  "position": "C",
+  "nfl_team": "Denver Broncos",
+  "college": "Washington",
+  "lastGame": {
+    "gameId": "401772832",
+    "date": "2025-09-07T20:05:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "W 20–12",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

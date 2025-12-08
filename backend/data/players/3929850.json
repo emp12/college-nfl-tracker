@@ -1,0 +1,22 @@
+{
+  "id": "3929850",
+  "name": "P.J. Locke",
+  "position": "S",
+  "nfl_team": "Denver Broncos",
+  "college": "Texas",
+  "lastGame": {
+    "gameId": "401772634",
+    "date": "2025-10-12T13:30:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 13–11",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4248047",
+  "name": "John Ridgeway III",
+  "position": "DT",
+  "nfl_team": "New Orleans Saints",
+  "college": "Arkansas",
+  "lastGame": {
+    "gameId": "401772869",
+    "date": "2025-10-26T20:05:00.000Z",
+    "opponent": "TB",
+    "homeAway": "HOME",
+    "resultText": "L 3–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

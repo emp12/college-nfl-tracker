@@ -1,0 +1,22 @@
+{
+  "id": "16002",
+  "name": "Kyle Juszczyk",
+  "position": "FB",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Harvard",
+  "lastGame": {
+    "gameId": "401772879",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 26–42",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 8,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4361178",
+  "name": "Cam Jurgens",
+  "position": "C",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Nebraska",
+  "lastGame": {
+    "gameId": "401772845",
+    "date": "2025-09-28T17:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "AWAY",
+    "resultText": "W 31–25",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

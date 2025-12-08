@@ -1,0 +1,22 @@
+{
+  "id": "3915486",
+  "name": "Tyler Conklin",
+  "position": "TE",
+  "nfl_team": "Los Angeles Chargers",
+  "college": "Central Michigan",
+  "lastGame": {
+    "gameId": "401772927",
+    "date": "2025-11-10T01:20:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "W 25–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 12,
+      "td": 0
+    },
+    "defense": null
+  }
+}

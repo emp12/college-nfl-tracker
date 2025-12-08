@@ -1,0 +1,18 @@
+{
+  "id": "3930270",
+  "name": "Blake Brandel",
+  "position": "G",
+  "nfl_team": "Minnesota Vikings",
+  "college": "Oregon State",
+  "lastGame": {
+    "gameId": "401772862",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "HOME",
+    "resultText": "L 22–28",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

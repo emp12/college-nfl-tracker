@@ -1,0 +1,26 @@
+{
+  "id": "4428850",
+  "name": "Dontayvion Wicks",
+  "position": "WR",
+  "nfl_team": "Green Bay Packers",
+  "college": "Virginia",
+  "lastGame": {
+    "gameId": "401772891",
+    "date": "2025-11-27T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "W 31–24",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 6,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 6,
+      "yards": 94,
+      "td": 2
+    },
+    "defense": null
+  }
+}

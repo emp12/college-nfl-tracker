@@ -1,0 +1,22 @@
+{
+  "id": "4361411",
+  "name": "Pat Freiermuth",
+  "position": "TE",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "W 27–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 9,
+      "td": 0
+    },
+    "defense": null
+  }
+}

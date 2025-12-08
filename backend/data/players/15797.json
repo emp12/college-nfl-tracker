@@ -1,0 +1,22 @@
+{
+  "id": "15797",
+  "name": "Lane Johnson",
+  "position": "OT",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Oklahoma",
+  "lastGame": {
+    "gameId": "401772630",
+    "date": "2025-11-11T01:15:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "W 10–7",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3915511",
+  "name": "Joe Burrow",
+  "position": "QB",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 34–39",
+    "passing": {
+      "completions": 25,
+      "attempts": 36,
+      "yards": 284,
+      "td": 4,
+      "int": 2
+    },
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

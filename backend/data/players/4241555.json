@@ -1,0 +1,22 @@
+{
+  "id": "4241555",
+  "name": "Elijah Mitchell",
+  "position": "RB",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Louisiana",
+  "lastGame": {
+    "gameId": "401772778",
+    "date": "2025-11-16T21:25:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "AWAY",
+    "resultText": "L 19–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

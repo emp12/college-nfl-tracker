@@ -1,0 +1,22 @@
+{
+  "id": "4700712",
+  "name": "Cam Grandy",
+  "position": "TE",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Illinois State",
+  "lastGame": {
+    "gameId": "401772731",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "L 10–48",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 6,
+      "td": 0
+    },
+    "defense": null
+  }
+}

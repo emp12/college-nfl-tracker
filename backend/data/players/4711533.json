@@ -1,0 +1,22 @@
+{
+  "id": "4711533",
+  "name": "Ollie Gordon II",
+  "position": "RB",
+  "nfl_team": "Miami Dolphins",
+  "college": "Oklahoma State",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 34–10",
+    "passing": null,
+    "rushing": {
+      "carries": 5,
+      "yards": 17,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

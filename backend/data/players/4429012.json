@@ -1,0 +1,22 @@
+{
+  "id": "4429012",
+  "name": "Kendall Milton",
+  "position": "RB",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772774",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "AWAY",
+    "resultText": "L 12–34",
+    "passing": null,
+    "rushing": {
+      "carries": 2,
+      "yards": 2,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

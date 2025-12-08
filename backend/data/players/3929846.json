@@ -1,0 +1,22 @@
+{
+  "id": "3929846",
+  "name": "DeShon Elliott",
+  "position": "S",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Texas",
+  "lastGame": {
+    "gameId": "401772941",
+    "date": "2025-10-17T00:15:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "L 31–33",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 9,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

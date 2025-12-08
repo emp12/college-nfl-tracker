@@ -1,0 +1,22 @@
+{
+  "id": "4035434",
+  "name": "Devin White",
+  "position": "LB",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772794",
+    "date": "2025-12-07T21:05:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "HOME",
+    "resultText": "L 17–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 19,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "college": "Duquesne",
+  "slug": "duquesne",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "2978524",
+      "name": "Christian Kuntz",
+      "position": "LS",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "college": "Louisiana",
+  "slug": "louisiana",
+  "conference": "Sun Belt",
+  "group": "Sun Belt",
+  "players": [
+    {
+      "id": "4694334",
+      "name": "Keyon Martin",
+      "position": "CB",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": {
+        "gameId": "401772777",
+        "date": "2025-11-16T21:25:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "AWAY",
+        "resultText": "W 23–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 1,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4249214",
+      "name": "Andre Jones Jr.",
+      "position": "DE",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": null
+    },
+    {
+      "id": "3917592",
+      "name": "Robert Hunt",
+      "position": "G",
+      "nfl_team": "Carolina Panthers",
+      "lastGame": {
+        "gameId": "401772730",
+        "date": "2025-09-14T20:05:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "AWAY",
+        "resultText": "L 22–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4428656",
+      "name": "Nate Thomas",
+      "position": "OT",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": null
+    },
+    {
+      "id": "4362489",
+      "name": "John Stephens Jr.",
+      "position": "TE",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": null
+    },
+    {
+      "id": "4241555",
+      "name": "Elijah Mitchell",
+      "position": "RB",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772778",
+        "date": "2025-11-16T21:25:00.000Z",
+        "opponent": "DEN",
+        "homeAway": "AWAY",
+        "resultText": "L 19–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 0,
+          "yards": 0,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "3917599",
+      "name": "Kevin Dotson",
+      "position": "G",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": null
+    },
+    {
+      "id": "4570296",
+      "name": "Dalen Cambre",
+      "position": "WR",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772883",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "GB",
+        "homeAway": "HOME",
+        "resultText": "L 20–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4373656",
+      "name": "Max Mitchell",
+      "position": "OT",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "4363097",
+      "name": "Percy Butler",
+      "position": "S",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772631",
+        "date": "2025-11-16T14:30:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "AWAY",
+        "resultText": "L 13–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

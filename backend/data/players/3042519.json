@@ -1,0 +1,26 @@
+{
+  "id": "3042519",
+  "name": "Aaron Jones Sr.",
+  "position": "RB",
+  "nfl_team": "Minnesota Vikings",
+  "college": "UTEP",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "HOME",
+    "resultText": "W 31–0",
+    "passing": null,
+    "rushing": {
+      "carries": 14,
+      "yards": 76,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

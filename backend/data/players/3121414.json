@@ -1,0 +1,22 @@
+{
+  "id": "3121414",
+  "name": "Jalyn Holmes",
+  "position": "DE",
+  "nfl_team": "Washington Commanders",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772631",
+    "date": "2025-11-16T14:30:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "AWAY",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4876006",
+  "name": "Zaire Mitchell-Paden",
+  "position": "TE",
+  "nfl_team": "New Orleans Saints",
+  "college": "Florida Atlantic",
+  "lastGame": {
+    "gameId": "401772877",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "AWAY",
+    "resultText": "W 17–7",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 14,
+      "td": 0
+    },
+    "defense": null
+  }
+}

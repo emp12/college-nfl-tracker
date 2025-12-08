@@ -1,0 +1,22 @@
+{
+  "id": "4242899",
+  "name": "D.J. Davidson",
+  "position": "DT",
+  "nfl_team": "New York Giants",
+  "college": "Arizona State",
+  "lastGame": {
+    "gameId": "401772888",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 27–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

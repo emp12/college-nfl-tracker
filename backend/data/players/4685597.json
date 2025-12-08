@@ -1,0 +1,22 @@
+{
+  "id": "4685597",
+  "name": "Jalon Walker",
+  "position": "LB",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772889",
+    "date": "2025-11-23T21:25:00.000Z",
+    "opponent": "NO",
+    "homeAway": "AWAY",
+    "resultText": "W 24–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

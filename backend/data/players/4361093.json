@@ -1,0 +1,22 @@
+{
+  "id": "4361093",
+  "name": "Kyler Gordon",
+  "position": "CB",
+  "nfl_team": "Chicago Bears",
+  "college": "Washington",
+  "lastGame": {
+    "gameId": "401772861",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "W 26–14",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

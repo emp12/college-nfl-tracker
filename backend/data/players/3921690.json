@@ -1,0 +1,22 @@
+{
+  "id": "3921690",
+  "name": "Josh Oliver",
+  "position": "TE",
+  "nfl_team": "Minnesota Vikings",
+  "college": "San José State",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "HOME",
+    "resultText": "W 31–0",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 24,
+      "td": 2
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "college": "Kansas",
+  "slug": "kansas",
+  "conference": "Big 12",
+  "group": "Big 12",
+  "players": [
+    {
+      "id": "4429324",
+      "name": "Cobee Bryant",
+      "position": "CB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772882",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "CAR",
+        "homeAway": "HOME",
+        "resultText": "L 27–30",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4683553",
+      "name": "Austin Booker",
+      "position": "DE",
+      "nfl_team": "Chicago Bears",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "L 21–28",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4046557",
+      "name": "Hakeem Adeniji",
+      "position": "OT",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": null
+    },
+    {
+      "id": "4682652",
+      "name": "Devin Neal",
+      "position": "RB",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": {
+          "carries": 19,
+          "yards": 70,
+          "td": 1
+        },
+        "receiving": {
+          "receptions": 1,
+          "yards": 14,
+          "td": 0
+        },
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4613050",
+      "name": "Quentin Skinner",
+      "position": "WR",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "5092959",
+      "name": "Dominick Puni",
+      "position": "G",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772749",
+        "date": "2025-10-12T20:25:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "L 19–30",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4612077",
+      "name": "Bryce Cabeldue",
+      "position": "G",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    },
+    {
+      "id": "4570075",
+      "name": "Logan Brown",
+      "position": "OT",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    },
+    {
+      "id": "3928979",
+      "name": "Dorance Armstrong",
+      "position": "DE",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772717",
+        "date": "2025-10-14T00:15:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "L 24–25",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0.5,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

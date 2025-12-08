@@ -1,0 +1,22 @@
+{
+  "id": "4240435",
+  "name": "Zach Tom",
+  "position": "OT",
+  "nfl_team": "Green Bay Packers",
+  "college": "Wake Forest",
+  "lastGame": {
+    "gameId": "401772897",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "HOME",
+    "resultText": "W 28–21",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

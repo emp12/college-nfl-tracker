@@ -1,0 +1,28 @@
+{
+  "id": "4429084",
+  "name": "Anthony Richardson Sr.",
+  "position": "QB",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Florida",
+  "lastGame": {
+    "gameId": "401772851",
+    "date": "2025-10-05T17:00:00.000Z",
+    "opponent": "LV",
+    "homeAway": "HOME",
+    "resultText": "W 40–6",
+    "passing": {
+      "completions": 1,
+      "attempts": 2,
+      "yards": 9,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 9,
+      "td": 0
+    },
+    "defense": null
+  }
+}

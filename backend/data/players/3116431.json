@@ -1,0 +1,22 @@
+{
+  "id": "3116431",
+  "name": "Ty Summers",
+  "position": "LB",
+  "nfl_team": "Detroit Lions",
+  "college": "TCU",
+  "lastGame": {
+    "gameId": "401772871",
+    "date": "2025-11-02T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "HOME",
+    "resultText": "L 24–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

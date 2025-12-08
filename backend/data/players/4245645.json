@@ -1,0 +1,18 @@
+{
+  "id": "4245645",
+  "name": "Gary Brightwell",
+  "position": "RB",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Arizona",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "HOME",
+    "resultText": "L 20–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

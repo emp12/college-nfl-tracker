@@ -1,0 +1,22 @@
+{
+  "id": "4379413",
+  "name": "Chris Smith II",
+  "position": "S",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772851",
+    "date": "2025-10-05T17:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "AWAY",
+    "resultText": "L 6–40",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

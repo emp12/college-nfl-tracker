@@ -1,0 +1,28 @@
+{
+  "id": "3116407",
+  "name": "Mason Rudolph",
+  "position": "QB",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Oklahoma State",
+  "lastGame": {
+    "gameId": "401772780",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "AWAY",
+    "resultText": "L 28–31",
+    "passing": {
+      "completions": 24,
+      "attempts": 31,
+      "yards": 171,
+      "td": 1,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 3,
+      "yards": 7,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4040761",
+  "name": "Devin Singletary",
+  "position": "RB",
+  "nfl_team": "New York Giants",
+  "college": "Florida Atlantic",
+  "lastGame": {
+    "gameId": "401772888",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 27–34",
+    "passing": null,
+    "rushing": {
+      "carries": 14,
+      "yards": 47,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

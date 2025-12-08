@@ -1,0 +1,22 @@
+{
+  "id": "4431194",
+  "name": "Billy Bowman Jr.",
+  "position": "S",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Oklahoma",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "HOME",
+    "resultText": "L 27–30",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

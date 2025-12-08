@@ -1,0 +1,22 @@
+{
+  "id": "16740",
+  "name": "Joel Bitonio",
+  "position": "G",
+  "nfl_team": "Cleveland Browns",
+  "college": "Nevada",
+  "lastGame": {
+    "gameId": "401772726",
+    "date": "2025-09-14T17:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "L 17–41",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

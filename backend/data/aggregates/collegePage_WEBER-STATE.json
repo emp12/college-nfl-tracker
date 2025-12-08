@@ -1,0 +1,85 @@
+{
+  "college": "Weber State",
+  "slug": "weber-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3121003",
+      "name": "Taron Johnson",
+      "position": "CB",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "HOME",
+        "resultText": "W 39–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 5,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4251125",
+      "name": "Winston Reid",
+      "position": "LB",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": null
+    },
+    {
+      "id": "4032473",
+      "name": "Rashid Shaheed",
+      "position": "WR",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "ATL",
+        "homeAway": "AWAY",
+        "resultText": "W 37–9",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 4,
+          "yards": 67,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4032481",
+      "name": "Jonah Williams",
+      "position": "DE",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 24–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3121009",
+      "name": "Sua Opeta",
+      "position": "G",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": null
+    }
+  ]
+}

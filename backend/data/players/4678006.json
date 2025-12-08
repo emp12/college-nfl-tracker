@@ -1,0 +1,22 @@
+{
+  "id": "4678006",
+  "name": "Elijah Arroyo",
+  "position": "TE",
+  "nfl_team": "Seattle Seahawks",
+  "college": "Miami",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 37–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

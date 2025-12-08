@@ -1,0 +1,22 @@
+{
+  "id": "4039007",
+  "name": "Taylor Rapp",
+  "position": "S",
+  "nfl_team": "Buffalo Bills",
+  "college": "Washington",
+  "lastGame": {
+    "gameId": "401772815",
+    "date": "2025-10-13T23:15:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "L 14–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 7,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4570738",
+  "name": "Ke'Shawn Williams",
+  "position": "WR",
+  "nfl_team": "Pittsburgh Steelers",
+  "college": "Indiana",
+  "lastGame": {
+    "gameId": "401772780",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "AWAY",
+    "resultText": "L 28–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

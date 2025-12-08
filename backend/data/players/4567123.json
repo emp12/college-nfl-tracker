@@ -1,0 +1,22 @@
+{
+  "id": "4567123",
+  "name": "Byron Young",
+  "position": "DT",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772630",
+    "date": "2025-11-11T01:15:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "W 10–7",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

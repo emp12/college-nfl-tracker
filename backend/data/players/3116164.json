@@ -1,0 +1,22 @@
+{
+  "id": "3116164",
+  "name": "Mike Gesicki",
+  "position": "TE",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 34–39",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 6,
+      "yards": 86,
+      "td": 1
+    },
+    "defense": null
+  }
+}

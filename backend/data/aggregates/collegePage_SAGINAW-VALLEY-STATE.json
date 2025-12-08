@@ -1,0 +1,50 @@
+{
+  "college": "Saginaw Valley State",
+  "slug": "saginaw-valley-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "5144894",
+      "name": "Trevor Nowaske",
+      "position": "LB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772928",
+        "date": "2025-11-17T01:20:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 9–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "5143915",
+      "name": "Nick Whiteside",
+      "position": "CB",
+      "nfl_team": "Detroit Lions",
+      "lastGame": {
+        "gameId": "401772871",
+        "date": "2025-11-02T18:00:00.000Z",
+        "opponent": "MIN",
+        "homeAway": "HOME",
+        "resultText": "L 24–27",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

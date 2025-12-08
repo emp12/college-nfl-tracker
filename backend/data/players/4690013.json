@@ -1,0 +1,30 @@
+{
+  "id": "4690013",
+  "name": "Rasheen Ali",
+  "position": "RB",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Marshall",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "L 22–27",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 2,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 2,
+      "yards": 11,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

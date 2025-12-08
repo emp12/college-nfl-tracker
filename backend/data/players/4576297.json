@@ -1,0 +1,22 @@
+{
+  "id": "4576297",
+  "name": "AJ Barner",
+  "position": "TE",
+  "nfl_team": "Seattle Seahawks",
+  "college": "Michigan",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 37–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 27,
+      "td": 0
+    },
+    "defense": null
+  }
+}

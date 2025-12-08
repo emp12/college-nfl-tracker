@@ -1,0 +1,28 @@
+{
+  "id": "3115293",
+  "name": "Kyle Allen",
+  "position": "QB",
+  "nfl_team": "Detroit Lions",
+  "college": "Houston",
+  "lastGame": {
+    "gameId": "401772878",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "WSH",
+    "homeAway": "AWAY",
+    "resultText": "W 44–22",
+    "passing": {
+      "completions": 0,
+      "attempts": 2,
+      "yards": 0,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": -1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

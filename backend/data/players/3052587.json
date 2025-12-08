@@ -1,0 +1,28 @@
+{
+  "id": "3052587",
+  "name": "Baker Mayfield",
+  "position": "QB",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Oklahoma",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 20–24",
+    "passing": {
+      "completions": 14,
+      "attempts": 30,
+      "yards": 122,
+      "td": 1,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 6,
+      "yards": 42,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

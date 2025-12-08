@@ -1,0 +1,22 @@
+{
+  "id": "4428917",
+  "name": "Rashad Wisdom",
+  "position": "S",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "UTSA",
+  "lastGame": {
+    "gameId": "401772845",
+    "date": "2025-09-28T17:00:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "HOME",
+    "resultText": "L 25–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

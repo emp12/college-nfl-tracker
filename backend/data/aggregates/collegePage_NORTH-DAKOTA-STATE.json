@@ -1,0 +1,223 @@
+{
+  "college": "North Dakota State",
+  "slug": "north-dakota-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3120590",
+      "name": "Easton Stick",
+      "position": "QB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": null
+    },
+    {
+      "id": "4040950",
+      "name": "Cordell Volson",
+      "position": "G",
+      "nfl_team": "Cincinnati Bengals",
+      "lastGame": null
+    },
+    {
+      "id": "4383396",
+      "name": "Hunter Luepke",
+      "position": "RB",
+      "nfl_team": "Dallas Cowboys",
+      "lastGame": {
+        "gameId": "401772947",
+        "date": "2025-12-05T01:15:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 30–44",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4693332",
+      "name": "Mason Miller",
+      "position": "OT",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "4248528",
+      "name": "Christian Watson",
+      "position": "WR",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": {
+        "gameId": "401772897",
+        "date": "2025-12-07T21:25:00.000Z",
+        "opponent": "CHI",
+        "homeAway": "HOME",
+        "resultText": "W 28–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 4,
+          "yards": 89,
+          "td": 2
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4693331",
+      "name": "Cam Miller",
+      "position": "QB",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": null
+    },
+    {
+      "id": "4383351",
+      "name": "Trey Lance",
+      "position": "QB",
+      "nfl_team": "Los Angeles Chargers",
+      "lastGame": {
+        "gameId": "401772775",
+        "date": "2025-11-16T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 6–35",
+        "passing": {
+          "completions": 3,
+          "attempts": 8,
+          "yards": 37,
+          "td": 0,
+          "int": 0
+        },
+        "rushing": {
+          "carries": 3,
+          "yards": 1,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "2573079",
+      "name": "Carson Wentz",
+      "position": "QB",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772862",
+        "date": "2025-10-19T17:00:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "HOME",
+        "resultText": "L 22–28",
+        "passing": {
+          "completions": 26,
+          "attempts": 42,
+          "yards": 313,
+          "td": 0,
+          "int": 2
+        },
+        "rushing": {
+          "carries": 4,
+          "yards": 28,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "4040945",
+      "name": "Dillon Radunz",
+      "position": "OT",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": {
+        "gameId": "401772892",
+        "date": "2025-11-30T18:00:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "AWAY",
+        "resultText": "L 17–21",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4383391",
+      "name": "Jayden Price",
+      "position": "CB",
+      "nfl_team": "New Orleans Saints",
+      "lastGame": null
+    },
+    {
+      "id": "3060403",
+      "name": "Chris Board",
+      "position": "LB",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772834",
+        "date": "2025-09-14T17:00:00.000Z",
+        "opponent": "DAL",
+        "homeAway": "AWAY",
+        "resultText": "L 37–40",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 3,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4383405",
+      "name": "Jake Kubas",
+      "position": "G",
+      "nfl_team": "New York Giants",
+      "lastGame": null
+    },
+    {
+      "id": "4383409",
+      "name": "Jalen Sundell",
+      "position": "C",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    },
+    {
+      "id": "4693346",
+      "name": "Grey Zabel",
+      "position": "G",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772746",
+        "date": "2025-10-05T20:05:00.000Z",
+        "opponent": "TB",
+        "homeAway": "HOME",
+        "resultText": "L 35–38",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4248545",
+      "name": "Cody Mauch",
+      "position": "G",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    }
+  ]
+}

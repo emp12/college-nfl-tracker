@@ -1,0 +1,177 @@
+{
+  "college": "Arizona State",
+  "slug": "arizona-state",
+  "conference": "Big 12",
+  "group": "Big 12",
+  "players": [
+    {
+      "id": "4362770",
+      "name": "Messiah Swinson",
+      "position": "TE",
+      "nfl_team": "Arizona Cardinals",
+      "lastGame": null
+    },
+    {
+      "id": "4572922",
+      "name": "Christopher Edmonds",
+      "position": "S",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772784",
+        "date": "2025-11-23T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3139166",
+      "name": "Mitchell Fraboni",
+      "position": "LS",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772870",
+        "date": "2025-11-02T18:00:00.000Z",
+        "opponent": "HOU",
+        "homeAway": "AWAY",
+        "resultText": "W 18–15",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4035686",
+      "name": "Jack Jones",
+      "position": "CB",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772790",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NYJ",
+        "homeAway": "AWAY",
+        "resultText": "W 34–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4242899",
+      "name": "D.J. Davidson",
+      "position": "DT",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772888",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 27–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4696981",
+      "name": "Cam Skattebo",
+      "position": "RB",
+      "nfl_team": "New York Giants",
+      "lastGame": {
+        "gameId": "401772867",
+        "date": "2025-10-26T17:00:00.000Z",
+        "opponent": "PHI",
+        "homeAway": "AWAY",
+        "resultText": "L 20–38",
+        "passing": null,
+        "rushing": {
+          "carries": 3,
+          "yards": 12,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 1,
+          "yards": 18,
+          "td": 1
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4047846",
+      "name": "Chase Lucas",
+      "position": "CB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772885",
+        "date": "2025-11-16T21:05:00.000Z",
+        "opponent": "ARI",
+        "homeAway": "AWAY",
+        "resultText": "W 41–22",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4360438",
+      "name": "Brandon Aiyuk",
+      "position": "WR",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": null
+    },
+    {
+      "id": "4697815",
+      "name": "Rachaad White",
+      "position": "RB",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": {
+        "gameId": "401772792",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "NO",
+        "homeAway": "HOME",
+        "resultText": "L 20–24",
+        "passing": null,
+        "rushing": {
+          "carries": 11,
+          "yards": 53,
+          "td": 0
+        },
+        "receiving": {
+          "receptions": 1,
+          "yards": 2,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

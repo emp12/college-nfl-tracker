@@ -1,0 +1,60 @@
+{
+  "college": "Hawai'i",
+  "slug": "hawai-i",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "3914922",
+      "name": "Rigoberto Sanchez",
+      "position": "P",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 19–36",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": null
+      }
+    },
+    {
+      "id": "3124587",
+      "name": "Jahlani Tavai",
+      "position": "LB",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772772",
+        "date": "2025-11-09T18:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 28–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4373951",
+      "name": "Kohl Levao",
+      "position": "G",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "4427173",
+      "name": "Luke Felix-Fualalo",
+      "position": "OT",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": null
+    }
+  ]
+}

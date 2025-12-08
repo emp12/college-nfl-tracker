@@ -1,0 +1,26 @@
+{
+  "id": "4426388",
+  "name": "Jameson Williams",
+  "position": "WR",
+  "nfl_team": "Detroit Lions",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 9–16",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 9,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 4,
+      "yards": 88,
+      "td": 1
+    },
+    "defense": null
+  }
+}

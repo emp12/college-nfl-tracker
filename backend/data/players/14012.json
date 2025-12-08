@@ -1,0 +1,32 @@
+{
+  "id": "14012",
+  "name": "Andy Dalton",
+  "position": "QB",
+  "nfl_team": "Carolina Panthers",
+  "college": "TCU",
+  "lastGame": {
+    "gameId": "401772865",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "HOME",
+    "resultText": "L 9–40",
+    "passing": {
+      "completions": 16,
+      "attempts": 24,
+      "yards": 175,
+      "td": 0,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 2,
+      "yards": 1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

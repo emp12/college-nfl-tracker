@@ -1,0 +1,26 @@
+{
+  "id": "4428557",
+  "name": "Tyjae Spears",
+  "position": "RB",
+  "nfl_team": "Tennessee Titans",
+  "college": "Tulane",
+  "lastGame": {
+    "gameId": "401772881",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": {
+      "carries": 4,
+      "yards": 3,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 5,
+      "yards": 31,
+      "td": 0
+    },
+    "defense": null
+  }
+}

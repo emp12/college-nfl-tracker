@@ -1,0 +1,22 @@
+{
+  "id": "4047422",
+  "name": "Tanner Conner",
+  "position": "TE",
+  "nfl_team": "Miami Dolphins",
+  "college": "Idaho State",
+  "lastGame": {
+    "gameId": "401772754",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "CLE",
+    "homeAway": "AWAY",
+    "resultText": "L 6–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 28,
+      "td": 0
+    },
+    "defense": null
+  }
+}

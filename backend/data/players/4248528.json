@@ -1,0 +1,22 @@
+{
+  "id": "4248528",
+  "name": "Christian Watson",
+  "position": "WR",
+  "nfl_team": "Green Bay Packers",
+  "college": "North Dakota State",
+  "lastGame": {
+    "gameId": "401772897",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "HOME",
+    "resultText": "W 28–21",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 4,
+      "yards": 89,
+      "td": 2
+    },
+    "defense": null
+  }
+}

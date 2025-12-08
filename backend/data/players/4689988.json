@@ -1,0 +1,22 @@
+{
+  "id": "4689988",
+  "name": "Jason Brownlee",
+  "position": "WR",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Southern Miss",
+  "lastGame": {
+    "gameId": "401772923",
+    "date": "2025-10-13T00:20:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "W 30–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

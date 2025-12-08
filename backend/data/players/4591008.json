@@ -1,0 +1,22 @@
+{
+  "id": "4591008",
+  "name": "Omarr Norman-Lott",
+  "position": "DT",
+  "nfl_team": "Kansas City Chiefs",
+  "college": "Tennessee",
+  "lastGame": {
+    "gameId": "401772920",
+    "date": "2025-09-22T00:20:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "AWAY",
+    "resultText": "W 22–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

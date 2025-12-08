@@ -1,0 +1,22 @@
+{
+  "id": "4243176",
+  "name": "Brady Russell",
+  "position": "FB",
+  "nfl_team": "Seattle Seahawks",
+  "college": "Colorado",
+  "lastGame": {
+    "gameId": "401772886",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "AWAY",
+    "resultText": "W 30–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

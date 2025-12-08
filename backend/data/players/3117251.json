@@ -1,0 +1,26 @@
+{
+  "id": "3117251",
+  "name": "Christian McCaffrey",
+  "position": "RB",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772879",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 26–42",
+    "passing": null,
+    "rushing": {
+      "carries": 12,
+      "yards": 30,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 8,
+      "yards": 66,
+      "td": 0
+    },
+    "defense": null
+  }
+}

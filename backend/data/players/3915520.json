@@ -1,0 +1,22 @@
+{
+  "id": "3915520",
+  "name": "DaVon Hamilton",
+  "position": "DT",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

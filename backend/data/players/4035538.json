@@ -1,0 +1,26 @@
+{
+  "id": "4035538",
+  "name": "David Montgomery",
+  "position": "RB",
+  "nfl_team": "Detroit Lions",
+  "college": "Iowa State",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "PHI",
+    "homeAway": "AWAY",
+    "resultText": "L 9–16",
+    "passing": null,
+    "rushing": {
+      "carries": 6,
+      "yards": 27,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 10,
+      "td": 0
+    },
+    "defense": null
+  }
+}

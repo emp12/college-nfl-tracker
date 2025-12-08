@@ -1,0 +1,22 @@
+{
+  "id": "4379397",
+  "name": "Tyson Campbell",
+  "position": "CB",
+  "nfl_team": "Cleveland Browns",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772898",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 29–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

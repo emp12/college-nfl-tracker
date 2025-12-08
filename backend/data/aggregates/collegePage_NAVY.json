@@ -1,0 +1,50 @@
+{
+  "college": "Navy",
+  "slug": "navy",
+  "conference": "AAC",
+  "group": "AAC",
+  "players": [
+    {
+      "id": "4880675",
+      "name": "Rayuan Lane III",
+      "position": "S",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": {
+        "gameId": "401772793",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 36–19",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "2575907",
+      "name": "Joe Cardona",
+      "position": "LS",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772754",
+        "date": "2025-10-19T17:00:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "AWAY",
+        "resultText": "L 6–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

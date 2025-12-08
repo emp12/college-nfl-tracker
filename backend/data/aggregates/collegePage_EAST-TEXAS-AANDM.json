@@ -1,0 +1,36 @@
+{
+  "college": "East Texas A&M",
+  "slug": "east-texas-aandm",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4291489",
+      "name": "Kader Kohou",
+      "position": "CB",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    },
+    {
+      "id": "5093973",
+      "name": "Levi Drake Rodriguez",
+      "position": "DT",
+      "nfl_team": "Minnesota Vikings",
+      "lastGame": {
+        "gameId": "401772887",
+        "date": "2025-11-23T18:00:00.000Z",
+        "opponent": "GB",
+        "homeAway": "AWAY",
+        "resultText": "L 6–23",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

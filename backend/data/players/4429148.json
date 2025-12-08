@@ -1,0 +1,22 @@
+{
+  "id": "4429148",
+  "name": "Theo Johnson",
+  "position": "TE",
+  "nfl_team": "New York Giants",
+  "college": "Penn State",
+  "lastGame": {
+    "gameId": "401772888",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 27–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 77,
+      "td": 0
+    },
+    "defense": null
+  }
+}

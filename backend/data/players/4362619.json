@@ -1,0 +1,22 @@
+{
+  "id": "4362619",
+  "name": "Chris Rodriguez Jr.",
+  "position": "RB",
+  "nfl_team": "Washington Commanders",
+  "college": "Kentucky",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "L 0–31",
+    "passing": null,
+    "rushing": {
+      "carries": 10,
+      "yards": 52,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

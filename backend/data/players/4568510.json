@@ -1,0 +1,22 @@
+{
+  "id": "4568510",
+  "name": "Matthew Bergeron",
+  "position": "G",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Syracuse",
+  "lastGame": {
+    "gameId": "401772838",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "AWAY",
+    "resultText": "L 0–30",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

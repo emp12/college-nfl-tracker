@@ -1,0 +1,22 @@
+{
+  "id": "5083297",
+  "name": "Jacoby Jones",
+  "position": "WR",
+  "nfl_team": "Washington Commanders",
+  "college": "UCF",
+  "lastGame": {
+    "gameId": "401772631",
+    "date": "2025-11-16T14:30:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "AWAY",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 25,
+      "td": 0
+    },
+    "defense": null
+  }
+}

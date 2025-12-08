@@ -1,0 +1,22 @@
+{
+  "id": "4361100",
+  "name": "Jack Westover",
+  "position": "TE",
+  "nfl_team": "New England Patriots",
+  "college": "Washington",
+  "lastGame": {
+    "gameId": "401772772",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "AWAY",
+    "resultText": "W 28–23",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

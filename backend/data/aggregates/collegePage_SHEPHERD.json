@@ -1,0 +1,35 @@
+{
+  "college": "Shepherd",
+  "slug": "shepherd",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4434153",
+      "name": "Tyson Bagent",
+      "position": "QB",
+      "nfl_team": "Chicago Bears",
+      "lastGame": {
+        "gameId": "401772835",
+        "date": "2025-09-14T17:00:00.000Z",
+        "opponent": "DET",
+        "homeAway": "AWAY",
+        "resultText": "L 21–52",
+        "passing": {
+          "completions": 2,
+          "attempts": 3,
+          "yards": 27,
+          "td": 0,
+          "int": 0
+        },
+        "rushing": {
+          "carries": 2,
+          "yards": 7,
+          "td": 0
+        },
+        "receiving": null,
+        "defense": null
+      }
+    }
+  ]
+}

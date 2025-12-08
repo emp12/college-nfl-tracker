@@ -1,0 +1,22 @@
+{
+  "id": "4241463",
+  "name": "Jerry Jeudy",
+  "position": "WR",
+  "nfl_team": "Cleveland Browns",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772898",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 29–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 76,
+      "td": 1
+    },
+    "defense": null
+  }
+}

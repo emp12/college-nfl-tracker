@@ -1,0 +1,22 @@
+{
+  "id": "4032200",
+  "name": "Robert Rochell",
+  "position": "CB",
+  "nfl_team": "Dallas Cowboys",
+  "college": "Central Arkansas",
+  "lastGame": {
+    "gameId": "401772834",
+    "date": "2025-09-14T17:00:00.000Z",
+    "opponent": "NYG",
+    "homeAway": "HOME",
+    "resultText": "W 40–37",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

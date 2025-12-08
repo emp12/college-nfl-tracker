@@ -1,0 +1,22 @@
+{
+  "id": "4244607",
+  "name": "Akayleb Evans",
+  "position": "CB",
+  "nfl_team": "Carolina Panthers",
+  "college": "Missouri",
+  "lastGame": {
+    "gameId": "401772872",
+    "date": "2025-11-02T18:00:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "W 16–13",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

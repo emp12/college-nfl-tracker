@@ -1,0 +1,18 @@
+{
+  "id": "4034704",
+  "name": "Michael Bandy",
+  "position": "WR",
+  "nfl_team": "Denver Broncos",
+  "college": "San Diego",
+  "lastGame": {
+    "gameId": "401772944",
+    "date": "2025-11-07T01:15:00.000Z",
+    "opponent": "LV",
+    "homeAway": "HOME",
+    "resultText": "W 10–7",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

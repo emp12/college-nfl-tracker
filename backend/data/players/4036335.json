@@ -1,0 +1,22 @@
+{
+  "id": "4036335",
+  "name": "Cedrick Wilson Jr.",
+  "position": "WR",
+  "nfl_team": "Miami Dolphins",
+  "college": "Boise State",
+  "lastGame": {
+    "gameId": "401772892",
+    "date": "2025-11-30T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "W 21–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 16,
+      "td": 0
+    },
+    "defense": null
+  }
+}

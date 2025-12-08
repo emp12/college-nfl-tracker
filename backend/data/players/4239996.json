@@ -1,0 +1,26 @@
+{
+  "id": "4239996",
+  "name": "Travis Etienne Jr.",
+  "position": "RB",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Clemson",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": null,
+    "rushing": {
+      "carries": 20,
+      "yards": 74,
+      "td": 2
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 8,
+      "td": 0
+    },
+    "defense": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4242546",
+  "name": "Davis Mills",
+  "position": "QB",
+  "nfl_team": "Houston Texans",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772881",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "AWAY",
+    "resultText": "W 16–13",
+    "passing": {
+      "completions": 26,
+      "attempts": 41,
+      "yards": 274,
+      "td": 1,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 2,
+      "yards": 14,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

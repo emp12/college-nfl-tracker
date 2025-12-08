@@ -1,0 +1,22 @@
+{
+  "id": "16728",
+  "name": "Teddy Bridgewater",
+  "position": "QB",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Louisville",
+  "lastGame": {
+    "gameId": "401772776",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 32–44",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": -1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

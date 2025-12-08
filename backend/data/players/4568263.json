@@ -1,0 +1,18 @@
+{
+  "id": "4568263",
+  "name": "Ryan Fitzgerald",
+  "position": "PK",
+  "nfl_team": "Carolina Panthers",
+  "college": "Florida State",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 30–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

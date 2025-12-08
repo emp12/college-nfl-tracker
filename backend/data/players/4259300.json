@@ -1,0 +1,22 @@
+{
+  "id": "4259300",
+  "name": "Tre Avery",
+  "position": "CB",
+  "nfl_team": "Cleveland Browns",
+  "college": "Rutgers",
+  "lastGame": {
+    "gameId": "401772754",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "W 31–6",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4363551",
+  "name": "Dylan Drummond",
+  "position": "WR",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Eastern Michigan",
+  "lastGame": {
+    "gameId": "401772900",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "HOME",
+    "resultText": "L 9–37",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 21,
+      "td": 0
+    },
+    "defense": null
+  }
+}

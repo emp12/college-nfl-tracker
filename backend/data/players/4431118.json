@@ -1,0 +1,22 @@
+{
+  "id": "4431118",
+  "name": "Ty Hamilton",
+  "position": "DT",
+  "nfl_team": "Los Angeles Rams",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772635",
+    "date": "2025-10-19T13:30:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "W 35–7",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

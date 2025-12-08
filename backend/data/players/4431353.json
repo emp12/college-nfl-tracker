@@ -1,0 +1,22 @@
+{
+  "id": "4431353",
+  "name": "Xavier Restrepo",
+  "position": "WR",
+  "nfl_team": "Tennessee Titans",
+  "college": "Miami",
+  "lastGame": {
+    "gameId": "401772886",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "SEA",
+    "homeAway": "HOME",
+    "resultText": "L 24–30",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 26,
+      "td": 0
+    },
+    "defense": null
+  }
+}

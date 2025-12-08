@@ -1,0 +1,22 @@
+{
+  "id": "4373079",
+  "name": "KT Leveston",
+  "position": "OT",
+  "nfl_team": "Cleveland Browns",
+  "college": "Kansas State",
+  "lastGame": {
+    "gameId": "401772846",
+    "date": "2025-09-28T17:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

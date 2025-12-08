@@ -1,0 +1,22 @@
+{
+  "id": "4243004",
+  "name": "Jordan Mims",
+  "position": "RB",
+  "nfl_team": "Tennessee Titans",
+  "college": "Fresno State",
+  "lastGame": {
+    "gameId": "401772724",
+    "date": "2025-09-14T17:00:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 19–33",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

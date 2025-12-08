@@ -1,0 +1,26 @@
+{
+  "id": "4360294",
+  "name": "Antonio Gibson",
+  "position": "RB",
+  "nfl_team": "New England Patriots",
+  "college": "Memphis",
+  "lastGame": {
+    "gameId": "401772922",
+    "date": "2025-10-06T00:20:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "W 23–20",
+    "passing": null,
+    "rushing": {
+      "carries": 6,
+      "yards": 21,
+      "td": 0
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 5,
+      "td": 0
+    },
+    "defense": null
+  }
+}

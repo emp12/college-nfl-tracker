@@ -1,0 +1,28 @@
+{
+  "id": "4689114",
+  "name": "Jaxson Dart",
+  "position": "QB",
+  "nfl_team": "New York Giants",
+  "college": "Ole Miss",
+  "lastGame": {
+    "gameId": "401772875",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "CHI",
+    "homeAway": "AWAY",
+    "resultText": "L 20–24",
+    "passing": {
+      "completions": 19,
+      "attempts": 29,
+      "yards": 242,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 6,
+      "yards": 66,
+      "td": 2
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

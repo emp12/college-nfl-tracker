@@ -1,0 +1,22 @@
+{
+  "id": "4057082",
+  "name": "Mason Kinsey",
+  "position": "WR",
+  "nfl_team": "Tennessee Titans",
+  "college": "Berry College",
+  "lastGame": {
+    "gameId": "401772881",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 14,
+      "td": 0
+    },
+    "defense": null
+  }
+}

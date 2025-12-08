@@ -1,0 +1,50 @@
+{
+  "college": "Northwest Missouri State",
+  "slug": "northwest-missouri-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4077786",
+      "name": "Sam Roberts",
+      "position": "DT",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772636",
+        "date": "2025-11-09T14:30:00.000Z",
+        "opponent": "IND",
+        "homeAway": "AWAY",
+        "resultText": "L 25–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "5065495",
+      "name": "Kaden Davis",
+      "position": "WR",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": {
+        "gameId": "401772842",
+        "date": "2025-09-21T17:00:00.000Z",
+        "opponent": "GB",
+        "homeAway": "HOME",
+        "resultText": "W 13–10",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

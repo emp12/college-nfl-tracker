@@ -1,0 +1,22 @@
+{
+  "id": "4368003",
+  "name": "Andrei Iosivas",
+  "position": "WR",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Princeton",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 34–39",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 17,
+      "td": 0
+    },
+    "defense": null
+  }
+}

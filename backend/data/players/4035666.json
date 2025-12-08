@@ -1,0 +1,22 @@
+{
+  "id": "4035666",
+  "name": "Leki Fotu",
+  "position": "DT",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "Utah",
+  "lastGame": {
+    "gameId": "401772753",
+    "date": "2025-10-19T17:00:00.000Z",
+    "opponent": "KC",
+    "homeAway": "AWAY",
+    "resultText": "L 0–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

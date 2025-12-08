@@ -1,0 +1,22 @@
+{
+  "id": "4372017",
+  "name": "Jalyn Armour-Davis",
+  "position": "CB",
+  "nfl_team": "Tennessee Titans",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772881",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "HOME",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

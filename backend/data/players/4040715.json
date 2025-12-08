@@ -1,0 +1,28 @@
+{
+  "id": "4040715",
+  "name": "Jalen Hurts",
+  "position": "QB",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Oklahoma",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "W 16–9",
+    "passing": {
+      "completions": 14,
+      "attempts": 28,
+      "yards": 135,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 10,
+      "yards": 31,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

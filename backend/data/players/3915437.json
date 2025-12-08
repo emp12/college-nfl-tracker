@@ -1,0 +1,22 @@
+{
+  "id": "3915437",
+  "name": "Isaiah Oliver",
+  "position": "S",
+  "nfl_team": "New York Jets",
+  "college": "Colorado",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 9,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

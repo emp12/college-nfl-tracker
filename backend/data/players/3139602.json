@@ -1,0 +1,22 @@
+{
+  "id": "3139602",
+  "name": "D'Ernest Johnson",
+  "position": "RB",
+  "nfl_team": "New England Patriots",
+  "college": "South Florida",
+  "lastGame": {
+    "gameId": "401772772",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "TB",
+    "homeAway": "AWAY",
+    "resultText": "W 28–23",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

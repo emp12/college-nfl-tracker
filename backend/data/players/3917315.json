@@ -1,0 +1,28 @@
+{
+  "id": "3917315",
+  "name": "Kyler Murray",
+  "position": "QB",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Oklahoma",
+  "lastGame": {
+    "gameId": "401772747",
+    "date": "2025-10-05T20:05:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "HOME",
+    "resultText": "L 21–22",
+    "passing": {
+      "completions": 23,
+      "attempts": 31,
+      "yards": 220,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 4,
+      "yards": 25,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

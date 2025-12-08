@@ -1,0 +1,22 @@
+{
+  "id": "4259558",
+  "name": "Robert Beal Jr.",
+  "position": "DE",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772879",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "HOME",
+    "resultText": "L 26–42",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

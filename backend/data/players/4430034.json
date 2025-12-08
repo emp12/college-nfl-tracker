@@ -1,0 +1,22 @@
+{
+  "id": "4430034",
+  "name": "Xavier Legette",
+  "position": "WR",
+  "nfl_team": "Carolina Panthers",
+  "college": "South Carolina",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 30–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 4,
+      "yards": 83,
+      "td": 1
+    },
+    "defense": null
+  }
+}

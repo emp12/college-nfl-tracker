@@ -1,0 +1,22 @@
+{
+  "id": "4568024",
+  "name": "Josh Williams",
+  "position": "RB",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772869",
+    "date": "2025-10-26T20:05:00.000Z",
+    "opponent": "NO",
+    "homeAway": "AWAY",
+    "resultText": "W 23–3",
+    "passing": null,
+    "rushing": {
+      "carries": 4,
+      "yards": 11,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

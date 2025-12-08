@@ -1,0 +1,22 @@
+{
+  "id": "4035857",
+  "name": "Cameron Goode",
+  "position": "LB",
+  "nfl_team": "Miami Dolphins",
+  "college": "California",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 34–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

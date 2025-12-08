@@ -1,0 +1,22 @@
+{
+  "id": "4035661",
+  "name": "Julian Blackmon",
+  "position": "S",
+  "nfl_team": "New Orleans Saints",
+  "college": "Utah",
+  "lastGame": {
+    "gameId": "401772718",
+    "date": "2025-09-07T17:00:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "HOME",
+    "resultText": "L 13–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 7,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

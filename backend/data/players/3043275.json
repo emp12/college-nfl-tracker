@@ -1,0 +1,22 @@
+{
+  "id": "3043275",
+  "name": "Austin Hooper",
+  "position": "TE",
+  "nfl_team": "New England Patriots",
+  "college": "Stanford",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "W 26–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 3,
+      "yards": 39,
+      "td": 0
+    },
+    "defense": null
+  }
+}

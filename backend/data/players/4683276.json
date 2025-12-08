@@ -1,0 +1,22 @@
+{
+  "id": "4683276",
+  "name": "Zeek Biggers",
+  "position": "DT",
+  "nfl_team": "Miami Dolphins",
+  "college": "Georgia Tech",
+  "lastGame": {
+    "gameId": "401772892",
+    "date": "2025-11-30T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "W 21–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0.5,
+      "interceptions": 0
+    }
+  }
+}

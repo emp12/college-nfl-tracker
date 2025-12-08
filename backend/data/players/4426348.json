@@ -1,0 +1,28 @@
+{
+  "id": "4426348",
+  "name": "Jayden Daniels",
+  "position": "QB",
+  "nfl_team": "Washington Commanders",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "L 0–31",
+    "passing": {
+      "completions": 9,
+      "attempts": 20,
+      "yards": 78,
+      "td": 0,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 4,
+      "yards": 16,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

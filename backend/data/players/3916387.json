@@ -1,0 +1,28 @@
+{
+  "id": "3916387",
+  "name": "Lamar Jackson",
+  "position": "QB",
+  "nfl_team": "Baltimore Ravens",
+  "college": "Louisville",
+  "lastGame": {
+    "gameId": "401772791",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "PIT",
+    "homeAway": "HOME",
+    "resultText": "L 22–27",
+    "passing": {
+      "completions": 19,
+      "attempts": 35,
+      "yards": 219,
+      "td": 1,
+      "int": 1
+    },
+    "rushing": {
+      "carries": 7,
+      "yards": 43,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

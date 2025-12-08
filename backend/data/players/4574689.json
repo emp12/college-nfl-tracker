@@ -1,0 +1,22 @@
+{
+  "id": "4574689",
+  "name": "Trey Amos",
+  "position": "CB",
+  "nfl_team": "Washington Commanders",
+  "college": "Ole Miss",
+  "lastGame": {
+    "gameId": "401772878",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "L 22–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

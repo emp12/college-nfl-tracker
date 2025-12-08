@@ -1,0 +1,22 @@
+{
+  "id": "3052743",
+  "name": "Trey Hendrickson",
+  "position": "DE",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "Florida Atlantic",
+  "lastGame": {
+    "gameId": "401772752",
+    "date": "2025-10-12T20:25:00.000Z",
+    "opponent": "GB",
+    "homeAway": "AWAY",
+    "resultText": "L 18–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

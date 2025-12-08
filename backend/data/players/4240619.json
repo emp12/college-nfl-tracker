@@ -1,0 +1,22 @@
+{
+  "id": "4240619",
+  "name": "Zachary Carter",
+  "position": "DT",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Florida",
+  "lastGame": {
+    "gameId": "401772856",
+    "date": "2025-10-12T17:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "AWAY",
+    "resultText": "L 27–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 3,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

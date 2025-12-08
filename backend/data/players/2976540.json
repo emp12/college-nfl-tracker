@@ -1,0 +1,22 @@
+{
+  "id": "2976540",
+  "name": "Jalen Mills",
+  "position": "S",
+  "nfl_team": "Houston Texans",
+  "college": "LSU",
+  "lastGame": {
+    "gameId": "401772881",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "TEN",
+    "homeAway": "AWAY",
+    "resultText": "W 16–13",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

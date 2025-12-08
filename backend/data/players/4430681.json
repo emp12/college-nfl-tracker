@@ -1,0 +1,22 @@
+{
+  "id": "4430681",
+  "name": "Jared Wayne",
+  "position": "WR",
+  "nfl_team": "Houston Texans",
+  "college": "Pittsburgh",
+  "lastGame": {
+    "gameId": "401772866",
+    "date": "2025-10-26T17:00:00.000Z",
+    "opponent": "SF",
+    "homeAway": "HOME",
+    "resultText": "W 26–15",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 20,
+      "td": 0
+    },
+    "defense": null
+  }
+}

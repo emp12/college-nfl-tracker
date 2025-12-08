@@ -1,0 +1,26 @@
+{
+  "id": "4429160",
+  "name": "De'Von Achane",
+  "position": "RB",
+  "nfl_team": "Miami Dolphins",
+  "college": "Texas A&M",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "W 34–10",
+    "passing": null,
+    "rushing": {
+      "carries": 7,
+      "yards": 92,
+      "td": 1
+    },
+    "receiving": {
+      "receptions": 1,
+      "yards": 13,
+      "td": 0
+    },
+    "defense": null
+  }
+}

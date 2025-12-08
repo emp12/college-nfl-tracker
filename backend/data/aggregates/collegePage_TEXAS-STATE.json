@@ -1,0 +1,36 @@
+{
+  "college": "Texas State",
+  "slug": "texas-state",
+  "conference": "Sun Belt",
+  "group": "Sun Belt",
+  "players": [
+    {
+      "id": "4575667",
+      "name": "Deion Hankins",
+      "position": "RB",
+      "nfl_team": "Chicago Bears",
+      "lastGame": null
+    },
+    {
+      "id": "4040537",
+      "name": "Aaron Brewer",
+      "position": "G",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": {
+        "gameId": "401772728",
+        "date": "2025-09-14T17:00:00.000Z",
+        "opponent": "NE",
+        "homeAway": "HOME",
+        "resultText": "L 27–33",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    }
+  ]
+}

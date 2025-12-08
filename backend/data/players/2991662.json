@@ -1,0 +1,22 @@
+{
+  "id": "2991662",
+  "name": "Mack Hollins",
+  "position": "WR",
+  "nfl_team": "New England Patriots",
+  "college": "North Carolina",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "AWAY",
+    "resultText": "W 26–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 30,
+      "td": 0
+    },
+    "defense": null
+  }
+}

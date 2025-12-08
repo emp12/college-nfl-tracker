@@ -1,0 +1,22 @@
+{
+  "id": "4241921",
+  "name": "Markquese Bell",
+  "position": "S",
+  "nfl_team": "Dallas Cowboys",
+  "college": "Florida A&M",
+  "lastGame": {
+    "gameId": "401772947",
+    "date": "2025-12-05T01:15:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 30–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

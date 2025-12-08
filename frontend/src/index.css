@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global body styling so we can visually confirm Tailwind is working */
+body {
+  @apply bg-slate-950 text-slate-100;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+/* Quick test class – we'll use it on the homepage */
+.test-tailwind-banner {
+  @apply bg-emerald-500 text-slate-900 text-center py-2 font-semibold;
+}

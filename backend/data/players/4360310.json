@@ -1,0 +1,28 @@
+{
+  "id": "4360310",
+  "name": "Trevor Lawrence",
+  "position": "QB",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Clemson",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": {
+      "completions": 17,
+      "attempts": 30,
+      "yards": 244,
+      "td": 2,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 4,
+      "yards": 16,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

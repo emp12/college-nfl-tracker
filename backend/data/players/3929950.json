@@ -1,0 +1,22 @@
+{
+  "id": "3929950",
+  "name": "Tremaine Edmunds",
+  "position": "LB",
+  "nfl_team": "Chicago Bears",
+  "college": "Virginia Tech",
+  "lastGame": {
+    "gameId": "401772880",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "W 19–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 9,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4239833",
+  "name": "Darious Williams",
+  "position": "CB",
+  "nfl_team": "Los Angeles Rams",
+  "college": "UAB",
+  "lastGame": {
+    "gameId": "401772879",
+    "date": "2025-11-09T21:25:00.000Z",
+    "opponent": "SF",
+    "homeAway": "AWAY",
+    "resultText": "W 42–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

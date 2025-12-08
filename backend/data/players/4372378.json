@@ -1,0 +1,22 @@
+{
+  "id": "4372378",
+  "name": "Anthony Goodlow",
+  "position": "DE",
+  "nfl_team": "Arizona Cardinals",
+  "college": "Oklahoma State",
+  "lastGame": {
+    "gameId": "401772856",
+    "date": "2025-10-12T17:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "AWAY",
+    "resultText": "L 27–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 0,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

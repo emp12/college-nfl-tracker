@@ -1,0 +1,22 @@
+{
+  "id": "4572680",
+  "name": "Tucker Kraft",
+  "position": "TE",
+  "nfl_team": "Green Bay Packers",
+  "college": "South Dakota State",
+  "lastGame": {
+    "gameId": "401772872",
+    "date": "2025-11-02T18:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "HOME",
+    "resultText": "L 13–16",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 20,
+      "td": 0
+    },
+    "defense": null
+  }
+}

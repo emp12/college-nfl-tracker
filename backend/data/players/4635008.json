@@ -1,0 +1,22 @@
+{
+  "id": "4635008",
+  "name": "Keon Coleman",
+  "position": "WR",
+  "nfl_team": "Buffalo Bills",
+  "college": "Florida State",
+  "lastGame": {
+    "gameId": "401772902",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "CIN",
+    "homeAway": "HOME",
+    "resultText": "W 39–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 16,
+      "td": 0
+    },
+    "defense": null
+  }
+}

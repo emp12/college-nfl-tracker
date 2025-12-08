@@ -1,0 +1,22 @@
+{
+  "id": "4689334",
+  "name": "Malik Heath",
+  "position": "WR",
+  "nfl_team": "Green Bay Packers",
+  "college": "Ole Miss",
+  "lastGame": {
+    "gameId": "401772891",
+    "date": "2025-11-27T18:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "W 31–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

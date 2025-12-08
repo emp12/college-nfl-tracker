@@ -1,0 +1,22 @@
+{
+  "id": "4372518",
+  "name": "Bobby Brown III",
+  "position": "DT",
+  "nfl_team": "Carolina Panthers",
+  "college": "Texas A&M",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 30–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

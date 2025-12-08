@@ -1,0 +1,22 @@
+{
+  "id": "4428796",
+  "name": "Casey Washington",
+  "position": "WR",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Illinois",
+  "lastGame": {
+    "gameId": "401772924",
+    "date": "2025-10-20T00:20:00.000Z",
+    "opponent": "SF",
+    "homeAway": "AWAY",
+    "resultText": "L 10–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 17,
+      "td": 0
+    },
+    "defense": null
+  }
+}

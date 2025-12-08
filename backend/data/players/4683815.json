@@ -1,0 +1,22 @@
+{
+  "id": "4683815",
+  "name": "Trevin Wallace",
+  "position": "LB",
+  "nfl_team": "Carolina Panthers",
+  "college": "Kentucky",
+  "lastGame": {
+    "gameId": "401772877",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 7–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 1,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "college": "UCF",
+  "slug": "ucf",
+  "conference": "Big 12",
+  "group": "Big 12",
+  "players": [
+    {
+      "id": "3895841",
+      "name": "Mike Hughes",
+      "position": "CB",
+      "nfl_team": "Atlanta Falcons",
+      "lastGame": {
+        "gameId": "401772900",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "SEA",
+        "homeAway": "HOME",
+        "resultText": "L 9–37",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 6,
+          "sacks": 0,
+          "interceptions": 1
+        }
+      }
+    },
+    {
+      "id": "11122",
+      "name": "Matt Prater",
+      "position": "PK",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "HOME",
+        "resultText": "W 39–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 2,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4368828",
+      "name": "Tylan Grable",
+      "position": "OT",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": null
+    },
+    {
+      "id": "4243537",
+      "name": "Gabe Davis",
+      "position": "WR",
+      "nfl_team": "Buffalo Bills",
+      "lastGame": {
+        "gameId": "401772902",
+        "date": "2025-12-07T18:00:00.000Z",
+        "opponent": "CIN",
+        "homeAway": "HOME",
+        "resultText": "W 39–34",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 2,
+          "yards": 21,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "4568490",
+      "name": "RJ Harvey",
+      "position": "RB",
+      "nfl_team": "Denver Broncos",
+      "lastGame": {
+        "gameId": "401772794",
+        "date": "2025-12-07T21:05:00.000Z",
+        "opponent": "LV",
+        "homeAway": "AWAY",
+        "resultText": "W 24–17",
+        "passing": null,
+        "rushing": {
+          "carries": 17,
+          "yards": 75,
+          "td": 1
+        },
+        "receiving": {
+          "receptions": 6,
+          "yards": 25,
+          "td": 0
+        },
+        "defense": null
+      }
+    },
+    {
+      "id": "3128452",
+      "name": "Jordan Akins",
+      "position": "TE",
+      "nfl_team": "Jacksonville Jaguars",
+      "lastGame": null
+    },
+    {
+      "id": "4243545",
+      "name": "Alex Ward",
+      "position": "LS",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": {
+        "gameId": "401772849",
+        "date": "2025-09-28T20:05:00.000Z",
+        "opponent": "IND",
+        "homeAway": "HOME",
+        "resultText": "W 27–20",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4042119",
+      "name": "Richie Grant",
+      "position": "S",
+      "nfl_team": "New England Patriots",
+      "lastGame": {
+        "gameId": "401772868",
+        "date": "2025-10-26T17:00:00.000Z",
+        "opponent": "CLE",
+        "homeAway": "HOME",
+        "resultText": "W 32–13",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4705711",
+      "name": "Leander Wiegand",
+      "position": "G",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    },
+    {
+      "id": "4689651",
+      "name": "Mac McWilliams",
+      "position": "CB",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": {
+        "gameId": "401772845",
+        "date": "2025-09-28T17:00:00.000Z",
+        "opponent": "TB",
+        "homeAway": "AWAY",
+        "resultText": "W 31–25",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "15379",
+      "name": "Charley Hughlett",
+      "position": "LS",
+      "nfl_team": "Philadelphia Eagles",
+      "lastGame": null
+    },
+    {
+      "id": "4426494",
+      "name": "John Rhys Plumlee",
+      "position": "QB",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    },
+    {
+      "id": "4243541",
+      "name": "Kalia Davis",
+      "position": "DT",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 26–42",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 4,
+          "sacks": 0.5,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "3054026",
+      "name": "Shaquill Griffin",
+      "position": "CB",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": {
+        "gameId": "401772857",
+        "date": "2025-10-12T17:00:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "W 20–12",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 7,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4567135",
+      "name": "Amari Kight",
+      "position": "OT",
+      "nfl_team": "Seattle Seahawks",
+      "lastGame": null
+    },
+    {
+      "id": "4035198",
+      "name": "Brandon Johnson",
+      "position": "WR",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "lastGame": null
+    },
+    {
+      "id": "4428343",
+      "name": "Ricky Barber",
+      "position": "DT",
+      "nfl_team": "Washington Commanders",
+      "lastGame": null
+    },
+    {
+      "id": "5083297",
+      "name": "Jacoby Jones",
+      "position": "WR",
+      "nfl_team": "Washington Commanders",
+      "lastGame": {
+        "gameId": "401772631",
+        "date": "2025-11-16T14:30:00.000Z",
+        "opponent": "MIA",
+        "homeAway": "AWAY",
+        "resultText": "L 13–16",
+        "passing": null,
+        "rushing": null,
+        "receiving": {
+          "receptions": 1,
+          "yards": 25,
+          "td": 0
+        },
+        "defense": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4875266",
+  "name": "BJ Green II",
+  "position": "DE",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Colorado",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "3050478",
+  "name": "Jake Elliott",
+  "position": "PK",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "Memphis",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "W 16–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": null
+  }
+}

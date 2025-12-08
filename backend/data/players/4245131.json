@@ -1,0 +1,22 @@
+{
+  "id": "4245131",
+  "name": "Tim Jones",
+  "position": "WR",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Southern Miss",
+  "lastGame": {
+    "gameId": "401772770",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "HOU",
+    "homeAway": "AWAY",
+    "resultText": "L 29–36",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

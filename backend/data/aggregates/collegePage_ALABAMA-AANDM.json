@@ -1,0 +1,15 @@
+{
+  "college": "Alabama A&M",
+  "slug": "alabama-aandm",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4769895",
+      "name": "Carson Vinson",
+      "position": "OT",
+      "nfl_team": "Baltimore Ravens",
+      "lastGame": null
+    }
+  ]
+}

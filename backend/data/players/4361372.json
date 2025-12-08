@@ -1,0 +1,22 @@
+{
+  "id": "4361372",
+  "name": "Jeremy Ruckert",
+  "position": "TE",
+  "nfl_team": "New York Jets",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 19,
+      "td": 0
+    },
+    "defense": null
+  }
+}

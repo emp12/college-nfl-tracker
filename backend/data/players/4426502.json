@@ -1,0 +1,22 @@
+{
+  "id": "4426502",
+  "name": "Drake London",
+  "position": "WR",
+  "nfl_team": "Atlanta Falcons",
+  "college": "USC",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "HOME",
+    "resultText": "L 27–30",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 7,
+      "yards": 119,
+      "td": 0
+    },
+    "defense": null
+  }
+}

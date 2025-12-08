@@ -1,0 +1,22 @@
+{
+  "id": "4361988",
+  "name": "James Mitchell",
+  "position": "TE",
+  "nfl_team": "Carolina Panthers",
+  "college": "Virginia Tech",
+  "lastGame": {
+    "gameId": "401772852",
+    "date": "2025-10-05T17:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "W 27–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 11,
+      "td": 0
+    },
+    "defense": null
+  }
+}

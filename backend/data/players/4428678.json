@@ -1,0 +1,22 @@
+{
+  "id": "4428678",
+  "name": "Jamari Thrash",
+  "position": "WR",
+  "nfl_team": "Cleveland Browns",
+  "college": "Louisville",
+  "lastGame": {
+    "gameId": "401772769",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "NYJ",
+    "homeAway": "AWAY",
+    "resultText": "L 20–27",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

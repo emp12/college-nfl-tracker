@@ -1,0 +1,15 @@
+{
+  "college": "Kent State",
+  "slug": "kent-state",
+  "conference": "MAC",
+  "group": "MAC",
+  "players": [
+    {
+      "id": "4566157",
+      "name": "Luke Floriea",
+      "position": "WR",
+      "nfl_team": "Cleveland Browns",
+      "lastGame": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4242335",
+  "name": "Jonathan Taylor",
+  "position": "RB",
+  "nfl_team": "Indianapolis Colts",
+  "college": "Wisconsin",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "JAX",
+    "homeAway": "AWAY",
+    "resultText": "L 19–36",
+    "passing": null,
+    "rushing": {
+      "carries": 21,
+      "yards": 74,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

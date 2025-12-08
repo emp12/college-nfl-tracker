@@ -1,0 +1,28 @@
+{
+  "id": "4685720",
+  "name": "Bryce Young",
+  "position": "QB",
+  "nfl_team": "Carolina Panthers",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772882",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "ATL",
+    "homeAway": "AWAY",
+    "resultText": "W 30–27",
+    "passing": {
+      "completions": 31,
+      "attempts": 45,
+      "yards": 448,
+      "td": 3,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 1,
+      "yards": -1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "college": "Fayetteville State",
+  "slug": "fayetteville-state",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4917635",
+      "name": "Joshua Williams",
+      "position": "CB",
+      "nfl_team": "Kansas City Chiefs",
+      "lastGame": {
+        "gameId": "401772814",
+        "date": "2025-10-07T00:15:00.000Z",
+        "opponent": "JAX",
+        "homeAway": "AWAY",
+        "resultText": "L 28–31",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4058521",
+      "name": "Kion Smith",
+      "position": "OT",
+      "nfl_team": "Miami Dolphins",
+      "lastGame": null
+    }
+  ]
+}

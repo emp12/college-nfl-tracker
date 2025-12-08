@@ -1,0 +1,22 @@
+{
+  "id": "4590292",
+  "name": "Thomas Fidone II",
+  "position": "TE",
+  "nfl_team": "New York Giants",
+  "college": "Nebraska",
+  "lastGame": {
+    "gameId": "401772757",
+    "date": "2025-10-19T20:05:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "AWAY",
+    "resultText": "L 32–33",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3728262",
+  "name": "Ray-Ray McCloud III",
+  "position": "WR",
+  "nfl_team": "New York Giants",
+  "college": "Clemson",
+  "lastGame": {
+    "gameId": "401772838",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "CAR",
+    "homeAway": "AWAY",
+    "resultText": "L 0–30",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 20,
+      "td": 0
+    },
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

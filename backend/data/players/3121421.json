@@ -1,0 +1,22 @@
+{
+  "id": "3121421",
+  "name": "Marshon Lattimore",
+  "position": "CB",
+  "nfl_team": "Washington Commanders",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772864",
+    "date": "2025-10-19T20:25:00.000Z",
+    "opponent": "DAL",
+    "homeAway": "AWAY",
+    "resultText": "L 22–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3121023",
+  "name": "Dallas Goedert",
+  "position": "TE",
+  "nfl_team": "Philadelphia Eagles",
+  "college": "South Dakota State",
+  "lastGame": {
+    "gameId": "401772928",
+    "date": "2025-11-17T01:20:00.000Z",
+    "opponent": "DET",
+    "homeAway": "HOME",
+    "resultText": "W 16–9",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 2,
+      "yards": 24,
+      "td": 0
+    },
+    "defense": null
+  }
+}

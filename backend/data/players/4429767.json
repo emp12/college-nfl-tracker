@@ -1,0 +1,22 @@
+{
+  "id": "4429767",
+  "name": "Emmanuel Forbes Jr.",
+  "position": "CB",
+  "nfl_team": "Los Angeles Rams",
+  "college": "Mississippi State",
+  "lastGame": {
+    "gameId": "401772901",
+    "date": "2025-12-07T21:25:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "AWAY",
+    "resultText": "W 45–17",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

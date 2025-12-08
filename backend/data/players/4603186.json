@@ -1,0 +1,22 @@
+{
+  "id": "4603186",
+  "name": "Jack Bech",
+  "position": "WR",
+  "nfl_team": "Las Vegas Raiders",
+  "college": "TCU",
+  "lastGame": {
+    "gameId": "401772794",
+    "date": "2025-12-07T21:05:00.000Z",
+    "opponent": "DEN",
+    "homeAway": "HOME",
+    "resultText": "L 17–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 6,
+      "yards": 50,
+      "td": 0
+    },
+    "defense": null
+  }
+}

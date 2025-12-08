@@ -1,0 +1,22 @@
+{
+  "id": "4430871",
+  "name": "Sean Tucker",
+  "position": "RB",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Syracuse",
+  "lastGame": {
+    "gameId": "401772792",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "NO",
+    "homeAway": "HOME",
+    "resultText": "L 20–24",
+    "passing": null,
+    "rushing": {
+      "carries": 7,
+      "yards": 29,
+      "td": 1
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

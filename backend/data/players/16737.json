@@ -1,0 +1,22 @@
+{
+  "id": "16737",
+  "name": "Mike Evans",
+  "position": "WR",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Texas A&M",
+  "lastGame": {
+    "gameId": "401772816",
+    "date": "2025-10-20T23:00:00.000Z",
+    "opponent": "DET",
+    "homeAway": "AWAY",
+    "resultText": "L 9–24",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

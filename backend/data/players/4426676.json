@@ -1,0 +1,22 @@
+{
+  "id": "4426676",
+  "name": "Jowon Briggs",
+  "position": "DT",
+  "nfl_team": "New York Jets",
+  "college": "Cincinnati",
+  "lastGame": {
+    "gameId": "401772790",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIA",
+    "homeAway": "HOME",
+    "resultText": "L 10–34",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 5,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

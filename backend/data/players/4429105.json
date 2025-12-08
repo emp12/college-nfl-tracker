@@ -1,0 +1,22 @@
+{
+  "id": "4429105",
+  "name": "Arian Smith",
+  "position": "WR",
+  "nfl_team": "New York Jets",
+  "college": "Georgia",
+  "lastGame": {
+    "gameId": "401772782",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "BAL",
+    "homeAway": "AWAY",
+    "resultText": "L 10–23",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 8,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

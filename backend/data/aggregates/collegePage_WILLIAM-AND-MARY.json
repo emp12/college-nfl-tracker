@@ -1,0 +1,29 @@
+{
+  "college": "William & Mary",
+  "slug": "william-and-mary",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4367775",
+      "name": "Colby Sorsdal",
+      "position": "OT",
+      "nfl_team": "Detroit Lions",
+      "lastGame": null
+    },
+    {
+      "id": "2566045",
+      "name": "Luke Rhodes",
+      "position": "LS",
+      "nfl_team": "Indianapolis Colts",
+      "lastGame": null
+    },
+    {
+      "id": "4694505",
+      "name": "Charles Grant",
+      "position": "OT",
+      "nfl_team": "Las Vegas Raiders",
+      "lastGame": null
+    }
+  ]
+}

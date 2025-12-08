@@ -1,0 +1,22 @@
+{
+  "id": "4428209",
+  "name": "Ricky Pearsall",
+  "position": "WR",
+  "nfl_team": "San Francisco 49ers",
+  "college": "Florida",
+  "lastGame": {
+    "gameId": "401772885",
+    "date": "2025-11-16T21:05:00.000Z",
+    "opponent": "ARI",
+    "homeAway": "AWAY",
+    "resultText": "W 41–22",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 1,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

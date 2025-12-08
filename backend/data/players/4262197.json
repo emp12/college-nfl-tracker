@@ -1,0 +1,22 @@
+{
+  "id": "4262197",
+  "name": "Ta'Quon Graham",
+  "position": "DT",
+  "nfl_team": "Atlanta Falcons",
+  "college": "Texas",
+  "lastGame": {
+    "gameId": "401772924",
+    "date": "2025-10-20T00:20:00.000Z",
+    "opponent": "SF",
+    "homeAway": "AWAY",
+    "resultText": "L 10–20",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 4,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4430478",
+  "name": "Elijah Simmons",
+  "position": "DT",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Tennessee",
+  "lastGame": {
+    "gameId": "401772772",
+    "date": "2025-11-09T18:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "HOME",
+    "resultText": "L 23–28",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

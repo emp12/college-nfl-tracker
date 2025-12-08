@@ -1,0 +1,15 @@
+{
+  "college": "UL Monroe",
+  "slug": "ul-monroe",
+  "conference": "FCS / Other",
+  "group": "FCS / Other",
+  "players": [
+    {
+      "id": "4917486",
+      "name": "Car'lin Vigers",
+      "position": "CB",
+      "nfl_team": "Washington Commanders",
+      "lastGame": null
+    }
+  ]
+}

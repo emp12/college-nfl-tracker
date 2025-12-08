@@ -1,0 +1,22 @@
+{
+  "id": "4365319",
+  "name": "Josh Newton",
+  "position": "CB",
+  "nfl_team": "Cincinnati Bengals",
+  "college": "TCU",
+  "lastGame": {
+    "gameId": "401772781",
+    "date": "2025-11-23T18:00:00.000Z",
+    "opponent": "NE",
+    "homeAway": "HOME",
+    "resultText": "L 20–26",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3125248",
+  "name": "Jeremy Reaves",
+  "position": "S",
+  "nfl_team": "Washington Commanders",
+  "college": "South Alabama",
+  "lastGame": {
+    "gameId": "401772899",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "MIN",
+    "homeAway": "AWAY",
+    "resultText": "L 0–31",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

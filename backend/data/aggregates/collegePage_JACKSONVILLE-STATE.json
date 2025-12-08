@@ -1,0 +1,36 @@
+{
+  "college": "Jacksonville State",
+  "slug": "jacksonville-state",
+  "conference": "C-USA",
+  "group": "C-USA",
+  "players": [
+    {
+      "id": "3057524",
+      "name": "Siran Neal",
+      "position": "CB",
+      "nfl_team": "San Francisco 49ers",
+      "lastGame": {
+        "gameId": "401772879",
+        "date": "2025-11-09T21:25:00.000Z",
+        "opponent": "LAR",
+        "homeAway": "HOME",
+        "resultText": "L 26–42",
+        "passing": null,
+        "rushing": null,
+        "receiving": null,
+        "defense": {
+          "tackles": 1,
+          "sacks": 0,
+          "interceptions": 0
+        }
+      }
+    },
+    {
+      "id": "4426336",
+      "name": "Clay Webb",
+      "position": "G",
+      "nfl_team": "Tennessee Titans",
+      "lastGame": null
+    }
+  ]
+}

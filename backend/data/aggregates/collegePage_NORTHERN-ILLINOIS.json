@@ -1,0 +1,43 @@
+{
+  "college": "Northern Illinois",
+  "slug": "northern-illinois",
+  "conference": "MAC",
+  "group": "MAC",
+  "players": [
+    {
+      "id": "4429576",
+      "name": "James Ester",
+      "position": "DT",
+      "nfl_team": "Green Bay Packers",
+      "lastGame": null
+    },
+    {
+      "id": "16717",
+      "name": "Jimmie Ward",
+      "position": "S",
+      "nfl_team": "Houston Texans",
+      "lastGame": null
+    },
+    {
+      "id": "4695781",
+      "name": "Nate Valcarcel",
+      "position": "S",
+      "nfl_team": "Los Angeles Rams",
+      "lastGame": null
+    },
+    {
+      "id": "4875767",
+      "name": "Brock Lampe",
+      "position": "FB",
+      "nfl_team": "New England Patriots",
+      "lastGame": null
+    },
+    {
+      "id": "3126035",
+      "name": "Max Scharping",
+      "position": "G",
+      "nfl_team": "Pittsburgh Steelers",
+      "lastGame": null
+    }
+  ]
+}

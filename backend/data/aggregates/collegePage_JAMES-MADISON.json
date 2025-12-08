@@ -1,0 +1,29 @@
+{
+  "college": "James Madison",
+  "slug": "james-madison",
+  "conference": "Sun Belt",
+  "group": "Sun Belt",
+  "players": [
+    {
+      "id": "4372463",
+      "name": "Jamree Kromah",
+      "position": "DE",
+      "nfl_team": "Chicago Bears",
+      "lastGame": null
+    },
+    {
+      "id": "3049339",
+      "name": "Aaron Stinnie",
+      "position": "G",
+      "nfl_team": "New York Giants",
+      "lastGame": null
+    },
+    {
+      "id": "4249599",
+      "name": "Liam Fornadel",
+      "position": "G",
+      "nfl_team": "New York Jets",
+      "lastGame": null
+    }
+  ]
+}

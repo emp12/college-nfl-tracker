@@ -1,0 +1,22 @@
+{
+  "id": "4432734",
+  "name": "Jalen Milroe",
+  "position": "QB",
+  "nfl_team": "Seattle Seahawks",
+  "college": "Alabama",
+  "lastGame": {
+    "gameId": "401772746",
+    "date": "2025-10-05T20:05:00.000Z",
+    "opponent": "TB",
+    "homeAway": "HOME",
+    "resultText": "L 35–38",
+    "passing": null,
+    "rushing": {
+      "carries": 1,
+      "yards": 0,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}

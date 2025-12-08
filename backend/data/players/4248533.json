@@ -1,0 +1,22 @@
+{
+  "id": "4248533",
+  "name": "Josh Hayes",
+  "position": "CB",
+  "nfl_team": "Tampa Bay Buccaneers",
+  "college": "Kansas State",
+  "lastGame": {
+    "gameId": "401772776",
+    "date": "2025-11-16T18:00:00.000Z",
+    "opponent": "BUF",
+    "homeAway": "AWAY",
+    "resultText": "L 32–44",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 2,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

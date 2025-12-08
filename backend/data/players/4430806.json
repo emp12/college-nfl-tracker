@@ -1,0 +1,22 @@
+{
+  "id": "4430806",
+  "name": "Luke Wypler",
+  "position": "C",
+  "nfl_team": "Cleveland Browns",
+  "college": "Ohio State",
+  "lastGame": {
+    "gameId": "401772842",
+    "date": "2025-09-21T17:00:00.000Z",
+    "opponent": "GB",
+    "homeAway": "HOME",
+    "resultText": "W 13–10",
+    "passing": null,
+    "rushing": null,
+    "receiving": {
+      "receptions": 0,
+      "yards": 0,
+      "td": 0
+    },
+    "defense": null
+  }
+}

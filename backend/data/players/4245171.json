@@ -1,0 +1,22 @@
+{
+  "id": "4245171",
+  "name": "Abraham Lucas",
+  "position": "OT",
+  "nfl_team": "Seattle Seahawks",
+  "college": "Washington State",
+  "lastGame": {
+    "gameId": "401772884",
+    "date": "2025-11-16T21:05:00.000Z",
+    "opponent": "LAR",
+    "homeAway": "AWAY",
+    "resultText": "L 19–21",
+    "passing": null,
+    "rushing": null,
+    "receiving": null,
+    "defense": {
+      "tackles": 1,
+      "sacks": 0,
+      "interceptions": 0
+    }
+  }
+}

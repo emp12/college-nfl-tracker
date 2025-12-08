@@ -1,0 +1,28 @@
+{
+  "id": "3059989",
+  "name": "Nick Mullens",
+  "position": "QB",
+  "nfl_team": "Jacksonville Jaguars",
+  "college": "Southern Miss",
+  "lastGame": {
+    "gameId": "401772793",
+    "date": "2025-12-07T18:00:00.000Z",
+    "opponent": "IND",
+    "homeAway": "HOME",
+    "resultText": "W 36–19",
+    "passing": {
+      "completions": 1,
+      "attempts": 1,
+      "yards": 3,
+      "td": 0,
+      "int": 0
+    },
+    "rushing": {
+      "carries": 3,
+      "yards": -1,
+      "td": 0
+    },
+    "receiving": null,
+    "defense": null
+  }
+}
