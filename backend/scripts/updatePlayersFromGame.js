@@ -10,6 +10,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const { mapPositionToGroup } = require("../utils/positionGroups");
 
 // Paths
 const DATA_DIR = path.join(__dirname, "..", "data");
@@ -45,7 +46,7 @@ async function fetchGameSummary(gameId) {
 
   const text = await res.text();
 
-  // TEMP: Log the full ESPN response so we see what is inside
+  // TEMP: Log part of the ESPN response so we see what is inside
   console.log("RAW ESPN RESPONSE FOR", gameId, ":\n", text.slice(0, 1000));
 
   try {
@@ -285,10 +286,14 @@ async function updatePlayersFromGame(gameId) {
       }
     }
 
+    const position = playerMeta.position || existing.position;
+    const positionGroup = mapPositionToGroup(position);
+
     const updated = {
       id: athleteId,
       name: playerMeta.name || existing.name,
-      position: playerMeta.position || existing.position,
+      position,
+      positionGroup,
       nfl_team: playerMeta.nfl_team || existing.nfl_team,
       college: playerMeta.college || existing.college,
       lastGame,

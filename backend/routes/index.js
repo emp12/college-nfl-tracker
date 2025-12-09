@@ -1,10 +1,8 @@
 const express = require("express");
 const router = express.Router();
 
-const homeRouter = require("./home");
-const collegeRouter = require("./college");
-
-router.use("/home", homeRouter);     // → /api/home
-router.use("/college", collegeRouter);
+router.use("/home", require("./home"));
+router.use("/college", require("./college"));
+router.use("/positions", require("./positions"));
 
 module.exports = router;
