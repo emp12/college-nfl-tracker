@@ -8,7 +8,7 @@
  *  2) Builds:
  *      - conferenceGroups: colleges grouped by conference (group)
  *      - topSchoolsThisWeek: simple "score" per college for this week
- *      - positionLeaders: schools with the most NFL players at each position
+ *      - positionLeaders: schools with the most NFL players at each position group
  *  3) Writes data/homeSummary.json
  */
 
@@ -72,8 +72,7 @@ function buildConferenceGroups(collegePages) {
 
   for (const college of collegePages) {
     const collegeName = college.college || college.slug;
-    const groupKey =
-      college.group || college.conference || "FCS / Other";
+    const groupKey = college.group || college.conference || "FCS / Other";
     const numPlayers = (college.players || []).length;
 
     if (!groups[groupKey]) {
@@ -177,25 +176,71 @@ function buildTopSchools(collegePages, maxCount = 10) {
   return rows.slice(0, maxCount);
 }
 
+// ------------------------------------------------------------
+// Position grouping and leaders
+// ------------------------------------------------------------
+
 /**
- * Build position leaders – unchanged.
+ * Map raw ESPN / roster positions into broader groups for the homepage.
+ *
+ * You can tweak these lists as needed.
+ */
+const POSITION_GROUPS = {
+  QB: ["QB"],
+  RB: ["RB", "HB", "FB"],
+  WR: ["WR"],
+  TE: ["TE"],
+  OL: ["C", "G", "OG", "OT", "T", "LT", "RT", "OL"],
+  DL: ["DE", "DT", "DL", "NT", "EDGE"],
+  LB: ["LB", "ILB", "OLB", "MLB"],
+  DB: ["DB", "CB", "S", "FS", "SS", "NB", "SAF"],
+  ST: ["K", "P", "PK", "LS"],
+};
+
+/**
+ * Given a raw position string (e.g., "CB", "FS"), return a group like "DB".
+ * Falls back to "Other" if no group matches.
+ */
+function mapPositionToGroup(posRaw) {
+  if (!posRaw) return null;
+  const pos = String(posRaw).toUpperCase().trim();
+
+  for (const [group, codes] of Object.entries(POSITION_GROUPS)) {
+    if (codes.includes(pos)) {
+      return group;
+    }
+  }
+
+  return "Other";
+}
+
+/**
+ * Build position leaders based on position *groups*.
+ *
+ * Result shape:
+ * {
+ *   "QB": [{ college, slug, count }, ...],
+ *   "RB": [...],
+ *   "DB": [...],
+ *   ...
+ * }
  */
 function buildPositionLeaders(collegePages) {
-  const byPosition = {};
+  const byPositionGroup = {};
 
   for (const college of collegePages) {
     const collegeName = college.college || college.slug;
     const players = college.players || [];
 
     for (const player of players) {
-      const pos = player.position;
-      if (!pos) continue;
+      const group = mapPositionToGroup(player.position);
+      if (!group) continue;
 
-      if (!byPosition[pos]) {
-        byPosition[pos] = new Map();
+      if (!byPositionGroup[group]) {
+        byPositionGroup[group] = new Map();
       }
 
-      const map = byPosition[pos];
+      const map = byPositionGroup[group];
 
       const existing = map.get(college.slug) || {
         college: collegeName,
@@ -210,11 +255,9 @@ function buildPositionLeaders(collegePages) {
 
   const result = {};
 
-  for (const [position, map] of Object.entries(byPosition)) {
-    const arr = Array.from(map.values()).sort(
-      (a, b) => b.count - a.count
-    );
-    result[position] = arr;
+  for (const [group, map] of Object.entries(byPositionGroup)) {
+    const arr = Array.from(map.values()).sort((a, b) => b.count - a.count);
+    result[group] = arr;
   }
 
   return result;
