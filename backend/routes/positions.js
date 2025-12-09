@@ -3,6 +3,7 @@
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
+const { mapPositionToGroup } = require("../utils/positionGroups");
 
 const router = express.Router();
 
@@ -18,7 +19,7 @@ const router = express.Router();
  *     {
  *       college: "Alabama",
  *       slug: "ala",
- *       players: [ { id, name, position, nfl_team, positionGroup, lastGame, ... }, ... ]
+ *       players: [ { id, name, position, nfl_team, lastGame, ... }, ... ]
  *     },
  *     ...
  *   ]
@@ -34,7 +35,9 @@ router.get("/:group", (req, res) => {
   try {
     const files = fs
       .readdirSync(aggregatesDir)
-      .filter((f) => f.startsWith("collegePage_") && f.endsWith(".json"));
+      .filter(
+        (f) => f.startsWith("collegePage_") && f.endsWith(".json")
+      );
 
     for (const file of files) {
       const fullPath = path.join(aggregatesDir, file);
@@ -44,9 +47,11 @@ router.get("/:group", (req, res) => {
       const collegeName = data.college || data.slug;
       const slug = data.slug;
 
-      const players = (data.players || []).filter(
-        (p) => String(p.positionGroup || "").toUpperCase() === group
-      );
+      // Filter players where their *group* (derived from position) matches
+      const players = (data.players || []).filter((p) => {
+        const grp = mapPositionToGroup(p.position);
+        return grp === group;
+      });
 
       if (players.length > 0) {
         colleges.push({
@@ -57,6 +62,7 @@ router.get("/:group", (req, res) => {
       }
     }
 
+    // Sort colleges alphabetically
     colleges.sort((a, b) => a.college.localeCompare(b.college));
 
     return res.json({
